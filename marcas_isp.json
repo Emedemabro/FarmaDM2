@@ -1,0 +1,960 @@
+[
+  {
+    "registro": "F-20476/23",
+    "nombre": "ANDIBET COMPRIMIDOS RECUBIERTOS 500 mg",
+    "empresa": "CHEMOPHARMA S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "No determinada (no asumir liberación inmediata)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-12065/22",
+    "nombre": "ANDIBET COMPRIMIDOS RECUBIERTOS 850 mg",
+    "empresa": "CHEMOPHARMA S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "No determinada (no asumir liberación inmediata)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-26904/22",
+    "nombre": "AVANMET XR COMPRIMIDOS DE LIBERACIÓN PROLONGADA 500 mg",
+    "empresa": "MDC HEALTH S.p.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-27013/22",
+    "nombre": "AVANMET XR COMPRIMIDOS DE LIBERACION PROLONGADA 750 mg",
+    "empresa": "MDC HEALTH S.p.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-27682/23",
+    "nombre": "DIAMETINA XR COMPRIMIDOS DE LIBERACIÓN PROLONGADA 1000 mg",
+    "empresa": "LABORATORIOS SAVAL S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-27622/23",
+    "nombre": "DIAMETINA XR COMPRIMIDOS DE LIBERACIÓN PROLONGADA 500 mg",
+    "empresa": "LABORATORIOS SAVAL S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-27623/23",
+    "nombre": "DIAMETINA XR COMPRIMIDOS DE LIBERACIÓN PROLONGADA 750 mg",
+    "empresa": "LABORATORIOS SAVAL S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-10050/21",
+    "nombre": "GLAFORNIL 1000 COMPRIMIDOS RECUBIERTOS 1000 mg (METFORMINA CLORHIDRATO)",
+    "empresa": "MERCK S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "No determinada (no asumir liberación inmediata)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-122/22",
+    "nombre": "GLAFORNIL 500 COMPRIMIDOS RECUBIERTOS 500 mg (METFORMINA CLORHIDRATO)",
+    "empresa": "MERCK S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "No determinada (no asumir liberación inmediata)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-10495/26",
+    "nombre": "GLAFORNIL 850 COMPRIMIDOS RECUBIERTOS 850 mg (METFORMINA CLORHIDRATO)",
+    "empresa": "MERCK S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "No determinada (no asumir liberación inmediata)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-21095/24",
+    "nombre": "GLAFORNIL XR 1000 COMPRIMIDOS DE LIBERACIÓN PROLONGADA 1000 mg (METFORMINA)",
+    "empresa": "MERCK S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Liberación prolongada: confirmada por folleto ISP aportado (familia Glafornil XR)",
+    "estado_verificacion": "Formulación XR documentada; condiciones de almacenamiento específicas y vigencia del registro aún pendientes",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada",
+    "documento_respaldo": "Folleto al profesional Glafornil XR 1000, REF MT1903412/22, 09-12-2022 (incluye referencias a XR 500/750/850)",
+    "advertencia_registro": "El folleto indica F-21095/19 para XR 1000, distinto del registro F-21095/24 del catálogo. Pendiente conciliación."
+  },
+  {
+    "registro": "F-20048/23",
+    "nombre": "GLAFORNIL XR 500 COMPRIMIDOS DE LIBERACIÓN PROLONGADA 500 mg (METFORMINA CLORHIDRATO)",
+    "empresa": "MERCK S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Liberación prolongada: confirmada por folleto ISP aportado (familia Glafornil XR)",
+    "estado_verificacion": "Formulación XR documentada; condiciones de almacenamiento específicas y vigencia del registro aún pendientes",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada",
+    "documento_respaldo": "Folleto al profesional Glafornil XR 1000, REF MT1903412/22, 09-12-2022 (incluye referencias a XR 500/750/850)",
+    "advertencia_registro": "El folleto indica F-21095/19 para XR 1000, distinto del registro F-21095/24 del catálogo. Pendiente conciliación."
+  },
+  {
+    "registro": "F-21094/24",
+    "nombre": "GLAFORNIL XR 750 COMPRIMIDOS DE LIBERACIÓN PROLONGADA 750 mg",
+    "empresa": "MERCK S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Liberación prolongada: confirmada por folleto ISP aportado (familia Glafornil XR)",
+    "estado_verificacion": "Formulación XR documentada; condiciones de almacenamiento específicas y vigencia del registro aún pendientes",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada",
+    "documento_respaldo": "Folleto al profesional Glafornil XR 1000, REF MT1903412/22, 09-12-2022 (incluye referencias a XR 500/750/850)",
+    "advertencia_registro": "El folleto indica F-21095/19 para XR 1000, distinto del registro F-21095/24 del catálogo. Pendiente conciliación."
+  },
+  {
+    "registro": "F-26531/21",
+    "nombre": "GLAFORNIL XR 850 COMPRIMIDOS DE LIBERACIÓN PROLONGADA 850 mg (METFORMINA CLORHIDRATO)",
+    "empresa": "MERCK S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Liberación prolongada: confirmada por folleto ISP aportado (familia Glafornil XR)",
+    "estado_verificacion": "Formulación XR documentada; condiciones de almacenamiento específicas y vigencia del registro aún pendientes",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada",
+    "documento_respaldo": "Folleto al profesional Glafornil XR 1000, REF MT1903412/22, 09-12-2022 (incluye referencias a XR 500/750/850)",
+    "advertencia_registro": "El folleto indica F-21095/19 para XR 1000, distinto del registro F-21095/24 del catálogo. Pendiente conciliación."
+  },
+  {
+    "registro": "F-22956/26",
+    "nombre": "GLAUPAX 1000 XR COMPRIMIDOS DE LIBERACIÓN PROLONGADA 1000 mg (METFORMINA CLORHIDRATO)",
+    "empresa": "LABORATORIO PASTEUR S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-16926/23",
+    "nombre": "GLAUPAX 500 COMPRIMIDOS RECUBIERTOS 500 mg",
+    "empresa": "LABORATORIO PASTEUR S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "No determinada (no asumir liberación inmediata)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-22954/26",
+    "nombre": "GLAUPAX 500 XR COMPRIMIDOS DE LIBERACIÓN PROLONGADA 500 mg (METFORMINA CLORHIDRATO)",
+    "empresa": "LABORATORIO PASTEUR S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-22955/26",
+    "nombre": "GLAUPAX 750 XR COMPRIMIDOS RECUBIERTOS DE LIBERACIÓN PROLONGADA 750 mg (METFORMINA CLORHIDRATO)",
+    "empresa": "LABORATORIO PASTEUR S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-16925/23",
+    "nombre": "GLAUPAX 850 COMPRIMIDOS RECUBIERTOS 850 mg",
+    "empresa": "LABORATORIO PASTEUR S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "No determinada (no asumir liberación inmediata)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-27284/23",
+    "nombre": "GLAUPAX COMPRIMIDOS RECUBIERTOS 500 mg",
+    "empresa": "LABORATORIO PASTEUR S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "No determinada (no asumir liberación inmediata)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-27008/22",
+    "nombre": "GLAUPAX COMPRIMIDOS RECUBIERTOS 850 mg",
+    "empresa": "LABORATORIO PASTEUR S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "No determinada (no asumir liberación inmediata)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-15406/26",
+    "nombre": "GLICENEX COMPRIMIDOS RECUBIERTOS 500 mg",
+    "empresa": "LABORATORIO BAGÓ DE CHILE S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "No determinada (no asumir liberación inmediata)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-14047/24",
+    "nombre": "GLICENEX COMPRIMIDOS RECUBIERTOS 850 mg",
+    "empresa": "LABORATORIO BAGÓ DE CHILE S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "No determinada (no asumir liberación inmediata)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-23947/23",
+    "nombre": "GLICENEX SR COMPRIMIDOS DE LIBERACIÓN PROLONGADA 1000 mg (METFORMINA CLORHIDRATO)",
+    "empresa": "LABORATORIO BAGÓ DE CHILE S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-17102/23",
+    "nombre": "GLICENEX SR COMPRIMIDOS DE LIBERACIÓN PROLONGADA 500 mg",
+    "empresa": "LABORATORIO BAGÓ DE CHILE S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-17224/23",
+    "nombre": "GLICENEX SR COMPRIMIDOS DE LIBERACIÓN PROLONGADA 750 mg (METFORMINA)",
+    "empresa": "LABORATORIO BAGÓ DE CHILE S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-25167/24",
+    "nombre": "GLICOSOL 1000 XR COMPRIMIDOS DE LIBERACION PROLONGADA 1.000 mg (METFORMINA CLORHIDRATO)",
+    "empresa": "OPKO CHILE S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-25165/24",
+    "nombre": "GLICOSOL 500 XR COMPRIMIDOS DE LIBERACION PROLONGADA 500 mg (METFORMINA CLORHIDRATO)",
+    "empresa": "OPKO CHILE S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-25166/24",
+    "nombre": "GLICOSOL 750 XR COMPRIMIDOS DE LIBERACION PROLONGADA 750 mg (METFORMINA CLORHIDRATO)",
+    "empresa": "OPKO CHILE S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-21588/24",
+    "nombre": "GLICOSOL COMPRIMIDOS RECUBIERTOS 850 mg",
+    "empresa": "OPKO CHILE S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "No determinada (no asumir liberación inmediata)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-23951/23",
+    "nombre": "GLICOSOL COMPRIMIDOS RECUBIERTOS 850 mg (METFORMINA CLORHIDRATO)",
+    "empresa": "OPKO CHILE S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "No determinada (no asumir liberación inmediata)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-25909/26",
+    "nombre": "GLICOSOL COMPRIMIDOS RECUBIERTOS 850 mg (METFORMINA CLORHIDRATO)",
+    "empresa": "OPKO CHILE S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "No determinada (no asumir liberación inmediata)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-7151/25",
+    "nombre": "GLIFORTEX COMPRIMIDOS RECUBIERTOS 850 mg",
+    "empresa": "LABORATORIOS ANDRÓMACO S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "No determinada (no asumir liberación inmediata)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-24097/23",
+    "nombre": "GLIFORTEX XR 1000 COMPRIMIDOS RECUBIERTOS DE LIBERACIÓN PROLONGADA 1000 mg (METFORMINA CLORHIDRATO)",
+    "empresa": "LABORATORIOS ANDRÓMACO S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-16216/22",
+    "nombre": "GLIFORTEX XR 500 COMPRIMIDOS RECUBIERTOS DE LIBERACIÓN PROLONGADA 500 mg",
+    "empresa": "LABORATORIOS ANDRÓMACO S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-20012/23",
+    "nombre": "GLIFORTEX XR COMPRIMIDOS RECUBIERTOS DE LIBERACION PROLONGADA 750 mg (METFORMINA CLORHIDRATO GRÁNULOS CD 95% / METFORMINA CLORHIDRATO 95,0%)",
+    "empresa": "LABORATORIOS ANDRÓMACO S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-23018/26",
+    "nombre": "GLIMEFOR COMPRIMIDOS RECUBIERTOS 1000 mg (METFORMINA CLORHIDRATO)",
+    "empresa": "ASCEND LABORATORIES S.p.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "No determinada (no asumir liberación inmediata)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-23097/21",
+    "nombre": "GLIMEFOR COMPRIMIDOS RECUBIERTOS 850 mg",
+    "empresa": "ASCEND LABORATORIES S.p.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "No determinada (no asumir liberación inmediata)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-25084/24",
+    "nombre": "GLIMEFOR XR 1000 mg COMPRIMIDOS DE LIBERACIÓN PROLONGADA",
+    "empresa": "ASCEND LABORATORIES S.p.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-23720/23",
+    "nombre": "GLIMEFOR XR 500 mg",
+    "empresa": "ASCEND LABORATORIES S.p.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-25856/25",
+    "nombre": "GLIMEFOR XR COMPRIMIDOS DE LIBERACIÓN PROLONGADA 1000 mg ( METFORMINA CLORHIDRATO)",
+    "empresa": "ASCEND LABORATORIES S.p.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-23889/23",
+    "nombre": "GLIMEFOR XR COMPRIMIDOS DE LIBERACIÓN PROLONGADA 750 mg",
+    "empresa": "ASCEND LABORATORIES S.p.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-23968/23",
+    "nombre": "GLUCOPHAGE 500 COMPRIMIDOS RECUBIERTOS 500 mg (METFORMINA CLORHIDRATO)",
+    "empresa": "MERCK S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "No determinada (no asumir liberación inmediata)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-25052/24",
+    "nombre": "GLUCOSAN 1000 XR COMPRIMIDOS RECUBIERTOS DE LIBERACIÓN PROLONGADA 1 g (METFORMINA CLORHIDRATO)",
+    "empresa": "INSTITUTO SANITAS S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-25113/24",
+    "nombre": "GLUCOSAN 750 XR COMPRIMIDOS RECUBIERTOS DE LIBERACIÓN PROLONGADA 750 mg (METFORMINA CLORHIDRATO)",
+    "empresa": "INSTITUTO SANITAS S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-25871/25",
+    "nombre": "GLUCOSAN XR 500 COMPRIMIDOS RECUBIERTOS DE LIBERACIÓN PROLONGADA 500 mg (METFORMINA CLORHIDRATO)",
+    "empresa": "INSTITUTO SANITAS S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-18406/25",
+    "nombre": "HIPOGLUCIN 1000 LP COMPRIMIDOS DE LIBERACIÓN PROLONGADA 1000 mg (METFORMINA CLORHIDRATO)",
+    "empresa": "LABORATORIO CHILE S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-18851/26",
+    "nombre": "HIPOGLUCIN 500 LP COMPRIMIDOS DE LIBERACIÓN PROLONGADA 500 mg",
+    "empresa": "LABORATORIO CHILE S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-18226/25",
+    "nombre": "HIPOGLUCIN 750 LP COMPRIMIDOS DE LIBERACIÓN PROLONGADA 750 mg",
+    "empresa": "LABORATORIO CHILE S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-13583/24",
+    "nombre": "HIPOGLUCIN COMPRIMIDOS RECUBIERTOS 1 g (METFORMINA CLORHIDRATO)",
+    "empresa": "LABORATORIO CHILE S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "No determinada (no asumir liberación inmediata)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-8438/21",
+    "nombre": "HIPOGLUCIN COMPRIMIDOS RECUBIERTOS 850 mg",
+    "empresa": "LABORATORIO CHILE S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "No determinada (no asumir liberación inmediata)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-23334/22",
+    "nombre": "METFORMINA CLORHIDRATO COMPRIMIDOS DE LIBERACIÓN PROLONGADA 750 mg",
+    "empresa": "ASCEND LABORATORIES S.p.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-14634/25",
+    "nombre": "METFORMINA CLORHIDRATO COMPRIMIDOS 850 mg",
+    "empresa": "LABORATORIO CHILE S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "No determinada (no asumir liberación inmediata)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-18634/26",
+    "nombre": "METFORMINA CLORHIDRATO COMPRIMIDOS 850 mg",
+    "empresa": "MINTLAB Co. S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "No determinada (no asumir liberación inmediata)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-25845/25",
+    "nombre": "METFORMINA CLORHIDRATO COMPRIMIDOS DE LIBERACIÓN PROLONGADA 1000 mg",
+    "empresa": "ASCEND LABORATORIES S.p.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-28186/24",
+    "nombre": "METFORMINA CLORHIDRATO COMPRIMIDOS DE LIBERACIÓN PROLONGADA 1000 mg",
+    "empresa": "MINTLAB Co. S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-28497/24",
+    "nombre": "METFORMINA CLORHIDRATO COMPRIMIDOS DE LIBERACIÓN PROLONGADA 1000 mg",
+    "empresa": "NEOETHICALS CHILE S.p.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-27610/23",
+    "nombre": "METFORMINA CLORHIDRATO COMPRIMIDOS DE LIBERACIÓN PROLONGADA 1000 mg",
+    "empresa": "SEVEN PHARMA CHILE S.p.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-26874/22",
+    "nombre": "METFORMINA CLORHIDRATO COMPRIMIDOS DE LIBERACIÓN PROLONGADA 1000 mg",
+    "empresa": "MDC HEALTH S.p.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-27965/23",
+    "nombre": "METFORMINA CLORHIDRATO COMPRIMIDOS DE LIBERACION PROLONGADA 500 mg",
+    "empresa": "MINTLAB Co. S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-28498/24",
+    "nombre": "METFORMINA CLORHIDRATO COMPRIMIDOS DE LIBERACIÓN PROLONGADA 500 mg",
+    "empresa": "NEOETHICALS CHILE S.p.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-27639/23",
+    "nombre": "METFORMINA CLORHIDRATO COMPRIMIDOS DE LIBERACIÓN PROLONGADA 500 mg",
+    "empresa": "SEVEN PHARMA CHILE S.p.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-23335/22",
+    "nombre": "METFORMINA CLORHIDRATO COMPRIMIDOS DE LIBERACIÓN PROLONGADA 500 mg",
+    "empresa": "ASCEND LABORATORIES S.p.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-27333/23",
+    "nombre": "METFORMINA CLORHIDRATO COMPRIMIDOS DE LIBERACIÓN PROLONGADA 750 mg",
+    "empresa": "MINTLAB Co. S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-26357/26",
+    "nombre": "METFORMINA CLORHIDRATO COMPRIMIDOS DE LIBERACIÓN PROLONGADA 750 mg",
+    "empresa": "PINNACLE CHILE S.p.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-28561/24",
+    "nombre": "METFORMINA CLORHIDRATO COMPRIMIDOS DE LIBERACIÓN PROLONGADA 750 mg",
+    "empresa": "NEOETHICALS CHILE S.p.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-27663/23",
+    "nombre": "METFORMINA CLORHIDRATO COMPRIMIDOS DE LIBERACIÓN PROLONGADA 750 mg",
+    "empresa": "SEVEN PHARMA CHILE S.p.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-25083/24",
+    "nombre": "METFORMINA CLORHIDRATO COMPRIMIDOS DE LIBERACIÓN PROLONGADA1000 mg",
+    "empresa": "ASCEND LABORATORIES S.p.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "No determinada (no asumir liberación inmediata)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-21637/25",
+    "nombre": "METFORMINA CLORHIDRATO COMPRIMIDOS RECUBIERTOS 1000 mg",
+    "empresa": "INSTITUTO SANITAS S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "No determinada (no asumir liberación inmediata)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-27674/23",
+    "nombre": "METFORMINA CLORHIDRATO COMPRIMIDOS RECUBIERTOS 1000 mg",
+    "empresa": "SIRON PHARMA S.p.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "No determinada (no asumir liberación inmediata)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-27672/23",
+    "nombre": "METFORMINA CLORHIDRATO COMPRIMIDOS RECUBIERTOS 500 mg",
+    "empresa": "SIRON PHARMA S.p.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "No determinada (no asumir liberación inmediata)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-21139/24",
+    "nombre": "METFORMINA CLORHIDRATO COMPRIMIDOS RECUBIERTOS 500 mg",
+    "empresa": "INSTITUTO SANITAS S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "No determinada (no asumir liberación inmediata)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-20110/23",
+    "nombre": "METFORMINA CLORHIDRATO COMPRIMIDOS RECUBIERTOS 850 mg",
+    "empresa": "ASCEND LABORATORIES S.p.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "No determinada (no asumir liberación inmediata)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-20937/24",
+    "nombre": "METFORMINA CLORHIDRATO COMPRIMIDOS RECUBIERTOS 850 mg",
+    "empresa": "ARAMA NATURAL PRODUCTS DISTRIBUIDORA LTDA.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "No determinada (no asumir liberación inmediata)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-15237/25",
+    "nombre": "METFORMINA CLORHIDRATO COMPRIMIDOS RECUBIERTOS 850 mg",
+    "empresa": "LABORATORIOS ANDRÓMACO S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "No determinada (no asumir liberación inmediata)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-12064/22",
+    "nombre": "METFORMINA CLORHIDRATO COMPRIMIDOS RECUBIERTOS 850 mg",
+    "empresa": "INSTITUTO SANITAS S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "No determinada (no asumir liberación inmediata)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-23672/22",
+    "nombre": "METFORMINA CLORHIDRATO COMPRIMIDOS RECUBIERTOS 850 mg",
+    "empresa": "DIFEM LABORATORIOS S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "No determinada (no asumir liberación inmediata)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-23952/23",
+    "nombre": "METFORMINA CLORHIDRATO COMPRIMIDOS RECUBIERTOS 850 mg",
+    "empresa": "OPKO CHILE S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "No determinada (no asumir liberación inmediata)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-27673/23",
+    "nombre": "METFORMINA CLORHIDRATO COMPRIMIDOS RECUBIERTOS 850 mg",
+    "empresa": "SIRON PHARMA S.p.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "No determinada (no asumir liberación inmediata)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-28242/24",
+    "nombre": "METFORMINA CLORHIDRATO COMPRIMIDOS RECUBIERTOS 850 mg",
+    "empresa": "PINNACLE CHILE S.p.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "No determinada (no asumir liberación inmediata)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "FX-410/23",
+    "nombre": "METFORMINA CLORHIDRATO XR COMPRIMIDOS DE LIBERACIÓN PROLONGADA 1000 mg",
+    "empresa": "LABORATORIOS SAVAL S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "FX-413/23",
+    "nombre": "METFORMINA CLORHIDRATO XR COMPRIMIDOS DE LIBERACIÓN PROLONGADA 500 mg",
+    "empresa": "LABORATORIOS SAVAL S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "FX-414/23",
+    "nombre": "METFORMINA CLORHIDRATO XR COMPRIMIDOS DE LIBERACIÓN PROLONGADA 750 mg",
+    "empresa": "LABORATORIOS SAVAL S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-27658/23",
+    "nombre": "METVOB XR COMPRIMIDOS DE LIBERACIÓN PROLONGADA 500 mg (METFORMINA CLORHIDRATO)",
+    "empresa": "SEVEN PHARMA CHILE S.p.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-27606/23",
+    "nombre": "METVOB XR COMPRIMIDOS DE LIBERACIÓN PROLONGADA 750 mg (METFORMINA CLORHIDRATO)",
+    "empresa": "SEVEN PHARMA CHILE S.p.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-27659/23",
+    "nombre": "METVOB XR COMPRIMIDOS RECUBIERTOS DE LIBERACIÓN PROLONGADA 1000 mg (MEFORMINA CLORHIDRATO)",
+    "empresa": "SEVEN PHARMA CHILE S.p.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-26359/26",
+    "nombre": "NORMOART XR COMPRIMIDOS DE LIBERACIÓN PROLONGADA 1000 mg (METFORMINA CLORHIDRATO)",
+    "empresa": "PINNACLE CHILE S.p.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-27627/23",
+    "nombre": "NORMOART XR Comprimidos de liberación prolongada 500 mg (Metformina clorhidrato)",
+    "empresa": "PINNACLE CHILE S.p.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-27628/23",
+    "nombre": "NORMOART XR COMPRIMIDOS DE LIBERACIÓN PROLONGADA 750 mg (METFORMINA CLORHIDRATO)",
+    "empresa": "PINNACLE CHILE S.p.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-28187/24",
+    "nombre": "TAVIST XR COMPRIMIDOS DE LIBERACIÓN PROLONGADA 1000 mg (METFORMINA CLORHIDRATO)",
+    "empresa": "MINTLAB Co. S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-27966/23",
+    "nombre": "TAVIST XR COMPRIMIDOS DE LIBERACIÓN PROLONGADA 500 mg (METFORMINA CLORHIDRATO)",
+    "empresa": "MINTLAB Co. S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-27332/23",
+    "nombre": "TAVIST XR COMPRIMIDOS DE LIBERACIÓN PROLONGADA 750 mg (METFORMINA CLORHIDRATO)",
+    "empresa": "MINTLAB Co. S.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-29488/26",
+    "nombre": "VALMET XR COMPRIMIDOS DE LIBERACIÓN PROLONGADA 1000 mg (METFORMINA CLORHIDRATO)",
+    "empresa": "LABORATORIO BIOVAL S.p.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-29652/26",
+    "nombre": "VALMET XR COMPRIMIDOS DE LIBERACIÓN PROLONGADA 500 mg",
+    "empresa": "LABORATORIO BIOVAL S.p.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  },
+  {
+    "registro": "F-29651/26",
+    "nombre": "VALMET XR COMPRIMIDOS DE LIBERACIÓN PROLONGADA 750 mg",
+    "empresa": "LABORATORIO BIOVAL S.p.A.",
+    "vigencia": "Por confirmar",
+    "formulacion_indicio": "Posible liberación prolongada (según nombre; verificar folleto)",
+    "estado_verificacion": "Identificación preliminar desde exportación ISP; vigencia y formulación no confirmadas",
+    "fuente": "Exportación de registros ISP aportada al proyecto",
+    "fecha_consulta_regulatoria": "No documentada"
+  }
+]

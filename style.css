@@ -1,0 +1,72 @@
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:#eaf2f1;color:#16383b;font:15px/1.55 system-ui,-apple-system,Segoe UI,sans-serif}.shell{max-width:1050px;min-height:100vh;margin:auto;background:#fff;box-shadow:0 15px 55px #123b3910}.top{padding:18px 28px;display:flex;align-items:center;justify-content:space-between;gap:12px;border-bottom:1px solid #e3edeb}.brand{display:flex;align-items:center;gap:11px}.brand b{font-size:22px}.brand small{display:block;color:#6b8482;font-size:11px}.mark{background:#126d70;color:white;border-radius:14px;padding:10px 14px;font-size:23px}.pill,.chip{border-radius:100px;padding:5px 10px;font-size:11px;font-weight:750;background:#e6f3ef;color:#126d70}.hero{padding:36px 30px;background:linear-gradient(120deg,#e7f8f1,#f4f9fb)}.overline{font-size:11px;letter-spacing:.13em;font-weight:800;color:#137b76}.hero h1{font-size:clamp(26px,4.8vw,42px);max-width:660px;line-height:1.15;margin:12px 0}.hero p{max-width:620px;color:#5b7775}.search{display:flex;gap:12px;align-items:center;max-width:680px;background:white;border:1px solid #bcdcd3;border-radius:13px;padding:10px 15px;margin-top:20px;box-shadow:0 8px 24px #126d7012}.search span{font-size:28px;color:#126d70}.search input{width:100%;border:0;outline:0;font:inherit;padding:6px 0}.notice{margin:18px 28px;background:#fff7e8;border-left:4px solid #d99b3a;padding:12px 15px;border-radius:8px;font-size:13px}.nav{padding:0 28px;display:flex;gap:7px;overflow-x:auto;border-bottom:1px solid #e7efed}.nav button,.filter{border:0;background:transparent;color:#607b78;padding:13px 12px;white-space:nowrap;cursor:pointer;font-weight:650}.nav button.active{color:#126d70;border-bottom:3px solid #126d70}#view{padding:25px 28px 45px;min-height:360px}.section-head{display:flex;justify-content:space-between;align-items:center;gap:12px;margin:0 0 15px}.section-head h2{font-size:23px;margin:0}.muted{color:#6c8582}.grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}.card,.feature,.detail{background:white;border:1px solid #dfeae7;border-radius:15px;padding:19px;box-shadow:0 4px 15px #123b3909}.card{width:100%;text-align:left;cursor:pointer;color:inherit;font:inherit}.card:hover,.feature:hover{border-color:#73b6a9;box-shadow:0 6px 20px #126d7018}.card h3{font-size:19px;margin:12px 0 5px}.card p{color:#627b78;font-size:13px}.link{font-weight:750;color:#126d70}.features{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin:0 0 27px}.feature{cursor:pointer;text-align:left;color:inherit;font:inherit}.feature .emoji{font-size:25px}.feature b{display:block;margin:8px 0 2px}.feature small{color:#68827e}.filters{display:flex;gap:7px;flex-wrap:wrap;margin-bottom:18px}.filter{background:#eef5f3;border-radius:40px;padding:7px 12px;font-size:12px}.filter.selected{background:#126d70;color:white}.detail{max-width:780px}.detail h2{margin:10px 0}.detail h3{font-size:15px;margin:22px 0 6px}.detail ul{padding-left:20px}.detail li{margin-bottom:8px}.back,.primary{background:#126d70;color:white;border:0;border-radius:10px;padding:10px 14px;cursor:pointer;font-weight:700}.back{background:#e6f3ef;color:#126d70}.info{background:#f1f7f5;border-radius:12px;padding:14px;margin:15px 0}.placeholder{border:1px dashed #a9c9c2;border-radius:13px;padding:20px;background:#f8fbfa}.mini{font-size:12px}.count{font-size:12px;color:#6c8582}footer{border-top:1px solid #e6efed;padding:20px 28px;color:#718885;font-size:12px}@media(max-width:760px){.grid{grid-template-columns:repeat(2,minmax(0,1fr))}.features{grid-template-columns:repeat(2,minmax(0,1fr))}.top{padding:15px}.hero{padding:28px 18px}.notice{margin:14px 18px}.nav{padding:0 12px}#view{padding:22px 18px}}@media(max-width:480px){.grid{grid-template-columns:1fr}.pill{font-size:9px}.brand b{font-size:18px}.brand small{font-size:10px}}
+.clinical-block{padding:15px 0;border-top:1px solid #e4efec}
+.clinical-block h3{margin:0 0 8px;color:#126d70}
+.clinical-block p{margin:7px 0}
+.clinical-block li{margin:6px 0}
+.clinical-block a{color:#126d70;overflow-wrap:anywhere}
+.alerts{display:grid;gap:10px}
+.alert-item{background:#f5f9f7;border:1px solid #dceae5;border-radius:12px;padding:12px}
+.alert-item b{display:block;margin:7px 0 2px}
+.alert-item p{margin:4px 0}
+
+.quick-guide{background:linear-gradient(125deg,#effaf6,#f5fafc);border:1px solid #cfe7dd;border-radius:16px;padding:18px;margin:16px 0}
+.quick-guide h3{margin:0 0 6px;color:#126d70}
+.quick-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;margin-top:12px}
+.quick-card{background:white;border:1px solid #dcebe7;border-radius:12px;padding:12px}
+.quick-card h4{margin:8px 0 5px;font-size:1rem}
+.quick-card p{margin:0;line-height:1.55}
+.check-steps{display:grid;gap:9px}
+.check-step{border-left:3px solid #1b8583;padding:8px 12px;background:#f7fbfa}
+.check-step p{margin:5px 0}
+@media(max-width:650px){.quick-grid{grid-template-columns:1fr}.quick-guide{padding:13px}}
+
+.detail-tabs,.mode-toggle{display:flex;gap:8px;flex-wrap:wrap;margin:18px 0}
+.detail-tabs button,.mode-toggle button{border:1px solid #cbdeda;background:#fff;color:#1d5659;border-radius:10px;padding:11px 15px;font:inherit;font-weight:650;cursor:pointer}
+.detail-tabs button.chosen,.mode-toggle button.chosen{background:#136e70;color:white;border-color:#136e70}
+.detail-tabs button:focus-visible,.mode-toggle button:focus-visible{outline:3px solid #f3bb54;outline-offset:2px}
+.mode-toggle{margin-top:10px}
+.mode-toggle button{font-size:.92rem;padding:9px 12px}
+.fast-summary{background:linear-gradient(125deg,#eaf8f2,#eff8fb);border:1px solid #c9e8db;border-radius:16px;padding:18px}
+.fast-quote{font-size:1.1rem;line-height:1.65;font-weight:550;margin:12px 0 2px}
+@media(max-width:600px){.detail-tabs button{flex:1}.fast-summary{padding:14px}}
+
+.brand-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:9px;margin:12px 0 20px}
+.brand-hit{display:flex;flex-direction:column;gap:5px;text-align:left;border:1px solid #d3e7df;border-radius:12px;background:#f6faf8;padding:12px;cursor:pointer;font:inherit;color:inherit}
+.brand-hit small{color:#53726c}.selected-brand{background:#edf9f4;border:1px solid #c9e8db;border-radius:12px;padding:14px;margin:14px 0}
+@media(max-width:650px){.brand-list{grid-template-columns:1fr}}
+
+.formulation-warning{background:#fff9ed;border:1px solid #e8d4a5;border-radius:12px;padding:13px 16px;margin:12px 0}
+.formulation-warning p{margin:7px 0 0;line-height:1.55}
+
+.learning-answers{display:grid;gap:9px;margin:14px 0}
+.learning-answers button{border:1px solid #b9d6d3;border-radius:10px;background:#f7fbfa;padding:12px;text-align:left;font:inherit;cursor:pointer;color:#183e3e}
+.learning-answers button:hover,.learning-answers button:focus-visible{background:#e8f4f1;border-color:#126d70}
+.learning-feedback{border-left:3px solid #126d70;background:#f1f8f6;padding:12px;border-radius:5px;line-height:1.5}
+
+.learning-question{border-top:1px solid #dbe8e6;padding:16px 0}
+.learning-question h4{margin:0 0 8px}
+.learning-answers button[aria-pressed="true"]{background:#d8eee8;border-color:#126d70;font-weight:600}
+
+.learning-intro{padding:12px 0 5px}
+.learning-intro h3{margin:10px 0 5px}
+.learning-second{border-top:3px solid #126d70;margin-top:24px;padding-top:24px}
+
+.learning-comparison{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:12px;margin:14px 0}
+.learning-comparison>div{border:1px solid #c9e0dc;background:#f5faf9;border-radius:12px;padding:14px}
+.learning-comparison p{margin:8px 0 0}
+
+.patient-script{display:grid;gap:9px}
+.patient-script p{background:#f5faf9;border-left:3px solid #2f847a;border-radius:7px;padding:12px;margin:0}
+
+/* v1.8: navegación compacta y accesible dentro de la ficha de metformina */
+.attention-shortcuts{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:9px;margin:16px 0 10px}
+.attention-shortcuts button{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:7px;min-height:82px;padding:12px 8px;border:1px solid #c7dcd9;border-radius:13px;background:#f4faf9;color:#194e49;cursor:pointer;font:inherit;text-align:center}
+.attention-shortcuts button span{font-size:22px}
+.attention-shortcuts button b{font-size:13px}
+.attention-shortcuts button:hover,.attention-shortcuts button:focus-visible{border-color:#2f847a;background:#e5f4f0;outline-offset:2px}
+.clinical-block[id^="met-"]{scroll-margin-top:24px}
+.attention-focus{outline:2px solid #2f847a;outline-offset:3px;transition:outline-color .3s}
+@media(min-width:680px){.attention-shortcuts{grid-template-columns:repeat(4,minmax(0,1fr))}}
+@media(max-width:370px){.attention-shortcuts button{min-height:76px;padding:8px 4px}}
+
+.commercial-lookup{margin:24px 0;padding:18px;border:1px solid #cbdedc;border-radius:14px}.commercial-lookup h3{margin-top:0}

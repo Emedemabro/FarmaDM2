@@ -1,0 +1,211 @@
+[
+  {
+    "id": "metformina",
+    "nombre": "Metformina",
+    "familia": "Biguanida",
+    "via": "Oral",
+    "estado": "Ficha ampliada · revisión clínica pendiente",
+    "descripcion": "Biguanida oral que reduce principalmente la producción hepática de glucosa; su acción es multifactorial.",
+    "seguridad": [
+      "Revisar función renal y situaciones de deshidratación.",
+      "Consultar por intolerancia gastrointestinal persistente.",
+      "Considerar déficit de vitamina B12 en tratamientos prolongados."
+    ],
+    "dispensacion": "Confirmar formulación prescrita, tolerancia gastrointestinal, función renal conocida, consumo excesivo de alcohol y presencia de enfermedad aguda. Orientar la toma con alimentos según el producto. No modificar dosis ni suspender el tratamiento sin la evaluación clínica correspondiente.",
+    "mecanismo": "Disminuye la producción hepática de glucosa y favorece su utilización periférica. Intervienen múltiples vías celulares; no se atribuye a una única diana.",
+    "posicionamiento": "Alternativa fundamental para el control glicémico de la DM2. La elección del tratamiento debe individualizarse según comorbilidades y objetivos clínicos.",
+    "reacciones": [
+      "Frecuentes: diarrea, náuseas y molestias abdominales.",
+      "Puede asociarse a disminución de vitamina B12 con el uso prolongado.",
+      "Acidosis láctica: infrecuente, pero grave; requiere especial atención a factores predisponentes."
+    ],
+    "renal": "La función renal debe evaluarse para determinar si el tratamiento es apropiado. Como referencia general, está contraindicada con TFGe inferior a 30 mL/min/1,73 m²; el inicio y los ajustes en otros rangos requieren revisar el producto y la indicación clínica.",
+    "interacciones": [
+      "Consumo excesivo de alcohol: puede aumentar el riesgo de acidosis láctica.",
+      "Contraste yodado, procedimientos y enfermedades agudas: pueden requerir evaluación de interrupción temporal según la situación clínica.",
+      "Medicamentos que deterioran agudamente la función renal: requieren precaución."
+    ],
+    "alertas": [
+      {
+        "nivel": "Precaución",
+        "titulo": "Deshidratación o enfermedad aguda",
+        "detalle": "Identificar vómitos persistentes, diarrea intensa, ingesta muy reducida o signos de deshidratación; consultar al químico farmacéutico o equipo tratante sobre continuidad del tratamiento."
+      },
+      {
+        "nivel": "Precaución",
+        "titulo": "Función renal alterada",
+        "detalle": "No interpretar una cifra aislada como autorización para dispensar sin revisar antecedentes, indicación y ficha del producto."
+      },
+      {
+        "nivel": "Consulta",
+        "titulo": "Intolerancia gastrointestinal persistente",
+        "detalle": "Consultar por duración e intensidad; la formulación y la titulación deben ser evaluadas por el profesional correspondiente."
+      },
+      {
+        "nivel": "Consulta",
+        "titulo": "Anemia o síntomas neuropáticos",
+        "detalle": "Considerar evaluación de vitamina B12 cuando corresponda; no atribuir automáticamente estos síntomas a la diabetes."
+      }
+    ],
+    "fuentes": [
+      {
+        "nombre": "Dutta y cols. (2023), revisión del mecanismo de metformina",
+        "url": "https://doi.org/10.2147/DDDT.S409373"
+      },
+      {
+        "nombre": "Nabrdalik y cols. (2022), revisión sistemática de efectos gastrointestinales",
+        "url": "https://doi.org/10.3389/fendo.2022.975912"
+      },
+      {
+        "nombre": "Chapman y cols. (2016), revisión sistemática de vitamina B12",
+        "url": "https://doi.org/10.1016/j.diabet.2016.03.008"
+      },
+      {
+        "nombre": "DailyMed, información regulatoria de metformina (referencia complementaria)",
+        "url": "https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=400ff9dc-9789-44ac-afb5-730b632a1667"
+      }
+    ],
+    "revision": "2026-10-08",
+    "validacion": "Borrador académico: instrucciones generales cotejadas con fuentes regulatorias de referencia; falta verificación producto a producto en ISP y revisión profesional antes de uso asistencial.",
+    "marcas": [],
+    "consejos_practicos": [
+      {
+        "titulo": "Tomar junto con alimentos",
+        "texto": "La metformina de liberación inmediata suele administrarse con las comidas para reducir molestias gastrointestinales. Verificar siempre la pauta y el folleto de la presentación dispensada.",
+        "tipo": "Educación"
+      },
+      {
+        "titulo": "Comprobar si es liberación prolongada",
+        "texto": "Algunas formulaciones de liberación prolongada se administran con la comida de la noche y deben tragarse enteras. No extrapolar esta instrucción a todas las marcas ni modificar comprimidos sin verificar el producto.",
+        "tipo": "Verificar presentación"
+      },
+      {
+        "titulo": "Si aparecen molestias digestivas",
+        "texto": "Preguntar si toma el medicamento con alimentos y desde cuándo presenta las molestias. Si son persistentes o intensas, solicitar evaluación del químico farmacéutico; no cambiar la dosis por cuenta propia.",
+        "tipo": "Consulta QF"
+      },
+      {
+        "titulo": "No duplicar dosis olvidadas",
+        "texto": "No tomar una dosis doble para compensar una omisión. La instrucción específica debe cotejarse con el folleto del producto y la pauta prescrita.",
+        "tipo": "Educación"
+      }
+    ],
+    "pasos_meson": [
+      {
+        "pregunta": "¿Es metformina convencional o de liberación prolongada?",
+        "accion": "Comprobar el envase, la forma farmacéutica y las indicaciones de administración."
+      },
+      {
+        "pregunta": "¿La toma con alimentos?",
+        "accion": "Reforzar el modo de administración indicado para esa presentación."
+      },
+      {
+        "pregunta": "¿Presenta molestias digestivas persistentes?",
+        "accion": "Orientar consulta al químico farmacéutico para evaluación de tolerancia."
+      },
+      {
+        "pregunta": "¿Refiere vómitos intensos, deshidratación o enfermedad aguda importante?",
+        "accion": "Priorizar evaluación por químico farmacéutico/equipo tratante; no indicar cambios de tratamiento autónomamente."
+      }
+    ],
+    "dispensacion_rapida": {
+      "primera": {
+        "consejo": "La metformina convencional suele tomarse con las comidas para mejorar la tolerancia digestiva. Confirmar el horario indicado en la receta y el folleto de esta presentación.",
+        "pregunta": "¿Es la primera vez que la utiliza? ¿Le explicaron cuándo y cómo tomarla?",
+        "accion": "Confirmar receta, formulación y pauta con el envase o folleto. Si existe una discrepancia, solicitar revisión del químico farmacéutico y aclaración con el médico prescriptor antes de asumir equivalencias o cambios.",
+        "efectos": "Al inicio pueden aparecer náuseas, diarrea y molestias abdominales. Si persisten, empeoran o dificultan la hidratación, solicitar orientación del químico farmacéutico y evaluación médica según la gravedad.",
+        "almacenamiento": "Verificar las condiciones de conservación del envase y folleto de la presentación específica. Temperatura y requisitos particulares pendientes de validación documental."
+      },
+      "habitual": {
+        "consejo": "Si las molestias digestivas son persistentes, consulte al químico farmacéutico para revisar el uso del medicamento y coméntelas con su médico tratante. Si son leves y estables, puede mencionarlas en el próximo control; si empeoran, no espere.",
+        "pregunta": "¿Ha tenido molestias al tomarla o le cambiaron la presentación?",
+        "accion": "Comprobar cambios de formulación y tolerancia. El químico farmacéutico puede evaluar el problema y coordinar con el prescriptor; cualquier ajuste de dosis o formulación requiere indicación del profesional habilitado. Si hay vómitos o diarrea intensos, signos de deshidratación o deterioro general, solicitar evaluación médica pronta.",
+        "efectos": "Preguntar si ha presentado náuseas, diarrea o molestias abdominales persistentes. Revisar cambios de formulación; comentar con el químico farmacéutico y el médico tratante si afectan la continuidad del tratamiento.",
+        "almacenamiento": "Verificar las condiciones de conservación del envase y folleto de la presentación específica. Temperatura y requisitos particulares pendientes de validación documental."
+      }
+    },
+    "revision_consejos": "2026-10-08",
+    "validacion_consejos": "Revisión documental preliminar (NHS); pendiente de revisión profesional y de folletos ISP específicos.",
+    "fuentes_consejos": [
+      {
+        "nombre": "NHS — Metformin",
+        "url": "https://www.nhs.uk/medicines/metformin/"
+      }
+    ]
+  },
+  {
+    "id": "empagliflozina",
+    "nombre": "Empagliflozina",
+    "familia": "Inhibidor SGLT2",
+    "via": "Oral",
+    "estado": "Pendiente de validación",
+    "descripcion": "Inhibe la reabsorción renal de glucosa mediada por SGLT2.",
+    "seguridad": [
+      "Evaluar antecedentes de depleción de volumen y síntomas de infecciones genitales.",
+      "Reconocer síntomas compatibles con cetoacidosis, incluso sin hiperglicemia marcada.",
+      "Los criterios de uso renal dependen de la indicación y de la información vigente."
+    ],
+    "dispensacion": "No recomendar aumento indiscriminado de líquidos ni asumir un umbral renal universal.",
+    "marcas": []
+  },
+  {
+    "id": "semaglutida",
+    "nombre": "Semaglutida",
+    "familia": "Agonista receptor GLP-1",
+    "via": "Oral o subcutánea, según presentación",
+    "estado": "Pendiente de validación",
+    "descripcion": "Agonismo del receptor GLP-1 con efectos dependientes de glucosa y sobre el apetito.",
+    "seguridad": [
+      "La administración y titulación varían según la presentación.",
+      "Vigilar tolerancia gastrointestinal y síntomas persistentes de alarma.",
+      "La asociación con insulina o sulfonilureas puede aumentar el riesgo de hipoglicemia."
+    ],
+    "dispensacion": "Confirmar formulación y presentación antes de orientar la administración.",
+    "marcas": []
+  },
+  {
+    "id": "insulina-nph",
+    "nombre": "Insulina NPH",
+    "familia": "Insulina de acción intermedia",
+    "via": "Subcutánea",
+    "estado": "Pendiente de validación",
+    "descripcion": "Preparación de insulina humana de acción intermedia.",
+    "seguridad": [
+      "La hipoglicemia es una reacción adversa relevante.",
+      "La suspensión requiere resuspensión correcta según el producto.",
+      "La conservación debe verificarse en el folleto específico."
+    ],
+    "dispensacion": "Verificar nombre, concentración, dispositivo, técnica y conservación.",
+    "marcas": []
+  },
+  {
+    "id": "tirzepatida",
+    "nombre": "Tirzepatida",
+    "familia": "Agonista dual GIP/GLP-1",
+    "via": "Subcutánea",
+    "estado": "Pendiente de validación",
+    "descripcion": "Agonismo de receptores GIP y GLP-1.",
+    "seguridad": [
+      "Considerar efectos gastrointestinales y posible deshidratación.",
+      "El vaciamiento gástrico puede modificar la absorción de determinados medicamentos orales.",
+      "Revisar el producto y la pauta de titulación prescrita."
+    ],
+    "dispensacion": "Verificar presentación, esquema prescrito e interacciones relevantes.",
+    "marcas": []
+  },
+  {
+    "id": "sitagliptina",
+    "nombre": "Sitagliptina",
+    "familia": "Inhibidor DPP-4",
+    "via": "Oral",
+    "estado": "Pendiente de validación",
+    "descripcion": "Inhibe DPP-4 y prolonga la actividad de incretinas endógenas.",
+    "seguridad": [
+      "La función renal puede condicionar ajustes de dosis.",
+      "El riesgo de hipoglicemia aumenta con ciertos tratamientos concomitantes.",
+      "Revisar alertas específicas de la molécula."
+    ],
+    "dispensacion": "Verificar función renal documentada y farmacoterapia concomitante cuando corresponda.",
+    "marcas": []
+  }
+]
