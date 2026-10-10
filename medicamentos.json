@@ -315,15 +315,179 @@
     "nombre": "Sitagliptina",
     "familia": "Inhibidor DPP-4",
     "via": "Oral",
-    "estado": "Pendiente de validación",
-    "descripcion": "Inhibe DPP-4 y prolonga la actividad de incretinas endógenas.",
+    "estado": "Contenido ampliado · cotejo con folletos ISP de monoterapia y combinación; validación profesional pendiente",
+    "descripcion": "Inhibidor de la DPP-4 de administración oral que prolonga la actividad de incretinas endógenas; mejora el control glucémico con bajo riesgo intrínseco de hipoglucemia.",
     "seguridad": [
       "La función renal puede condicionar ajustes de dosis.",
       "El riesgo de hipoglicemia aumenta con ciertos tratamientos concomitantes.",
-      "Revisar alertas específicas de la molécula."
+      "Revisar alertas específicas de la molécula.",
+      "Si la receta es de sitagliptina/metformina, verificar ambos principios activos: la combinación fija tiene contraindicaciones y precauciones adicionales por metformina.",
+      "El folleto ISP de Januvia F-21957/15 indica conservar a no más de 30 °C y tragar los comprimidos enteros."
     ],
-    "dispensacion": "Verificar función renal documentada y farmacoterapia concomitante cuando corresponda.",
-    "marcas": []
+    "dispensacion": "Verificar pauta y presentación, función renal conocida y uso simultáneo de insulina o sulfonilureas. Preguntar por dolor abdominal intenso persistente, reacciones alérgicas, dolor articular incapacitante o ampollas cutáneas. Ante hallazgos relevantes, consultar al químico farmacéutico y derivar según gravedad. Diferenciar explícitamente sitagliptina sola de la asociación sitagliptina/metformina: en la combinación confirmar administración con comidas, función renal y factores de riesgo de acidosis láctica.",
+    "marcas": [],
+    "posicionamiento": "La sitagliptina es un inhibidor de DPP-4 que puede utilizarse para mejorar el control glucémico de personas con DM2, particularmente cuando se desea evitar hipoglucemias y aumento de peso y se necesita una opción oral. Su efecto sobre HbA1c suele ser moderado y su peso corporal es generalmente neutro. A diferencia de ciertos iSGLT2 y agonistas del receptor GLP-1, no ha demostrado beneficios cardiovasculares o renales adicionales que justifiquen elegirla con fines de protección de órganos. En TECOS mostró seguridad cardiovascular (no inferioridad), sin reducción de eventos cardiovasculares mayores ni aumento de hospitalización por insuficiencia cardíaca. La selección depende de comorbilidades, metas glucémicas y función renal; no se recomienda combinarla rutinariamente con tratamientos basados en agonistas del receptor GLP-1 por falta de beneficio glucémico adicional relevante.",
+    "mecanismo": "Inhibe la enzima dipeptidil peptidasa-4 (DPP-4), que normalmente degrada las incretinas GLP-1 y GIP. Al prolongar su acción, aumenta la secreción de insulina y disminuye la de glucagón de forma dependiente de la glucosa, reduciendo principalmente la hiperglucemia. Por este mecanismo, usada sola presenta bajo riesgo de hipoglucemia.",
+    "reacciones": [
+      "Entre los eventos comunicados se incluyen cefalea, nasofaringitis e infecciones respiratorias altas; su frecuencia y atribución deben interpretarse según ensayos y presentación.",
+      "Hipoglucemia: poco frecuente en monoterapia, pero aumenta al asociarse con insulina o sulfonilureas.",
+      "Reacciones graves infrecuentes notificadas: pancreatitis aguda, hipersensibilidad (anafilaxia/angioedema), dolor articular intenso y penfigoide ampolloso.",
+      "En la ficha técnica peruana de sitagliptina/metformina, nasofaringitis fue el evento más comunicado en monoterapia con sitagliptina (≥5 % y más frecuente que placebo); los efectos digestivos de la combinación pueden deberse principalmente a metformina."
+    ],
+    "renal": "La sitagliptina requiere ajuste de dosis según TFGe. Según la monografía UpToDate aportada: TFGe ≥45 mL/min/1,73 m²: 100 mg una vez al día; TFGe ≥30 y <45: 50 mg una vez al día; TFGe <30, incluida enfermedad renal terminal con diálisis: 25 mg una vez al día. Estos valores son referencia clínica para comprobar la prescripción, no instrucciones para que el personal de mesón modifique dosis. El folleto ISP Januvia F-21957/15 confirma los intervalos TFGe ≥45: 100 mg/día; 30–44: 50 mg/día; <30, incluso diálisis: 25 mg/día. Sitagliptina sola puede administrarse independientemente de las sesiones de diálisis. El folleto ISP de sitagliptina/metformina (Reg. F-26606/22) confirma para el componente sitagliptina un máximo de 100 mg/día con TFG ≥45, 50 mg/día con TFG 30–44 y 25 mg/día con TFG <30; sin embargo, la combinación fija contiene metformina y está contraindicada con TFG <30. En TFG 30–44 la dosis fija disponible puede no permitir el ajuste requerido de sitagliptina, por lo que el folleto indica recurrir a los monocomponentes si no se dispone de una dosis apropiada. No extrapolar estas restricciones de la combinación a la sitagliptina sola.",
+    "interacciones": [
+      "Insulina o sulfonilureas: puede aumentar el riesgo de hipoglucemia; el equipo prescriptor puede requerir reevaluación de estas terapias.",
+      "Agonistas del receptor GLP-1 (p. ej., semaglutida) y tratamientos basados en ese receptor: combinación generalmente no recomendada por escaso beneficio glucémico adicional.",
+      "Inhibidores de la ECA y otros medicamentos asociados con angioedema: vigilar antecedentes o síntomas de hipersensibilidad; la relevancia clínica depende del contexto y de la combinación.",
+      "Revisar siempre el listado completo de medicamentos: la monografía remite a una base de interacciones específica y no considera exhaustiva su lista resumida.",
+      "Combinación fija sitagliptina/metformina: el folleto ISP advierte riesgo de acidosis láctica con intoxicación alcohólica y situaciones de deterioro renal; exige precauciones específicas ante contraste yodado, deshidratación y medicamentos que afecten la función renal. Estas advertencias corresponden al componente metformina y no deben atribuirse a sitagliptina en monoterapia.",
+      "Digoxina: el folleto ISP de Januvia F-21957/15 describe aumentos pequeños de exposición y recomienda vigilancia en pacientes con riesgo de toxicidad, sin ajuste rutinario de dosis.",
+      "Digoxina: en estudios farmacocinéticos, sitagliptina elevó modestamente el AUC de digoxina (11 %) y su concentración máxima (18 %); el folleto peruano no considera estos cambios clínicamente significativos. Individualizar vigilancia en pacientes con riesgo de toxicidad, sin recomendar cambios automáticos de dosis.",
+      "Ciclosporina: aumentó la exposición a sitagliptina (AUC aproximadamente 29 % y Cmáx 68 %) en un estudio de dosis única, sin considerarse clínicamente significativo; no constituye por sí solo indicación de ajuste.",
+      "Los estudios recogidos en la ficha peruana no identificaron cambios farmacocinéticos clínicamente significativos con warfarina, simvastatina, glibenclamida ni anticonceptivos orales. La ausencia de interacción farmacocinética no elimina el riesgo farmacodinámico de hipoglucemia al asociar sulfonilureas."
+    ],
+    "alertas": [
+      {
+        "nivel": "Urgencia",
+        "titulo": "Reacción alérgica grave",
+        "detalle": "Hinchazón de cara, lengua o garganta, dificultad respiratoria o desmayo: atención de urgencia."
+      },
+      {
+        "nivel": "Evaluación médica pronta",
+        "titulo": "Posible pancreatitis",
+        "detalle": "Dolor abdominal intenso y persistente, con o sin vómitos, especialmente si se irradia hacia la espalda: evaluación médica inmediata."
+      },
+      {
+        "nivel": "Evaluación profesional",
+        "titulo": "Lesiones ampollosas o dolor articular intenso",
+        "detalle": "Ampollas extensas, erosiones o dolor articular incapacitante requieren valoración; no asumir que son molestias habituales."
+      },
+      {
+        "nivel": "Verificar pauta",
+        "titulo": "Función renal e hipoglucemia",
+        "detalle": "Comprobar si existe evaluación renal y si utiliza insulina o sulfonilureas; ante discrepancias, consultar al químico farmacéutico."
+      },
+      {
+        "nivel": "Verificar formulación",
+        "titulo": "Combinación con metformina",
+        "detalle": "La asociación sitagliptina/metformina tiene restricciones adicionales: está contraindicada con TFG <30 mL/min y requiere especial atención a deshidratación, acidosis láctica y contraste yodado. Derivar al químico farmacéutico ante dudas; no modificar dosis desde el mesón."
+      },
+      {
+        "nivel": "Verificar combinación",
+        "titulo": "Procedimiento con contraste yodado",
+        "detalle": "Si utiliza sitagliptina/metformina y tiene estudio con contraste yodado, comprobar si el equipo tratante indicó medidas especiales, particularmente con TFGe 30–59 mL/min/1,73 m² o factores de riesgo. No suspender ni reiniciar desde el mesón."
+      }
+    ],
+    "fuentes": [
+      {
+        "nombre": "UpToDate Lexidrug · Sitagliptin: Drug information (monografía aportada por el usuario)",
+        "url": "https://www.uptodate.com/contents/sitagliptin-drug-information"
+      },
+      {
+        "nombre": "Green y cols. TECOS, N Engl J Med (2015)",
+        "url": "https://doi.org/10.1056/NEJMoa1501352"
+      },
+      {
+        "nombre": "PubMed · TECOS PMID 26052984",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26052984/"
+      },
+      {
+        "nombre": "ISP Chile · Sitagliptina/metformina clorhidrato, folleto al profesional, Reg. F-26606/22 (documento aportado)",
+        "url": ""
+      },
+      {
+        "nombre": "ISP Chile · Januvia (sitagliptina), folleto profesional, Reg. F-21957/15, Ref. MT911576/17 (documento aportado)",
+        "url": ""
+      },
+      {
+        "nombre": "Ficha técnica peruana Diabelina M® 50/500 mg (sitagliptina clorhidrato/metformina), documento aportado, págs. 1–18; fuente complementaria, no autorización ISP Chile",
+        "url": ""
+      }
+    ],
+    "revision": "2026-10-10 · cotejo ISP Chile y ficha técnica peruana Diabelina M 50/500 mg",
+    "validacion": "Revisión documental complementaria realizada con folleto ISP chileno y ficha peruana; pendiente validación profesional y pruebas en dispositivos.",
+    "dispensacion_rapida": {
+      "primera": {
+        "consejo": "Januvia (sitagliptina sola) se administra habitualmente una vez al día, con o sin alimentos, y sus comprimidos se tragan enteros. La dosis prescrita depende de la función renal. No confundir con la combinación sitagliptina/metformina, que tiene otra pauta.",
+        "pregunta": "¿Es la primera vez que lo utiliza? ¿Usa insulina o medicamentos como glibenclamida o gliclazida? ¿Conoce si le han evaluado la función renal? Si el envase contiene también metformina, ¿tiene un procedimiento con contraste yodado programado o antecedentes de deshidratación reciente?",
+        "efectos": "Pregunte por molestias nuevas. Si aparece dolor abdominal intenso y persistente, hinchazón de cara o dificultad para respirar, o lesiones con ampollas, requiere evaluación inmediata según la gravedad.",
+        "almacenamiento": "Según folleto ISP de Januvia F-21957/15, almacenar a temperatura no superior a 30 °C. Mantener en el envase original y fuera del alcance de niños. Comprobar siempre el envase específico dispensado.",
+        "accion": "Confirmar nombre, concentración, pauta y antecedentes relevantes; si la dosis parece discordante con la función renal o hay signos de alarma, consultar al químico farmacéutico antes de orientar."
+      },
+      "habitual": {
+        "consejo": "Mantenga la pauta prescrita. Si olvida una dosis, no duplique la siguiente; confirme las instrucciones de su producto y consulte si tiene dudas. Informe molestias persistentes o cambios en su tratamiento.",
+        "pregunta": "¿Ha podido tomarlo regularmente? ¿Ha tenido episodios de glucosa baja si utiliza otros antidiabéticos, dolor abdominal intenso, dolor articular importante o lesiones con ampollas? Si usa la combinación con metformina, ¿ha presentado síntomas de anemia o parestesias que requieran evaluar vitamina B12?",
+        "efectos": "Indagar aparición, intensidad y duración de síntomas. No atribuir automáticamente molestias graves a efectos esperables del tratamiento.",
+        "almacenamiento": "Para Januvia, el folleto ISP F-21957/15 indica temperatura no superior a 30 °C. Confirmar condiciones del envase dispensado; no extrapolar la temperatura máxima de 25 °C indicada para la combinación fija de otro registro.",
+        "accion": "Revisar adherencia y tratamientos concomitantes; derivar al químico farmacéutico ante hipoglucemias, signos de alarma, dudas sobre función renal o discrepancias en la prescripción."
+      }
+    },
+    "consejos_practicos": [
+      {
+        "tipo": "Administración",
+        "titulo": "Con o sin alimentos",
+        "texto": "Los comprimidos se administran habitualmente una vez al día, con o sin comidas; respetar siempre la pauta prescrita."
+      },
+      {
+        "tipo": "Seguridad",
+        "titulo": "Hipoglucemia en combinaciones",
+        "texto": "Por sí sola tiene bajo riesgo de hipoglucemia; este riesgo aumenta cuando se combina con insulina o sulfonilureas."
+      },
+      {
+        "tipo": "Seguimiento",
+        "titulo": "Función renal",
+        "texto": "La dosis depende de la TFGe. Si existe enfermedad renal o una dosis que genera dudas, consultar al químico farmacéutico."
+      },
+      {
+        "tipo": "Almacenamiento",
+        "titulo": "Verificar el producto",
+        "texto": "Aplicar las condiciones indicadas en el envase o folleto de la presentación efectivamente dispensada."
+      },
+      {
+        "tipo": "Formulaciones",
+        "titulo": "No confundir monoterapia y combinación fija",
+        "texto": "El folleto ISP F-26606/22 describe sitagliptina/metformina 50/500, 50/850 y 50/1000 mg; se administra dos veces al día con las comidas para reducir efectos gastrointestinales por metformina. La sitagliptina sola tiene otra pauta. Confirmar el nombre completo del producto dispensado."
+      },
+      {
+        "tipo": "Almacenamiento",
+        "titulo": "Conservación de la combinación fija",
+        "texto": "Para el producto sitagliptina/metformina del folleto ISP F-26606/22: no conservar a temperatura superior a 25 °C. Esta condición no sustituye la indicación de conservación del envase de sitagliptina sola."
+      },
+      {
+        "tipo": "Administración",
+        "titulo": "Tragar entero",
+        "texto": "El folleto ISP de Januvia F-21957/15 indica tragar los comprimidos enteros, sin dividir, machacar ni masticar."
+      },
+      {
+        "tipo": "Almacenamiento",
+        "titulo": "Januvia: máximo 30 °C",
+        "texto": "El folleto ISP F-21957/15 indica almacenar Januvia a temperatura no superior a 30 °C; la combinación fija del registro F-26606/22 indica máximo 25 °C."
+      },
+      {
+        "tipo": "Seguridad",
+        "titulo": "Dolor articular y ampollas",
+        "texto": "Preguntar por dolor articular intenso de nueva aparición y lesiones con ampollas o erosiones. Son señales de evaluación profesional por posible reacción asociada a inhibidores DPP-4."
+      },
+      {
+        "tipo": "Combinación fija",
+        "titulo": "Contraste yodado y enfermedad aguda",
+        "texto": "En personas que usan sitagliptina/metformina, identificar procedimientos con contraste yodado, deshidratación, infección grave o cirugía y derivar para revisión de la pauta por el equipo tratante. Estas precauciones derivan del componente metformina; no extrapolarlas a sitagliptina sola."
+      },
+      {
+        "tipo": "Combinación fija",
+        "titulo": "Vitamina B12",
+        "texto": "El uso prolongado de metformina puede disminuir la vitamina B12. Ante anemia, parestesias o neuropatía, recomendar evaluación profesional; no atribuir este riesgo a sitagliptina sola."
+      }
+    ],
+    "evidencia_clinica": [
+      {
+        "estudio": "TECOS · seguridad cardiovascular de sitagliptina (2015)",
+        "poblacion": "14.671 personas con DM2 y enfermedad cardiovascular establecida, en tratamiento habitual.",
+        "hallazgo": "Sitagliptina fue no inferior a placebo para el desenlace cardiovascular primario; no se observaron diferencias significativas en hospitalización por insuficiencia cardíaca.",
+        "interpretacion": "Respalda seguridad cardiovascular en la población estudiada, pero no demuestra reducción de eventos cardiovasculares ni protección renal. No equivale a afirmar que prevenga insuficiencia cardíaca o infartos.",
+        "url": "https://doi.org/10.1056/NEJMoa1501352"
+      }
+    ]
   },
   {
     "id": "dapagliflozina",
