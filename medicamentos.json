@@ -202,14 +202,14 @@
         "pregunta": "¿Es la primera vez que lo utiliza? ¿Le explicaron cuándo tomarlo y qué molestias requieren consulta?",
         "accion": "Verificar nombre, concentración, pauta prescrita y presentación. Explicar hidratación habitual según indicación clínica y signos de alarma; derivar dudas al químico farmacéutico.",
         "efectos": "Puede aumentar la frecuencia urinaria y favorecer infecciones genitales por hongos. Consulte si presenta picazón, irritación, flujo anormal o molestias al orinar.  Acuda a urgencias si presenta náuseas o vómitos intensos, dolor abdominal, respiración rápida, somnolencia o debilidad marcada, incluso si la glucosa no está muy elevada. Dolor intenso, enrojecimiento o hinchazón genital o perineal, especialmente con fiebre, también requiere atención urgente.",
-        "almacenamiento": "Conserve el medicamento en su envase original, protegido de calor y humedad excesivos, y fuera del alcance de los niños. Respete las condiciones indicadas en el envase o folleto del producto."
+        "almacenamiento": "Conserve el medicamento en su envase original, protegido de la humedad y del calor excesivo, y fuera del alcance de los niños. Respete las condiciones de conservación indicadas en el envase o folleto del producto."
       },
       "habitual": {
         "consejo": "Mantenga la pauta indicada. Si presenta mareos, debilidad o mucha sed, acuda a un servicio de salud. Ante vómitos o diarrea intensos, imposibilidad de comer o beber, o una cirugía programada, contacte al equipo tratante para recibir indicaciones sobre el manejo temporal y reinicio del medicamento.",
         "pregunta": "¿Ha presentado molestias genitales, mareos o dificultades para alimentarse o hidratarse?",
         "accion": "Reforzar adherencia, evaluar dudas y derivar signos de alarma. Confirmar indicaciones del equipo tratante ante enfermedad aguda o cirugía.",
         "efectos": "Puede aumentar la frecuencia urinaria y favorecer infecciones genitales por hongos. Consulte si presenta picazón, irritación, flujo anormal o molestias al orinar. ",
-        "almacenamiento": "Conserve el medicamento en su envase original, protegido de calor y humedad excesivos, y fuera del alcance de los niños. Respete las condiciones indicadas en el envase o folleto del producto."
+        "almacenamiento": "Conserve el medicamento en su envase original, protegido de la humedad y del calor excesivo, y fuera del alcance de los niños. Respete las condiciones de conservación indicadas en el envase o folleto del producto."
       }
     },
     "evidencia_clinica": [
@@ -226,6 +226,42 @@
         "hallazgo": "Menor riesgo del desenlace combinado de progresión renal o muerte cardiovascular frente a placebo.",
         "interpretacion": "Este estudio respalda el uso de empagliflozina con objetivos de protección renal en determinados perfiles de enfermedad renal crónica. No equivale a eficacia glucémica preservada en filtración reducida ni sustituye criterios de indicación local.",
         "url": "https://doi.org/10.1056/NEJMoa2204233"
+      }
+    ],
+    "consejos_practicos": [
+      {
+        "titulo": "Reconocer síntomas de deshidratación",
+        "texto": "Puede aumentar la eliminación de orina. Preguntar por mareos, debilidad o sed intensa, especialmente si utiliza diuréticos. Solicitar evaluación profesional ante síntomas relevantes.",
+        "tipo": "Seguimiento"
+      },
+      {
+        "titulo": "Prestar atención a molestias genitales",
+        "texto": "Picazón, enrojecimiento o flujo inusual pueden sugerir infección genital. Orientar consulta al equipo de salud; no recomendar tratamientos por iniciativa propia.",
+        "tipo": "Educación"
+      },
+      {
+        "titulo": "Identificar signos de alarma",
+        "texto": "Náuseas o vómitos persistentes, dolor abdominal, respiración rápida o deterioro general requieren atención médica urgente por posible cetoacidosis, incluso sin glucosa muy elevada.",
+        "tipo": "Urgencia"
+      },
+      {
+        "titulo": "Revisar otros tratamientos",
+        "texto": "Si utiliza insulina o sulfonilureas, verificar posibles síntomas de hipoglicemia. Con diuréticos, considerar el riesgo de pérdida de volumen. Derivar al químico farmacéutico cuando corresponda.",
+        "tipo": "Consulta QF"
+      }
+    ],
+    "pasos_meson": [
+      {
+        "pregunta": "¿Es primera dispensación o ya utiliza el medicamento?",
+        "accion": "Verificar principio activo, concentración, pauta y comprensión de la indicación."
+      },
+      {
+        "pregunta": "¿Ha tenido mareos, sed intensa, vómitos o diarrea?",
+        "accion": "Valorar posible pérdida de volumen y derivar según gravedad; no indicar suspensión o cambios de dosis de forma autónoma."
+      },
+      {
+        "pregunta": "¿Utiliza diuréticos, insulina o sulfonilureas?",
+        "accion": "Solicitar revisión del químico farmacéutico si existen síntomas, dudas o riesgos de interacción."
       }
     ]
   },
@@ -362,14 +398,14 @@
         "pregunta": "¿Es la primera vez que lo utiliza? ¿Le explicaron cuándo tomarlo y qué molestias requieren consulta?",
         "accion": "Verificar nombre, concentración, pauta prescrita y presentación. Explicar hidratación habitual según indicación clínica y signos de alarma; derivar dudas al químico farmacéutico.",
         "efectos": "Puede aumentar la frecuencia urinaria y favorecer infecciones genitales por hongos. Consulte si presenta picazón, irritación, flujo anormal o molestias al orinar.  Acuda a urgencias si presenta náuseas o vómitos intensos, dolor abdominal, respiración rápida, somnolencia o debilidad marcada, incluso si la glucosa no está muy elevada. Dolor intenso, enrojecimiento o hinchazón genital o perineal, especialmente con fiebre, también requiere atención urgente.",
-        "almacenamiento": "Conserve el medicamento en su envase original, protegido de calor y humedad excesivos, y fuera del alcance de los niños. Respete las condiciones indicadas en el envase o folleto del producto."
+        "almacenamiento": "Conserve el medicamento en su envase original, protegido de la humedad y del calor excesivo, y fuera del alcance de los niños. Respete las condiciones de conservación indicadas en el envase o folleto del producto."
       },
       "habitual": {
         "consejo": "Mantenga la pauta indicada. Si presenta mareos, debilidad o mucha sed, acuda a un servicio de salud. Ante vómitos o diarrea intensos, imposibilidad de comer o beber, o una cirugía programada, contacte al equipo tratante para recibir indicaciones sobre el manejo temporal y reinicio del medicamento.",
         "pregunta": "¿Ha presentado molestias genitales, mareos o dificultades para alimentarse o hidratarse?",
         "accion": "Reforzar adherencia, evaluar dudas y derivar signos de alarma. Confirmar indicaciones del equipo tratante ante enfermedad aguda o cirugía.",
         "efectos": "Puede aumentar la frecuencia urinaria y favorecer infecciones genitales por hongos. Consulte si presenta picazón, irritación, flujo anormal o molestias al orinar. ",
-        "almacenamiento": "Conserve el medicamento en su envase original, protegido de calor y humedad excesivos, y fuera del alcance de los niños. Respete las condiciones indicadas en el envase o folleto del producto."
+        "almacenamiento": "Conserve el medicamento en su envase original, protegido de la humedad y del calor excesivo, y fuera del alcance de los niños. Respete las condiciones de conservación indicadas en el envase o folleto del producto."
       }
     },
     "evidencia_clinica": [
@@ -393,6 +429,42 @@
         "hallazgo": "Disminuyó el riesgo de deterioro renal sostenido, enfermedad renal terminal o muerte renal/cardiovascular en el desenlace primario compuesto.",
         "interpretacion": "La protección renal observada ayuda a explicar su utilización por objetivos cardiorrenales y no únicamente glucémicos. Población seleccionada por criterios renales; no generalizar a cualquier estadio o perfil de albuminuria.",
         "url": "https://doi.org/10.1056/NEJMoa2024816"
+      }
+    ],
+    "consejos_practicos": [
+      {
+        "titulo": "Reconocer síntomas de deshidratación",
+        "texto": "Puede aumentar la eliminación de orina. Preguntar por mareos, debilidad o sed intensa, especialmente si utiliza diuréticos. Solicitar evaluación profesional ante síntomas relevantes.",
+        "tipo": "Seguimiento"
+      },
+      {
+        "titulo": "Prestar atención a molestias genitales",
+        "texto": "Picazón, enrojecimiento o flujo inusual pueden sugerir infección genital. Orientar consulta al equipo de salud; no recomendar tratamientos por iniciativa propia.",
+        "tipo": "Educación"
+      },
+      {
+        "titulo": "Identificar signos de alarma",
+        "texto": "Náuseas o vómitos persistentes, dolor abdominal, respiración rápida o deterioro general requieren atención médica urgente por posible cetoacidosis, incluso sin glucosa muy elevada.",
+        "tipo": "Urgencia"
+      },
+      {
+        "titulo": "Revisar otros tratamientos",
+        "texto": "Si utiliza insulina o sulfonilureas, verificar posibles síntomas de hipoglicemia. Con diuréticos, considerar el riesgo de pérdida de volumen. Derivar al químico farmacéutico cuando corresponda.",
+        "tipo": "Consulta QF"
+      }
+    ],
+    "pasos_meson": [
+      {
+        "pregunta": "¿Es primera dispensación o ya utiliza el medicamento?",
+        "accion": "Verificar principio activo, concentración, pauta y comprensión de la indicación."
+      },
+      {
+        "pregunta": "¿Ha tenido mareos, sed intensa, vómitos o diarrea?",
+        "accion": "Valorar posible pérdida de volumen y derivar según gravedad; no indicar suspensión o cambios de dosis de forma autónoma."
+      },
+      {
+        "pregunta": "¿Utiliza diuréticos, insulina o sulfonilureas?",
+        "accion": "Solicitar revisión del químico farmacéutico si existen síntomas, dudas o riesgos de interacción."
       }
     ]
   },
@@ -465,14 +537,14 @@
         "pregunta": "¿Es la primera vez que lo utiliza? ¿Le explicaron cuándo tomarlo y qué molestias requieren consulta?",
         "accion": "Verificar nombre, concentración, pauta prescrita y presentación. Explicar hidratación habitual según indicación clínica y signos de alarma; derivar dudas al químico farmacéutico.",
         "efectos": "Puede aumentar la frecuencia urinaria y favorecer infecciones genitales por hongos. Consulte si presenta picazón, irritación, flujo anormal o molestias al orinar. Revise sus pies y consulte oportunamente por heridas, dolor nuevo, cambios de color o signos de infección. Acuda a urgencias si presenta náuseas o vómitos intensos, dolor abdominal, respiración rápida, somnolencia o debilidad marcada, incluso si la glucosa no está muy elevada. Dolor intenso, enrojecimiento o hinchazón genital o perineal, especialmente con fiebre, también requiere atención urgente.",
-        "almacenamiento": "Conserve el medicamento en su envase original, protegido de calor y humedad excesivos, y fuera del alcance de los niños. Respete las condiciones indicadas en el envase o folleto del producto."
+        "almacenamiento": "Conserve el medicamento en su envase original, protegido de la humedad y del calor excesivo, y fuera del alcance de los niños. Respete las condiciones de conservación indicadas en el envase o folleto del producto."
       },
       "habitual": {
         "consejo": "Mantenga la pauta indicada. Si presenta mareos, debilidad o mucha sed, acuda a un servicio de salud. Ante vómitos o diarrea intensos, imposibilidad de comer o beber, o una cirugía programada, contacte al equipo tratante para recibir indicaciones sobre el manejo temporal y reinicio del medicamento.",
         "pregunta": "¿Ha presentado molestias genitales, mareos o dificultades para alimentarse o hidratarse?",
         "accion": "Reforzar adherencia, evaluar dudas y derivar signos de alarma. Confirmar indicaciones del equipo tratante ante enfermedad aguda o cirugía.",
         "efectos": "Puede aumentar la frecuencia urinaria y favorecer infecciones genitales por hongos. Consulte si presenta picazón, irritación, flujo anormal o molestias al orinar. Revise sus pies y consulte oportunamente por heridas, dolor nuevo, cambios de color o signos de infección.",
-        "almacenamiento": "Conserve el medicamento en su envase original, protegido de calor y humedad excesivos, y fuera del alcance de los niños. Respete las condiciones indicadas en el envase o folleto del producto."
+        "almacenamiento": "Conserve el medicamento en su envase original, protegido de la humedad y del calor excesivo, y fuera del alcance de los niños. Respete las condiciones de conservación indicadas en el envase o folleto del producto."
       }
     },
     "evidencia_clinica": [
@@ -489,6 +561,47 @@
         "hallazgo": "Disminución del desenlace combinado de enfermedad renal terminal, duplicación de creatinina o muerte renal/cardiovascular.",
         "interpretacion": "La evidencia renal apoya su consideración en personas con DM2 y enfermedad renal crónica albuminúrica que cumplen criterios apropiados. Los criterios de inclusión limitan la extrapolación a otras poblaciones; distinguir de la señal de seguridad del programa CANVAS.",
         "url": "https://doi.org/10.1056/NEJMoa1811744"
+      }
+    ],
+    "consejos_practicos": [
+      {
+        "titulo": "Reconocer síntomas de deshidratación",
+        "texto": "Puede aumentar la eliminación de orina. Preguntar por mareos, debilidad o sed intensa, especialmente si utiliza diuréticos. Solicitar evaluación profesional ante síntomas relevantes.",
+        "tipo": "Seguimiento"
+      },
+      {
+        "titulo": "Prestar atención a molestias genitales",
+        "texto": "Picazón, enrojecimiento o flujo inusual pueden sugerir infección genital. Orientar consulta al equipo de salud; no recomendar tratamientos por iniciativa propia.",
+        "tipo": "Educación"
+      },
+      {
+        "titulo": "Identificar signos de alarma",
+        "texto": "Náuseas o vómitos persistentes, dolor abdominal, respiración rápida o deterioro general requieren atención médica urgente por posible cetoacidosis, incluso sin glucosa muy elevada.",
+        "tipo": "Urgencia"
+      },
+      {
+        "titulo": "Revisar otros tratamientos",
+        "texto": "Si utiliza insulina o sulfonilureas, verificar posibles síntomas de hipoglicemia. Con diuréticos, considerar el riesgo de pérdida de volumen. Derivar al químico farmacéutico cuando corresponda.",
+        "tipo": "Consulta QF"
+      },
+      {
+        "titulo": "Cuidado de los pies",
+        "texto": "Preguntar por heridas, úlceras, dolor o cambios de color en los pies. Una lesión nueva o signos de infección requieren evaluación profesional oportuna.",
+        "tipo": "Seguridad"
+      }
+    ],
+    "pasos_meson": [
+      {
+        "pregunta": "¿Es primera dispensación o ya utiliza el medicamento?",
+        "accion": "Verificar principio activo, concentración, pauta y comprensión de la indicación."
+      },
+      {
+        "pregunta": "¿Ha tenido mareos, sed intensa, vómitos o diarrea?",
+        "accion": "Valorar posible pérdida de volumen y derivar según gravedad; no indicar suspensión o cambios de dosis de forma autónoma."
+      },
+      {
+        "pregunta": "¿Utiliza diuréticos, insulina o sulfonilureas?",
+        "accion": "Solicitar revisión del químico farmacéutico si existen síntomas, dudas o riesgos de interacción."
       }
     ]
   }
