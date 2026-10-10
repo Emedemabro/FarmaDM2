@@ -4,3 +4,5 @@ Mantiene navegación v1.9.5; agrega referencias regulatorias chilenas en metform
 Version 2.1: consejos esenciales diferenciados, molestias GI en lista, via destacada, reordenamiento de seguridad y posicionamiento, cache v22. Revision clinica profesional pendiente.
 
 Version v2.3: posicionamiento iSGLT2 ampliado; evidencia de ensayos y fuentes primarias en Informacion clinica. Revision profesional pendiente.
+
+Revision v2.3.1: posicionamiento terapeutico narrativo y contextualizacion de ensayos iSGLT2.

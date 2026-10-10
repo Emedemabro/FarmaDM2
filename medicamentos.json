@@ -146,7 +146,7 @@
       "Considerar situaciones de enfermedad aguda y cirugía con orientación del equipo tratante."
     ],
     "dispensacion": "Confirmar pauta prescrita: una vez al día, con o sin alimentos. Reforzar síntomas de alarma, higiene y consultas oportunas; no indicar cambios autónomos de dosis ni suspensión.",
-    "posicionamiento": "En DM2, es una opción con evidencia de beneficio cardiovascular en personas con enfermedad cardiovascular establecida (EMPA-REG OUTCOME). También cuenta con evidencia de beneficio en enfermedad renal crónica (EMPA-KIDNEY, que incluyó participantes con y sin diabetes) y en insuficiencia cardíaca según estudios específicos. La elección no depende solo de HbA1c: considerar comorbilidades, función renal, tolerancia, acceso e indicaciones autorizadas en Chile. No asumir que todas las indicaciones o umbrales de uso son idénticos entre países o productos.",
+    "posicionamiento": "La empagliflozina ha adquirido un papel importante en el tratamiento de la DM2, especialmente cuando coexisten enfermedad cardiovascular, insuficiencia cardíaca o enfermedad renal crónica. Su utilidad va más allá de reducir la glucosa: en personas con DM2 y enfermedad cardiovascular establecida, EMPA-REG OUTCOME mostró una reducción de muerte cardiovascular y hospitalización por insuficiencia cardíaca; EMPA-KIDNEY, por su parte, respaldó su beneficio en determinados pacientes con enfermedad renal crónica, incluso sin diabetes. Esto ayuda a comprender por qué puede elegirse por objetivos cardiorrenales y no solo por la HbA1c. La decisión debe considerar la indicación autorizada, la función renal y las características individuales; los resultados de cada ensayo no se extrapolan automáticamente a todos los pacientes.",
     "mecanismo": "Inhibe SGLT2 en el túbulo proximal renal y reduce la reabsorción de glucosa, aumentando su eliminación por orina; también modifica el manejo renal de sodio.",
     "reacciones": [
       "Puede aumentar la frecuencia urinaria y favorecer infecciones genitales por hongos. Consulte si presenta picazón, irritación, flujo anormal o molestias al orinar. La pérdida de líquidos puede provocar sed o mareos; los eventos graves son infrecuentes, pero deben reconocerse."
@@ -217,14 +217,14 @@
         "estudio": "EMPA-REG OUTCOME",
         "poblacion": "Personas con DM2 y enfermedad cardiovascular establecida",
         "hallazgo": "Reducción de eventos cardiovasculares mayores; señal destacada de reducción de muerte cardiovascular y hospitalización por insuficiencia cardíaca.",
-        "interpretacion": "Los resultados corresponden a prevención secundaria cardiovascular; no representan automáticamente a toda persona con DM2.",
+        "interpretacion": "Este ensayo ayudó a establecer que el tratamiento puede aportar beneficios cardiovasculares más allá de reducir la HbA1c. Los resultados corresponden a prevención secundaria cardiovascular; no representan automáticamente a toda persona con DM2.",
         "url": "https://doi.org/10.1056/NEJMoa1504720"
       },
       {
         "estudio": "EMPA-KIDNEY",
         "poblacion": "Personas con enfermedad renal crónica, con o sin diabetes, seleccionadas según criterios de filtración y albuminuria",
         "hallazgo": "Menor riesgo del desenlace combinado de progresión renal o muerte cardiovascular frente a placebo.",
-        "interpretacion": "No equivale a eficacia glucémica preservada en filtración reducida ni sustituye criterios de indicación local.",
+        "interpretacion": "Este estudio respalda el uso de empagliflozina con objetivos de protección renal en determinados perfiles de enfermedad renal crónica. No equivale a eficacia glucémica preservada en filtración reducida ni sustituye criterios de indicación local.",
         "url": "https://doi.org/10.1056/NEJMoa2204233"
       }
     ]
@@ -302,7 +302,7 @@
       "Considerar situaciones de enfermedad aguda y cirugía con orientación del equipo tratante."
     ],
     "dispensacion": "Confirmar pauta prescrita: una vez al día, con o sin alimentos. Reforzar síntomas de alarma, higiene y consultas oportunas; no indicar cambios autónomos de dosis ni suspensión.",
-    "posicionamiento": "En DM2, aporta control glucémico cuando existe función renal suficiente y evidencia de reducción de hospitalización por insuficiencia cardíaca en DECLARE–TIMI 58. En poblaciones con insuficiencia cardíaca o enfermedad renal crónica, DAPA-HF y DAPA-CKD respaldan beneficios cardiorrenales, incluidos participantes sin diabetes. El efecto sobre glucemia disminuye cuando cae la filtración glomerular; separar el objetivo glucémico de las indicaciones cardiorrenales y verificar autorización y umbrales locales.",
+    "posicionamiento": "La dapagliflozina ocupa un lugar relevante en la DM2 cuando también es necesario considerar el riesgo de insuficiencia cardíaca o progresión de enfermedad renal. Además de favorecer la eliminación urinaria de glucosa, ha demostrado beneficios cardiorrenales en poblaciones específicas: DECLARE–TIMI 58 observó menos hospitalizaciones por insuficiencia cardíaca, mientras que DAPA-HF y DAPA-CKD mostraron beneficios en insuficiencia cardíaca con fracción de eyección reducida y enfermedad renal crónica albuminúrica, respectivamente, incluyendo personas sin diabetes. Por ello, su elección puede responder a objetivos distintos del control glucémico. Es importante recordar que su efecto sobre la glucosa disminuye con la reducción de la función renal, sin que esto signifique necesariamente la pérdida de sus beneficios cardiorrenales; la indicación y los umbrales de uso deben evaluarse según el contexto clínico y la información autorizada.",
     "mecanismo": "Inhibe SGLT2 en el túbulo proximal renal y reduce la reabsorción de glucosa, aumentando su eliminación por orina; también modifica el manejo renal de sodio.",
     "reacciones": [
       "Puede aumentar la frecuencia urinaria y favorecer infecciones genitales por hongos. Consulte si presenta picazón, irritación, flujo anormal o molestias al orinar. La pérdida de líquidos puede provocar sed o mareos; los eventos graves son infrecuentes, pero deben reconocerse."
@@ -377,21 +377,21 @@
         "estudio": "DECLARE–TIMI 58",
         "poblacion": "Personas con DM2 y enfermedad cardiovascular aterosclerótica o factores de riesgo",
         "hallazgo": "No demostró superioridad para el desenlace coprimario de eventos cardiovasculares mayores; redujo el desenlace combinado de muerte cardiovascular u hospitalización por insuficiencia cardíaca, impulsado principalmente por menos hospitalizaciones.",
-        "interpretacion": "Distinguir prevención cardiovascular aterosclerótica de resultados de insuficiencia cardíaca.",
+        "interpretacion": "El hallazgo más relevante para el posicionamiento fue la disminución de hospitalizaciones por insuficiencia cardíaca, no una reducción demostrada de eventos ateroscleróticos mayores. Distinguir prevención cardiovascular aterosclerótica de resultados de insuficiencia cardíaca.",
         "url": "https://doi.org/10.1056/NEJMoa1812389"
       },
       {
         "estudio": "DAPA-HF",
         "poblacion": "Personas con insuficiencia cardíaca y fracción de eyección reducida, con o sin diabetes",
         "hallazgo": "Disminuyó el desenlace compuesto de empeoramiento de insuficiencia cardíaca o muerte cardiovascular.",
-        "interpretacion": "Estudio de insuficiencia cardíaca; no debe describirse como ensayo exclusivo de DM2.",
+        "interpretacion": "Este estudio amplió la comprensión del medicamento como tratamiento de insuficiencia cardíaca, incluso en ausencia de diabetes. Estudio de insuficiencia cardíaca; no debe describirse como ensayo exclusivo de DM2.",
         "url": "https://doi.org/10.1056/NEJMoa1911303"
       },
       {
         "estudio": "DAPA-CKD",
         "poblacion": "Personas con enfermedad renal crónica albuminúrica, con o sin diabetes",
         "hallazgo": "Disminuyó el riesgo de deterioro renal sostenido, enfermedad renal terminal o muerte renal/cardiovascular en el desenlace primario compuesto.",
-        "interpretacion": "Población seleccionada por criterios renales; no generalizar a cualquier estadio o perfil de albuminuria.",
+        "interpretacion": "La protección renal observada ayuda a explicar su utilización por objetivos cardiorrenales y no únicamente glucémicos. Población seleccionada por criterios renales; no generalizar a cualquier estadio o perfil de albuminuria.",
         "url": "https://doi.org/10.1056/NEJMoa2024816"
       }
     ]
@@ -409,7 +409,7 @@
       "Considerar situaciones de enfermedad aguda y cirugía con orientación del equipo tratante."
     ],
     "dispensacion": "Confirmar pauta prescrita: una vez al día, preferentemente antes de la primera comida del día. Reforzar síntomas de alarma, higiene y consultas oportunas; no indicar cambios autónomos de dosis ni suspensión.",
-    "posicionamiento": "En DM2, el programa CANVAS mostró beneficio sobre eventos cardiovasculares mayores en personas con riesgo cardiovascular elevado. CREDENCE respaldó protección renal en DM2 con enfermedad renal crónica albuminúrica. Considerar antecedentes de enfermedad arterial periférica, úlceras, neuropatía, infecciones y amputación previa por la señal de amputaciones observada en CANVAS; es una precaución individualizada, no una prohibición general. Verificar indicaciones autorizadas en Chile.",
+    "posicionamiento": "La canagliflozina representa una alternativa en la DM2 cuyo interés no se limita a disminuir la glucosa sanguínea. En personas con DM2 y riesgo cardiovascular elevado, el programa CANVAS demostró una reducción de eventos cardiovasculares mayores; en pacientes con DM2 y enfermedad renal crónica albuminúrica, CREDENCE mostró una menor progresión de desenlaces renales importantes. Estos hallazgos permiten comprender su posicionamiento cuando el tratamiento busca abordar tanto el control metabólico como el riesgo cardiovascular y renal. Sin embargo, la elección requiere valorar las características del paciente, especialmente la salud de los pies y antecedentes vasculares, debido a la señal de amputaciones observada en CANVAS. Esta advertencia exige precaución individualizada, no constituye por sí sola una contraindicación general.",
     "mecanismo": "Inhibe SGLT2 en el túbulo proximal renal y reduce la reabsorción de glucosa, aumentando su eliminación por orina; también modifica el manejo renal de sodio.",
     "reacciones": [
       "Puede aumentar la frecuencia urinaria y favorecer infecciones genitales por hongos. Consulte si presenta picazón, irritación, flujo anormal o molestias al orinar. La pérdida de líquidos puede provocar sed o mareos; los eventos graves son infrecuentes, pero deben reconocerse."
@@ -480,14 +480,14 @@
         "estudio": "CANVAS Program",
         "poblacion": "Personas con DM2 y riesgo cardiovascular elevado",
         "hallazgo": "Reducción de eventos cardiovasculares mayores frente a placebo; se observó mayor incidencia de amputaciones, principalmente de dedos o metatarso.",
-        "interpretacion": "La señal de amputación requiere contextualización y evaluación de factores individuales; no es una contraindicación universal.",
+        "interpretacion": "El beneficio cardiovascular debe interpretarse junto con las señales de seguridad observadas, especialmente las relacionadas con amputaciones. La señal de amputación requiere contextualización y evaluación de factores individuales; no es una contraindicación universal.",
         "url": "https://doi.org/10.1056/NEJMoa1611925"
       },
       {
         "estudio": "CREDENCE",
         "poblacion": "Personas con DM2 y enfermedad renal crónica albuminúrica",
         "hallazgo": "Disminución del desenlace combinado de enfermedad renal terminal, duplicación de creatinina o muerte renal/cardiovascular.",
-        "interpretacion": "Los criterios de inclusión limitan la extrapolación a otras poblaciones; distinguir de la señal de seguridad del programa CANVAS.",
+        "interpretacion": "La evidencia renal apoya su consideración en personas con DM2 y enfermedad renal crónica albuminúrica que cumplen criterios apropiados. Los criterios de inclusión limitan la extrapolación a otras poblaciones; distinguir de la señal de seguridad del programa CANVAS.",
         "url": "https://doi.org/10.1056/NEJMoa1811744"
       }
     ]
