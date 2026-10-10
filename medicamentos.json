@@ -146,7 +146,7 @@
       "Considerar situaciones de enfermedad aguda y cirugía con orientación del equipo tratante."
     ],
     "dispensacion": "Confirmar pauta prescrita: una vez al día, con o sin alimentos. Reforzar síntomas de alarma, higiene y consultas oportunas; no indicar cambios autónomos de dosis ni suspensión.",
-    "posicionamiento": "DM2 y, según indicación autorizada y características del paciente, insuficiencia cardíaca o enfermedad renal crónica.",
+    "posicionamiento": "En DM2, es una opción con evidencia de beneficio cardiovascular en personas con enfermedad cardiovascular establecida (EMPA-REG OUTCOME). También cuenta con evidencia de beneficio en enfermedad renal crónica (EMPA-KIDNEY, que incluyó participantes con y sin diabetes) y en insuficiencia cardíaca según estudios específicos. La elección no depende solo de HbA1c: considerar comorbilidades, función renal, tolerancia, acceso e indicaciones autorizadas en Chile. No asumir que todas las indicaciones o umbrales de uso son idénticos entre países o productos.",
     "mecanismo": "Inhibe SGLT2 en el túbulo proximal renal y reduce la reabsorción de glucosa, aumentando su eliminación por orina; también modifica el manejo renal de sodio.",
     "reacciones": [
       "Puede aumentar la frecuencia urinaria y favorecer infecciones genitales por hongos. Consulte si presenta picazón, irritación, flujo anormal o molestias al orinar. La pérdida de líquidos puede provocar sed o mareos; los eventos graves son infrecuentes, pero deben reconocerse."
@@ -177,16 +177,24 @@
     ],
     "fuentes": [
       {
-        "nombre": "UpToDate — empagliflozina: Drug information (monografía clínica consultada, octubre de 2026)",
-        "url": "https://www.uptodate.com/contents/empagliflozina-drug-information"
-      },
-      {
         "nombre": "ISP Chile — recomendaciones generales de almacenamiento",
         "url": "https://www.ispch.gob.cl/noticia/isp-entrega-recomendaciones-sobre-el-correcto-almacenamiento-y-adquisicion-de-los-medicamentos/"
+      },
+      {
+        "nombre": "UpToDate — Empagliflozina: Drug information (monografía aportada al proyecto)",
+        "url": "https://www.uptodate.com/contents/empagliflozin-drug-information"
+      },
+      {
+        "nombre": "EMPA-REG OUTCOME — publicación original",
+        "url": "https://doi.org/10.1056/NEJMoa1504720"
+      },
+      {
+        "nombre": "EMPA-KIDNEY — publicación original",
+        "url": "https://doi.org/10.1056/NEJMoa2204233"
       }
     ],
     "revision": "2026-10-10",
-    "validacion": "Síntesis académica por principio activo basada en monografías UpToDate aportadas al proyecto y documentación ISP de referencia. No constituye validación clínica ni sustituye la ficha autorizada del producto dispensado.",
+    "validacion": "Síntesis académica contrastada con monografías aportadas de UpToDate, antecedentes regulatorios ISP y publicaciones originales de ensayos. Revisión profesional y validación clínica formal pendientes.",
     "marcas": [],
     "dispensacion_rapida": {
       "primera": {
@@ -203,7 +211,23 @@
         "efectos": "Puede aumentar la frecuencia urinaria y favorecer infecciones genitales por hongos. Consulte si presenta picazón, irritación, flujo anormal o molestias al orinar. ",
         "almacenamiento": "Conserve el medicamento en su envase original, protegido de calor y humedad excesivos, y fuera del alcance de los niños. Respete las condiciones indicadas en el envase o folleto del producto."
       }
-    }
+    },
+    "evidencia_clinica": [
+      {
+        "estudio": "EMPA-REG OUTCOME",
+        "poblacion": "Personas con DM2 y enfermedad cardiovascular establecida",
+        "hallazgo": "Reducción de eventos cardiovasculares mayores; señal destacada de reducción de muerte cardiovascular y hospitalización por insuficiencia cardíaca.",
+        "interpretacion": "Los resultados corresponden a prevención secundaria cardiovascular; no representan automáticamente a toda persona con DM2.",
+        "url": "https://doi.org/10.1056/NEJMoa1504720"
+      },
+      {
+        "estudio": "EMPA-KIDNEY",
+        "poblacion": "Personas con enfermedad renal crónica, con o sin diabetes, seleccionadas según criterios de filtración y albuminuria",
+        "hallazgo": "Menor riesgo del desenlace combinado de progresión renal o muerte cardiovascular frente a placebo.",
+        "interpretacion": "No equivale a eficacia glucémica preservada en filtración reducida ni sustituye criterios de indicación local.",
+        "url": "https://doi.org/10.1056/NEJMoa2204233"
+      }
+    ]
   },
   {
     "id": "semaglutida",
@@ -278,7 +302,7 @@
       "Considerar situaciones de enfermedad aguda y cirugía con orientación del equipo tratante."
     ],
     "dispensacion": "Confirmar pauta prescrita: una vez al día, con o sin alimentos. Reforzar síntomas de alarma, higiene y consultas oportunas; no indicar cambios autónomos de dosis ni suspensión.",
-    "posicionamiento": "DM2 y determinadas indicaciones de insuficiencia cardíaca y enfermedad renal crónica, según autorización vigente.",
+    "posicionamiento": "En DM2, aporta control glucémico cuando existe función renal suficiente y evidencia de reducción de hospitalización por insuficiencia cardíaca en DECLARE–TIMI 58. En poblaciones con insuficiencia cardíaca o enfermedad renal crónica, DAPA-HF y DAPA-CKD respaldan beneficios cardiorrenales, incluidos participantes sin diabetes. El efecto sobre glucemia disminuye cuando cae la filtración glomerular; separar el objetivo glucémico de las indicaciones cardiorrenales y verificar autorización y umbrales locales.",
     "mecanismo": "Inhibe SGLT2 en el túbulo proximal renal y reduce la reabsorción de glucosa, aumentando su eliminación por orina; también modifica el manejo renal de sodio.",
     "reacciones": [
       "Puede aumentar la frecuencia urinaria y favorecer infecciones genitales por hongos. Consulte si presenta picazón, irritación, flujo anormal o molestias al orinar. La pérdida de líquidos puede provocar sed o mareos; los eventos graves son infrecuentes, pero deben reconocerse."
@@ -309,16 +333,28 @@
     ],
     "fuentes": [
       {
-        "nombre": "UpToDate — dapagliflozina: Drug information (monografía clínica consultada, octubre de 2026)",
-        "url": "https://www.uptodate.com/contents/dapagliflozina-drug-information"
-      },
-      {
         "nombre": "ISP Chile — recomendaciones generales de almacenamiento",
         "url": "https://www.ispch.gob.cl/noticia/isp-entrega-recomendaciones-sobre-el-correcto-almacenamiento-y-adquisicion-de-los-medicamentos/"
+      },
+      {
+        "nombre": "UpToDate — Dapagliflozina: Drug information (monografía aportada al proyecto)",
+        "url": "https://www.uptodate.com/contents/dapagliflozin-drug-information"
+      },
+      {
+        "nombre": "DECLARE–TIMI 58 — publicación original",
+        "url": "https://doi.org/10.1056/NEJMoa1812389"
+      },
+      {
+        "nombre": "DAPA-HF — publicación original",
+        "url": "https://doi.org/10.1056/NEJMoa1911303"
+      },
+      {
+        "nombre": "DAPA-CKD — publicación original",
+        "url": "https://doi.org/10.1056/NEJMoa2024816"
       }
     ],
     "revision": "2026-10-10",
-    "validacion": "Síntesis académica por principio activo basada en monografías UpToDate aportadas al proyecto y documentación ISP de referencia. No constituye validación clínica ni sustituye la ficha autorizada del producto dispensado.",
+    "validacion": "Síntesis académica contrastada con monografías aportadas de UpToDate, antecedentes regulatorios ISP y publicaciones originales de ensayos. Revisión profesional y validación clínica formal pendientes.",
     "marcas": [],
     "dispensacion_rapida": {
       "primera": {
@@ -335,7 +371,30 @@
         "efectos": "Puede aumentar la frecuencia urinaria y favorecer infecciones genitales por hongos. Consulte si presenta picazón, irritación, flujo anormal o molestias al orinar. ",
         "almacenamiento": "Conserve el medicamento en su envase original, protegido de calor y humedad excesivos, y fuera del alcance de los niños. Respete las condiciones indicadas en el envase o folleto del producto."
       }
-    }
+    },
+    "evidencia_clinica": [
+      {
+        "estudio": "DECLARE–TIMI 58",
+        "poblacion": "Personas con DM2 y enfermedad cardiovascular aterosclerótica o factores de riesgo",
+        "hallazgo": "No demostró superioridad para el desenlace coprimario de eventos cardiovasculares mayores; redujo el desenlace combinado de muerte cardiovascular u hospitalización por insuficiencia cardíaca, impulsado principalmente por menos hospitalizaciones.",
+        "interpretacion": "Distinguir prevención cardiovascular aterosclerótica de resultados de insuficiencia cardíaca.",
+        "url": "https://doi.org/10.1056/NEJMoa1812389"
+      },
+      {
+        "estudio": "DAPA-HF",
+        "poblacion": "Personas con insuficiencia cardíaca y fracción de eyección reducida, con o sin diabetes",
+        "hallazgo": "Disminuyó el desenlace compuesto de empeoramiento de insuficiencia cardíaca o muerte cardiovascular.",
+        "interpretacion": "Estudio de insuficiencia cardíaca; no debe describirse como ensayo exclusivo de DM2.",
+        "url": "https://doi.org/10.1056/NEJMoa1911303"
+      },
+      {
+        "estudio": "DAPA-CKD",
+        "poblacion": "Personas con enfermedad renal crónica albuminúrica, con o sin diabetes",
+        "hallazgo": "Disminuyó el riesgo de deterioro renal sostenido, enfermedad renal terminal o muerte renal/cardiovascular en el desenlace primario compuesto.",
+        "interpretacion": "Población seleccionada por criterios renales; no generalizar a cualquier estadio o perfil de albuminuria.",
+        "url": "https://doi.org/10.1056/NEJMoa2024816"
+      }
+    ]
   },
   {
     "id": "canagliflozina",
@@ -350,7 +409,7 @@
       "Considerar situaciones de enfermedad aguda y cirugía con orientación del equipo tratante."
     ],
     "dispensacion": "Confirmar pauta prescrita: una vez al día, preferentemente antes de la primera comida del día. Reforzar síntomas de alarma, higiene y consultas oportunas; no indicar cambios autónomos de dosis ni suspensión.",
-    "posicionamiento": "DM2 y beneficios renales o cardiovasculares en poblaciones específicas; verificar indicaciones autorizadas en Chile.",
+    "posicionamiento": "En DM2, el programa CANVAS mostró beneficio sobre eventos cardiovasculares mayores en personas con riesgo cardiovascular elevado. CREDENCE respaldó protección renal en DM2 con enfermedad renal crónica albuminúrica. Considerar antecedentes de enfermedad arterial periférica, úlceras, neuropatía, infecciones y amputación previa por la señal de amputaciones observada en CANVAS; es una precaución individualizada, no una prohibición general. Verificar indicaciones autorizadas en Chile.",
     "mecanismo": "Inhibe SGLT2 en el túbulo proximal renal y reduce la reabsorción de glucosa, aumentando su eliminación por orina; también modifica el manejo renal de sodio.",
     "reacciones": [
       "Puede aumentar la frecuencia urinaria y favorecer infecciones genitales por hongos. Consulte si presenta picazón, irritación, flujo anormal o molestias al orinar. La pérdida de líquidos puede provocar sed o mareos; los eventos graves son infrecuentes, pero deben reconocerse."
@@ -381,16 +440,24 @@
     ],
     "fuentes": [
       {
-        "nombre": "UpToDate — canagliflozina: Drug information (monografía clínica consultada, octubre de 2026)",
-        "url": "https://www.uptodate.com/contents/canagliflozina-drug-information"
-      },
-      {
         "nombre": "ISP Chile — recomendaciones generales de almacenamiento",
         "url": "https://www.ispch.gob.cl/noticia/isp-entrega-recomendaciones-sobre-el-correcto-almacenamiento-y-adquisicion-de-los-medicamentos/"
+      },
+      {
+        "nombre": "UpToDate — Canagliflozina: Drug information (monografía aportada al proyecto)",
+        "url": "https://www.uptodate.com/contents/canagliflozin-drug-information"
+      },
+      {
+        "nombre": "CANVAS Program — publicación original",
+        "url": "https://doi.org/10.1056/NEJMoa1611925"
+      },
+      {
+        "nombre": "CREDENCE — publicación original",
+        "url": "https://doi.org/10.1056/NEJMoa1811744"
       }
     ],
     "revision": "2026-10-10",
-    "validacion": "Síntesis académica por principio activo basada en monografías UpToDate aportadas al proyecto y documentación ISP de referencia. No constituye validación clínica ni sustituye la ficha autorizada del producto dispensado.",
+    "validacion": "Síntesis académica contrastada con monografías aportadas de UpToDate, antecedentes regulatorios ISP y publicaciones originales de ensayos. Revisión profesional y validación clínica formal pendientes.",
     "marcas": [],
     "dispensacion_rapida": {
       "primera": {
@@ -407,6 +474,22 @@
         "efectos": "Puede aumentar la frecuencia urinaria y favorecer infecciones genitales por hongos. Consulte si presenta picazón, irritación, flujo anormal o molestias al orinar. Revise sus pies y consulte oportunamente por heridas, dolor nuevo, cambios de color o signos de infección.",
         "almacenamiento": "Conserve el medicamento en su envase original, protegido de calor y humedad excesivos, y fuera del alcance de los niños. Respete las condiciones indicadas en el envase o folleto del producto."
       }
-    }
+    },
+    "evidencia_clinica": [
+      {
+        "estudio": "CANVAS Program",
+        "poblacion": "Personas con DM2 y riesgo cardiovascular elevado",
+        "hallazgo": "Reducción de eventos cardiovasculares mayores frente a placebo; se observó mayor incidencia de amputaciones, principalmente de dedos o metatarso.",
+        "interpretacion": "La señal de amputación requiere contextualización y evaluación de factores individuales; no es una contraindicación universal.",
+        "url": "https://doi.org/10.1056/NEJMoa1611925"
+      },
+      {
+        "estudio": "CREDENCE",
+        "poblacion": "Personas con DM2 y enfermedad renal crónica albuminúrica",
+        "hallazgo": "Disminución del desenlace combinado de enfermedad renal terminal, duplicación de creatinina o muerte renal/cardiovascular.",
+        "interpretacion": "Los criterios de inclusión limitan la extrapolación a otras poblaciones; distinguir de la señal de seguridad del programa CANVAS.",
+        "url": "https://doi.org/10.1056/NEJMoa1811744"
+      }
+    ]
   }
 ]

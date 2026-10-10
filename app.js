@@ -52,6 +52,11 @@ function detail(id, tab='rapida', mode='primera', selectedBrand=''){
   body+=block('Interacciones y situaciones de riesgo',list(m.interacciones));
   body+=block('Alertas para dispensación',`<div class="alerts">${(m.alertas||[]).map(a=>`<div class="alert-item"><span class="chip">${esc(a.nivel)}</span><b>${esc(a.titulo)}</b><p>${esc(a.detalle)}</p></div>`).join('')}</div>`);
   body+=block('Orientación para la dispensación',`<p>${esc(m.dispensacion)}</p>`);
+  if(Array.isArray(m.evidencia_clinica)&&m.evidencia_clinica.length){
+    body+=block('Información suplementaria · estudios de eficacia y seguridad',
+      '<p class="muted">Síntesis educativa de ensayos representativos. Los resultados se refieren a las poblaciones y desenlaces estudiados; no equivalen a una indicación individual ni a validación clínica de la plataforma.</p>'+
+      m.evidencia_clinica.map(e=>'<div class="evidence-item"><h4>'+esc(e.estudio)+'</h4><p><strong>Población:</strong> '+esc(e.poblacion)+'</p><p><strong>Resultado:</strong> '+esc(e.hallazgo)+'</p><p><strong>Interpretación y límites:</strong> '+esc(e.interpretacion)+'</p><p><a href="'+esc(e.url)+'" target="_blank" rel="noopener noreferrer">Consultar publicación original ↗</a></p></div>').join(''));
+  }
   body+=block('Fuentes y trazabilidad',`<ul>${(m.fuentes||[]).map(s=>`<li><a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">${esc(s.nombre)} ↗</a></li>`).join('')}</ul>${m.id==='metformina'?`<p><strong>Fuentes regulatorias chilenas consultadas:</strong> Glucophage 850 mg, REF MT1068830/18, págs. 3–10; Metformina LP 500 mg, REF MT1727919/21, págs. 1–7. Documentos profesionales aportados al proyecto, sin verificación de vigencia actual. Las pautas de administración y manipulación se consideran específicas del producto.</p><p><strong>Contexto nacional:</strong> guía MINSAL 2016–2017 como antecedente histórico; infografía de vía clínica DM2 aportada, con fecha y vigencia oficial aún por confirmar.</p>`:''}<p class="muted mini">Fecha del borrador: ${esc(m.revision)}. ${esc(m.validacion)}</p>`);
  }else{
   body+=block('Descripción general',`<p>${esc(m.descripcion)}</p>`);

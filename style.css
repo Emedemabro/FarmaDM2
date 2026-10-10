@@ -70,3 +70,5 @@
 @media(max-width:370px){.attention-shortcuts button{min-height:76px;padding:8px 4px}}
 
 .commercial-lookup{margin:24px 0;padding:18px;border:1px solid #cbdedc;border-radius:14px}.commercial-lookup h3{margin-top:0}
+
+.evidence-item{padding:12px 0;border-bottom:1px solid var(--border,#d8dfe5)}.evidence-item h4{margin:0 0 8px}.evidence-item p{margin:6px 0;line-height:1.5}
