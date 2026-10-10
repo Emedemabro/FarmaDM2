@@ -136,17 +136,74 @@
   {
     "id": "empagliflozina",
     "nombre": "Empagliflozina",
-    "familia": "Inhibidor SGLT2",
+    "familia": "Inhibidor del cotransportador sodio-glucosa tipo 2 (iSGLT2)",
     "via": "Oral",
-    "estado": "Pendiente de validación",
-    "descripcion": "Inhibe la reabsorción renal de glucosa mediada por SGLT2.",
+    "estado": "Ficha ampliada · revisión profesional pendiente",
+    "descripcion": "Favorece la eliminación urinaria de glucosa al inhibir SGLT2 en el riñón.",
     "seguridad": [
-      "Evaluar antecedentes de depleción de volumen y síntomas de infecciones genitales.",
-      "Reconocer síntomas compatibles con cetoacidosis, incluso sin hiperglicemia marcada.",
-      "Los criterios de uso renal dependen de la indicación y de la información vigente."
+      "Reconocer signos de deshidratación y posibles infecciones genitales.",
+      "Reconocer síntomas de cetoacidosis incluso sin hiperglucemia marcada.",
+      "Considerar situaciones de enfermedad aguda y cirugía con orientación del equipo tratante."
     ],
-    "dispensacion": "No recomendar aumento indiscriminado de líquidos ni asumir un umbral renal universal.",
-    "marcas": []
+    "dispensacion": "Confirmar pauta prescrita: una vez al día, con o sin alimentos. Reforzar síntomas de alarma, higiene y consultas oportunas; no indicar cambios autónomos de dosis ni suspensión.",
+    "posicionamiento": "DM2 y, según indicación autorizada y características del paciente, insuficiencia cardíaca o enfermedad renal crónica.",
+    "mecanismo": "Inhibe SGLT2 en el túbulo proximal renal y reduce la reabsorción de glucosa, aumentando su eliminación por orina; también modifica el manejo renal de sodio.",
+    "reacciones": [
+      "Puede aumentar la frecuencia urinaria y favorecer infecciones genitales por hongos. Consulte si presenta picazón, irritación, flujo anormal o molestias al orinar. La pérdida de líquidos puede provocar sed o mareos; los eventos graves son infrecuentes, pero deben reconocerse."
+    ],
+    "renal": "No extrapolar los umbrales de filtración renal entre indicaciones; considerar función renal, situación clínica y ficha vigente.",
+    "interacciones": [
+      "Diuréticos: La combinación puede aumentar el riesgo de deshidratación, mareos y presión arterial baja; evaluar individualmente.",
+      "Insulina o sulfonilureas: Puede aumentar el riesgo de hipoglucemia; la modificación de dosis corresponde al equipo tratante.",
+      "Interacciones específicas: Litio: puede disminuir sus concentraciones séricas; requiere vigilancia profesional. Diuréticos: pueden aumentar mareos, hipotensión y deshidratación.",
+      "Antiinflamatorios no esteroidales: En presencia de deshidratación, enfermedad renal u otros factores predisponentes, la automedicación con ibuprofeno o naproxeno puede añadir riesgo renal. Consultar al profesional; no constituye prohibición universal."
+    ],
+    "alertas": [
+      {
+        "nivel": "Urgencias",
+        "titulo": "Posible cetoacidosis",
+        "detalle": "Acuda a urgencias si presenta náuseas o vómitos intensos, dolor abdominal, respiración rápida, somnolencia o debilidad marcada, incluso si la glucosa no está muy elevada. Dolor intenso, enrojecimiento o hinchazón genital o perineal, especialmente con fiebre, también requiere atención urgente."
+      },
+      {
+        "nivel": "Precaución",
+        "titulo": "Enfermedad aguda o cirugía",
+        "detalle": "Ante ayuno prolongado, vómitos intensos, deshidratación o cirugía, contactar al equipo tratante para indicaciones de manejo temporal y reinicio."
+      },
+      {
+        "nivel": "Consulta",
+        "titulo": "Infección genital o urinaria",
+        "detalle": "Consultar si presenta picazón genital, secreción anormal, dolor o ardor al orinar; urgencias ante fiebre con compromiso general o dolor perineal intenso."
+      }
+    ],
+    "fuentes": [
+      {
+        "nombre": "UpToDate — empagliflozina: Drug information (monografía clínica consultada, octubre de 2026)",
+        "url": "https://www.uptodate.com/contents/empagliflozina-drug-information"
+      },
+      {
+        "nombre": "ISP Chile — recomendaciones generales de almacenamiento",
+        "url": "https://www.ispch.gob.cl/noticia/isp-entrega-recomendaciones-sobre-el-correcto-almacenamiento-y-adquisicion-de-los-medicamentos/"
+      }
+    ],
+    "revision": "2026-10-10",
+    "validacion": "Síntesis académica por principio activo basada en monografías UpToDate aportadas al proyecto y documentación ISP de referencia. No constituye validación clínica ni sustituye la ficha autorizada del producto dispensado.",
+    "marcas": [],
+    "dispensacion_rapida": {
+      "primera": {
+        "consejo": "Este medicamento ayuda a eliminar parte del exceso de azúcar de la sangre a través de la orina. Por eso, es posible que orine con mayor frecuencia. Se toma una vez al día, con o sin alimentos, siguiendo siempre su receta.",
+        "pregunta": "¿Es la primera vez que lo utiliza? ¿Le explicaron cuándo tomarlo y qué molestias requieren consulta?",
+        "accion": "Verificar nombre, concentración, pauta prescrita y presentación. Explicar hidratación habitual según indicación clínica y signos de alarma; derivar dudas al químico farmacéutico.",
+        "efectos": "Puede aumentar la frecuencia urinaria y favorecer infecciones genitales por hongos. Consulte si presenta picazón, irritación, flujo anormal o molestias al orinar.  Acuda a urgencias si presenta náuseas o vómitos intensos, dolor abdominal, respiración rápida, somnolencia o debilidad marcada, incluso si la glucosa no está muy elevada. Dolor intenso, enrojecimiento o hinchazón genital o perineal, especialmente con fiebre, también requiere atención urgente.",
+        "almacenamiento": "Conserve el medicamento en su envase original, protegido de calor y humedad excesivos, y fuera del alcance de los niños. Respete las condiciones indicadas en el envase o folleto del producto."
+      },
+      "habitual": {
+        "consejo": "Mantenga la pauta indicada. Si presenta mareos, debilidad o mucha sed, acuda a un servicio de salud. Ante vómitos o diarrea intensos, imposibilidad de comer o beber, o una cirugía programada, contacte al equipo tratante para recibir indicaciones sobre el manejo temporal y reinicio del medicamento.",
+        "pregunta": "¿Ha presentado molestias genitales, mareos o dificultades para alimentarse o hidratarse?",
+        "accion": "Reforzar adherencia, evaluar dudas y derivar signos de alarma. Confirmar indicaciones del equipo tratante ante enfermedad aguda o cirugía.",
+        "efectos": "Puede aumentar la frecuencia urinaria y favorecer infecciones genitales por hongos. Consulte si presenta picazón, irritación, flujo anormal o molestias al orinar. ",
+        "almacenamiento": "Conserve el medicamento en su envase original, protegido de calor y humedad excesivos, y fuera del alcance de los niños. Respete las condiciones indicadas en el envase o folleto del producto."
+      }
+    }
   },
   {
     "id": "semaglutida",
@@ -207,5 +264,149 @@
     ],
     "dispensacion": "Verificar función renal documentada y farmacoterapia concomitante cuando corresponda.",
     "marcas": []
+  },
+  {
+    "id": "dapagliflozina",
+    "nombre": "Dapagliflozina",
+    "familia": "Inhibidor del cotransportador sodio-glucosa tipo 2 (iSGLT2)",
+    "via": "Oral",
+    "estado": "Ficha ampliada · revisión profesional pendiente",
+    "descripcion": "Favorece la eliminación urinaria de glucosa al inhibir SGLT2 en el riñón.",
+    "seguridad": [
+      "Reconocer signos de deshidratación y posibles infecciones genitales.",
+      "Reconocer síntomas de cetoacidosis incluso sin hiperglucemia marcada.",
+      "Considerar situaciones de enfermedad aguda y cirugía con orientación del equipo tratante."
+    ],
+    "dispensacion": "Confirmar pauta prescrita: una vez al día, con o sin alimentos. Reforzar síntomas de alarma, higiene y consultas oportunas; no indicar cambios autónomos de dosis ni suspensión.",
+    "posicionamiento": "DM2 y determinadas indicaciones de insuficiencia cardíaca y enfermedad renal crónica, según autorización vigente.",
+    "mecanismo": "Inhibe SGLT2 en el túbulo proximal renal y reduce la reabsorción de glucosa, aumentando su eliminación por orina; también modifica el manejo renal de sodio.",
+    "reacciones": [
+      "Puede aumentar la frecuencia urinaria y favorecer infecciones genitales por hongos. Consulte si presenta picazón, irritación, flujo anormal o molestias al orinar. La pérdida de líquidos puede provocar sed o mareos; los eventos graves son infrecuentes, pero deben reconocerse."
+    ],
+    "renal": "La eficacia hipoglucemiante disminuye con filtración renal reducida. La decisión de inicio y continuidad depende de la indicación; verificar información vigente.",
+    "interacciones": [
+      "Diuréticos: La combinación puede aumentar el riesgo de deshidratación, mareos y presión arterial baja; evaluar individualmente.",
+      "Insulina o sulfonilureas: Puede aumentar el riesgo de hipoglucemia; la modificación de dosis corresponde al equipo tratante.",
+      "Interacciones específicas: Litio: puede disminuir sus concentraciones séricas; requiere vigilancia profesional. Diuréticos: pueden aumentar mareos, hipotensión y deshidratación.",
+      "Antiinflamatorios no esteroidales: En presencia de deshidratación, enfermedad renal u otros factores predisponentes, la automedicación con ibuprofeno o naproxeno puede añadir riesgo renal. Consultar al profesional; no constituye prohibición universal."
+    ],
+    "alertas": [
+      {
+        "nivel": "Urgencias",
+        "titulo": "Posible cetoacidosis",
+        "detalle": "Acuda a urgencias si presenta náuseas o vómitos intensos, dolor abdominal, respiración rápida, somnolencia o debilidad marcada, incluso si la glucosa no está muy elevada. Dolor intenso, enrojecimiento o hinchazón genital o perineal, especialmente con fiebre, también requiere atención urgente."
+      },
+      {
+        "nivel": "Precaución",
+        "titulo": "Enfermedad aguda o cirugía",
+        "detalle": "Ante ayuno prolongado, vómitos intensos, deshidratación o cirugía, contactar al equipo tratante para indicaciones de manejo temporal y reinicio."
+      },
+      {
+        "nivel": "Consulta",
+        "titulo": "Infección genital o urinaria",
+        "detalle": "Consultar si presenta picazón genital, secreción anormal, dolor o ardor al orinar; urgencias ante fiebre con compromiso general o dolor perineal intenso."
+      }
+    ],
+    "fuentes": [
+      {
+        "nombre": "UpToDate — dapagliflozina: Drug information (monografía clínica consultada, octubre de 2026)",
+        "url": "https://www.uptodate.com/contents/dapagliflozina-drug-information"
+      },
+      {
+        "nombre": "ISP Chile — recomendaciones generales de almacenamiento",
+        "url": "https://www.ispch.gob.cl/noticia/isp-entrega-recomendaciones-sobre-el-correcto-almacenamiento-y-adquisicion-de-los-medicamentos/"
+      }
+    ],
+    "revision": "2026-10-10",
+    "validacion": "Síntesis académica por principio activo basada en monografías UpToDate aportadas al proyecto y documentación ISP de referencia. No constituye validación clínica ni sustituye la ficha autorizada del producto dispensado.",
+    "marcas": [],
+    "dispensacion_rapida": {
+      "primera": {
+        "consejo": "Este medicamento ayuda a eliminar parte del exceso de azúcar de la sangre a través de la orina. Por eso, es posible que orine con mayor frecuencia. Se toma una vez al día, con o sin alimentos, siguiendo siempre su receta.",
+        "pregunta": "¿Es la primera vez que lo utiliza? ¿Le explicaron cuándo tomarlo y qué molestias requieren consulta?",
+        "accion": "Verificar nombre, concentración, pauta prescrita y presentación. Explicar hidratación habitual según indicación clínica y signos de alarma; derivar dudas al químico farmacéutico.",
+        "efectos": "Puede aumentar la frecuencia urinaria y favorecer infecciones genitales por hongos. Consulte si presenta picazón, irritación, flujo anormal o molestias al orinar.  Acuda a urgencias si presenta náuseas o vómitos intensos, dolor abdominal, respiración rápida, somnolencia o debilidad marcada, incluso si la glucosa no está muy elevada. Dolor intenso, enrojecimiento o hinchazón genital o perineal, especialmente con fiebre, también requiere atención urgente.",
+        "almacenamiento": "Conserve el medicamento en su envase original, protegido de calor y humedad excesivos, y fuera del alcance de los niños. Respete las condiciones indicadas en el envase o folleto del producto."
+      },
+      "habitual": {
+        "consejo": "Mantenga la pauta indicada. Si presenta mareos, debilidad o mucha sed, acuda a un servicio de salud. Ante vómitos o diarrea intensos, imposibilidad de comer o beber, o una cirugía programada, contacte al equipo tratante para recibir indicaciones sobre el manejo temporal y reinicio del medicamento.",
+        "pregunta": "¿Ha presentado molestias genitales, mareos o dificultades para alimentarse o hidratarse?",
+        "accion": "Reforzar adherencia, evaluar dudas y derivar signos de alarma. Confirmar indicaciones del equipo tratante ante enfermedad aguda o cirugía.",
+        "efectos": "Puede aumentar la frecuencia urinaria y favorecer infecciones genitales por hongos. Consulte si presenta picazón, irritación, flujo anormal o molestias al orinar. ",
+        "almacenamiento": "Conserve el medicamento en su envase original, protegido de calor y humedad excesivos, y fuera del alcance de los niños. Respete las condiciones indicadas en el envase o folleto del producto."
+      }
+    }
+  },
+  {
+    "id": "canagliflozina",
+    "nombre": "Canagliflozina",
+    "familia": "Inhibidor del cotransportador sodio-glucosa tipo 2 (iSGLT2)",
+    "via": "Oral",
+    "estado": "Ficha ampliada · revisión profesional pendiente",
+    "descripcion": "Favorece la eliminación urinaria de glucosa al inhibir SGLT2 en el riñón.",
+    "seguridad": [
+      "Reconocer signos de deshidratación y posibles infecciones genitales.",
+      "Reconocer síntomas de cetoacidosis incluso sin hiperglucemia marcada.",
+      "Considerar situaciones de enfermedad aguda y cirugía con orientación del equipo tratante."
+    ],
+    "dispensacion": "Confirmar pauta prescrita: una vez al día, preferentemente antes de la primera comida del día. Reforzar síntomas de alarma, higiene y consultas oportunas; no indicar cambios autónomos de dosis ni suspensión.",
+    "posicionamiento": "DM2 y beneficios renales o cardiovasculares en poblaciones específicas; verificar indicaciones autorizadas en Chile.",
+    "mecanismo": "Inhibe SGLT2 en el túbulo proximal renal y reduce la reabsorción de glucosa, aumentando su eliminación por orina; también modifica el manejo renal de sodio.",
+    "reacciones": [
+      "Puede aumentar la frecuencia urinaria y favorecer infecciones genitales por hongos. Consulte si presenta picazón, irritación, flujo anormal o molestias al orinar. La pérdida de líquidos puede provocar sed o mareos; los eventos graves son infrecuentes, pero deben reconocerse."
+    ],
+    "renal": "Atender especialmente antecedentes de úlceras, infección o problemas circulatorios en pies; no afirmar que todos los pacientes presentan el mismo riesgo de amputación.",
+    "interacciones": [
+      "Diuréticos: La combinación puede aumentar el riesgo de deshidratación, mareos y presión arterial baja; evaluar individualmente.",
+      "Insulina o sulfonilureas: Puede aumentar el riesgo de hipoglucemia; la modificación de dosis corresponde al equipo tratante.",
+      "Interacciones específicas: Inductores de UGT pueden reducir la exposición a canagliflozina y requieren revisión profesional. Diuréticos pueden favorecer pérdida de volumen.",
+      "Antiinflamatorios no esteroidales: En presencia de deshidratación, enfermedad renal u otros factores predisponentes, la automedicación con ibuprofeno o naproxeno puede añadir riesgo renal. Consultar al profesional; no constituye prohibición universal."
+    ],
+    "alertas": [
+      {
+        "nivel": "Urgencias",
+        "titulo": "Posible cetoacidosis",
+        "detalle": "Acuda a urgencias si presenta náuseas o vómitos intensos, dolor abdominal, respiración rápida, somnolencia o debilidad marcada, incluso si la glucosa no está muy elevada. Dolor intenso, enrojecimiento o hinchazón genital o perineal, especialmente con fiebre, también requiere atención urgente."
+      },
+      {
+        "nivel": "Precaución",
+        "titulo": "Enfermedad aguda o cirugía",
+        "detalle": "Ante ayuno prolongado, vómitos intensos, deshidratación o cirugía, contactar al equipo tratante para indicaciones de manejo temporal y reinicio."
+      },
+      {
+        "nivel": "Consulta",
+        "titulo": "Infección genital o urinaria",
+        "detalle": "Consultar si presenta picazón genital, secreción anormal, dolor o ardor al orinar; urgencias ante fiebre con compromiso general o dolor perineal intenso."
+      }
+    ],
+    "fuentes": [
+      {
+        "nombre": "UpToDate — canagliflozina: Drug information (monografía clínica consultada, octubre de 2026)",
+        "url": "https://www.uptodate.com/contents/canagliflozina-drug-information"
+      },
+      {
+        "nombre": "ISP Chile — recomendaciones generales de almacenamiento",
+        "url": "https://www.ispch.gob.cl/noticia/isp-entrega-recomendaciones-sobre-el-correcto-almacenamiento-y-adquisicion-de-los-medicamentos/"
+      }
+    ],
+    "revision": "2026-10-10",
+    "validacion": "Síntesis académica por principio activo basada en monografías UpToDate aportadas al proyecto y documentación ISP de referencia. No constituye validación clínica ni sustituye la ficha autorizada del producto dispensado.",
+    "marcas": [],
+    "dispensacion_rapida": {
+      "primera": {
+        "consejo": "Este medicamento ayuda a eliminar parte del exceso de azúcar de la sangre a través de la orina. Por eso, es posible que orine con mayor frecuencia. Se toma una vez al día, preferentemente antes de la primera comida del día, siguiendo siempre su receta.",
+        "pregunta": "¿Es la primera vez que lo utiliza? ¿Le explicaron cuándo tomarlo y qué molestias requieren consulta?",
+        "accion": "Verificar nombre, concentración, pauta prescrita y presentación. Explicar hidratación habitual según indicación clínica y signos de alarma; derivar dudas al químico farmacéutico.",
+        "efectos": "Puede aumentar la frecuencia urinaria y favorecer infecciones genitales por hongos. Consulte si presenta picazón, irritación, flujo anormal o molestias al orinar. Revise sus pies y consulte oportunamente por heridas, dolor nuevo, cambios de color o signos de infección. Acuda a urgencias si presenta náuseas o vómitos intensos, dolor abdominal, respiración rápida, somnolencia o debilidad marcada, incluso si la glucosa no está muy elevada. Dolor intenso, enrojecimiento o hinchazón genital o perineal, especialmente con fiebre, también requiere atención urgente.",
+        "almacenamiento": "Conserve el medicamento en su envase original, protegido de calor y humedad excesivos, y fuera del alcance de los niños. Respete las condiciones indicadas en el envase o folleto del producto."
+      },
+      "habitual": {
+        "consejo": "Mantenga la pauta indicada. Si presenta mareos, debilidad o mucha sed, acuda a un servicio de salud. Ante vómitos o diarrea intensos, imposibilidad de comer o beber, o una cirugía programada, contacte al equipo tratante para recibir indicaciones sobre el manejo temporal y reinicio del medicamento.",
+        "pregunta": "¿Ha presentado molestias genitales, mareos o dificultades para alimentarse o hidratarse?",
+        "accion": "Reforzar adherencia, evaluar dudas y derivar signos de alarma. Confirmar indicaciones del equipo tratante ante enfermedad aguda o cirugía.",
+        "efectos": "Puede aumentar la frecuencia urinaria y favorecer infecciones genitales por hongos. Consulte si presenta picazón, irritación, flujo anormal o molestias al orinar. Revise sus pies y consulte oportunamente por heridas, dolor nuevo, cambios de color o signos de infección.",
+        "almacenamiento": "Conserve el medicamento en su envase original, protegido de calor y humedad excesivos, y fuera del alcance de los niños. Respete las condiciones indicadas en el envase o folleto del producto."
+      }
+    }
   }
 ]
