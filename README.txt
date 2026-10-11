@@ -6,3 +6,6 @@ Version 2.1: consejos esenciales diferenciados, molestias GI en lista, via desta
 Version v2.3: posicionamiento iSGLT2 ampliado; evidencia de ensayos y fuentes primarias en Informacion clinica. Revision profesional pendiente.
 
 Revision v2.3.1: posicionamiento terapeutico narrativo y contextualizacion de ensayos iSGLT2.
+
+
+Version 25: fichas GLP-1 documentales: Ozempic, Rybelsus, dulaglutida, liraglutida DM2 parcial, Wegovy y Saxenda (peso). Verificar vigencia ISP, dispositivos y validacion clinica. Estudios como enlaces de busqueda para cotejo, no citas bibliograficas finales.

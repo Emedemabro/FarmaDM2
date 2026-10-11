@@ -267,18 +267,113 @@
   },
   {
     "id": "semaglutida",
-    "nombre": "Semaglutida",
+    "nombre": "Semaglutida (Ozempic) — DM2",
     "familia": "Agonista receptor GLP-1",
-    "via": "Oral o subcutánea, según presentación",
-    "estado": "Pendiente de validación",
-    "descripcion": "Agonismo del receptor GLP-1 con efectos dependientes de glucosa y sobre el apetito.",
+    "via": "Subcutánea semanal",
+    "estado": "Ficha documental ampliada · requiere validación profesional y verificación de registro vigente",
+    "descripcion": "Semaglutida subcutánea para control glicémico de DM2 según folleto ISP Ozempic.",
     "seguridad": [
-      "La administración y titulación varían según la presentación.",
-      "Vigilar tolerancia gastrointestinal y síntomas persistentes de alarma.",
-      "La asociación con insulina o sulfonilureas puede aumentar el riesgo de hipoglicemia."
+      "Verificar antecedentes de pancreatitis y síntomas abdominales persistentes.",
+      "Vigilar deshidratación por efectos gastrointestinales.",
+      "Insulina o sulfonilurea concomitante: mayor riesgo de hipoglucemia.",
+      "En antecedentes de retinopatía diabética, considerar vigilancia por riesgo de empeoramiento transitorio con reducción rápida de HbA1c."
     ],
-    "dispensacion": "Confirmar formulación y presentación antes de orientar la administración.",
-    "marcas": []
+    "dispensacion": "Verificar presentación, indicación de receta, titulación, técnica de administración y tolerancia; no modificar dosis sin prescriptor.",
+    "marcas": [],
+    "posicionamiento": "Indicación del producto: DM2. Los beneficios de ensayos clínicos se interpretan por molécula, formulación y población, no como efecto uniforme de clase.",
+    "mecanismo": "Agonismo del receptor GLP-1: estimula la secreción de insulina dependiente de glucosa, reduce glucagón inapropiadamente elevado y enlentece vaciamiento gástrico; puede reducir apetito.",
+    "reacciones": [
+      "Náuseas, vómitos, diarrea o estreñimiento, especialmente durante la titulación.",
+      "Hipoglucemia más probable en combinación con insulina o sulfonilureas."
+    ],
+    "renal": "No extrapolar restricciones renales entre presentaciones; vigilar deshidratación y deterioro renal por vómitos/diarrea persistentes. Verificar folleto ISP específico.",
+    "interacciones": [
+      "Insulina y sulfonilureas: aumento del riesgo de hipoglucemia; cualquier ajuste corresponde al equipo tratante.",
+      "Retraso del vaciamiento gástrico: revisar fármacos orales concomitantes según ficha específica.",
+      "No combinar con otro agonista GLP-1; revisar duplicidad de principio activo entre marcas."
+    ],
+    "alertas": [
+      {
+        "nivel": "Evaluación inmediata",
+        "titulo": "Sospecha de pancreatitis",
+        "detalle": "Dolor abdominal intenso y persistente, con o sin vómitos: evaluación médica urgente."
+      },
+      {
+        "nivel": "Evaluación médica",
+        "titulo": "Deshidratación",
+        "detalle": "Vómitos/diarrea persistentes, poca orina, mareos: evaluación."
+      },
+      {
+        "nivel": "Urgencia",
+        "titulo": "Reacción alérgica grave",
+        "detalle": "Dificultad respiratoria o hinchazón de cara/lengua: urgencia."
+      }
+    ],
+    "fuentes": [
+      {
+        "nombre": "ISP Chile · Ozempic · registro B-2775/19; folleto aportado: Ozempic ISP(1).pdf (verificar actualización vigente)"
+      },
+      {
+        "nombre": "UpToDate · Semaglutide: Drug information",
+        "url": "https://www.uptodate.com/contents/semaglutide-drug-information"
+      }
+    ],
+    "revision": "2026-10-11 · cotejo documental ISP y literatura",
+    "validacion": "Material educativo de apoyo al mesón; no sustituye folleto vigente ni juicio clínico.",
+    "dispensacion_rapida": {
+      "primera": {
+        "consejo": "Inyectar vía subcutánea en abdomen, muslo o brazo una vez por semana, con o sin comidas. No usar vía IV ni IM. Folleto ISP aportado: 0,25 mg semanal por 4 semanas (inicio, no mantenimiento); luego 0,5 mg semanal; después de al menos 4 semanas a 0,5 mg, considerar 1 mg semanal según prescripción. El folleto aportado no recomienda superar 1 mg/semana; verificar versiones posteriores.",
+        "pregunta": "¿Es primera dispensación? ¿Conoce la pauta de escalamiento y utiliza insulina o sulfonilureas?",
+        "efectos": "Explicar síntomas gastrointestinales y signos de pancreatitis o deshidratación.",
+        "almacenamiento": "Comprobar conservación exacta en el folleto de la presentación entregada; no congelar inyectables.",
+        "accion": "Confirmar presentación, indicación y dispositivo; enseñar técnica según fabricante."
+      },
+      "habitual": {
+        "consejo": "Folleto ISP: administrar dentro de los 5 días siguientes al olvido; si pasaron más de 5 días, omitir y seguir calendario habitual. Cambiar día solo si transcurren más de 72 horas entre dosis.",
+        "pregunta": "¿Ha tenido vómitos persistentes, hipoglucemias, dificultades de administración o cambios de tratamiento?",
+        "efectos": "Revisar tolerancia, hidratación y signos de alarma.",
+        "almacenamiento": "Verificar conservación y fecha de vencimiento tras apertura según producto.",
+        "accion": "Revisar adherencia, escalamiento prescrito y posible duplicidad GLP-1."
+      }
+    },
+    "consejos_practicos": [
+      {
+        "tipo": "Administración",
+        "titulo": "Cómo utilizar",
+        "texto": "Inyectar vía subcutánea en abdomen, muslo o brazo una vez por semana, con o sin comidas. No usar vía IV ni IM."
+      },
+      {
+        "tipo": "Posología",
+        "titulo": "Escalamiento de referencia ISP",
+        "texto": "Folleto ISP aportado: 0,25 mg semanal por 4 semanas (inicio, no mantenimiento); luego 0,5 mg semanal; después de al menos 4 semanas a 0,5 mg, considerar 1 mg semanal según prescripción. El folleto aportado no recomienda superar 1 mg/semana; verificar versiones posteriores."
+      },
+      {
+        "tipo": "Dosis olvidada",
+        "titulo": "Qué hacer",
+        "texto": "Folleto ISP: administrar dentro de los 5 días siguientes al olvido; si pasaron más de 5 días, omitir y seguir calendario habitual. Cambiar día solo si transcurren más de 72 horas entre dosis."
+      },
+      {
+        "tipo": "Seguridad",
+        "titulo": "Alertas de dispensación",
+        "texto": "Verificar antecedentes de pancreatitis y síntomas abdominales persistentes. / Vigilar deshidratación por efectos gastrointestinales. / Insulina o sulfonilurea concomitante: mayor riesgo de hipoglucemia. / En antecedentes de retinopatía diabética, considerar vigilancia por riesgo de empeoramiento transitorio con reducción rápida de HbA1c."
+      }
+    ],
+    "evidencia_clinica": [
+      {
+        "estudio": "SUSTAIN-6",
+        "poblacion": "Pacientes incluidos en el ensayo original; consultar criterios antes de extrapolar",
+        "hallazgo": "Ensayo de desenlaces cardiovasculares con semaglutida subcutánea en DM2 de alto riesgo cardiovascular.",
+        "interpretacion": "Evidencia del ensayo, no equivale automáticamente a indicación regulatoria chilena.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=SUSTAIN-6+semaglutide"
+      },
+      {
+        "estudio": "FLOW",
+        "poblacion": "Pacientes incluidos en el ensayo original; consultar criterios antes de extrapolar",
+        "hallazgo": "Ensayo de desenlaces renales en personas con DM2 y enfermedad renal crónica; no extrapolar sin revisar criterios.",
+        "interpretacion": "Evidencia del ensayo, no equivale automáticamente a indicación regulatoria chilena.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=FLOW+semaglutide+kidney"
+      }
+    ]
   },
   {
     "id": "insulina-nph",
@@ -1137,5 +1232,505 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/23992601/"
       }
     ]
+  },
+  {
+    "id": "semaglutida-oral",
+    "nombre": "Semaglutida oral (Rybelsus) — DM2",
+    "familia": "Agonista receptor GLP-1",
+    "via": "Oral diaria",
+    "estado": "Ficha documental ampliada · requiere validación profesional y verificación de registro vigente",
+    "descripcion": "Semaglutida oral para DM2; instrucciones de absorción estrictas.",
+    "seguridad": [
+      "Verificar antecedentes de pancreatitis y síntomas abdominales persistentes.",
+      "Vigilar deshidratación por efectos gastrointestinales.",
+      "Insulina o sulfonilurea concomitante: mayor riesgo de hipoglucemia.",
+      "El incumplimiento del ayuno o de los 30 minutos puede reducir la absorción.",
+      "Precaución ante antecedentes de retinopatía diabética."
+    ],
+    "dispensacion": "Verificar presentación, indicación de receta, titulación, técnica de administración y tolerancia; no modificar dosis sin prescriptor.",
+    "marcas": [],
+    "posicionamiento": "Indicación del producto: DM2. Los beneficios de ensayos clínicos se interpretan por molécula, formulación y población, no como efecto uniforme de clase.",
+    "mecanismo": "Agonismo del receptor GLP-1: estimula la secreción de insulina dependiente de glucosa, reduce glucagón inapropiadamente elevado y enlentece vaciamiento gástrico; puede reducir apetito.",
+    "reacciones": [
+      "Náuseas, vómitos, diarrea o estreñimiento, especialmente durante la titulación.",
+      "Hipoglucemia más probable en combinación con insulina o sulfonilureas."
+    ],
+    "renal": "No extrapolar restricciones renales entre presentaciones; vigilar deshidratación y deterioro renal por vómitos/diarrea persistentes. Verificar folleto ISP específico.",
+    "interacciones": [
+      "Insulina y sulfonilureas: aumento del riesgo de hipoglucemia; cualquier ajuste corresponde al equipo tratante.",
+      "Retraso del vaciamiento gástrico: revisar fármacos orales concomitantes según ficha específica.",
+      "No combinar con otro agonista GLP-1; revisar duplicidad de principio activo entre marcas."
+    ],
+    "alertas": [
+      {
+        "nivel": "Evaluación inmediata",
+        "titulo": "Sospecha de pancreatitis",
+        "detalle": "Dolor abdominal intenso y persistente, con o sin vómitos: evaluación médica urgente."
+      },
+      {
+        "nivel": "Evaluación médica",
+        "titulo": "Deshidratación",
+        "detalle": "Vómitos/diarrea persistentes, poca orina, mareos: evaluación."
+      },
+      {
+        "nivel": "Urgencia",
+        "titulo": "Reacción alérgica grave",
+        "detalle": "Dificultad respiratoria o hinchazón de cara/lengua: urgencia."
+      }
+    ],
+    "fuentes": [
+      {
+        "nombre": "ISP Chile · Rybelsus · registro B-2944/22; folleto aportado: Rybelsus ISP(1).pdf (verificar actualización vigente)"
+      },
+      {
+        "nombre": "UpToDate · Semaglutide: Drug information",
+        "url": "https://www.uptodate.com/contents/semaglutide-drug-information"
+      }
+    ],
+    "revision": "2026-10-11 · cotejo documental ISP y literatura",
+    "validacion": "Material educativo de apoyo al mesón; no sustituye folleto vigente ni juicio clínico.",
+    "dispensacion_rapida": {
+      "primera": {
+        "consejo": "Tomar una vez al día en ayunas, con hasta 120 mL de agua; tragar entero, sin partir/triturar/masticar. Esperar al menos 30 minutos antes de comer, beber o tomar otros medicamentos. Folleto ISP aportado: 3 mg una vez al día durante un mes (inicio); luego 7 mg diarios; después de al menos un mes a 7 mg puede aumentarse a 14 mg diarios según prescripción. No utilizar dos comprimidos de 7 mg para reemplazar 14 mg.",
+        "pregunta": "¿Es primera dispensación? ¿Conoce la pauta de escalamiento y utiliza insulina o sulfonilureas?",
+        "efectos": "Explicar síntomas gastrointestinales y signos de pancreatitis o deshidratación.",
+        "almacenamiento": "Comprobar conservación exacta en el folleto de la presentación entregada; no congelar inyectables.",
+        "accion": "Confirmar presentación, indicación y dispositivo; enseñar técnica según fabricante."
+      },
+      "habitual": {
+        "consejo": "Si olvida una dosis, omitirla y tomar la siguiente al día siguiente; no duplicar.",
+        "pregunta": "¿Ha tenido vómitos persistentes, hipoglucemias, dificultades de administración o cambios de tratamiento?",
+        "efectos": "Revisar tolerancia, hidratación y signos de alarma.",
+        "almacenamiento": "Verificar conservación y fecha de vencimiento tras apertura según producto.",
+        "accion": "Revisar adherencia, escalamiento prescrito y posible duplicidad GLP-1."
+      }
+    },
+    "consejos_practicos": [
+      {
+        "tipo": "Administración",
+        "titulo": "Cómo utilizar",
+        "texto": "Tomar una vez al día en ayunas, con hasta 120 mL de agua; tragar entero, sin partir/triturar/masticar. Esperar al menos 30 minutos antes de comer, beber o tomar otros medicamentos."
+      },
+      {
+        "tipo": "Posología",
+        "titulo": "Escalamiento de referencia ISP",
+        "texto": "Folleto ISP aportado: 3 mg una vez al día durante un mes (inicio); luego 7 mg diarios; después de al menos un mes a 7 mg puede aumentarse a 14 mg diarios según prescripción. No utilizar dos comprimidos de 7 mg para reemplazar 14 mg."
+      },
+      {
+        "tipo": "Dosis olvidada",
+        "titulo": "Qué hacer",
+        "texto": "Si olvida una dosis, omitirla y tomar la siguiente al día siguiente; no duplicar."
+      },
+      {
+        "tipo": "Seguridad",
+        "titulo": "Alertas de dispensación",
+        "texto": "Verificar antecedentes de pancreatitis y síntomas abdominales persistentes. / Vigilar deshidratación por efectos gastrointestinales. / Insulina o sulfonilurea concomitante: mayor riesgo de hipoglucemia. / El incumplimiento del ayuno o de los 30 minutos puede reducir la absorción. / Precaución ante antecedentes de retinopatía diabética."
+      }
+    ],
+    "evidencia_clinica": [
+      {
+        "estudio": "PIONEER 6",
+        "poblacion": "Pacientes incluidos en el ensayo original; consultar criterios antes de extrapolar",
+        "hallazgo": "Ensayo de seguridad cardiovascular de semaglutida oral en DM2 de alto riesgo cardiovascular.",
+        "interpretacion": "Evidencia del ensayo, no equivale automáticamente a indicación regulatoria chilena.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=PIONEER+6+semaglutide"
+      },
+      {
+        "estudio": "SOUL",
+        "poblacion": "Pacientes incluidos en el ensayo original; consultar criterios antes de extrapolar",
+        "hallazgo": "Ensayo de desenlaces cardiovasculares de semaglutida oral; revisar formulación y población antes de atribuir resultados a productos chilenos.",
+        "interpretacion": "Evidencia del ensayo, no equivale automáticamente a indicación regulatoria chilena.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=SOUL+trial+oral+semaglutide"
+      }
+    ]
+  },
+  {
+    "id": "dulaglutida",
+    "nombre": "Dulaglutida (Trulicity) — DM2",
+    "familia": "Agonista receptor GLP-1",
+    "via": "Subcutánea semanal",
+    "estado": "Ficha documental ampliada · requiere validación profesional y verificación de registro vigente",
+    "descripcion": "Agonista GLP-1 semanal para DM2; dispositivo prellenado.",
+    "seguridad": [
+      "Verificar antecedentes de pancreatitis y síntomas abdominales persistentes.",
+      "Vigilar deshidratación por efectos gastrointestinales.",
+      "Insulina o sulfonilurea concomitante: mayor riesgo de hipoglucemia.",
+      "No extrapolar dosis de formulaciones o dispositivos más recientes a este folleto ISP antiguo."
+    ],
+    "dispensacion": "Verificar presentación, indicación de receta, titulación, técnica de administración y tolerancia; no modificar dosis sin prescriptor.",
+    "marcas": [],
+    "posicionamiento": "Indicación del producto: DM2. Los beneficios de ensayos clínicos se interpretan por molécula, formulación y población, no como efecto uniforme de clase.",
+    "mecanismo": "Agonismo del receptor GLP-1: estimula la secreción de insulina dependiente de glucosa, reduce glucagón inapropiadamente elevado y enlentece vaciamiento gástrico; puede reducir apetito.",
+    "reacciones": [
+      "Náuseas, vómitos, diarrea o estreñimiento, especialmente durante la titulación.",
+      "Hipoglucemia más probable en combinación con insulina o sulfonilureas."
+    ],
+    "renal": "No extrapolar restricciones renales entre presentaciones; vigilar deshidratación y deterioro renal por vómitos/diarrea persistentes. Verificar folleto ISP específico.",
+    "interacciones": [
+      "Insulina y sulfonilureas: aumento del riesgo de hipoglucemia; cualquier ajuste corresponde al equipo tratante.",
+      "Retraso del vaciamiento gástrico: revisar fármacos orales concomitantes según ficha específica.",
+      "No combinar con otro agonista GLP-1; revisar duplicidad de principio activo entre marcas."
+    ],
+    "alertas": [
+      {
+        "nivel": "Evaluación inmediata",
+        "titulo": "Sospecha de pancreatitis",
+        "detalle": "Dolor abdominal intenso y persistente, con o sin vómitos: evaluación médica urgente."
+      },
+      {
+        "nivel": "Evaluación médica",
+        "titulo": "Deshidratación",
+        "detalle": "Vómitos/diarrea persistentes, poca orina, mareos: evaluación."
+      },
+      {
+        "nivel": "Urgencia",
+        "titulo": "Reacción alérgica grave",
+        "detalle": "Dificultad respiratoria o hinchazón de cara/lengua: urgencia."
+      }
+    ],
+    "fuentes": [
+      {
+        "nombre": "ISP Chile · Trulicity · registro B-2605/16; folleto aportado: trulicity_2_0¬75mg isp(1).pdf (verificar actualización vigente)"
+      },
+      {
+        "nombre": "UpToDate · Dulaglutide: Drug information",
+        "url": "https://www.uptodate.com/contents/dulaglutide-drug-information"
+      }
+    ],
+    "revision": "2026-10-11 · cotejo documental ISP y literatura",
+    "validacion": "Material educativo de apoyo al mesón; no sustituye folleto vigente ni juicio clínico.",
+    "dispensacion_rapida": {
+      "primera": {
+        "consejo": "Administración subcutánea semanal, en abdomen, muslo o brazo. Enseñar uso del dispositivo de la presentación exacta. Folleto ISP aportado (versión antigua): 0,75 mg semanal en monoterapia y 1,5 mg semanal en combinación; otras dosis/escalamientos de presentaciones actuales requieren verificación independiente.",
+        "pregunta": "¿Es primera dispensación? ¿Conoce la pauta de escalamiento y utiliza insulina o sulfonilureas?",
+        "efectos": "Explicar síntomas gastrointestinales y signos de pancreatitis o deshidratación.",
+        "almacenamiento": "Comprobar conservación exacta en el folleto de la presentación entregada; no congelar inyectables.",
+        "accion": "Confirmar presentación, indicación y dispositivo; enseñar técnica según fabricante."
+      },
+      "habitual": {
+        "consejo": "La pauta de dosis olvidada requiere cotejo con la versión ISP vigente antes de dar instrucciones operativas.",
+        "pregunta": "¿Ha tenido vómitos persistentes, hipoglucemias, dificultades de administración o cambios de tratamiento?",
+        "efectos": "Revisar tolerancia, hidratación y signos de alarma.",
+        "almacenamiento": "Verificar conservación y fecha de vencimiento tras apertura según producto.",
+        "accion": "Revisar adherencia, escalamiento prescrito y posible duplicidad GLP-1."
+      }
+    },
+    "consejos_practicos": [
+      {
+        "tipo": "Administración",
+        "titulo": "Cómo utilizar",
+        "texto": "Administración subcutánea semanal, en abdomen, muslo o brazo. Enseñar uso del dispositivo de la presentación exacta."
+      },
+      {
+        "tipo": "Posología",
+        "titulo": "Escalamiento de referencia ISP",
+        "texto": "Folleto ISP aportado (versión antigua): 0,75 mg semanal en monoterapia y 1,5 mg semanal en combinación; otras dosis/escalamientos de presentaciones actuales requieren verificación independiente."
+      },
+      {
+        "tipo": "Dosis olvidada",
+        "titulo": "Qué hacer",
+        "texto": "La pauta de dosis olvidada requiere cotejo con la versión ISP vigente antes de dar instrucciones operativas."
+      },
+      {
+        "tipo": "Seguridad",
+        "titulo": "Alertas de dispensación",
+        "texto": "Verificar antecedentes de pancreatitis y síntomas abdominales persistentes. / Vigilar deshidratación por efectos gastrointestinales. / Insulina o sulfonilurea concomitante: mayor riesgo de hipoglucemia. / No extrapolar dosis de formulaciones o dispositivos más recientes a este folleto ISP antiguo."
+      }
+    ],
+    "evidencia_clinica": [
+      {
+        "estudio": "REWIND",
+        "poblacion": "Pacientes incluidos en el ensayo original; consultar criterios antes de extrapolar",
+        "hallazgo": "Ensayo de desenlaces cardiovasculares con dulaglutida en DM2; revisar riesgo basal y resultados primarios.",
+        "interpretacion": "Evidencia del ensayo, no equivale automáticamente a indicación regulatoria chilena.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=REWIND+dulaglutide+2019"
+      }
+    ]
+  },
+  {
+    "id": "liraglutida",
+    "nombre": "Liraglutida — DM2 (documentación parcial)",
+    "familia": "Agonista receptor GLP-1",
+    "via": "Subcutánea diaria",
+    "estado": "Ficha documental ampliada · requiere validación profesional y verificación de registro vigente",
+    "descripcion": "Liraglutida es un agonista GLP-1; la pauta para DM2 debe verificarse en folleto de producto autorizado para DM2. El folleto aportado de Saxenda corresponde a control de peso.",
+    "seguridad": [
+      "Verificar antecedentes de pancreatitis y síntomas abdominales persistentes.",
+      "Vigilar deshidratación por efectos gastrointestinales.",
+      "Insulina o sulfonilurea concomitante: mayor riesgo de hipoglucemia.",
+      "No confundir indicación ni dosis de Saxenda (control de peso) con formulación de liraglutida para DM2."
+    ],
+    "dispensacion": "Verificar presentación, indicación de receta, titulación, técnica de administración y tolerancia; no modificar dosis sin prescriptor.",
+    "marcas": [],
+    "posicionamiento": "Indicación del producto: DM2. Los beneficios de ensayos clínicos se interpretan por molécula, formulación y población, no como efecto uniforme de clase.",
+    "mecanismo": "Agonismo del receptor GLP-1: estimula la secreción de insulina dependiente de glucosa, reduce glucagón inapropiadamente elevado y enlentece vaciamiento gástrico; puede reducir apetito.",
+    "reacciones": [
+      "Náuseas, vómitos, diarrea o estreñimiento, especialmente durante la titulación.",
+      "Hipoglucemia más probable en combinación con insulina o sulfonilureas."
+    ],
+    "renal": "No extrapolar restricciones renales entre presentaciones; vigilar deshidratación y deterioro renal por vómitos/diarrea persistentes. Verificar folleto ISP específico.",
+    "interacciones": [
+      "Insulina y sulfonilureas: aumento del riesgo de hipoglucemia; cualquier ajuste corresponde al equipo tratante.",
+      "Retraso del vaciamiento gástrico: revisar fármacos orales concomitantes según ficha específica.",
+      "No combinar con otro agonista GLP-1; revisar duplicidad de principio activo entre marcas."
+    ],
+    "alertas": [
+      {
+        "nivel": "Evaluación inmediata",
+        "titulo": "Sospecha de pancreatitis",
+        "detalle": "Dolor abdominal intenso y persistente, con o sin vómitos: evaluación médica urgente."
+      },
+      {
+        "nivel": "Evaluación médica",
+        "titulo": "Deshidratación",
+        "detalle": "Vómitos/diarrea persistentes, poca orina, mareos: evaluación."
+      },
+      {
+        "nivel": "Urgencia",
+        "titulo": "Reacción alérgica grave",
+        "detalle": "Dificultad respiratoria o hinchazón de cara/lengua: urgencia."
+      }
+    ],
+    "fuentes": [
+      {
+        "nombre": "ISP Chile · Saxenda (indicación control de peso; NO ficha posológica DM2) · registro B-2626/16; folleto aportado: SAXENDA ISP(1).pdf (verificar actualización vigente)"
+      },
+      {
+        "nombre": "UpToDate · Liraglutide: Drug information",
+        "url": "https://www.uptodate.com/contents/liraglutide-drug-information"
+      }
+    ],
+    "revision": "2026-10-11 · cotejo documental ISP y literatura",
+    "validacion": "Material educativo de apoyo al mesón; no sustituye folleto vigente ni juicio clínico.",
+    "dispensacion_rapida": {
+      "primera": {
+        "consejo": "La liraglutida se administra por vía subcutánea; NO utilizar la pauta de Saxenda como pauta de tratamiento de DM2. Dosis de liraglutida para DM2 pendiente de cotejo con folleto profesional chileno de la presentación indicada. No utilizar pauta de Saxenda 3 mg para control glucémico.",
+        "pregunta": "¿Es primera dispensación? ¿Conoce la pauta de escalamiento y utiliza insulina o sulfonilureas?",
+        "efectos": "Explicar síntomas gastrointestinales y signos de pancreatitis o deshidratación.",
+        "almacenamiento": "Comprobar conservación exacta en el folleto de la presentación entregada; no congelar inyectables.",
+        "accion": "Confirmar presentación, indicación y dispositivo; enseñar técnica según fabricante."
+      },
+      "habitual": {
+        "consejo": "Dosis olvidada para formulación DM2: pendiente de folleto ISP correspondiente.",
+        "pregunta": "¿Ha tenido vómitos persistentes, hipoglucemias, dificultades de administración o cambios de tratamiento?",
+        "efectos": "Revisar tolerancia, hidratación y signos de alarma.",
+        "almacenamiento": "Verificar conservación y fecha de vencimiento tras apertura según producto.",
+        "accion": "Revisar adherencia, escalamiento prescrito y posible duplicidad GLP-1."
+      }
+    },
+    "consejos_practicos": [
+      {
+        "tipo": "Administración",
+        "titulo": "Cómo utilizar",
+        "texto": "La liraglutida se administra por vía subcutánea; NO utilizar la pauta de Saxenda como pauta de tratamiento de DM2."
+      },
+      {
+        "tipo": "Posología",
+        "titulo": "Escalamiento de referencia ISP",
+        "texto": "Dosis de liraglutida para DM2 pendiente de cotejo con folleto profesional chileno de la presentación indicada. No utilizar pauta de Saxenda 3 mg para control glucémico."
+      },
+      {
+        "tipo": "Dosis olvidada",
+        "titulo": "Qué hacer",
+        "texto": "Dosis olvidada para formulación DM2: pendiente de folleto ISP correspondiente."
+      },
+      {
+        "tipo": "Seguridad",
+        "titulo": "Alertas de dispensación",
+        "texto": "Verificar antecedentes de pancreatitis y síntomas abdominales persistentes. / Vigilar deshidratación por efectos gastrointestinales. / Insulina o sulfonilurea concomitante: mayor riesgo de hipoglucemia. / No confundir indicación ni dosis de Saxenda (control de peso) con formulación de liraglutida para DM2."
+      }
+    ],
+    "evidencia_clinica": [
+      {
+        "estudio": "LEADER",
+        "poblacion": "Pacientes incluidos en el ensayo original; consultar criterios antes de extrapolar",
+        "hallazgo": "Ensayo de desenlaces cardiovasculares con liraglutida en personas con DM2 de alto riesgo cardiovascular.",
+        "interpretacion": "Evidencia del ensayo, no equivale automáticamente a indicación regulatoria chilena.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=LEADER+liraglutide+2016"
+      }
+    ]
+  },
+  {
+    "id": "semaglutida-peso",
+    "nombre": "Semaglutida (Wegovy) — control de peso",
+    "familia": "Agonista receptor GLP-1",
+    "via": "Subcutánea semanal",
+    "estado": "Ficha documental ampliada · requiere validación profesional y verificación de registro vigente",
+    "descripcion": "Presentación de semaglutida con indicación de control crónico del peso según folleto ISP aportado; no intercambiar con Ozempic.",
+    "seguridad": [
+      "Verificar antecedentes de pancreatitis y síntomas abdominales persistentes.",
+      "Vigilar deshidratación por efectos gastrointestinales.",
+      "Insulina o sulfonilurea concomitante: mayor riesgo de hipoglucemia.",
+      "Indicación autorizada en folleto aportado: control crónico del peso; no sustituye a Ozempic o Rybelsus."
+    ],
+    "dispensacion": "Verificar presentación, indicación de receta, titulación, técnica de administración y tolerancia; no modificar dosis sin prescriptor.",
+    "marcas": [],
+    "posicionamiento": "Indicación del producto: Control crónico del peso (no ficha de tratamiento glucémico de DM2). Los beneficios de ensayos clínicos se interpretan por molécula, formulación y población, no como efecto uniforme de clase.",
+    "mecanismo": "Agonismo del receptor GLP-1: estimula la secreción de insulina dependiente de glucosa, reduce glucagón inapropiadamente elevado y enlentece vaciamiento gástrico; puede reducir apetito.",
+    "reacciones": [
+      "Náuseas, vómitos, diarrea o estreñimiento, especialmente durante la titulación.",
+      "Hipoglucemia más probable en combinación con insulina o sulfonilureas."
+    ],
+    "renal": "No extrapolar restricciones renales entre presentaciones; vigilar deshidratación y deterioro renal por vómitos/diarrea persistentes. Verificar folleto ISP específico.",
+    "interacciones": [
+      "Insulina y sulfonilureas: aumento del riesgo de hipoglucemia; cualquier ajuste corresponde al equipo tratante.",
+      "Retraso del vaciamiento gástrico: revisar fármacos orales concomitantes según ficha específica.",
+      "No combinar con otro agonista GLP-1; revisar duplicidad de principio activo entre marcas."
+    ],
+    "alertas": [
+      {
+        "nivel": "Evaluación inmediata",
+        "titulo": "Sospecha de pancreatitis",
+        "detalle": "Dolor abdominal intenso y persistente, con o sin vómitos: evaluación médica urgente."
+      },
+      {
+        "nivel": "Evaluación médica",
+        "titulo": "Deshidratación",
+        "detalle": "Vómitos/diarrea persistentes, poca orina, mareos: evaluación."
+      },
+      {
+        "nivel": "Urgencia",
+        "titulo": "Reacción alérgica grave",
+        "detalle": "Dificultad respiratoria o hinchazón de cara/lengua: urgencia."
+      }
+    ],
+    "fuentes": [
+      {
+        "nombre": "ISP Chile · Wegovy · registro B-2997/23; folleto aportado: WEGOVY ISP(1).pdf (verificar actualización vigente)"
+      }
+    ],
+    "revision": "2026-10-11 · cotejo documental ISP y literatura",
+    "validacion": "Material educativo de apoyo al mesón; no sustituye folleto vigente ni juicio clínico.",
+    "dispensacion_rapida": {
+      "primera": {
+        "consejo": "Administrar por vía subcutánea semanal, con o sin comidas; enseñar dispositivo correspondiente. Folleto ISP aportado: 0,25 mg semanas 1–4; 0,5 mg semanas 5–8; 1 mg semanas 9–12; 1,7 mg semanas 13–16; mantenimiento 2,4 mg semanal. Indicación: control de peso, NO pauta de Ozempic para DM2.",
+        "pregunta": "¿Es primera dispensación? ¿Conoce la pauta de escalamiento y utiliza insulina o sulfonilureas?",
+        "efectos": "Explicar síntomas gastrointestinales y signos de pancreatitis o deshidratación.",
+        "almacenamiento": "Comprobar conservación exacta en el folleto de la presentación entregada; no congelar inyectables.",
+        "accion": "Confirmar presentación, indicación y dispositivo; enseñar técnica según fabricante."
+      },
+      "habitual": {
+        "consejo": "Si se omite, administrar dentro de 5 días; pasado ese período, omitir. Si se omiten varias dosis, requiere evaluación del reinicio.",
+        "pregunta": "¿Ha tenido vómitos persistentes, hipoglucemias, dificultades de administración o cambios de tratamiento?",
+        "efectos": "Revisar tolerancia, hidratación y signos de alarma.",
+        "almacenamiento": "Verificar conservación y fecha de vencimiento tras apertura según producto.",
+        "accion": "Revisar adherencia, escalamiento prescrito y posible duplicidad GLP-1."
+      }
+    },
+    "consejos_practicos": [
+      {
+        "tipo": "Administración",
+        "titulo": "Cómo utilizar",
+        "texto": "Administrar por vía subcutánea semanal, con o sin comidas; enseñar dispositivo correspondiente."
+      },
+      {
+        "tipo": "Posología",
+        "titulo": "Escalamiento de referencia ISP",
+        "texto": "Folleto ISP aportado: 0,25 mg semanas 1–4; 0,5 mg semanas 5–8; 1 mg semanas 9–12; 1,7 mg semanas 13–16; mantenimiento 2,4 mg semanal. Indicación: control de peso, NO pauta de Ozempic para DM2."
+      },
+      {
+        "tipo": "Dosis olvidada",
+        "titulo": "Qué hacer",
+        "texto": "Si se omite, administrar dentro de 5 días; pasado ese período, omitir. Si se omiten varias dosis, requiere evaluación del reinicio."
+      },
+      {
+        "tipo": "Seguridad",
+        "titulo": "Alertas de dispensación",
+        "texto": "Verificar antecedentes de pancreatitis y síntomas abdominales persistentes. / Vigilar deshidratación por efectos gastrointestinales. / Insulina o sulfonilurea concomitante: mayor riesgo de hipoglucemia. / Indicación autorizada en folleto aportado: control crónico del peso; no sustituye a Ozempic o Rybelsus."
+      }
+    ],
+    "evidencia_clinica": []
+  },
+  {
+    "id": "liraglutida-peso",
+    "nombre": "Liraglutida (Saxenda) — control de peso",
+    "familia": "Agonista receptor GLP-1",
+    "via": "Subcutánea diaria",
+    "estado": "Ficha documental ampliada · requiere validación profesional y verificación de registro vigente",
+    "descripcion": "Presentación de liraglutida para control de peso según folleto ISP aportado; no extrapolar pauta a DM2.",
+    "seguridad": [
+      "Verificar antecedentes de pancreatitis y síntomas abdominales persistentes.",
+      "Vigilar deshidratación por efectos gastrointestinales.",
+      "Insulina o sulfonilurea concomitante: mayor riesgo de hipoglucemia.",
+      "No asociar con otro agonista GLP-1.",
+      "Evaluar respuesta ponderal según criterios del folleto del producto."
+    ],
+    "dispensacion": "Verificar presentación, indicación de receta, titulación, técnica de administración y tolerancia; no modificar dosis sin prescriptor.",
+    "marcas": [],
+    "posicionamiento": "Indicación del producto: Control de peso (no ficha posológica para DM2). Los beneficios de ensayos clínicos se interpretan por molécula, formulación y población, no como efecto uniforme de clase.",
+    "mecanismo": "Agonismo del receptor GLP-1: estimula la secreción de insulina dependiente de glucosa, reduce glucagón inapropiadamente elevado y enlentece vaciamiento gástrico; puede reducir apetito.",
+    "reacciones": [
+      "Náuseas, vómitos, diarrea o estreñimiento, especialmente durante la titulación.",
+      "Hipoglucemia más probable en combinación con insulina o sulfonilureas."
+    ],
+    "renal": "No extrapolar restricciones renales entre presentaciones; vigilar deshidratación y deterioro renal por vómitos/diarrea persistentes. Verificar folleto ISP específico.",
+    "interacciones": [
+      "Insulina y sulfonilureas: aumento del riesgo de hipoglucemia; cualquier ajuste corresponde al equipo tratante.",
+      "Retraso del vaciamiento gástrico: revisar fármacos orales concomitantes según ficha específica.",
+      "No combinar con otro agonista GLP-1; revisar duplicidad de principio activo entre marcas."
+    ],
+    "alertas": [
+      {
+        "nivel": "Evaluación inmediata",
+        "titulo": "Sospecha de pancreatitis",
+        "detalle": "Dolor abdominal intenso y persistente, con o sin vómitos: evaluación médica urgente."
+      },
+      {
+        "nivel": "Evaluación médica",
+        "titulo": "Deshidratación",
+        "detalle": "Vómitos/diarrea persistentes, poca orina, mareos: evaluación."
+      },
+      {
+        "nivel": "Urgencia",
+        "titulo": "Reacción alérgica grave",
+        "detalle": "Dificultad respiratoria o hinchazón de cara/lengua: urgencia."
+      }
+    ],
+    "fuentes": [
+      {
+        "nombre": "ISP Chile · Saxenda · registro B-2626/16; folleto aportado: SAXENDA ISP(1).pdf (verificar actualización vigente)"
+      }
+    ],
+    "revision": "2026-10-11 · cotejo documental ISP y literatura",
+    "validacion": "Material educativo de apoyo al mesón; no sustituye folleto vigente ni juicio clínico.",
+    "dispensacion_rapida": {
+      "primera": {
+        "consejo": "Administración subcutánea diaria en abdomen, muslo o brazo, independientemente de comidas. Folleto ISP aportado: iniciar 0,6 mg/día, aumentar 0,6 mg a intervalos de al menos una semana hasta 3 mg/día para control de peso. NO es pauta de liraglutida para DM2.",
+        "pregunta": "¿Es primera dispensación? ¿Conoce la pauta de escalamiento y utiliza insulina o sulfonilureas?",
+        "efectos": "Explicar síntomas gastrointestinales y signos de pancreatitis o deshidratación.",
+        "almacenamiento": "Comprobar conservación exacta en el folleto de la presentación entregada; no congelar inyectables.",
+        "accion": "Confirmar presentación, indicación y dispositivo; enseñar técnica según fabricante."
+      },
+      "habitual": {
+        "consejo": "Folleto ISP: si transcurrieron menos de 12 h desde hora habitual, administrar; si faltan menos de 12 h para siguiente dosis, omitir; no duplicar.",
+        "pregunta": "¿Ha tenido vómitos persistentes, hipoglucemias, dificultades de administración o cambios de tratamiento?",
+        "efectos": "Revisar tolerancia, hidratación y signos de alarma.",
+        "almacenamiento": "Verificar conservación y fecha de vencimiento tras apertura según producto.",
+        "accion": "Revisar adherencia, escalamiento prescrito y posible duplicidad GLP-1."
+      }
+    },
+    "consejos_practicos": [
+      {
+        "tipo": "Administración",
+        "titulo": "Cómo utilizar",
+        "texto": "Administración subcutánea diaria en abdomen, muslo o brazo, independientemente de comidas."
+      },
+      {
+        "tipo": "Posología",
+        "titulo": "Escalamiento de referencia ISP",
+        "texto": "Folleto ISP aportado: iniciar 0,6 mg/día, aumentar 0,6 mg a intervalos de al menos una semana hasta 3 mg/día para control de peso. NO es pauta de liraglutida para DM2."
+      },
+      {
+        "tipo": "Dosis olvidada",
+        "titulo": "Qué hacer",
+        "texto": "Folleto ISP: si transcurrieron menos de 12 h desde hora habitual, administrar; si faltan menos de 12 h para siguiente dosis, omitir; no duplicar."
+      },
+      {
+        "tipo": "Seguridad",
+        "titulo": "Alertas de dispensación",
+        "texto": "Verificar antecedentes de pancreatitis y síntomas abdominales persistentes. / Vigilar deshidratación por efectos gastrointestinales. / Insulina o sulfonilurea concomitante: mayor riesgo de hipoglucemia. / No asociar con otro agonista GLP-1. / Evaluar respuesta ponderal según criterios del folleto del producto."
+      }
+    ],
+    "evidencia_clinica": []
   }
 ]
