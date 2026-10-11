@@ -768,5 +768,374 @@
         "accion": "Solicitar revisión del químico farmacéutico si existen síntomas, dudas o riesgos de interacción."
       }
     ]
+  },
+  {
+    "id": "vildagliptina",
+    "nombre": "Vildagliptina",
+    "familia": "Inhibidor DPP-4",
+    "via": "Oral",
+    "estado": "Ficha documental preliminar · validación farmacéutica y cotejo integral de guías pendiente",
+    "descripcion": "i-DPP4 oral; requiere especial vigilancia de función hepática.",
+    "seguridad": [
+      "Galvus ISP F-21478/19: en disfunción renal moderada o grave, 50 mg una vez al día; en leve no requiere ajuste. No se recomienda en disfunción hepática, incluidos valores basales de ALT o AST >2,5 veces el límite superior normal.",
+      "Hipoglucemia especialmente al asociar insulina o sulfonilureas.",
+      "Revisar señales de pancreatitis, hipersensibilidad y lesiones ampollosas."
+    ],
+    "dispensacion": "Confirmar principio activo, presentación y pauta prescrita. Consultar al químico farmacéutico ante discrepancias o señales de alarma.",
+    "marcas": [],
+    "posicionamiento": "Opción oral para control glucémico de eficacia moderada, usualmente neutra en peso y con bajo riesgo intrínseco de hipoglucemia. No atribuir protección cardiorrenal demostrada a esta familia; considerar guías vigentes y comorbilidades.",
+    "mecanismo": "La inhibición de DPP-4 prolonga la acción de GLP-1 y GIP endógenos, aumenta la secreción de insulina dependiente de glucosa y reduce la secreción de glucagón.",
+    "reacciones": [
+      "Mareos, cefalea y síntomas gastrointestinales; hipoglucemia más probable con sulfonilureas o insulina.",
+      "Hepatitis/disfunción hepática, angioedema, pancreatitis y lesiones ampollosas: señales de alarma."
+    ],
+    "renal": "Galvus ISP F-21478/19: en disfunción renal moderada o grave, 50 mg una vez al día; en leve no requiere ajuste. No se recomienda en disfunción hepática, incluidos valores basales de ALT o AST >2,5 veces el límite superior normal.",
+    "interacciones": [
+      "Sulfonilureas e insulina: mayor riesgo de hipoglucemia.",
+      "Combinación vildagliptina/metformina (Jalra M): evaluar restricciones adicionales de metformina y función renal; no equiparar dosis de combinación con monoterapia."
+    ],
+    "alertas": [
+      {
+        "nivel": "Evaluación pronta",
+        "titulo": "Hepatotoxicidad",
+        "detalle": "Ictericia, coluria, anorexia o malestar persistente: evaluación médica. Control de transaminasas antes de iniciar, cada 3 meses el primer año y luego periódicamente según folleto."
+      },
+      {
+        "nivel": "Urgencia",
+        "titulo": "Angioedema",
+        "detalle": "Edema facial o lingual y dificultad respiratoria: urgencia."
+      },
+      {
+        "nivel": "Evaluación inmediata",
+        "titulo": "Pancreatitis",
+        "detalle": "Dolor abdominal intenso y persistente, especialmente irradiado a espalda."
+      }
+    ],
+    "fuentes": [
+      {
+        "nombre": "ISP Chile · Galvus 50 mg, F-21478/19, folleto profesional aportado"
+      },
+      {
+        "nombre": "ISP Chile · Jalra M, F-22614/16, folleto profesional aportado"
+      },
+      {
+        "nombre": "Jovius 50 mg · folleto para paciente aportado"
+      }
+    ],
+    "revision": "2026-10-10 · revisión documental inicial",
+    "validacion": "No validada clínicamente; no sustituye ficha ISP específica ni evaluación del químico farmacéutico.",
+    "dispensacion_rapida": {
+      "primera": {
+        "consejo": "Galvus 50 mg: 50 mg una o dos veces al día según esquema; máximo 100 mg/día. Con sulfonilurea en biterapia, 50 mg una vez al día. Puede administrarse con o sin alimentos. Verificar pauta prescrita.",
+        "pregunta": "¿Es su primera dispensación? ¿Qué otros antidiabéticos utiliza? ¿Tiene enfermedad renal, hepática o insuficiencia cardíaca conocida?",
+        "efectos": "Consultar por dolor abdominal intenso persistente, dificultad respiratoria, hinchazón facial o ampollas cutáneas.",
+        "almacenamiento": "Verificar la temperatura y condiciones del folleto del producto específico; no extrapolar entre marcas o combinaciones.",
+        "accion": "Revisar receta y envase; escalar dudas de dosis, interacciones o alertas al químico farmacéutico."
+      },
+      "habitual": {
+        "consejo": "No duplicar dosis olvidadas. Consultar si aparecen síntomas hepáticos, dolor abdominal persistente, ampollas o hipoglucemia con otros antidiabéticos.",
+        "pregunta": "¿Ha tenido episodios de hipoglucemia, dificultad para mantener la pauta o nuevos síntomas?",
+        "efectos": "Indagar signos de alarma y derivar según gravedad.",
+        "almacenamiento": "Mantener según las condiciones del producto dispensado.",
+        "accion": "Revisar adherencia, nuevos medicamentos y necesidad de derivación."
+      }
+    },
+    "consejos_practicos": [
+      {
+        "tipo": "Administración",
+        "titulo": "Pauta y presentación",
+        "texto": "Galvus 50 mg: 50 mg una o dos veces al día según esquema; máximo 100 mg/día. Con sulfonilurea en biterapia, 50 mg una vez al día. Puede administrarse con o sin alimentos. Verificar pauta prescrita."
+      },
+      {
+        "tipo": "Seguridad",
+        "titulo": "Alertas durante el uso",
+        "texto": "Dolor abdominal intenso y persistente, dificultad respiratoria, edema facial o ampollas requieren evaluación médica."
+      },
+      {
+        "tipo": "Seguimiento",
+        "titulo": "Control farmacoterapéutico",
+        "texto": "No duplicar dosis olvidadas. Consultar si aparecen síntomas hepáticos, dolor abdominal persistente, ampollas o hipoglucemia con otros antidiabéticos."
+      }
+    ],
+    "evidencia_clinica": []
+  },
+  {
+    "id": "evogliptina",
+    "nombre": "Evogliptina",
+    "familia": "Inhibidor DPP-4",
+    "via": "Oral",
+    "estado": "Ficha documental preliminar · validación farmacéutica y cotejo integral de guías pendiente",
+    "descripcion": "i-DPP4 oral disponible en folleto chileno Suganon 5 mg.",
+    "seguridad": [
+      "Suganon ISP F-27650/23: no requiere ajuste de 5 mg/día en insuficiencia renal leve, moderada o grave, pero requiere precaución y vigilancia estrecha en moderada-grave. No recomendado en enfermedad renal terminal con diálisis.",
+      "Hipoglucemia especialmente al asociar insulina o sulfonilureas.",
+      "Revisar señales de pancreatitis, hipersensibilidad y lesiones ampollosas."
+    ],
+    "dispensacion": "Confirmar principio activo, presentación y pauta prescrita. Consultar al químico farmacéutico ante discrepancias o señales de alarma.",
+    "marcas": [],
+    "posicionamiento": "Opción oral para control glucémico de eficacia moderada, usualmente neutra en peso y con bajo riesgo intrínseco de hipoglucemia. No atribuir protección cardiorrenal demostrada a esta familia; considerar guías vigentes y comorbilidades.",
+    "mecanismo": "La inhibición de DPP-4 prolonga la acción de GLP-1 y GIP endógenos, aumenta la secreción de insulina dependiente de glucosa y reduce la secreción de glucagón.",
+    "reacciones": [
+      "Artralgia, mareos, cefalea, insomnio, gastritis, urticaria, nasofaringitis y fatiga descritos en folleto.",
+      "Advertencias de clase: pancreatitis, penfigoide ampolloso, dolor articular grave e hipersensibilidad."
+    ],
+    "renal": "Suganon ISP F-27650/23: no requiere ajuste de 5 mg/día en insuficiencia renal leve, moderada o grave, pero requiere precaución y vigilancia estrecha en moderada-grave. No recomendado en enfermedad renal terminal con diálisis.",
+    "interacciones": [
+      "Claritromicina (inhibidor potente CYP3A4): aumento aproximado de dos veces de exposición a evogliptina; precaución.",
+      "Rifampicina (inductor CYP3A4): reducción del AUC de evogliptina de 63%; revisar posible menor exposición.",
+      "Insulina/sulfonilureas: riesgo de hipoglucemia."
+    ],
+    "alertas": [
+      {
+        "nivel": "Evaluación médica",
+        "titulo": "Insuficiencia cardíaca",
+        "detalle": "El folleto recomienda precaución en NYHA I y no recomienda uso en NYHA II-IV por falta de experiencia clínica."
+      },
+      {
+        "nivel": "Evaluación inmediata",
+        "titulo": "Pancreatitis",
+        "detalle": "Dolor abdominal severo y persistente."
+      },
+      {
+        "nivel": "Evaluación pronta",
+        "titulo": "Ampollas o artralgia intensa",
+        "detalle": "Investigar penfigoide ampolloso o dolor articular incapacitante."
+      }
+    ],
+    "fuentes": [
+      {
+        "nombre": "ISP Chile · Suganon 5 mg (evogliptina), F-27650/23, folleto profesional aportado"
+      }
+    ],
+    "revision": "2026-10-10 · revisión documental inicial",
+    "validacion": "No validada clínicamente; no sustituye ficha ISP específica ni evaluación del químico farmacéutico.",
+    "dispensacion_rapida": {
+      "primera": {
+        "consejo": "Suganon 5 mg una vez al día, con o sin alimentos; dosis máxima 5 mg/día. El comprimido no debe partirse ni masticarse. Conservación: no más de 25 °C.",
+        "pregunta": "¿Es su primera dispensación? ¿Qué otros antidiabéticos utiliza? ¿Tiene enfermedad renal, hepática o insuficiencia cardíaca conocida?",
+        "efectos": "Consultar por dolor abdominal intenso persistente, dificultad respiratoria, hinchazón facial o ampollas cutáneas.",
+        "almacenamiento": "Verificar la temperatura y condiciones del folleto del producto específico; no extrapolar entre marcas o combinaciones.",
+        "accion": "Revisar receta y envase; escalar dudas de dosis, interacciones o alertas al químico farmacéutico."
+      },
+      "habitual": {
+        "consejo": "Verificar aparición de nuevos medicamentos (en particular moduladores CYP3A4), cambios renales y síntomas de alarma. No duplicar dosis sin indicación profesional.",
+        "pregunta": "¿Ha tenido episodios de hipoglucemia, dificultad para mantener la pauta o nuevos síntomas?",
+        "efectos": "Indagar signos de alarma y derivar según gravedad.",
+        "almacenamiento": "Mantener según las condiciones del producto dispensado.",
+        "accion": "Revisar adherencia, nuevos medicamentos y necesidad de derivación."
+      }
+    },
+    "consejos_practicos": [
+      {
+        "tipo": "Administración",
+        "titulo": "Pauta y presentación",
+        "texto": "Suganon 5 mg una vez al día, con o sin alimentos; dosis máxima 5 mg/día. El comprimido no debe partirse ni masticarse. Conservación: no más de 25 °C."
+      },
+      {
+        "tipo": "Seguridad",
+        "titulo": "Alertas durante el uso",
+        "texto": "Dolor abdominal intenso y persistente, dificultad respiratoria, edema facial o ampollas requieren evaluación médica."
+      },
+      {
+        "tipo": "Seguimiento",
+        "titulo": "Control farmacoterapéutico",
+        "texto": "Verificar aparición de nuevos medicamentos (en particular moduladores CYP3A4), cambios renales y síntomas de alarma. No duplicar dosis sin indicación profesional."
+      }
+    ],
+    "evidencia_clinica": [
+      {
+        "estudio": "EVERGREEN · evogliptina frente a linagliptina",
+        "poblacion": "207 pacientes con DM2, ensayo de 12 semanas con extensión abierta.",
+        "hallazgo": "El folleto Suganon describe no inferioridad en reducción de HbA1c frente a linagliptina.",
+        "interpretacion": "Comparación de control glucémico, no prueba de beneficio cardiovascular.",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": "linagliptina",
+    "nombre": "Linagliptina",
+    "familia": "Inhibidor DPP-4",
+    "via": "Oral",
+    "estado": "Ficha documental preliminar · validación farmacéutica y cotejo integral de guías pendiente",
+    "descripcion": "i-DPP4 oral; ficha individual diferenciada de la asociación empagliflozina/linagliptina.",
+    "seguridad": [
+      "La linagliptina habitualmente no requiere ajuste de dosis por deterioro de la función renal. Confirmar ficha técnica chilena de monoterapia antes de cerrar la validación.",
+      "Hipoglucemia especialmente al asociar insulina o sulfonilureas.",
+      "Revisar señales de pancreatitis, hipersensibilidad y lesiones ampollosas."
+    ],
+    "dispensacion": "Confirmar principio activo, presentación y pauta prescrita. Consultar al químico farmacéutico ante discrepancias o señales de alarma.",
+    "marcas": [],
+    "posicionamiento": "Opción oral para control glucémico de eficacia moderada, usualmente neutra en peso y con bajo riesgo intrínseco de hipoglucemia. No atribuir protección cardiorrenal demostrada a esta familia; considerar guías vigentes y comorbilidades.",
+    "mecanismo": "La inhibición de DPP-4 prolonga la acción de GLP-1 y GIP endógenos, aumenta la secreción de insulina dependiente de glucosa y reduce la secreción de glucagón.",
+    "reacciones": [
+      "Nasofaringitis, tos y reacciones de hipersensibilidad descritas para linagliptina; riesgo de hipoglucemia aumenta con insulina/sulfonilureas.",
+      "Advertencias de pancreatitis y penfigoide ampolloso."
+    ],
+    "renal": "La linagliptina habitualmente no requiere ajuste de dosis por deterioro de la función renal. Confirmar ficha técnica chilena de monoterapia antes de cerrar la validación.",
+    "interacciones": [
+      "Inductores potentes de P-gp/CYP3A4 como rifampicina pueden reducir la exposición a linagliptina.",
+      "Insulina/sulfonilureas: posible aumento de hipoglucemia.",
+      "Glyxambi combina linagliptina con empagliflozina: las precauciones de cetoacidosis, infecciones genitourinarias y volumen corresponden al componente iSGLT2."
+    ],
+    "alertas": [
+      {
+        "nivel": "Evaluación inmediata",
+        "titulo": "Pancreatitis",
+        "detalle": "Dolor abdominal intenso y persistente."
+      },
+      {
+        "nivel": "Evaluación pronta",
+        "titulo": "Penfigoide ampolloso",
+        "detalle": "Ampollas o erosiones cutáneas."
+      },
+      {
+        "nivel": "Evaluación profesional",
+        "titulo": "Combinación con empagliflozina",
+        "detalle": "Verificar riesgos adicionales y TFGe cuando se dispense Glyxambi."
+      }
+    ],
+    "fuentes": [
+      {
+        "nombre": "ISP Chile · Glyxambi 25/5 mg, F-23131/21, folleto profesional aportado (combinación empagliflozina/linagliptina)"
+      },
+      {
+        "nombre": "EMA · Trajenta, ficha regulatoria",
+        "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/trajenta"
+      }
+    ],
+    "revision": "2026-10-10 · revisión documental inicial",
+    "validacion": "No validada clínicamente; no sustituye ficha ISP específica ni evaluación del químico farmacéutico.",
+    "dispensacion_rapida": {
+      "primera": {
+        "consejo": "Linagliptina sola se administra habitualmente 5 mg una vez al día, con o sin alimentos; confirmar producto y registro. Glyxambi es otra formulación con dos principios activos.",
+        "pregunta": "¿Es su primera dispensación? ¿Qué otros antidiabéticos utiliza? ¿Tiene enfermedad renal, hepática o insuficiencia cardíaca conocida?",
+        "efectos": "Consultar por dolor abdominal intenso persistente, dificultad respiratoria, hinchazón facial o ampollas cutáneas.",
+        "almacenamiento": "Verificar la temperatura y condiciones del folleto del producto específico; no extrapolar entre marcas o combinaciones.",
+        "accion": "Revisar receta y envase; escalar dudas de dosis, interacciones o alertas al químico farmacéutico."
+      },
+      "habitual": {
+        "consejo": "Revisar adherencia, hipoglucemias con insulina/sulfonilureas y síntomas cutáneos o abdominales. No confundir linagliptina sola con Glyxambi.",
+        "pregunta": "¿Ha tenido episodios de hipoglucemia, dificultad para mantener la pauta o nuevos síntomas?",
+        "efectos": "Indagar signos de alarma y derivar según gravedad.",
+        "almacenamiento": "Mantener según las condiciones del producto dispensado.",
+        "accion": "Revisar adherencia, nuevos medicamentos y necesidad de derivación."
+      }
+    },
+    "consejos_practicos": [
+      {
+        "tipo": "Administración",
+        "titulo": "Pauta y presentación",
+        "texto": "Linagliptina sola se administra habitualmente 5 mg una vez al día, con o sin alimentos; confirmar producto y registro. Glyxambi es otra formulación con dos principios activos."
+      },
+      {
+        "tipo": "Seguridad",
+        "titulo": "Alertas durante el uso",
+        "texto": "Dolor abdominal intenso y persistente, dificultad respiratoria, edema facial o ampollas requieren evaluación médica."
+      },
+      {
+        "tipo": "Seguimiento",
+        "titulo": "Control farmacoterapéutico",
+        "texto": "Revisar adherencia, hipoglucemias con insulina/sulfonilureas y síntomas cutáneos o abdominales. No confundir linagliptina sola con Glyxambi."
+      }
+    ],
+    "evidencia_clinica": []
+  },
+  {
+    "id": "saxagliptina",
+    "nombre": "Saxagliptina",
+    "familia": "Inhibidor DPP-4",
+    "via": "Oral",
+    "estado": "Ficha documental preliminar · validación farmacéutica y cotejo integral de guías pendiente",
+    "descripcion": "i-DPP4 oral con advertencia cardiovascular relevante por hospitalización por insuficiencia cardíaca.",
+    "seguridad": [
+      "La saxagliptina requiere revisión de dosis según función renal y uso de inhibidores potentes de CYP3A4/5. Si se dispensa saxagliptina/metformina XR, aplicar además las restricciones renales de metformina y de la presentación fija. Dosis exacta pendiente de cotejo con folleto ISP.",
+      "Hipoglucemia especialmente al asociar insulina o sulfonilureas.",
+      "Revisar señales de pancreatitis, hipersensibilidad y lesiones ampollosas."
+    ],
+    "dispensacion": "Confirmar principio activo, presentación y pauta prescrita. Consultar al químico farmacéutico ante discrepancias o señales de alarma.",
+    "marcas": [],
+    "posicionamiento": "Opción oral para control glucémico de eficacia moderada, usualmente neutra en peso y con bajo riesgo intrínseco de hipoglucemia. No atribuir protección cardiorrenal demostrada a esta familia; considerar guías vigentes y comorbilidades. El ensayo SAVOR-TIMI 53 identificó aumento de hospitalizaciones por insuficiencia cardíaca con saxagliptina.",
+    "mecanismo": "La inhibición de DPP-4 prolonga la acción de GLP-1 y GIP endógenos, aumenta la secreción de insulina dependiente de glucosa y reduce la secreción de glucagón.",
+    "reacciones": [
+      "Hipoglucemia especialmente con insulina/sulfonilureas; reacciones de hipersensibilidad, pancreatitis y artralgia intensa.",
+      "SAVOR-TIMI 53: mayor hospitalización por insuficiencia cardíaca (3,5% frente a 2,8% con placebo)."
+    ],
+    "renal": "La saxagliptina requiere revisión de dosis según función renal y uso de inhibidores potentes de CYP3A4/5. Si se dispensa saxagliptina/metformina XR, aplicar además las restricciones renales de metformina y de la presentación fija. Dosis exacta pendiente de cotejo con folleto ISP.",
+    "interacciones": [
+      "Inhibidores potentes CYP3A4/5 pueden aumentar exposición a saxagliptina; verificar ajustes con folleto profesional.",
+      "Sulfonilureas e insulina: mayor riesgo de hipoglucemia.",
+      "Combinación con metformina XR: verificar interacciones, función renal, contrastes y riesgos propios de metformina."
+    ],
+    "alertas": [
+      {
+        "nivel": "Evaluación médica pronta",
+        "titulo": "Insuficiencia cardíaca",
+        "detalle": "Disnea nueva o progresiva, edema de extremidades o aumento rápido de peso: derivación."
+      },
+      {
+        "nivel": "Evaluación inmediata",
+        "titulo": "Pancreatitis",
+        "detalle": "Dolor abdominal intenso y persistente."
+      },
+      {
+        "nivel": "Urgencia",
+        "titulo": "Hipersensibilidad grave",
+        "detalle": "Edema facial o dificultad respiratoria."
+      }
+    ],
+    "fuentes": [
+      {
+        "nombre": "ISP Chile · Kombiglyze XR, registro F-18946/21 (verificar vigencia y folleto antes de uso operativo)"
+      },
+      {
+        "nombre": "SAVOR-TIMI 53 · Scirica et al., NEJM 2013",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23992601/"
+      }
+    ],
+    "revision": "2026-10-10 · revisión documental inicial",
+    "validacion": "No validada clínicamente; no sustituye ficha ISP específica ni evaluación del químico farmacéutico.",
+    "dispensacion_rapida": {
+      "primera": {
+        "consejo": "Confirmar presentación: saxagliptina sola o saxagliptina/metformina XR. La pauta y administración dependen de la formulación. No extrapolar la dosificación de una a otra.",
+        "pregunta": "¿Es su primera dispensación? ¿Qué otros antidiabéticos utiliza? ¿Tiene enfermedad renal, hepática o insuficiencia cardíaca conocida?",
+        "efectos": "Consultar por dolor abdominal intenso persistente, dificultad respiratoria, hinchazón facial o ampollas cutáneas.",
+        "almacenamiento": "Verificar la temperatura y condiciones del folleto del producto específico; no extrapolar entre marcas o combinaciones.",
+        "accion": "Revisar receta y envase; escalar dudas de dosis, interacciones o alertas al químico farmacéutico."
+      },
+      "habitual": {
+        "consejo": "Consultar por disnea, edema, aumento de peso, hipoglucemias y nuevos fármacos. Ante antecedentes de insuficiencia cardíaca, solicitar revisión farmacéutica.",
+        "pregunta": "¿Ha tenido episodios de hipoglucemia, dificultad para mantener la pauta o nuevos síntomas?",
+        "efectos": "Indagar signos de alarma y derivar según gravedad.",
+        "almacenamiento": "Mantener según las condiciones del producto dispensado.",
+        "accion": "Revisar adherencia, nuevos medicamentos y necesidad de derivación."
+      }
+    },
+    "consejos_practicos": [
+      {
+        "tipo": "Administración",
+        "titulo": "Pauta y presentación",
+        "texto": "Confirmar presentación: saxagliptina sola o saxagliptina/metformina XR. La pauta y administración dependen de la formulación. No extrapolar la dosificación de una a otra."
+      },
+      {
+        "tipo": "Seguridad",
+        "titulo": "Alertas durante el uso",
+        "texto": "Dolor abdominal intenso y persistente, dificultad respiratoria, edema facial o ampollas requieren evaluación médica."
+      },
+      {
+        "tipo": "Seguimiento",
+        "titulo": "Control farmacoterapéutico",
+        "texto": "Consultar por disnea, edema, aumento de peso, hipoglucemias y nuevos fármacos. Ante antecedentes de insuficiencia cardíaca, solicitar revisión farmacéutica."
+      }
+    ],
+    "evidencia_clinica": [
+      {
+        "estudio": "SAVOR-TIMI 53",
+        "poblacion": "16.492 personas con DM2 y enfermedad cardiovascular establecida o factores de riesgo.",
+        "hallazgo": "No redujo significativamente eventos cardiovasculares mayores; hospitalización por insuficiencia cardíaca 3,5% frente a 2,8% con placebo.",
+        "interpretacion": "Advertencia de seguridad; no equivale a cardioprotección.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23992601/"
+      }
+    ]
   }
 ]
