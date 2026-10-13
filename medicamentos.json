@@ -436,19 +436,24 @@
     "validacion": "Material informativo para dispensación. No sustituye ficha ISP vigente, indicación médica ni evaluación del químico farmacéutico. No efectúa ajustes ni conversiones de dosis.",
     "dispensacion_rapida": {
       "primera": {
-        "consejo": "Verificar la técnica de resuspensión de Insulatard para frasco o Penfill; no extrapolar maniobras entre dispositivos.",
-        "pregunta": "¿Puede identificar el nombre, concentración y dispositivo indicados en su receta?",
+        "consejo": "«Esta insulina tiene aspecto lechoso. Antes de usarla debe quedar uniformemente mezclada según las instrucciones de su presentación. Revisemos juntos cómo preparar el dispositivo y dónde conservarlo».",
+        "pregunta": "¿Es su primera vez con Insulatard? ¿Usa frasco o Penfill? ¿Le enseñaron a resuspenderla? ¿Ha tenido episodios de hipoglicemia?",
         "efectos": "Explicar signos de hipoglicemia y cuándo solicitar asistencia urgente.",
         "almacenamiento": "Conservación antes y después de abrir: cotejo pendiente con el folleto ISP específico de frasco o Penfill.",
         "accion": "Revisar prescripción y dispositivo; enseñar técnica con instrucciones específicas del fabricante."
       },
       "habitual": {
-        "consejo": "Confirmar que no haya cambios inadvertidos de concentración o dispositivo.",
-        "pregunta": "¿Ha tenido hipoglicemias o cambios de presentación desde su última dispensación?",
+        "consejo": "«Antes de cada administración, compruebe que el nombre, la concentración y el dispositivo sean los prescritos. Si hubo cambios o hipoglicemias, coméntelo con el equipo de salud».",
+        "pregunta": "¿Es su primera vez con Insulatard? ¿Usa frasco o Penfill? ¿Le enseñaron a resuspenderla? ¿Ha tenido episodios de hipoglicemia?",
         "efectos": "Reforzar reconocimiento de hipoglicemia y rotación de sitios.",
         "almacenamiento": "Conservación antes y después de abrir: cotejo pendiente con el folleto ISP específico de frasco o Penfill.",
         "accion": "Derivar al químico farmacéutico ante discrepancias o dudas de técnica."
       }
+    },
+    "guia_meson": {
+      "preguntas": "¿Es su primera vez con Insulatard? ¿Usa frasco o Penfill? ¿Le enseñaron a resuspenderla? ¿Ha tenido episodios de hipoglicemia?",
+      "explicacion": "«Esta insulina tiene aspecto lechoso. Antes de usarla debe quedar uniformemente mezclada según las instrucciones de su presentación. Revisemos juntos cómo preparar el dispositivo y dónde conservarlo».",
+      "alertas": "Si aparecen grumos o la suspensión no queda uniforme, no usar hasta consultar. Ante pérdida de conciencia, convulsiones o incapacidad para tragar por posible hipoglicemia, solicitar asistencia de urgencia."
     }
   },
   {
@@ -2081,19 +2086,24 @@
     "validacion": "Material informativo para dispensación. No sustituye ficha ISP vigente, indicación médica ni evaluación del químico farmacéutico. No efectúa ajustes ni conversiones de dosis.",
     "dispensacion_rapida": {
       "primera": {
-        "consejo": "Confirmar glargina U-100, forma farmacéutica y dispositivo; no intercambiar por glargina U-300 sin evaluación del prescriptor.",
-        "pregunta": "¿Puede identificar el nombre, concentración y dispositivo indicados en su receta?",
+        "consejo": "«Lantus U-100 es una solución transparente. Compruebe el nombre y la concentración antes de usarla. No la mezcle con otras insulinas. La conservación depende de si utiliza frasco o pluma».",
+        "pregunta": "¿La receta indica glargina U-100? ¿Usa frasco o SoloStar? ¿Le cambiaron recientemente la insulina? ¿Ha presentado hipoglicemias?",
         "efectos": "Explicar signos de hipoglicemia y cuándo solicitar asistencia urgente.",
         "almacenamiento": "Según ficha FDA 2025: frasco abierto, hasta 28 días refrigerado o a temperatura ambiente; pluma SoloStar en uso, 28 días sin refrigerar. Dato estadounidense: confirmar folleto ISP y presentación dispensada.",
         "accion": "Revisar prescripción y dispositivo; enseñar técnica con instrucciones específicas del fabricante."
       },
       "habitual": {
-        "consejo": "Confirmar que no haya cambios inadvertidos de concentración o dispositivo.",
-        "pregunta": "¿Ha tenido hipoglicemias o cambios de presentación desde su última dispensación?",
+        "consejo": "«Antes de cada administración, compruebe que el nombre, la concentración y el dispositivo sean los prescritos. Si hubo cambios o hipoglicemias, coméntelo con el equipo de salud».",
+        "pregunta": "¿La receta indica glargina U-100? ¿Usa frasco o SoloStar? ¿Le cambiaron recientemente la insulina? ¿Ha presentado hipoglicemias?",
         "efectos": "Reforzar reconocimiento de hipoglicemia y rotación de sitios.",
         "almacenamiento": "Según ficha FDA 2025: frasco abierto, hasta 28 días refrigerado o a temperatura ambiente; pluma SoloStar en uso, 28 días sin refrigerar. Dato estadounidense: confirmar folleto ISP y presentación dispensada.",
         "accion": "Derivar al químico farmacéutico ante discrepancias o dudas de técnica."
       }
+    },
+    "guia_meson": {
+      "preguntas": "¿La receta indica glargina U-100? ¿Usa frasco o SoloStar? ¿Le cambiaron recientemente la insulina? ¿Ha presentado hipoglicemias?",
+      "explicacion": "«Lantus U-100 es una solución transparente. Compruebe el nombre y la concentración antes de usarla. No la mezcle con otras insulinas. La conservación depende de si utiliza frasco o pluma».",
+      "alertas": "Si la caja o el dispositivo indican U-300 en lugar de U-100, no asumir sustitución: solicitar revisión farmacéutica y confirmación con el prescriptor."
     }
   },
   {
@@ -2146,19 +2156,24 @@
     "validacion": "Material informativo para dispensación. No sustituye ficha ISP vigente, indicación médica ni evaluación del químico farmacéutico. No efectúa ajustes ni conversiones de dosis.",
     "dispensacion_rapida": {
       "primera": {
-        "consejo": "Verificar que la receta indique glargina U-300 y el dispositivo correcto. Cualquier cambio desde/hacia U-100 requiere indicación y seguimiento clínico.",
-        "pregunta": "¿Puede identificar el nombre, concentración y dispositivo indicados en su receta?",
+        "consejo": "«Toujeo tiene 300 unidades por mililitro. La pluma muestra directamente las unidades indicadas; no hay que calcular volúmenes ni extraer insulina con jeringa. Un cambio desde Lantus necesita indicación clínica».",
+        "pregunta": "¿La receta especifica Toujeo U-300? ¿Cuál es el dispositivo? ¿Le cambiaron desde glargina U-100? ¿Reconoce el selector de unidades?",
         "efectos": "Explicar signos de hipoglicemia y cuándo solicitar asistencia urgente.",
         "almacenamiento": "Folleto ISP aportado: antes del uso 2–8 °C; pluma en uso hasta 6 semanas a temperatura no superior a 30 °C, sin refrigerar. Confirmar versión y dispositivo.",
         "accion": "Revisar prescripción y dispositivo; enseñar técnica con instrucciones específicas del fabricante."
       },
       "habitual": {
-        "consejo": "Confirmar que no haya cambios inadvertidos de concentración o dispositivo.",
-        "pregunta": "¿Ha tenido hipoglicemias o cambios de presentación desde su última dispensación?",
+        "consejo": "«Antes de cada administración, compruebe que el nombre, la concentración y el dispositivo sean los prescritos. Si hubo cambios o hipoglicemias, coméntelo con el equipo de salud».",
+        "pregunta": "¿La receta especifica Toujeo U-300? ¿Cuál es el dispositivo? ¿Le cambiaron desde glargina U-100? ¿Reconoce el selector de unidades?",
         "efectos": "Reforzar reconocimiento de hipoglicemia y rotación de sitios.",
         "almacenamiento": "Folleto ISP aportado: antes del uso 2–8 °C; pluma en uso hasta 6 semanas a temperatura no superior a 30 °C, sin refrigerar. Confirmar versión y dispositivo.",
         "accion": "Derivar al químico farmacéutico ante discrepancias o dudas de técnica."
       }
+    },
+    "guia_meson": {
+      "preguntas": "¿La receta especifica Toujeo U-300? ¿Cuál es el dispositivo? ¿Le cambiaron desde glargina U-100? ¿Reconoce el selector de unidades?",
+      "explicacion": "«Toujeo tiene 300 unidades por mililitro. La pluma muestra directamente las unidades indicadas; no hay que calcular volúmenes ni extraer insulina con jeringa. Un cambio desde Lantus necesita indicación clínica».",
+      "alertas": "No intercambiar U-100 y U-300 automáticamente. No retirar insulina de la pluma con jeringa. Ante una discrepancia, detener la resolución autónoma y solicitar evaluación del químico farmacéutico."
     }
   },
   {
@@ -2214,19 +2229,24 @@
     "validacion": "Material informativo para dispensación. No sustituye ficha ISP vigente, indicación médica ni evaluación del químico farmacéutico. No efectúa ajustes ni conversiones de dosis.",
     "dispensacion_rapida": {
       "primera": {
-        "consejo": "Verificar U-200, nombre de dispositivo y congruencia con prescripción; los cambios de insulina requieren seguimiento clínico.",
-        "pregunta": "¿Puede identificar el nombre, concentración y dispositivo indicados en su receta?",
+        "consejo": "«La pluma Tresiba U-200 indica directamente las unidades que se administrarán. No convierta la dosis a mililitros ni extraiga insulina con jeringa. Verifiquemos juntos la concentración de la caja».",
+        "pregunta": "¿La receta indica Tresiba U-200 FlexTouch? ¿Le enseñaron a usar el selector? ¿Su dosis prescrita coincide con los incrementos disponibles?",
         "efectos": "Explicar signos de hipoglicemia y cuándo solicitar asistencia urgente.",
         "almacenamiento": "Pendiente de cotejo definitivo del plazo de uso tras apertura en el folleto ISP chileno de Tresiba U-200; no extrapolar automáticamente de U-100.",
         "accion": "Revisar prescripción y dispositivo; enseñar técnica con instrucciones específicas del fabricante."
       },
       "habitual": {
-        "consejo": "Confirmar que no haya cambios inadvertidos de concentración o dispositivo.",
-        "pregunta": "¿Ha tenido hipoglicemias o cambios de presentación desde su última dispensación?",
+        "consejo": "«Antes de cada administración, compruebe que el nombre, la concentración y el dispositivo sean los prescritos. Si hubo cambios o hipoglicemias, coméntelo con el equipo de salud».",
+        "pregunta": "¿La receta indica Tresiba U-200 FlexTouch? ¿Le enseñaron a usar el selector? ¿Su dosis prescrita coincide con los incrementos disponibles?",
         "efectos": "Reforzar reconocimiento de hipoglicemia y rotación de sitios.",
         "almacenamiento": "Pendiente de cotejo definitivo del plazo de uso tras apertura en el folleto ISP chileno de Tresiba U-200; no extrapolar automáticamente de U-100.",
         "accion": "Derivar al químico farmacéutico ante discrepancias o dudas de técnica."
       }
+    },
+    "guia_meson": {
+      "preguntas": "¿La receta indica Tresiba U-200 FlexTouch? ¿Le enseñaron a usar el selector? ¿Su dosis prescrita coincide con los incrementos disponibles?",
+      "explicacion": "«La pluma Tresiba U-200 indica directamente las unidades que se administrarán. No convierta la dosis a mililitros ni extraiga insulina con jeringa. Verifiquemos juntos la concentración de la caja».",
+      "alertas": "La pluma U-200 selecciona dosis en incrementos de dos unidades según el folleto aportado. Si la prescripción o la técnica no son compatibles con el dispositivo, solicitar evaluación profesional; no redondear dosis por cuenta propia."
     }
   }
 ]
