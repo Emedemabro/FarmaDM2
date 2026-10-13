@@ -9,3 +9,9 @@ Revision v2.3.1: posicionamiento terapeutico narrativo y contextualizacion de en
 
 
 Version 25: fichas GLP-1 documentales: Ozempic, Rybelsus, dulaglutida, liraglutida DM2 parcial, Wegovy y Saxenda (peso). Verificar vigencia ISP, dispositivos y validacion clinica. Estudios como enlaces de busqueda para cotejo, no citas bibliograficas finales.
+
+Version 27 (2026-10-12): Trulicity/dulaglutida ampliada segun folleto ISP 2016; dosis olvidada, conservacion, dispositivo, REWIND y AWARD-11. Pendiente auditoria final de registro y prueba funcional.
+
+Version 28: semaglutida Ozempic/Rybelsus/Wegovy; revision documental ISP, conservacion, interacciones y estudios originales. Pendiente auditoria integral.
+
+V30: cotejo complementario UpToDate de tirzepatida (reinicio tras omisiones múltiples, DPP4, sedación/anestesia). No modifica indicaciones ISP.

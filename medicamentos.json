@@ -270,7 +270,7 @@
     "nombre": "Semaglutida (Ozempic) — DM2",
     "familia": "Agonista receptor GLP-1",
     "via": "Subcutánea semanal",
-    "estado": "Ficha documental ampliada · requiere validación profesional y verificación de registro vigente",
+    "estado": "Ficha documental ampliada · pendiente de auditoría farmacoterapéutica integral",
     "descripcion": "Semaglutida subcutánea para control glicémico de DM2 según folleto ISP Ozempic.",
     "seguridad": [
       "Verificar antecedentes de pancreatitis y síntomas abdominales persistentes.",
@@ -316,23 +316,26 @@
       {
         "nombre": "UpToDate · Semaglutide: Drug information",
         "url": "https://www.uptodate.com/contents/semaglutide-drug-information"
+      },
+      {
+        "nombre": "Folleto ISP aportado Ozempic (B-2775/19); datos de conservación y posología cotejados en PDF local. Vigencia regulatoria actual pendiente de verificación."
       }
     ],
-    "revision": "2026-10-11 · cotejo documental ISP y literatura",
+    "revision": "2026-10-12 · ampliación semaglutida con folletos ISP aportados y evidencia primaria; auditoría final pendiente",
     "validacion": "Material educativo de apoyo al mesón; no sustituye folleto vigente ni juicio clínico.",
     "dispensacion_rapida": {
       "primera": {
         "consejo": "Inyectar vía subcutánea en abdomen, muslo o brazo una vez por semana, con o sin comidas. No usar vía IV ni IM. Folleto ISP aportado: 0,25 mg semanal por 4 semanas (inicio, no mantenimiento); luego 0,5 mg semanal; después de al menos 4 semanas a 0,5 mg, considerar 1 mg semanal según prescripción. El folleto aportado no recomienda superar 1 mg/semana; verificar versiones posteriores.",
         "pregunta": "¿Es primera dispensación? ¿Conoce la pauta de escalamiento y utiliza insulina o sulfonilureas?",
         "efectos": "Explicar síntomas gastrointestinales y signos de pancreatitis o deshidratación.",
-        "almacenamiento": "Comprobar conservación exacta en el folleto de la presentación entregada; no congelar inyectables.",
+        "almacenamiento": "Folleto ISP aportado, sección 6.3: antes del primer uso refrigerar entre 2–8 °C; después del primer uso, hasta 6 semanas por debajo de 30 °C o refrigerado (2–8 °C). No congelar; mantener tapa y retirar aguja después de cada inyección.",
         "accion": "Confirmar presentación, indicación y dispositivo; enseñar técnica según fabricante."
       },
       "habitual": {
         "consejo": "Folleto ISP: administrar dentro de los 5 días siguientes al olvido; si pasaron más de 5 días, omitir y seguir calendario habitual. Cambiar día solo si transcurren más de 72 horas entre dosis.",
         "pregunta": "¿Ha tenido vómitos persistentes, hipoglucemias, dificultades de administración o cambios de tratamiento?",
         "efectos": "Revisar tolerancia, hidratación y signos de alarma.",
-        "almacenamiento": "Verificar conservación y fecha de vencimiento tras apertura según producto.",
+        "almacenamiento": "Tras el primer uso: hasta 6 semanas por debajo de 30 °C o refrigerado (2–8 °C), según folleto ISP aportado; retirar aguja y colocar tapa.",
         "accion": "Revisar adherencia, escalamiento prescrito y posible duplicidad GLP-1."
       }
     },
@@ -356,54 +359,223 @@
         "tipo": "Seguridad",
         "titulo": "Alertas de dispensación",
         "texto": "Verificar antecedentes de pancreatitis y síntomas abdominales persistentes. / Vigilar deshidratación por efectos gastrointestinales. / Insulina o sulfonilurea concomitante: mayor riesgo de hipoglucemia. / En antecedentes de retinopatía diabética, considerar vigilancia por riesgo de empeoramiento transitorio con reducción rápida de HbA1c."
+      },
+      {
+        "tipo": "Trazabilidad",
+        "titulo": "Alcance documental",
+        "texto": "Dosis y conservación se basan en el folleto ISP aportado; estudios internacionales se presentan como evidencia, no como ampliación automática de la indicación chilena."
+      },
+      {
+        "tipo": "Conservación",
+        "titulo": "Pluma tras primer uso",
+        "texto": "Hasta 6 semanas por debajo de 30 °C o refrigerada a 2–8 °C; no congelar, retirar aguja y colocar tapa."
       }
     ],
     "evidencia_clinica": [
       {
-        "estudio": "SUSTAIN-6",
-        "poblacion": "Pacientes incluidos en el ensayo original; consultar criterios antes de extrapolar",
-        "hallazgo": "Ensayo de desenlaces cardiovasculares con semaglutida subcutánea en DM2 de alto riesgo cardiovascular.",
-        "interpretacion": "Evidencia del ensayo, no equivale automáticamente a indicación regulatoria chilena.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=SUSTAIN-6+semaglutide"
+        "estudio": "SUSTAIN-6 (2016)",
+        "poblacion": "DM2 con alto riesgo cardiovascular",
+        "hallazgo": "Desenlace compuesto de muerte cardiovascular, infarto no mortal o ACV no mortal: HR 0,74 (IC95 % 0,58–0,95), semaglutida subcutánea frente a placebo.",
+        "interpretacion": "Ensayo de no inferioridad cardiovascular; superioridad estadística exploratoria, interpretar según diseño y multiplicidad. No extrapolar a Wegovy.",
+        "url": "https://doi.org/10.1056/NEJMoa1607141"
       },
       {
-        "estudio": "FLOW",
-        "poblacion": "Pacientes incluidos en el ensayo original; consultar criterios antes de extrapolar",
-        "hallazgo": "Ensayo de desenlaces renales en personas con DM2 y enfermedad renal crónica; no extrapolar sin revisar criterios.",
-        "interpretacion": "Evidencia del ensayo, no equivale automáticamente a indicación regulatoria chilena.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=FLOW+semaglutide+kidney"
+        "estudio": "FLOW (2024)",
+        "poblacion": "DM2 con enfermedad renal crónica, criterios del ensayo",
+        "hallazgo": "Desenlace renal compuesto principal: HR 0,76 (IC95 % 0,66–0,88), semaglutida subcutánea 1 mg semanal frente a placebo.",
+        "interpretacion": "Evidencia de beneficio renal en población específica; no equivale a indicación ISP chilena automáticamente.",
+        "url": "https://doi.org/10.1056/NEJMoa2403347"
       }
     ]
   },
   {
     "id": "insulina-nph",
-    "nombre": "Insulina NPH",
+    "nombre": "Insulina humana NPH (Insulatard)",
     "familia": "Insulina de acción intermedia",
     "via": "Subcutánea",
-    "estado": "Pendiente de validación",
-    "descripcion": "Preparación de insulina humana de acción intermedia.",
+    "estado": "Ficha de seguridad documental preliminar · verificar folleto ISP vigente y presentación",
+    "descripcion": "Suspensión de insulina humana de acción intermedia; las instrucciones de preparación dependen de la presentación.",
     "seguridad": [
-      "La hipoglicemia es una reacción adversa relevante.",
-      "La suspensión requiere resuspensión correcta según el producto.",
-      "La conservación debe verificarse en el folleto específico."
+      "Resuspender conforme a las instrucciones del producto hasta obtener una suspensión uniformemente blanca y turbia.",
+      "No administrar si persisten grumos, partículas adheridas o apariencia no uniforme según folleto.",
+      "Confirmar dispositivo y concentración antes de la entrega."
     ],
-    "dispensacion": "Verificar nombre, concentración, dispositivo, técnica y conservación.",
-    "marcas": []
+    "dispensacion": "Verificar la técnica de resuspensión de Insulatard para frasco o Penfill; no extrapolar maniobras entre dispositivos.",
+    "marcas": [],
+    "mecanismo": "Insulina exógena: facilita la utilización de glucosa y reduce la producción hepática de glucosa. El perfil temporal depende de la formulación.",
+    "reacciones": [
+      "Hipoglicemia, potencialmente grave.",
+      "Reacciones en el sitio de inyección y lipodistrofia por falta de rotación."
+    ],
+    "renal": "La disminución de la función renal puede modificar los requerimientos de insulina; evaluar con el equipo tratante, sin ajustar dosis desde la PWA.",
+    "interacciones": [
+      "Otros medicamentos hipoglicemiantes pueden incrementar el riesgo de hipoglicemia.",
+      "Los betabloqueadores pueden enmascarar algunas manifestaciones adrenérgicas de hipoglicemia."
+    ],
+    "alertas": [
+      {
+        "nivel": "Evaluación inmediata",
+        "titulo": "Hipoglicemia grave",
+        "detalle": "Alteración de conciencia, convulsiones o incapacidad para tragar: solicitar atención urgente; no administrar nada por vía oral."
+      },
+      {
+        "nivel": "Revisión farmacéutica",
+        "titulo": "Confusión de insulina o dispositivo",
+        "detalle": "Comprobar nombre, concentración y presentación con receta y envase; no sustituir automáticamente."
+      }
+    ],
+    "fuentes": [
+      {
+        "nombre": "ISP Chile · Insulatard, folleto aportado (verificar versión y presentación)"
+      },
+      {
+        "nombre": "UpToDate · Insulina NPH, monografía aportada"
+      }
+    ],
+    "revision": "2026-10-13 · integración preliminar de seguridad documental",
+    "validacion": "Material informativo para dispensación. No sustituye ficha ISP vigente, indicación médica ni evaluación del químico farmacéutico. No efectúa ajustes ni conversiones de dosis.",
+    "dispensacion_rapida": {
+      "primera": {
+        "consejo": "Verificar la técnica de resuspensión de Insulatard para frasco o Penfill; no extrapolar maniobras entre dispositivos.",
+        "pregunta": "¿Puede identificar el nombre, concentración y dispositivo indicados en su receta?",
+        "efectos": "Explicar signos de hipoglicemia y cuándo solicitar asistencia urgente.",
+        "almacenamiento": "Conservación antes y después de abrir: cotejo pendiente con el folleto ISP específico de frasco o Penfill.",
+        "accion": "Revisar prescripción y dispositivo; enseñar técnica con instrucciones específicas del fabricante."
+      },
+      "habitual": {
+        "consejo": "Confirmar que no haya cambios inadvertidos de concentración o dispositivo.",
+        "pregunta": "¿Ha tenido hipoglicemias o cambios de presentación desde su última dispensación?",
+        "efectos": "Reforzar reconocimiento de hipoglicemia y rotación de sitios.",
+        "almacenamiento": "Conservación antes y después de abrir: cotejo pendiente con el folleto ISP específico de frasco o Penfill.",
+        "accion": "Derivar al químico farmacéutico ante discrepancias o dudas de técnica."
+      }
+    }
   },
   {
     "id": "tirzepatida",
-    "nombre": "Tirzepatida",
+    "nombre": "Tirzepatida (Mounjaro) — DM2",
     "familia": "Agonista dual GIP/GLP-1",
-    "via": "Subcutánea",
-    "estado": "Pendiente de validación",
-    "descripcion": "Agonismo de receptores GIP y GLP-1.",
+    "via": "Subcutánea semanal",
+    "estado": "Ficha documental ampliada · pendiente de auditoría integral",
+    "descripcion": "Agonista dual GIP/GLP-1 indicado en adultos con DM2 como complemento de dieta y ejercicio, según folleto ISP F-28423/24 (vial 5 mg/0,5 mL).",
     "seguridad": [
-      "Considerar efectos gastrointestinales y posible deshidratación.",
-      "El vaciamiento gástrico puede modificar la absorción de determinados medicamentos orales.",
-      "Revisar el producto y la pauta de titulación prescrita."
+      "Contraindicado si antecedentes personales/familiares de carcinoma medular tiroideo, NEM2 o hipersensibilidad grave a tirzepatida/excipientes.",
+      "Pancreatitis: evaluar dolor abdominal intenso persistente; suspender ante sospecha y derivar.",
+      "Riesgo de deshidratación/lesión renal aguda por vómitos o diarrea.",
+      "Hipoglucemia más probable con insulina o sulfonilureas; eventual ajuste corresponde al prescriptor.",
+      "Precaución en gastroparesia grave, colecistopatía, retinopatía diabética y embarazo.",
+      "No asumir intercambiabilidad de instrucciones entre vial de dosis única y KwikPen.",
+      "Procedimientos con sedación profunda o anestesia: comunicar uso de tirzepatida al equipo tratante por retraso del vaciamiento gástrico y posible riesgo de aspiración; no suspender por cuenta propia."
     ],
-    "dispensacion": "Verificar presentación, esquema prescrito e interacciones relevantes.",
-    "marcas": []
+    "dispensacion": "Confirmar indicación DM2, concentración, presentación (vial frente a KwikPen), escalamiento, técnica, anticoncepción oral y fármacos concomitantes.",
+    "marcas": [
+      "Mounjaro — vial 5 mg/0,5 mL (registro ISP F-28423/24, folleto aportado); otras concentraciones citadas en folleto, verificar registro individual."
+    ],
+    "mecanismo": "Agonista dual GIP/GLP-1; aumenta secreción de insulina y reduce glucagón de manera dependiente de glucosa; retrasa vaciamiento gástrico y reduce apetito.",
+    "posicionamiento": "ADA 2026: elevada eficacia en HbA1c y peso; beneficio en IC con FE preservada y obesidad según SUMMIT. SURPASS-CVOT demostró no inferioridad cardiovascular frente a dulaglutida, no superioridad. No atribuir protección renal definitiva a partir de análisis exploratorios.",
+    "renal": "Folleto ISP 2024: sin ajuste de dosis por insuficiencia renal, incluso terminal, según farmacocinética. Monitorizar función renal si hay reacciones gastrointestinales graves/deshidratación al iniciar o titular.",
+    "interacciones": [
+      "Anticonceptivos hormonales orales: según folleto ISP, cambiar a método no oral o añadir barrera 4 semanas tras iniciar y 4 semanas tras cada incremento de dosis.",
+      "Fármacos orales de índice terapéutico estrecho, p. ej. warfarina: vigilancia por retraso del vaciamiento gástrico.",
+      "Insulina y sulfonilureas: mayor riesgo de hipoglucemia; verificar pauta y educar.",
+      "No mezclar en la misma jeringa con insulina; inyecciones separadas.",
+      "UpToDate: evitar asociación rutinaria con inhibidores DPP-4 por falta de beneficio glucémico aditivo; corroborar pertinencia de tratamiento con prescriptor."
+    ],
+    "reacciones": [
+      "Náuseas, diarrea, vómitos, estreñimiento, dispepsia, disminución del apetito y dolor abdominal.",
+      "Reacciones locales, hipersensibilidad y colecistopatía; vigilar signos de alarma."
+    ],
+    "dispensacion_rapida": {
+      "primera": {
+        "consejo": "Inicio 2,5 mg SC una vez por semana por 4 semanas (dosis de adaptación, no de control glicémico); luego 5 mg semanal. Si precisa, subir en pasos de 2,5 mg tras ≥4 semanas por dosis hasta 15 mg/semana. Verificar receta y concentración.",
+        "pregunta": "¿Es primera dosis? ¿Usa anticonceptivo oral, insulina, sulfonilurea o warfarina? ¿Qué dispositivo recibió?",
+        "efectos": "Explicar náuseas/diarrea, hidratación y alertas de pancreatitis, reacción alérgica e hipoglucemia combinada.",
+        "almacenamiento": "Vial ISP: refrigerar 2–8 °C; sin refrigeración hasta 21 días a ≤30 °C. No congelar y proteger de la luz en envase original.",
+        "accion": "Para vial de dosis única, enseñar preparación con jeringa adecuada para 0,5 mL; no aplicar instrucciones de KwikPen sin su propio folleto."
+      },
+      "habitual": {
+        "consejo": "Dosis olvidada: administrar hasta 96 horas después; si pasan más de 4 días, omitir y seguir calendario. Cambio de día: ≥72 horas entre dosis.",
+        "pregunta": "¿Ha tenido vómitos persistentes, dolor abdominal intenso, hipoglucemia o cambios de anticoncepción?",
+        "efectos": "Si hay dolor abdominal intenso persistente, derivar por sospecha de pancreatitis; si vómitos o diarrea prolongados, evaluar hidratación y función renal.",
+        "almacenamiento": "No usar vial congelado, con partículas o decoloración.",
+        "accion": "Verificar adherencia, tolerancia y necesidad de derivación, sin cambiar dosis por cuenta propia. Si se omitieron varias dosis consecutivas, no reiniciar automáticamente en dosis altas: derivar al prescriptor para reevaluar tolerancia y reinicio; UpToDate aporta esquemas clínicos no equivalentes a instrucción ISP."
+      }
+    },
+    "alertas": [
+      {
+        "nivel": "Alerta de dispensación",
+        "titulo": "Anticonceptivos hormonales orales",
+        "detalle": "Método no oral o barrera adicional por 4 semanas tras inicio y cada aumento de dosis (folleto ISP, pp. 17–18 y 23)."
+      },
+      {
+        "nivel": "Contraindicación",
+        "titulo": "CMT / NEM2",
+        "detalle": "No dispensar sin aclaración médica ante antecedente personal/familiar de CMT o NEM2."
+      },
+      {
+        "nivel": "Evaluación inmediata",
+        "titulo": "Pancreatitis / deshidratación grave",
+        "detalle": "Dolor abdominal persistente intenso o vómitos/diarrea graves: derivación inmediata."
+      },
+      {
+        "nivel": "Precaución perioperatoria",
+        "titulo": "Sedación y anestesia",
+        "detalle": "Informar al equipo de anestesia sobre tirzepatida por posible contenido gástrico residual. La decisión de continuar o suspender debe individualizarse por el equipo tratante (UpToDate, referencia complementaria)."
+      }
+    ],
+    "evidencia_clinica": [
+      {
+        "estudio": "SURPASS-2 (2021)",
+        "resultado": "Frente a semaglutida 1 mg semanal, mayor descenso de HbA1c y peso con tirzepatida en pacientes con DM2 bajo metformina; comparación específica, no extrapolable a semaglutida 2,4 mg.",
+        "url": "https://doi.org/10.1056/NEJMoa2107519"
+      },
+      {
+        "estudio": "SURPASS-CVOT (2025)",
+        "resultado": "MACE 12,2 % tirzepatida vs 13,1 % dulaglutida; HR 0,92 (IC 95,3 % 0,83–1,01). No inferioridad, sin superioridad demostrada.",
+        "url": "https://doi.org/10.1056/NEJMoa2505928"
+      },
+      {
+        "estudio": "SUMMIT (2025)",
+        "resultado": "En obesidad e IC con FE preservada, menor muerte CV o empeoramiento de IC: 9,9 % vs 15,3 %; HR 0,62 (IC 95 % 0,41–0,95). Incluyó participantes con y sin DM2.",
+        "url": "https://doi.org/10.1056/NEJMoa2410027"
+      },
+      {
+        "estudio": "SURPASS-4, análisis renal (2022)",
+        "resultado": "Señales renales exploratorias frente a glargina; no constituye ensayo renal definitivo.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36152639/"
+      }
+    ],
+    "fuentes": [
+      {
+        "nombre": "ISP Chile · Mounjaro 5 mg/0,5 mL, F-28423/24 · folleto profesional aportado (24 pp.; pp. 2, 13–18, 23–24)"
+      },
+      {
+        "nombre": "ADA Standards of Care in Diabetes 2026, sección 9",
+        "url": "https://doi.org/10.2337/dc26-s009"
+      },
+      {
+        "nombre": "ADA 2026, sección 10 (IC FE preservada)",
+        "url": "https://doi.org/10.2337/dc26-s010"
+      },
+      {
+        "nombre": "ADA 2026, sección 11 (ERC)",
+        "url": "https://doi.org/10.2337/dc26-s011"
+      },
+      {
+        "nombre": "MINSAL Chile · Vía Clínica DM2 (2026): contexto de atención integral; recomendación específica para tirzepatida no corroborada",
+        "url": "https://redcronicas.minsal.cl/webinar-lanzamiento-via-clinica-dm2/"
+      },
+      {
+        "nombre": "Consenso chileno AR-GLP-1 (2026): contexto de clase; no extrapolar automáticamente a tirzepatida",
+        "url": "https://doi.org/10.4067/S0034-98872026000701070"
+      },
+      {
+        "nombre": "UpToDate · Tirzepatide: Drug information (monografía aportada, consulta documental 2026-10-12; recomendaciones internacionales no sustituyen ISP)",
+        "url": "https://www.uptodate.com/contents/tirzepatide-drug-information"
+      }
+    ],
+    "revision": "2026-10-12 · cotejo complementario con monografía UpToDate aportada; regulación basada en folleto ISP F-28423/24; auditoría final pendiente.",
+    "validacion": "Ficha documental para apoyo educativo en dispensación; no constituye validación clínica ni autorización para ajustar tratamientos."
   },
   {
     "id": "sitagliptina",
@@ -1238,7 +1410,7 @@
     "nombre": "Semaglutida oral (Rybelsus) — DM2",
     "familia": "Agonista receptor GLP-1",
     "via": "Oral diaria",
-    "estado": "Ficha documental ampliada · requiere validación profesional y verificación de registro vigente",
+    "estado": "Ficha documental ampliada · pendiente de auditoría farmacoterapéutica integral",
     "descripcion": "Semaglutida oral para DM2; instrucciones de absorción estrictas.",
     "seguridad": [
       "Verificar antecedentes de pancreatitis y síntomas abdominales persistentes.",
@@ -1259,7 +1431,8 @@
     "interacciones": [
       "Insulina y sulfonilureas: aumento del riesgo de hipoglucemia; cualquier ajuste corresponde al equipo tratante.",
       "Retraso del vaciamiento gástrico: revisar fármacos orales concomitantes según ficha específica.",
-      "No combinar con otro agonista GLP-1; revisar duplicidad de principio activo entre marcas."
+      "No combinar con otro agonista GLP-1; revisar duplicidad de principio activo entre marcas.",
+      "Levotiroxina: el folleto ISP informa aumento del 33 % en exposición total de tiroxina tras dosis única; considerar monitorización de parámetros tiroideos con uso concomitante."
     ],
     "alertas": [
       {
@@ -1285,23 +1458,26 @@
       {
         "nombre": "UpToDate · Semaglutide: Drug information",
         "url": "https://www.uptodate.com/contents/semaglutide-drug-information"
+      },
+      {
+        "nombre": "Folleto ISP aportado Rybelsus (B-2944/22); datos de conservación y posología cotejados en PDF local. Vigencia regulatoria actual pendiente de verificación."
       }
     ],
-    "revision": "2026-10-11 · cotejo documental ISP y literatura",
+    "revision": "2026-10-12 · ampliación semaglutida con folletos ISP aportados y evidencia primaria; auditoría final pendiente",
     "validacion": "Material educativo de apoyo al mesón; no sustituye folleto vigente ni juicio clínico.",
     "dispensacion_rapida": {
       "primera": {
         "consejo": "Tomar una vez al día en ayunas, con hasta 120 mL de agua; tragar entero, sin partir/triturar/masticar. Esperar al menos 30 minutos antes de comer, beber o tomar otros medicamentos. Folleto ISP aportado: 3 mg una vez al día durante un mes (inicio); luego 7 mg diarios; después de al menos un mes a 7 mg puede aumentarse a 14 mg diarios según prescripción. No utilizar dos comprimidos de 7 mg para reemplazar 14 mg.",
         "pregunta": "¿Es primera dispensación? ¿Conoce la pauta de escalamiento y utiliza insulina o sulfonilureas?",
         "efectos": "Explicar síntomas gastrointestinales y signos de pancreatitis o deshidratación.",
-        "almacenamiento": "Comprobar conservación exacta en el folleto de la presentación entregada; no congelar inyectables.",
+        "almacenamiento": "Folleto ISP aportado, sección 6.4: no conservar a más de 30 °C; mantener en blíster original para proteger de humedad y luz.",
         "accion": "Confirmar presentación, indicación y dispositivo; enseñar técnica según fabricante."
       },
       "habitual": {
         "consejo": "Si olvida una dosis, omitirla y tomar la siguiente al día siguiente; no duplicar.",
         "pregunta": "¿Ha tenido vómitos persistentes, hipoglucemias, dificultades de administración o cambios de tratamiento?",
         "efectos": "Revisar tolerancia, hidratación y signos de alarma.",
-        "almacenamiento": "Verificar conservación y fecha de vencimiento tras apertura según producto.",
+        "almacenamiento": "Conservar a ≤30 °C en blíster original; evitar extraer comprimidos anticipadamente.",
         "accion": "Revisar adherencia, escalamiento prescrito y posible duplicidad GLP-1."
       }
     },
@@ -1325,22 +1501,37 @@
         "tipo": "Seguridad",
         "titulo": "Alertas de dispensación",
         "texto": "Verificar antecedentes de pancreatitis y síntomas abdominales persistentes. / Vigilar deshidratación por efectos gastrointestinales. / Insulina o sulfonilurea concomitante: mayor riesgo de hipoglucemia. / El incumplimiento del ayuno o de los 30 minutos puede reducir la absorción. / Precaución ante antecedentes de retinopatía diabética."
+      },
+      {
+        "tipo": "Interacción",
+        "titulo": "Levotiroxina",
+        "texto": "El folleto ISP describe aumento de exposición total a tiroxina (AUC 33 %); considerar seguimiento de función tiroidea. No modificar tratamientos sin indicación clínica."
+      },
+      {
+        "tipo": "Trazabilidad",
+        "titulo": "Alcance documental",
+        "texto": "Dosis y conservación se basan en el folleto ISP aportado; estudios internacionales se presentan como evidencia, no como ampliación automática de la indicación chilena."
+      },
+      {
+        "tipo": "Conservación",
+        "titulo": "Blíster original",
+        "texto": "Conservar a temperatura no superior a 30 °C en blíster original para proteger de humedad y luz."
       }
     ],
     "evidencia_clinica": [
       {
-        "estudio": "PIONEER 6",
-        "poblacion": "Pacientes incluidos en el ensayo original; consultar criterios antes de extrapolar",
-        "hallazgo": "Ensayo de seguridad cardiovascular de semaglutida oral en DM2 de alto riesgo cardiovascular.",
-        "interpretacion": "Evidencia del ensayo, no equivale automáticamente a indicación regulatoria chilena.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=PIONEER+6+semaglutide"
+        "estudio": "PIONEER 6 (2019)",
+        "poblacion": "DM2 con alto riesgo cardiovascular",
+        "hallazgo": "Semaglutida oral mostró no inferioridad cardiovascular frente a placebo; el ensayo no demostró superioridad estadísticamente significativa para MACE.",
+        "interpretacion": "Diferenciar seguridad de beneficio cardiovascular demostrado; no atribuir el resultado de SOUL retrospectivamente a PIONEER 6.",
+        "url": "https://doi.org/10.1056/NEJMoa1901118"
       },
       {
-        "estudio": "SOUL",
-        "poblacion": "Pacientes incluidos en el ensayo original; consultar criterios antes de extrapolar",
-        "hallazgo": "Ensayo de desenlaces cardiovasculares de semaglutida oral; revisar formulación y población antes de atribuir resultados a productos chilenos.",
-        "interpretacion": "Evidencia del ensayo, no equivale automáticamente a indicación regulatoria chilena.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=SOUL+trial+oral+semaglutide"
+        "estudio": "SOUL (2025)",
+        "poblacion": "DM2 con enfermedad cardiovascular aterosclerótica, enfermedad renal crónica o ambas",
+        "hallazgo": "Semaglutida oral redujo MACE frente a placebo: HR 0,86 (IC95 % 0,77–0,96).",
+        "interpretacion": "Resultado de ensayo posterior al folleto ISP aportado; revisar indicación vigente antes de atribuir ampliación regulatoria.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=SOUL+oral+semaglutide+2025+NEJM"
       }
     ]
   },
@@ -1350,7 +1541,7 @@
     "familia": "Agonista receptor GLP-1",
     "via": "Subcutánea semanal",
     "estado": "Ficha documental ampliada · requiere validación profesional y verificación de registro vigente",
-    "descripcion": "Agonista GLP-1 semanal para DM2; dispositivo prellenado.",
+    "descripcion": "Agonista GLP-1 de administración subcutánea semanal para DM2; inyector prellenado de una sola dosis. Referencia regulatoria disponible: folleto ISP 2016.",
     "seguridad": [
       "Verificar antecedentes de pancreatitis y síntomas abdominales persistentes.",
       "Vigilar deshidratación por efectos gastrointestinales.",
@@ -1359,7 +1550,7 @@
     ],
     "dispensacion": "Verificar presentación, indicación de receta, titulación, técnica de administración y tolerancia; no modificar dosis sin prescriptor.",
     "marcas": [],
-    "posicionamiento": "Indicación del producto: DM2. Los beneficios de ensayos clínicos se interpretan por molécula, formulación y población, no como efecto uniforme de clase.",
+    "posicionamiento": "Indicación del producto: DM2. Los beneficios de ensayos clínicos se interpretan por molécula, formulación y población, no como efecto uniforme de clase. El folleto ISP consultado es de 2016; verificar vigencia y modificaciones regulatorias en auditoría final.",
     "mecanismo": "Agonismo del receptor GLP-1: estimula la secreción de insulina dependiente de glucosa, reduce glucagón inapropiadamente elevado y enlentece vaciamiento gástrico; puede reducir apetito.",
     "reacciones": [
       "Náuseas, vómitos, diarrea o estreñimiento, especialmente durante la titulación.",
@@ -1395,23 +1586,43 @@
       {
         "nombre": "UpToDate · Dulaglutide: Drug information",
         "url": "https://www.uptodate.com/contents/dulaglutide-drug-information"
+      },
+      {
+        "nombre": "ISP Chile · Trulicity 0,75 mg/0,5 mL, registro B-2605, folleto 2016",
+        "url": "https://www.ispch.gob.cl/folleto/trulicity-recombinante-solucion-inyectable-075-mg-05-ml-2/"
+      },
+      {
+        "nombre": "ISP Chile · Trulicity 1,5 mg/0,5 mL, registro B-2604, folleto 2016",
+        "url": "https://ispch.gob.cl/folleto/trulicity-recombinante-solucion-inyectable-15-mg-05-ml-2/"
+      },
+      {
+        "nombre": "Gerstein HC et al. REWIND, Lancet 2019",
+        "url": "https://doi.org/10.1016/S0140-6736(19)31149-3"
+      },
+      {
+        "nombre": "AWARD-11 · Frias et al., Diabetes Care 2021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33397768/"
+      },
+      {
+        "nombre": "REWIND · análisis renal exploratorio, Lancet 2019",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31189509/"
       }
     ],
-    "revision": "2026-10-11 · cotejo documental ISP y literatura",
+    "revision": "2026-10-12 · ampliación documental según folleto ISP B-2605/16 (2016), REWIND y AWARD-11",
     "validacion": "Material educativo de apoyo al mesón; no sustituye folleto vigente ni juicio clínico.",
     "dispensacion_rapida": {
       "primera": {
-        "consejo": "Administración subcutánea semanal, en abdomen, muslo o brazo. Enseñar uso del dispositivo de la presentación exacta. Folleto ISP aportado (versión antigua): 0,75 mg semanal en monoterapia y 1,5 mg semanal en combinación; otras dosis/escalamientos de presentaciones actuales requieren verificación independiente.",
+        "consejo": "Según folleto ISP 2016: 0,75 mg una vez por semana en monoterapia; 1,5 mg una vez por semana en combinación. No se describe en este folleto un escalamiento universal 0,75→1,5 mg. Administrar por vía subcutánea en abdomen, muslo o brazo, con o sin alimentos; confirmar receta y presentación.",
         "pregunta": "¿Es primera dispensación? ¿Conoce la pauta de escalamiento y utiliza insulina o sulfonilureas?",
         "efectos": "Explicar síntomas gastrointestinales y signos de pancreatitis o deshidratación.",
-        "almacenamiento": "Comprobar conservación exacta en el folleto de la presentación entregada; no congelar inyectables.",
+        "almacenamiento": "Refrigerar a 2–8 °C, no congelar y proteger de la luz. Según folleto ISP 2016, puede permanecer fuera de refrigeración hasta 14 días a temperatura ≤30 °C, protegido de luz y calor. Dispositivo de un solo uso.",
         "accion": "Confirmar presentación, indicación y dispositivo; enseñar técnica según fabricante."
       },
       "habitual": {
-        "consejo": "La pauta de dosis olvidada requiere cotejo con la versión ISP vigente antes de dar instrucciones operativas.",
+        "consejo": "Dosis olvidada (folleto ISP 2016): administrar cuanto antes si faltan ≥72 horas para la siguiente dosis; si faltan <72 horas, omitir y continuar el día habitual. Para cambiar el día semanal, deben transcurrir ≥72 horas desde la última dosis.",
         "pregunta": "¿Ha tenido vómitos persistentes, hipoglucemias, dificultades de administración o cambios de tratamiento?",
         "efectos": "Revisar tolerancia, hidratación y signos de alarma.",
-        "almacenamiento": "Verificar conservación y fecha de vencimiento tras apertura según producto.",
+        "almacenamiento": "Refrigerar a 2–8 °C, no congelar y proteger de la luz. Según folleto ISP 2016, puede permanecer fuera de refrigeración hasta 14 días a temperatura ≤30 °C, protegido de luz y calor. Dispositivo de un solo uso.",
         "accion": "Revisar adherencia, escalamiento prescrito y posible duplicidad GLP-1."
       }
     },
@@ -1424,51 +1635,80 @@
       {
         "tipo": "Posología",
         "titulo": "Escalamiento de referencia ISP",
-        "texto": "Folleto ISP aportado (versión antigua): 0,75 mg semanal en monoterapia y 1,5 mg semanal en combinación; otras dosis/escalamientos de presentaciones actuales requieren verificación independiente."
+        "texto": "Folleto ISP 2016: 0,75 mg SC semanal en monoterapia; 1,5 mg SC semanal en combinación. En personas potencialmente vulnerables, como ≥75 años, se puede considerar 0,75 mg como dosis inicial. No asumir autorización chilena de 3 o 4,5 mg por evidencia extranjera."
       },
       {
         "tipo": "Dosis olvidada",
         "titulo": "Qué hacer",
-        "texto": "La pauta de dosis olvidada requiere cotejo con la versión ISP vigente antes de dar instrucciones operativas."
+        "texto": "Dosis olvidada (folleto ISP 2016): administrar cuanto antes si faltan ≥72 horas para la siguiente dosis; si faltan <72 horas, omitir y continuar el día habitual. Para cambiar el día semanal, deben transcurrir ≥72 horas desde la última dosis."
       },
       {
         "tipo": "Seguridad",
         "titulo": "Alertas de dispensación",
         "texto": "Verificar antecedentes de pancreatitis y síntomas abdominales persistentes. / Vigilar deshidratación por efectos gastrointestinales. / Insulina o sulfonilurea concomitante: mayor riesgo de hipoglucemia. / No extrapolar dosis de formulaciones o dispositivos más recientes a este folleto ISP antiguo."
+      },
+      {
+        "tipo": "Conservación",
+        "titulo": "Cadena de frío y vida fuera del refrigerador",
+        "texto": "Refrigerar a 2–8 °C, no congelar y proteger de la luz. Según folleto ISP 2016, puede permanecer fuera de refrigeración hasta 14 días a temperatura ≤30 °C, protegido de luz y calor. Dispositivo de un solo uso."
+      },
+      {
+        "tipo": "Dispositivo",
+        "titulo": "Inyector de dosis única",
+        "texto": "El inyector prellenado dispensa una sola dosis de 0,75 o 1,5 mg; desechar después de utilizarlo. Verificar solución sin partículas ni turbidez."
       }
     ],
     "evidencia_clinica": [
       {
-        "estudio": "REWIND",
-        "poblacion": "Pacientes incluidos en el ensayo original; consultar criterios antes de extrapolar",
-        "hallazgo": "Ensayo de desenlaces cardiovasculares con dulaglutida en DM2; revisar riesgo basal y resultados primarios.",
-        "interpretacion": "Evidencia del ensayo, no equivale automáticamente a indicación regulatoria chilena.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=REWIND+dulaglutide+2019"
+        "estudio": "REWIND (Gerstein et al., Lancet 2019)",
+        "poblacion": "9.901 personas con DM2 y factores de riesgo o enfermedad cardiovascular previa",
+        "hallazgo": "Desenlace cardiovascular compuesto: HR 0,88 (IC95 % 0,79–0,99) con dulaglutida frente a placebo.",
+        "interpretacion": "Beneficio observado en el ensayo con dosis estudiada de 1,5 mg semanal; no extrapolar a todas las dosis o poblaciones.",
+        "url": "https://doi.org/10.1016/S0140-6736(19)31149-3"
+      },
+      {
+        "estudio": "AWARD-11 (Frias et al., Diabetes Care 2021)",
+        "poblacion": "Personas adultas con DM2 insuficientemente controlada con metformina",
+        "hallazgo": "Ensayo aleatorizado que comparó dulaglutida 3 y 4,5 mg con 1,5 mg semanales; documenta eficacia y seguridad de dosis superiores.",
+        "interpretacion": "Evidencia internacional; no implica que presentaciones de 3 o 4,5 mg estén autorizadas en Chile.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33397768/"
+      },
+      {
+        "estudio": "REWIND, análisis renal exploratorio (Gerstein et al., Lancet 2019)",
+        "poblacion": "Participantes de REWIND con DM2 y factores de riesgo cardiovascular",
+        "hallazgo": "Análisis secundario de desenlaces renales, separado del desenlace cardiovascular primario.",
+        "interpretacion": "No confundir un análisis exploratorio renal con una indicación renal aprobada en Chile.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31189509/"
       }
     ]
   },
   {
     "id": "liraglutida",
-    "nombre": "Liraglutida — DM2 (documentación parcial)",
+    "nombre": "Liraglutida (Victoza) — DM2",
     "familia": "Agonista receptor GLP-1",
     "via": "Subcutánea diaria",
-    "estado": "Ficha documental ampliada · requiere validación profesional y verificación de registro vigente",
-    "descripcion": "Liraglutida es un agonista GLP-1; la pauta para DM2 debe verificarse en folleto de producto autorizado para DM2. El folleto aportado de Saxenda corresponde a control de peso.",
+    "estado": "Ficha farmacoterapéutica ampliada · cotejo ISP 2017/2021 · revisión profesional pendiente",
+    "descripcion": "Victoza (liraglutida 6 mg/mL, dispositivo prellenado de 3 mL) es un agonista del receptor GLP-1 para control glicémico en DM2. No confundir con Saxenda 3 mg/día, destinado al control del peso. La ficha pública ISP B-2249/22 señala registro vigente con suspensión voluntaria de distribución; verificar disponibilidad.",
     "seguridad": [
-      "Verificar antecedentes de pancreatitis y síntomas abdominales persistentes.",
-      "Vigilar deshidratación por efectos gastrointestinales.",
-      "Insulina o sulfonilurea concomitante: mayor riesgo de hipoglucemia.",
-      "No confundir indicación ni dosis de Saxenda (control de peso) con formulación de liraglutida para DM2."
+      "Pancreatitis: dolor abdominal intenso persistente, con o sin vómitos; derivación inmediata. Si se confirma pancreatitis, no reiniciar sin evaluación médica.",
+      "Vómitos/diarrea: riesgo de deshidratación y deterioro renal.",
+      "Con insulina o sulfonilureas aumenta el riesgo de hipoglicemia; ajustes únicamente por prescriptor.",
+      "No usar para DM1 ni cetoacidosis diabética; no reemplaza insulina.",
+      "Folleto ISP 2017: contraindicación en antecedente personal/familiar de carcinoma medular tiroideo o síndrome MEN2; verificar redacción de versión vigente.",
+      "Evitar confusión Victoza 0,6–1,8 mg/día (DM2) versus Saxenda hasta 3 mg/día (control de peso).",
+      "ISP: registro B-2249/22 vigente con suspensión voluntaria de distribución (consultado octubre de 2026); no implica disponibilidad comercial."
     ],
     "dispensacion": "Verificar presentación, indicación de receta, titulación, técnica de administración y tolerancia; no modificar dosis sin prescriptor.",
-    "marcas": [],
+    "marcas": [
+      "Victoza (DM2, ISP B-2249/22; distribución voluntariamente suspendida según ficha pública consultada)"
+    ],
     "posicionamiento": "Indicación del producto: DM2. Los beneficios de ensayos clínicos se interpretan por molécula, formulación y población, no como efecto uniforme de clase.",
     "mecanismo": "Agonismo del receptor GLP-1: estimula la secreción de insulina dependiente de glucosa, reduce glucagón inapropiadamente elevado y enlentece vaciamiento gástrico; puede reducir apetito.",
     "reacciones": [
       "Náuseas, vómitos, diarrea o estreñimiento, especialmente durante la titulación.",
       "Hipoglucemia más probable en combinación con insulina o sulfonilureas."
     ],
-    "renal": "No extrapolar restricciones renales entre presentaciones; vigilar deshidratación y deterioro renal por vómitos/diarrea persistentes. Verificar folleto ISP específico.",
+    "renal": "Folleto ISP 2017: sin ajuste en insuficiencia renal leve o moderada; experiencia limitada en insuficiencia grave y no recomendado en enfermedad renal terminal. Vigilar deshidratación por síntomas gastrointestinales. Confirmar recomendaciones de folleto actualizado antes de uso clínico.",
     "interacciones": [
       "Insulina y sulfonilureas: aumento del riesgo de hipoglucemia; cualquier ajuste corresponde al equipo tratante.",
       "Retraso del vaciamiento gástrico: revisar fármacos orales concomitantes según ficha específica.",
@@ -1493,60 +1733,87 @@
     ],
     "fuentes": [
       {
-        "nombre": "ISP Chile · Saxenda (indicación control de peso; NO ficha posológica DM2) · registro B-2626/16; folleto aportado: SAXENDA ISP(1).pdf (verificar actualización vigente)"
+        "nombre": "ISP Chile · Victoza, folleto profesional 2017 B-2249/17 (PDF aportado por usuario)"
       },
       {
-        "nombre": "UpToDate · Liraglutide: Drug information",
-        "url": "https://www.uptodate.com/contents/liraglutide-drug-information"
+        "nombre": "ISP Chile · Victoza, actualización autorizada 09-12-2021 B-2249",
+        "url": "https://www.ispch.gob.cl/folleto/b-2249-2021/"
+      },
+      {
+        "nombre": "ISP Chile · PDF folleto Victoza actualización 2021",
+        "url": "https://www.ispch.gob.cl/wp-content/uploads/2022/01/B-2249.pdf"
+      },
+      {
+        "nombre": "ISP Chile · Ficha pública registro B-2249/22; suspensión voluntaria de distribución",
+        "url": "https://registrosanitario.ispch.gob.cl/Ficha.aspx?RegistroISP=B-2249%2F22"
+      },
+      {
+        "nombre": "Marso SP et al. Liraglutide and Cardiovascular Outcomes in Type 2 Diabetes. NEJM 2016; LEADER",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27295427/"
       }
     ],
-    "revision": "2026-10-11 · cotejo documental ISP y literatura",
-    "validacion": "Material educativo de apoyo al mesón; no sustituye folleto vigente ni juicio clínico.",
+    "revision": "2026-10-11 · folleto ISP 2017 + cotejo índice ISP 2021 y registro público B-2249/22",
+    "validacion": "Ficha documental no validada clínicamente. Discrepancia por resolver: el folleto 2021 y la indicación visible en ficha pública del registro pueden diferir respecto de población pediátrica; evitar afirmar indicación pediátrica sin cotejo íntegro. Estado de distribución sujeto a cambios.",
     "dispensacion_rapida": {
       "primera": {
-        "consejo": "La liraglutida se administra por vía subcutánea; NO utilizar la pauta de Saxenda como pauta de tratamiento de DM2. Dosis de liraglutida para DM2 pendiente de cotejo con folleto profesional chileno de la presentación indicada. No utilizar pauta de Saxenda 3 mg para control glucémico.",
-        "pregunta": "¿Es primera dispensación? ¿Conoce la pauta de escalamiento y utiliza insulina o sulfonilureas?",
+        "consejo": "Victoza: inyectar por vía subcutánea una vez al día, a cualquier hora, con o sin comidas. Dosis inicial 0,6 mg/día; tras al menos una semana 1,2 mg/día; si precisa, tras al menos otra semana 1,8 mg/día. Dosis máxima 1,8 mg/día según folleto ISP aportado. No utilizar pauta Saxenda.",
+        "pregunta": "¿Es primera dispensación de Victoza? ¿Le enseñaron el dispositivo? ¿Utiliza insulina o sulfonilureas?",
         "efectos": "Explicar síntomas gastrointestinales y signos de pancreatitis o deshidratación.",
-        "almacenamiento": "Comprobar conservación exacta en el folleto de la presentación entregada; no congelar inyectables.",
-        "accion": "Confirmar presentación, indicación y dispositivo; enseñar técnica según fabricante."
+        "almacenamiento": "Antes del uso: refrigerar 2–8 °C, no congelar. Después del primer uso: 1 mes bajo 30 °C o refrigerado 2–8 °C; conservar con tapa, sin aguja puesta (folleto ISP 2017).",
+        "accion": "Verificar presentación, dosis prescrita y disponibilidad. Usar aguja nueva en cada aplicación; con cada dispositivo nuevo comprobar flujo. Mantener botón presionado y aguja insertada mientras se cuenta lentamente hasta 6; retirar y desechar aguja."
       },
       "habitual": {
-        "consejo": "Dosis olvidada para formulación DM2: pendiente de folleto ISP correspondiente.",
+        "consejo": "Administrar diariamente; si olvidó una dosis, consultar indicación del folleto actualizado o equipo tratante antes de recomendar reposición; no duplicar dosis.",
         "pregunta": "¿Ha tenido vómitos persistentes, hipoglucemias, dificultades de administración o cambios de tratamiento?",
         "efectos": "Revisar tolerancia, hidratación y signos de alarma.",
-        "almacenamiento": "Verificar conservación y fecha de vencimiento tras apertura según producto.",
-        "accion": "Revisar adherencia, escalamiento prescrito y posible duplicidad GLP-1."
+        "almacenamiento": "Tras el primer uso, máximo un mes bajo 30 °C o refrigerado (2–8 °C), sin congelar. Retirar la aguja tras cada uso y mantener tapa.",
+        "accion": "Comprobar adherencia, tolerancia gastrointestinal, hipoglicemias, rotación de sitios y duplicidad con Saxenda u otros agonistas GLP-1."
       }
     },
     "consejos_practicos": [
       {
         "tipo": "Administración",
-        "titulo": "Cómo utilizar",
-        "texto": "La liraglutida se administra por vía subcutánea; NO utilizar la pauta de Saxenda como pauta de tratamiento de DM2."
+        "titulo": "Inyección diaria",
+        "texto": "Victoza 6 mg/mL, 3 mL por dispositivo. SC en abdomen, muslo o brazo una vez al día, con o sin comidas. Nunca IV ni IM."
       },
       {
         "tipo": "Posología",
-        "titulo": "Escalamiento de referencia ISP",
-        "texto": "Dosis de liraglutida para DM2 pendiente de cotejo con folleto profesional chileno de la presentación indicada. No utilizar pauta de Saxenda 3 mg para control glucémico."
+        "titulo": "Titulación para DM2",
+        "texto": "0,6 mg una vez al día durante al menos una semana; luego 1,2 mg diarios; si es necesario, subir a 1,8 mg diarios después de al menos una semana adicional. Máximo 1,8 mg/día según folleto ISP 2017."
+      },
+      {
+        "tipo": "Dispositivo",
+        "titulo": "Primera dispensación",
+        "texto": "Usar aguja nueva en cada inyección, comprobar flujo con cada dispositivo nuevo, seleccionar dosis indicada, mantener presionado botón con aguja bajo la piel contando lentamente hasta 6, retirar aguja y desecharla."
+      },
+      {
+        "tipo": "Conservación",
+        "titulo": "Cadena de frío",
+        "texto": "Antes del uso: 2–8 °C. Después del primer uso: 1 mes bajo 30 °C o refrigerado. No congelar; mantener tapa y retirar aguja después de cada inyección."
       },
       {
         "tipo": "Dosis olvidada",
-        "titulo": "Qué hacer",
-        "texto": "Dosis olvidada para formulación DM2: pendiente de folleto ISP correspondiente."
+        "titulo": "Requiere cotejo de folleto actualizado",
+        "texto": "No se consigna pauta operativa en el folleto ISP 2017 aportado; no duplicar dosis y confirmar instrucciones con documento vigente o profesional tratante."
       },
       {
         "tipo": "Seguridad",
-        "titulo": "Alertas de dispensación",
-        "texto": "Verificar antecedentes de pancreatitis y síntomas abdominales persistentes. / Vigilar deshidratación por efectos gastrointestinales. / Insulina o sulfonilurea concomitante: mayor riesgo de hipoglucemia. / No confundir indicación ni dosis de Saxenda (control de peso) con formulación de liraglutida para DM2."
+        "titulo": "Signos de alarma",
+        "texto": "Dolor abdominal intenso persistente: sospechar pancreatitis. Vómitos/diarrea persistentes: riesgo de deshidratación. Con insulina o sulfonilurea: vigilar hipoglicemia."
+      },
+      {
+        "tipo": "Regulación",
+        "titulo": "Registro y disponibilidad en Chile",
+        "texto": "Registro ISP B-2249/22: vigente con suspensión voluntaria de distribución, según ficha pública consultada en octubre de 2026. Comprobar situación antes de dispensar."
       }
     ],
     "evidencia_clinica": [
       {
-        "estudio": "LEADER",
-        "poblacion": "Pacientes incluidos en el ensayo original; consultar criterios antes de extrapolar",
-        "hallazgo": "Ensayo de desenlaces cardiovasculares con liraglutida en personas con DM2 de alto riesgo cardiovascular.",
-        "interpretacion": "Evidencia del ensayo, no equivale automáticamente a indicación regulatoria chilena.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=LEADER+liraglutide+2016"
+        "estudio": "LEADER (Marso et al., NEJM 2016)",
+        "poblacion": "9.340 personas con DM2 y alto riesgo cardiovascular",
+        "hallazgo": "Desenlace cardiovascular compuesto principal: 13,0 % con liraglutida frente a 14,9 % con placebo; HR 0,87 (IC95 % 0,78–0,97).",
+        "interpretacion": "Reducción relativa de 13 % del desenlace compuesto en población del ensayo; no implica el mismo efecto para todas las formulaciones ni indicaciones.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27295427/"
       }
     ]
   },
@@ -1555,7 +1822,7 @@
     "nombre": "Semaglutida (Wegovy) — control de peso",
     "familia": "Agonista receptor GLP-1",
     "via": "Subcutánea semanal",
-    "estado": "Ficha documental ampliada · requiere validación profesional y verificación de registro vigente",
+    "estado": "Ficha documental ampliada · pendiente de auditoría farmacoterapéutica integral",
     "descripcion": "Presentación de semaglutida con indicación de control crónico del peso según folleto ISP aportado; no intercambiar con Ozempic.",
     "seguridad": [
       "Verificar antecedentes de pancreatitis y síntomas abdominales persistentes.",
@@ -1597,9 +1864,12 @@
     "fuentes": [
       {
         "nombre": "ISP Chile · Wegovy · registro B-2997/23; folleto aportado: WEGOVY ISP(1).pdf (verificar actualización vigente)"
+      },
+      {
+        "nombre": "Folleto ISP aportado Wegovy (B-2997/23); datos de conservación y posología cotejados en PDF local. Vigencia regulatoria actual pendiente de verificación."
       }
     ],
-    "revision": "2026-10-11 · cotejo documental ISP y literatura",
+    "revision": "2026-10-12 · ampliación semaglutida con folletos ISP aportados y evidencia primaria; auditoría final pendiente",
     "validacion": "Material educativo de apoyo al mesón; no sustituye folleto vigente ni juicio clínico.",
     "dispensacion_rapida": {
       "primera": {
@@ -1610,7 +1880,7 @@
         "accion": "Confirmar presentación, indicación y dispositivo; enseñar técnica según fabricante."
       },
       "habitual": {
-        "consejo": "Si se omite, administrar dentro de 5 días; pasado ese período, omitir. Si se omiten varias dosis, requiere evaluación del reinicio.",
+        "consejo": "Folleto ISP aportado: administrar la dosis omitida dentro de 5 días; si pasaron más de 5 días, omitir y continuar calendario. Si se omiten varias dosis, considerar evaluación para reiniciar con dosis menor.",
         "pregunta": "¿Ha tenido vómitos persistentes, hipoglucemias, dificultades de administración o cambios de tratamiento?",
         "efectos": "Revisar tolerancia, hidratación y signos de alarma.",
         "almacenamiento": "Verificar conservación y fecha de vencimiento tras apertura según producto.",
@@ -1637,9 +1907,34 @@
         "tipo": "Seguridad",
         "titulo": "Alertas de dispensación",
         "texto": "Verificar antecedentes de pancreatitis y síntomas abdominales persistentes. / Vigilar deshidratación por efectos gastrointestinales. / Insulina o sulfonilurea concomitante: mayor riesgo de hipoglucemia. / Indicación autorizada en folleto aportado: control crónico del peso; no sustituye a Ozempic o Rybelsus."
+      },
+      {
+        "tipo": "Trazabilidad",
+        "titulo": "Alcance documental",
+        "texto": "Dosis y conservación se basan en el folleto ISP aportado; estudios internacionales se presentan como evidencia, no como ampliación automática de la indicación chilena."
+      },
+      {
+        "tipo": "Dosis olvidada",
+        "titulo": "Regla de 5 días",
+        "texto": "Si transcurrieron ≤5 días, administrar lo antes posible; si >5 días, omitir y seguir esquema habitual. Si se omiten varias dosis, consultar por posible ajuste al reiniciar."
       }
     ],
-    "evidencia_clinica": []
+    "evidencia_clinica": [
+      {
+        "estudio": "STEP 2 (2021)",
+        "poblacion": "Personas con sobrepeso u obesidad y DM2",
+        "hallazgo": "Ensayo aleatorizado de semaglutida 2,4 mg semanal para control del peso; no equivale a pauta de Ozempic para DM2.",
+        "interpretacion": "Evidencia en control ponderal; comprobar criterios y resultados exactos antes de citar cifras.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=STEP+2+semaglutide+2.4+diabetes+Lancet+2021"
+      },
+      {
+        "estudio": "SELECT (2023)",
+        "poblacion": "Sobrepeso u obesidad y enfermedad cardiovascular establecida, sin diabetes al ingreso",
+        "hallazgo": "Ensayo cardiovascular con semaglutida 2,4 mg en personas sin DM2; no debe presentarse como ensayo de tratamiento de DM2.",
+        "interpretacion": "Contexto complementario de obesidad, no justifica atribuir indicación glicémica.",
+        "url": "https://doi.org/10.1056/NEJMoa2307563"
+      }
+    ]
   },
   {
     "id": "liraglutida-peso",
@@ -1732,5 +2027,206 @@
       }
     ],
     "evidencia_clinica": []
+  },
+  {
+    "id": "insulina-glargina-u100",
+    "nombre": "Insulina glargina U-100 (Lantus)",
+    "familia": "Insulina basal de acción prolongada",
+    "via": "Subcutánea",
+    "estado": "Ficha de seguridad documental preliminar · verificar folleto ISP vigente y presentación",
+    "descripcion": "Solución de insulina glargina 100 unidades/mL; no confundir con glargina U-300.",
+    "seguridad": [
+      "Solución transparente e incolora; no requiere resuspensión.",
+      "No mezclar ni diluir Lantus.",
+      "La conservación en uso difiere entre frasco y pluma SoloStar según ficha FDA 2025; verificar folleto chileno antes de instruir."
+    ],
+    "dispensacion": "Confirmar glargina U-100, forma farmacéutica y dispositivo; no intercambiar por glargina U-300 sin evaluación del prescriptor.",
+    "marcas": [],
+    "mecanismo": "Insulina exógena: facilita la utilización de glucosa y reduce la producción hepática de glucosa. El perfil temporal depende de la formulación.",
+    "reacciones": [
+      "Hipoglicemia, potencialmente grave.",
+      "Reacciones en el sitio de inyección y lipodistrofia por falta de rotación."
+    ],
+    "renal": "La disminución de la función renal puede modificar los requerimientos de insulina; evaluar con el equipo tratante, sin ajustar dosis desde la PWA.",
+    "interacciones": [
+      "Otros medicamentos hipoglicemiantes pueden incrementar el riesgo de hipoglicemia.",
+      "Los betabloqueadores pueden enmascarar algunas manifestaciones adrenérgicas de hipoglicemia."
+    ],
+    "alertas": [
+      {
+        "nivel": "Evaluación inmediata",
+        "titulo": "Hipoglicemia grave",
+        "detalle": "Alteración de conciencia, convulsiones o incapacidad para tragar: solicitar atención urgente; no administrar nada por vía oral."
+      },
+      {
+        "nivel": "Revisión farmacéutica",
+        "titulo": "Confusión de insulina o dispositivo",
+        "detalle": "Comprobar nombre, concentración y presentación con receta y envase; no sustituir automáticamente."
+      },
+      {
+        "nivel": "Revisión farmacéutica",
+        "titulo": "U-100 frente a U-300",
+        "detalle": "No sustituir automáticamente por Toujeo; verificar prescripción y consultar al equipo tratante."
+      }
+    ],
+    "fuentes": [
+      {
+        "nombre": "FDA · Lantus, información de prescripción revisada 05/2025 (fuente estadounidense)"
+      },
+      {
+        "nombre": "ISP Chile · Lantus U-100, folleto B-1029/21 localizado; instrucciones específicas aún pendientes de cotejo"
+      }
+    ],
+    "revision": "2026-10-13 · integración preliminar de seguridad documental",
+    "validacion": "Material informativo para dispensación. No sustituye ficha ISP vigente, indicación médica ni evaluación del químico farmacéutico. No efectúa ajustes ni conversiones de dosis.",
+    "dispensacion_rapida": {
+      "primera": {
+        "consejo": "Confirmar glargina U-100, forma farmacéutica y dispositivo; no intercambiar por glargina U-300 sin evaluación del prescriptor.",
+        "pregunta": "¿Puede identificar el nombre, concentración y dispositivo indicados en su receta?",
+        "efectos": "Explicar signos de hipoglicemia y cuándo solicitar asistencia urgente.",
+        "almacenamiento": "Según ficha FDA 2025: frasco abierto, hasta 28 días refrigerado o a temperatura ambiente; pluma SoloStar en uso, 28 días sin refrigerar. Dato estadounidense: confirmar folleto ISP y presentación dispensada.",
+        "accion": "Revisar prescripción y dispositivo; enseñar técnica con instrucciones específicas del fabricante."
+      },
+      "habitual": {
+        "consejo": "Confirmar que no haya cambios inadvertidos de concentración o dispositivo.",
+        "pregunta": "¿Ha tenido hipoglicemias o cambios de presentación desde su última dispensación?",
+        "efectos": "Reforzar reconocimiento de hipoglicemia y rotación de sitios.",
+        "almacenamiento": "Según ficha FDA 2025: frasco abierto, hasta 28 días refrigerado o a temperatura ambiente; pluma SoloStar en uso, 28 días sin refrigerar. Dato estadounidense: confirmar folleto ISP y presentación dispensada.",
+        "accion": "Derivar al químico farmacéutico ante discrepancias o dudas de técnica."
+      }
+    }
+  },
+  {
+    "id": "insulina-glargina-u300",
+    "nombre": "Insulina glargina U-300 (Toujeo)",
+    "familia": "Insulina basal de acción prolongada",
+    "via": "Subcutánea",
+    "estado": "Ficha de seguridad documental preliminar · verificar folleto ISP vigente y presentación",
+    "descripcion": "Solución de glargina 300 unidades/mL, con instrucciones propias de dispositivo.",
+    "seguridad": [
+      "Glargina U-100 y U-300 no son bioequivalentes ni directamente intercambiables.",
+      "No extraer insulina de la pluma con una jeringa.",
+      "El selector del dispositivo indica unidades; no efectuar conversiones manuales."
+    ],
+    "dispensacion": "Verificar que la receta indique glargina U-300 y el dispositivo correcto. Cualquier cambio desde/hacia U-100 requiere indicación y seguimiento clínico.",
+    "marcas": [],
+    "mecanismo": "Insulina exógena: facilita la utilización de glucosa y reduce la producción hepática de glucosa. El perfil temporal depende de la formulación.",
+    "reacciones": [
+      "Hipoglicemia, potencialmente grave.",
+      "Reacciones en el sitio de inyección y lipodistrofia por falta de rotación."
+    ],
+    "renal": "La disminución de la función renal puede modificar los requerimientos de insulina; evaluar con el equipo tratante, sin ajustar dosis desde la PWA.",
+    "interacciones": [
+      "Otros medicamentos hipoglicemiantes pueden incrementar el riesgo de hipoglicemia.",
+      "Los betabloqueadores pueden enmascarar algunas manifestaciones adrenérgicas de hipoglicemia."
+    ],
+    "alertas": [
+      {
+        "nivel": "Evaluación inmediata",
+        "titulo": "Hipoglicemia grave",
+        "detalle": "Alteración de conciencia, convulsiones o incapacidad para tragar: solicitar atención urgente; no administrar nada por vía oral."
+      },
+      {
+        "nivel": "Revisión farmacéutica",
+        "titulo": "Confusión de insulina o dispositivo",
+        "detalle": "Comprobar nombre, concentración y presentación con receta y envase; no sustituir automáticamente."
+      },
+      {
+        "nivel": "Alta prioridad",
+        "titulo": "Error de concentración",
+        "detalle": "Glargina U-300 no debe sustituirse automáticamente por U-100; derivar discrepancias al químico farmacéutico."
+      }
+    ],
+    "fuentes": [
+      {
+        "nombre": "ISP Chile · Toujeo U-300, folleto aportado B-2526/15 (versión histórica; verificar vigencia)"
+      }
+    ],
+    "revision": "2026-10-13 · integración preliminar de seguridad documental",
+    "validacion": "Material informativo para dispensación. No sustituye ficha ISP vigente, indicación médica ni evaluación del químico farmacéutico. No efectúa ajustes ni conversiones de dosis.",
+    "dispensacion_rapida": {
+      "primera": {
+        "consejo": "Verificar que la receta indique glargina U-300 y el dispositivo correcto. Cualquier cambio desde/hacia U-100 requiere indicación y seguimiento clínico.",
+        "pregunta": "¿Puede identificar el nombre, concentración y dispositivo indicados en su receta?",
+        "efectos": "Explicar signos de hipoglicemia y cuándo solicitar asistencia urgente.",
+        "almacenamiento": "Folleto ISP aportado: antes del uso 2–8 °C; pluma en uso hasta 6 semanas a temperatura no superior a 30 °C, sin refrigerar. Confirmar versión y dispositivo.",
+        "accion": "Revisar prescripción y dispositivo; enseñar técnica con instrucciones específicas del fabricante."
+      },
+      "habitual": {
+        "consejo": "Confirmar que no haya cambios inadvertidos de concentración o dispositivo.",
+        "pregunta": "¿Ha tenido hipoglicemias o cambios de presentación desde su última dispensación?",
+        "efectos": "Reforzar reconocimiento de hipoglicemia y rotación de sitios.",
+        "almacenamiento": "Folleto ISP aportado: antes del uso 2–8 °C; pluma en uso hasta 6 semanas a temperatura no superior a 30 °C, sin refrigerar. Confirmar versión y dispositivo.",
+        "accion": "Derivar al químico farmacéutico ante discrepancias o dudas de técnica."
+      }
+    }
+  },
+  {
+    "id": "insulina-degludec-u200",
+    "nombre": "Insulina degludec U-200 (Tresiba FlexTouch)",
+    "familia": "Insulina basal de acción ultraprolongada",
+    "via": "Subcutánea",
+    "estado": "Ficha de seguridad documental preliminar · verificar folleto ISP vigente y presentación",
+    "descripcion": "Solución de insulina degludec 200 unidades/mL en pluma FlexTouch; no extrapolar instrucciones de otras concentraciones.",
+    "seguridad": [
+      "El selector muestra las unidades que se administrarán: no convertir manualmente según concentración.",
+      "La pluma U-200 permite seleccionar dosis en incrementos de 2 unidades, según folleto aportado.",
+      "No extraer insulina de la pluma con una jeringa."
+    ],
+    "dispensacion": "Verificar U-200, nombre de dispositivo y congruencia con prescripción; los cambios de insulina requieren seguimiento clínico.",
+    "marcas": [],
+    "mecanismo": "Insulina exógena: facilita la utilización de glucosa y reduce la producción hepática de glucosa. El perfil temporal depende de la formulación.",
+    "reacciones": [
+      "Hipoglicemia, potencialmente grave.",
+      "Reacciones en el sitio de inyección y lipodistrofia por falta de rotación."
+    ],
+    "renal": "La disminución de la función renal puede modificar los requerimientos de insulina; evaluar con el equipo tratante, sin ajustar dosis desde la PWA.",
+    "interacciones": [
+      "Otros medicamentos hipoglicemiantes pueden incrementar el riesgo de hipoglicemia.",
+      "Los betabloqueadores pueden enmascarar algunas manifestaciones adrenérgicas de hipoglicemia."
+    ],
+    "alertas": [
+      {
+        "nivel": "Evaluación inmediata",
+        "titulo": "Hipoglicemia grave",
+        "detalle": "Alteración de conciencia, convulsiones o incapacidad para tragar: solicitar atención urgente; no administrar nada por vía oral."
+      },
+      {
+        "nivel": "Revisión farmacéutica",
+        "titulo": "Confusión de insulina o dispositivo",
+        "detalle": "Comprobar nombre, concentración y presentación con receta y envase; no sustituir automáticamente."
+      },
+      {
+        "nivel": "Alta prioridad",
+        "titulo": "Error por conversión de unidades",
+        "detalle": "No recalcular las unidades indicadas en el selector de la pluma U-200 ni extraer su contenido con jeringa."
+      }
+    ],
+    "fuentes": [
+      {
+        "nombre": "ISP Chile · Tresiba FlexTouch U-200, folleto aportado B-2363/13 (histórico)"
+      },
+      {
+        "nombre": "UpToDate · Insulina degludec, monografía aportada"
+      }
+    ],
+    "revision": "2026-10-13 · integración preliminar de seguridad documental",
+    "validacion": "Material informativo para dispensación. No sustituye ficha ISP vigente, indicación médica ni evaluación del químico farmacéutico. No efectúa ajustes ni conversiones de dosis.",
+    "dispensacion_rapida": {
+      "primera": {
+        "consejo": "Verificar U-200, nombre de dispositivo y congruencia con prescripción; los cambios de insulina requieren seguimiento clínico.",
+        "pregunta": "¿Puede identificar el nombre, concentración y dispositivo indicados en su receta?",
+        "efectos": "Explicar signos de hipoglicemia y cuándo solicitar asistencia urgente.",
+        "almacenamiento": "Pendiente de cotejo definitivo del plazo de uso tras apertura en el folleto ISP chileno de Tresiba U-200; no extrapolar automáticamente de U-100.",
+        "accion": "Revisar prescripción y dispositivo; enseñar técnica con instrucciones específicas del fabricante."
+      },
+      "habitual": {
+        "consejo": "Confirmar que no haya cambios inadvertidos de concentración o dispositivo.",
+        "pregunta": "¿Ha tenido hipoglicemias o cambios de presentación desde su última dispensación?",
+        "efectos": "Reforzar reconocimiento de hipoglicemia y rotación de sitios.",
+        "almacenamiento": "Pendiente de cotejo definitivo del plazo de uso tras apertura en el folleto ISP chileno de Tresiba U-200; no extrapolar automáticamente de U-100.",
+        "accion": "Derivar al químico farmacéutico ante discrepancias o dudas de técnica."
+      }
+    }
   }
 ]
