@@ -1,0 +1,15 @@
+FarmaDM2 · Prototipo comparativo v33
+BASE: FarmaDM2_v32_insulinas_interfaz_corregida.zip
+CAMBIOS IMPLEMENTADOS:
+- En Información clínica de METFORMINA y VILDAGLIPTINA se agrega bloque desplegable
+  'Información clínica ampliada', orientado principalmente al químico farmacéutico.
+- El bloque reutiliza mecanismo de acción, precauciones renales e interacciones ya
+  presentes en los datos de la v32; no representa verificación farmacoterapéutica.
+- Se conserva la pestaña Dispensación rápida y el resto de la interfaz y fichas.
+- No se cambian las dosis, recomendaciones, textos de las otras familias ni fuentes.
+PENDIENTES (NO IMPLEMENTADOS):
+- Revisión editorial integral de DPP4, GLP1, SGLT2, tirzepatida y demás familias.
+- Verificación de olvidos de dosis, conservación, interacciones y posologías por producto.
+- Redacción definitiva de contenido profesional ampliado, sin duplicación.
+- Contraste completo con la pauta de auditoría y el manuscrito TFC 1.6.
+USO: vista previa académica; no validado para atención asistencial.
