@@ -587,8 +587,8 @@
     "nombre": "Sitagliptina",
     "familia": "Inhibidor DPP-4",
     "via": "Oral",
-    "estado": "Contenido ampliado · cotejo con folletos ISP de monoterapia y combinación; validación profesional pendiente",
-    "descripcion": "Inhibidor de la DPP-4 de administración oral que prolonga la actividad de incretinas endógenas; mejora el control glucémico con bajo riesgo intrínseco de hipoglucemia.",
+    "estado": "Propuesta editorial DPP-4 v34 · seguridad y posología conservadas de v33; verificación documental pendiente",
+    "descripcion": "Medicamento oral que ayuda a controlar la glucosa en personas con diabetes tipo 2 al prolongar la acción de hormonas intestinales.",
     "seguridad": [
       "La función renal puede condicionar ajustes de dosis.",
       "El riesgo de hipoglicemia aumenta con ciertos tratamientos concomitantes.",
@@ -596,10 +596,10 @@
       "Si la receta es de sitagliptina/metformina, verificar ambos principios activos: la combinación fija tiene contraindicaciones y precauciones adicionales por metformina.",
       "El folleto ISP de Januvia F-21957/15 indica conservar a no más de 30 °C y tragar los comprimidos enteros."
     ],
-    "dispensacion": "Verificar pauta y presentación, función renal conocida y uso simultáneo de insulina o sulfonilureas. Preguntar por dolor abdominal intenso persistente, reacciones alérgicas, dolor articular incapacitante o ampollas cutáneas. Ante hallazgos relevantes, consultar al químico farmacéutico y derivar según gravedad. Diferenciar explícitamente sitagliptina sola de la asociación sitagliptina/metformina: en la combinación confirmar administración con comidas, función renal y factores de riesgo de acidosis láctica.",
+    "dispensacion": "Confirmar que el medicamento y la presentación coincidan con la receta. Explicar cómo tomarlo y preguntar si es la primera vez que lo utiliza, si ha olvidado dosis o si ha notado molestias. Preguntar por otros medicamentos, incluidos los que se hayan iniciado recientemente, para identificar interacciones relevantes. Evitar cambios de dosis u horarios sin indicación profesional.",
     "marcas": [],
     "posicionamiento": "La sitagliptina es un inhibidor de DPP-4 que puede utilizarse para mejorar el control glucémico de personas con DM2, particularmente cuando se desea evitar hipoglucemias y aumento de peso y se necesita una opción oral. Su efecto sobre HbA1c suele ser moderado y su peso corporal es generalmente neutro. A diferencia de ciertos iSGLT2 y agonistas del receptor GLP-1, no ha demostrado beneficios cardiovasculares o renales adicionales que justifiquen elegirla con fines de protección de órganos. En TECOS mostró seguridad cardiovascular (no inferioridad), sin reducción de eventos cardiovasculares mayores ni aumento de hospitalización por insuficiencia cardíaca. La selección depende de comorbilidades, metas glucémicas y función renal; no se recomienda combinarla rutinariamente con tratamientos basados en agonistas del receptor GLP-1 por falta de beneficio glucémico adicional relevante.",
-    "mecanismo": "Inhibe la enzima dipeptidil peptidasa-4 (DPP-4), que normalmente degrada las incretinas GLP-1 y GIP. Al prolongar su acción, aumenta la secreción de insulina y disminuye la de glucagón de forma dependiente de la glucosa, reduciendo principalmente la hiperglucemia. Por este mecanismo, usada sola presenta bajo riesgo de hipoglucemia.",
+    "mecanismo": "Bloquea la enzima DPP-4, que normalmente desactiva ciertas hormonas liberadas después de comer. Así, cuando aumenta la glucosa, el organismo puede liberar más insulina y reducir la producción de glucosa estimulada por el glucagón. Su efecto depende de la concentración de glucosa.",
     "reacciones": [
       "Entre los eventos comunicados se incluyen cefalea, nasofaringitis e infecciones respiratorias altas; su frecuencia y atribución deben interpretarse según ensayos y presentación.",
       "Hipoglucemia: poco frecuente en monoterapia, pero aumenta al asociarse con insulina o sulfonilureas.",
@@ -677,21 +677,21 @@
       }
     ],
     "revision": "2026-10-10 · cotejo ISP Chile y ficha técnica peruana Diabelina M 50/500 mg",
-    "validacion": "Revisión documental complementaria realizada con folleto ISP chileno y ficha peruana; pendiente validación profesional y pruebas en dispositivos.",
+    "validacion": "Revisión editorial para claridad y dispensación; no constituye validación clínica. Posología, interacciones y conservación por producto pendientes de contraste final.",
     "dispensacion_rapida": {
       "primera": {
         "consejo": "Januvia (sitagliptina sola) se administra habitualmente una vez al día, con o sin alimentos, y sus comprimidos se tragan enteros. La dosis prescrita depende de la función renal. No confundir con la combinación sitagliptina/metformina, que tiene otra pauta.",
-        "pregunta": "¿Es la primera vez que lo utiliza? ¿Usa insulina o medicamentos como glibenclamida o gliclazida? ¿Conoce si le han evaluado la función renal? Si el envase contiene también metformina, ¿tiene un procedimiento con contraste yodado programado o antecedentes de deshidratación reciente?",
+        "pregunta": "¿Es la primera vez que toma este medicamento? ¿Sabe cuándo debe tomarlo? ¿Utiliza otros medicamentos para la diabetes?",
         "efectos": "Pregunte por molestias nuevas. Si aparece dolor abdominal intenso y persistente, hinchazón de cara o dificultad para respirar, o lesiones con ampollas, requiere evaluación inmediata según la gravedad.",
-        "almacenamiento": "Según folleto ISP de Januvia F-21957/15, almacenar a temperatura no superior a 30 °C. Mantener en el envase original y fuera del alcance de niños. Comprobar siempre el envase específico dispensado.",
-        "accion": "Confirmar nombre, concentración, pauta y antecedentes relevantes; si la dosis parece discordante con la función renal o hay signos de alarma, consultar al químico farmacéutico antes de orientar."
+        "almacenamiento": "Conservar en su envase original, protegido según las indicaciones del producto y fuera del alcance de niños y mascotas. Confirmar condiciones particulares de esta presentación.",
+        "accion": "Confirmar medicamento, presentación y pauta. Explicar las recomendaciones principales y consultar al químico farmacéutico si aparece una discrepancia concreta o un síntoma de alarma."
       },
       "habitual": {
-        "consejo": "Mantenga la pauta prescrita. Si olvida una dosis, no duplique la siguiente; confirme las instrucciones de su producto y consulte si tiene dudas. Informe molestias persistentes o cambios en su tratamiento.",
-        "pregunta": "¿Ha podido tomarlo regularmente? ¿Ha tenido episodios de glucosa baja si utiliza otros antidiabéticos, dolor abdominal intenso, dolor articular importante o lesiones con ampollas? Si usa la combinación con metformina, ¿ha presentado síntomas de anemia o parestesias que requieran evaluar vitamina B12?",
+        "consejo": "Mantener la pauta indicada. Si olvida una dosis, seguir las instrucciones específicas del producto y nunca duplicar una toma. Consultar si presenta molestias importantes o persistentes.",
+        "pregunta": "¿Ha podido tomarlo regularmente? ¿Ha olvidado alguna dosis o notado alguna molestia? ¿Ha comenzado a tomar otro medicamento?",
         "efectos": "Indagar aparición, intensidad y duración de síntomas. No atribuir automáticamente molestias graves a efectos esperables del tratamiento.",
-        "almacenamiento": "Para Januvia, el folleto ISP F-21957/15 indica temperatura no superior a 30 °C. Confirmar condiciones del envase dispensado; no extrapolar la temperatura máxima de 25 °C indicada para la combinación fija de otro registro.",
-        "accion": "Revisar adherencia y tratamientos concomitantes; derivar al químico farmacéutico ante hipoglucemias, signos de alarma, dudas sobre función renal o discrepancias en la prescripción."
+        "almacenamiento": "Mantener en su envase y fuera del alcance de niños y mascotas; respetar las condiciones de conservación de la presentación dispensada.",
+        "accion": "Reforzar la continuidad del tratamiento y revisar dificultades prácticas. Solicitar apoyo profesional solo ante dudas o hallazgos relevantes."
       }
     },
     "consejos_practicos": [
@@ -1046,17 +1046,17 @@
     "nombre": "Vildagliptina",
     "familia": "Inhibidor DPP-4",
     "via": "Oral",
-    "estado": "Ficha documental preliminar · validación farmacéutica y cotejo integral de guías pendiente",
-    "descripcion": "i-DPP4 oral; requiere especial vigilancia de función hepática.",
+    "estado": "Propuesta editorial DPP-4 v34 · seguridad y posología conservadas de v33; verificación documental pendiente",
+    "descripcion": "Medicamento oral que ayuda a controlar la glucosa en personas con diabetes tipo 2 al prolongar la acción de hormonas intestinales.",
     "seguridad": [
       "Galvus ISP F-21478/19: en disfunción renal moderada o grave, 50 mg una vez al día; en leve no requiere ajuste. No se recomienda en disfunción hepática, incluidos valores basales de ALT o AST >2,5 veces el límite superior normal.",
       "Hipoglucemia especialmente al asociar insulina o sulfonilureas.",
       "Revisar señales de pancreatitis, hipersensibilidad y lesiones ampollosas."
     ],
-    "dispensacion": "Confirmar principio activo, presentación y pauta prescrita. Consultar al químico farmacéutico ante discrepancias o señales de alarma.",
+    "dispensacion": "Confirmar que el medicamento y la presentación coincidan con la receta. Explicar cómo tomarlo y preguntar si es la primera vez que lo utiliza, si ha olvidado dosis o si ha notado molestias. Preguntar por otros medicamentos, incluidos los que se hayan iniciado recientemente, para identificar interacciones relevantes. Evitar cambios de dosis u horarios sin indicación profesional.",
     "marcas": [],
     "posicionamiento": "Opción oral para control glucémico de eficacia moderada, usualmente neutra en peso y con bajo riesgo intrínseco de hipoglucemia. No atribuir protección cardiorrenal demostrada a esta familia; considerar guías vigentes y comorbilidades.",
-    "mecanismo": "La inhibición de DPP-4 prolonga la acción de GLP-1 y GIP endógenos, aumenta la secreción de insulina dependiente de glucosa y reduce la secreción de glucagón.",
+    "mecanismo": "Bloquea la enzima DPP-4, que normalmente desactiva ciertas hormonas liberadas después de comer. Así, cuando aumenta la glucosa, el organismo puede liberar más insulina y reducir la producción de glucosa estimulada por el glucagón. Su efecto depende de la concentración de glucosa.",
     "reacciones": [
       "Mareos, cefalea y síntomas gastrointestinales; hipoglucemia más probable con sulfonilureas o insulina.",
       "Hepatitis/disfunción hepática, angioedema, pancreatitis y lesiones ampollosas: señales de alarma."
@@ -1095,21 +1095,21 @@
       }
     ],
     "revision": "2026-10-10 · revisión documental inicial",
-    "validacion": "No validada clínicamente; no sustituye ficha ISP específica ni evaluación del químico farmacéutico.",
+    "validacion": "Revisión editorial para claridad y dispensación; no constituye validación clínica. Posología, interacciones y conservación por producto pendientes de contraste final.",
     "dispensacion_rapida": {
       "primera": {
         "consejo": "Galvus 50 mg: 50 mg una o dos veces al día según esquema; máximo 100 mg/día. Con sulfonilurea en biterapia, 50 mg una vez al día. Puede administrarse con o sin alimentos. Verificar pauta prescrita.",
-        "pregunta": "¿Es su primera dispensación? ¿Qué otros antidiabéticos utiliza? ¿Tiene enfermedad renal, hepática o insuficiencia cardíaca conocida?",
+        "pregunta": "¿Es la primera vez que toma este medicamento? ¿Sabe cuándo debe tomarlo? ¿Utiliza otros medicamentos para la diabetes?",
         "efectos": "Consultar por dolor abdominal intenso persistente, dificultad respiratoria, hinchazón facial o ampollas cutáneas.",
-        "almacenamiento": "Verificar la temperatura y condiciones del folleto del producto específico; no extrapolar entre marcas o combinaciones.",
-        "accion": "Revisar receta y envase; escalar dudas de dosis, interacciones o alertas al químico farmacéutico."
+        "almacenamiento": "Conservar en su envase original, protegido según las indicaciones del producto y fuera del alcance de niños y mascotas. Confirmar condiciones particulares de esta presentación.",
+        "accion": "Confirmar medicamento, presentación y pauta. Explicar las recomendaciones principales y consultar al químico farmacéutico si aparece una discrepancia concreta o un síntoma de alarma."
       },
       "habitual": {
-        "consejo": "No duplicar dosis olvidadas. Consultar si aparecen síntomas hepáticos, dolor abdominal persistente, ampollas o hipoglucemia con otros antidiabéticos.",
-        "pregunta": "¿Ha tenido episodios de hipoglucemia, dificultad para mantener la pauta o nuevos síntomas?",
+        "consejo": "Mantener la pauta indicada. Si olvida una dosis, seguir las instrucciones específicas del producto y nunca duplicar una toma. Consultar si presenta molestias importantes o persistentes.",
+        "pregunta": "¿Ha podido tomarlo regularmente? ¿Ha olvidado alguna dosis o notado alguna molestia? ¿Ha comenzado a tomar otro medicamento?",
         "efectos": "Indagar signos de alarma y derivar según gravedad.",
-        "almacenamiento": "Mantener según las condiciones del producto dispensado.",
-        "accion": "Revisar adherencia, nuevos medicamentos y necesidad de derivación."
+        "almacenamiento": "Mantener en su envase y fuera del alcance de niños y mascotas; respetar las condiciones de conservación de la presentación dispensada.",
+        "accion": "Reforzar la continuidad del tratamiento y revisar dificultades prácticas. Solicitar apoyo profesional solo ante dudas o hallazgos relevantes."
       }
     },
     "consejos_practicos": [
@@ -1136,17 +1136,17 @@
     "nombre": "Evogliptina",
     "familia": "Inhibidor DPP-4",
     "via": "Oral",
-    "estado": "Ficha documental preliminar · validación farmacéutica y cotejo integral de guías pendiente",
-    "descripcion": "i-DPP4 oral disponible en folleto chileno Suganon 5 mg.",
+    "estado": "Propuesta editorial DPP-4 v34 · seguridad y posología conservadas de v33; verificación documental pendiente",
+    "descripcion": "Medicamento oral que ayuda a controlar la glucosa en personas con diabetes tipo 2 al prolongar la acción de hormonas intestinales.",
     "seguridad": [
       "Suganon ISP F-27650/23: no requiere ajuste de 5 mg/día en insuficiencia renal leve, moderada o grave, pero requiere precaución y vigilancia estrecha en moderada-grave. No recomendado en enfermedad renal terminal con diálisis.",
       "Hipoglucemia especialmente al asociar insulina o sulfonilureas.",
       "Revisar señales de pancreatitis, hipersensibilidad y lesiones ampollosas."
     ],
-    "dispensacion": "Confirmar principio activo, presentación y pauta prescrita. Consultar al químico farmacéutico ante discrepancias o señales de alarma.",
+    "dispensacion": "Confirmar que el medicamento y la presentación coincidan con la receta. Explicar cómo tomarlo y preguntar si es la primera vez que lo utiliza, si ha olvidado dosis o si ha notado molestias. Preguntar por otros medicamentos, incluidos los que se hayan iniciado recientemente, para identificar interacciones relevantes. Evitar cambios de dosis u horarios sin indicación profesional.",
     "marcas": [],
     "posicionamiento": "Opción oral para control glucémico de eficacia moderada, usualmente neutra en peso y con bajo riesgo intrínseco de hipoglucemia. No atribuir protección cardiorrenal demostrada a esta familia; considerar guías vigentes y comorbilidades.",
-    "mecanismo": "La inhibición de DPP-4 prolonga la acción de GLP-1 y GIP endógenos, aumenta la secreción de insulina dependiente de glucosa y reduce la secreción de glucagón.",
+    "mecanismo": "Bloquea la enzima DPP-4, que normalmente desactiva ciertas hormonas liberadas después de comer. Así, cuando aumenta la glucosa, el organismo puede liberar más insulina y reducir la producción de glucosa estimulada por el glucagón. Su efecto depende de la concentración de glucosa.",
     "reacciones": [
       "Artralgia, mareos, cefalea, insomnio, gastritis, urticaria, nasofaringitis y fatiga descritos en folleto.",
       "Advertencias de clase: pancreatitis, penfigoide ampolloso, dolor articular grave e hipersensibilidad."
@@ -1180,21 +1180,21 @@
       }
     ],
     "revision": "2026-10-10 · revisión documental inicial",
-    "validacion": "No validada clínicamente; no sustituye ficha ISP específica ni evaluación del químico farmacéutico.",
+    "validacion": "Revisión editorial para claridad y dispensación; no constituye validación clínica. Posología, interacciones y conservación por producto pendientes de contraste final.",
     "dispensacion_rapida": {
       "primera": {
         "consejo": "Suganon 5 mg una vez al día, con o sin alimentos; dosis máxima 5 mg/día. El comprimido no debe partirse ni masticarse. Conservación: no más de 25 °C.",
-        "pregunta": "¿Es su primera dispensación? ¿Qué otros antidiabéticos utiliza? ¿Tiene enfermedad renal, hepática o insuficiencia cardíaca conocida?",
+        "pregunta": "¿Es la primera vez que toma este medicamento? ¿Sabe cuándo debe tomarlo? ¿Utiliza otros medicamentos para la diabetes?",
         "efectos": "Consultar por dolor abdominal intenso persistente, dificultad respiratoria, hinchazón facial o ampollas cutáneas.",
-        "almacenamiento": "Verificar la temperatura y condiciones del folleto del producto específico; no extrapolar entre marcas o combinaciones.",
-        "accion": "Revisar receta y envase; escalar dudas de dosis, interacciones o alertas al químico farmacéutico."
+        "almacenamiento": "Conservar en su envase original, protegido según las indicaciones del producto y fuera del alcance de niños y mascotas. Confirmar condiciones particulares de esta presentación.",
+        "accion": "Confirmar medicamento, presentación y pauta. Explicar las recomendaciones principales y consultar al químico farmacéutico si aparece una discrepancia concreta o un síntoma de alarma."
       },
       "habitual": {
-        "consejo": "Verificar aparición de nuevos medicamentos (en particular moduladores CYP3A4), cambios renales y síntomas de alarma. No duplicar dosis sin indicación profesional.",
-        "pregunta": "¿Ha tenido episodios de hipoglucemia, dificultad para mantener la pauta o nuevos síntomas?",
+        "consejo": "Mantener la pauta indicada. Si olvida una dosis, seguir las instrucciones específicas del producto y nunca duplicar una toma. Consultar si presenta molestias importantes o persistentes.",
+        "pregunta": "¿Ha podido tomarlo regularmente? ¿Ha olvidado alguna dosis o notado alguna molestia? ¿Ha comenzado a tomar otro medicamento?",
         "efectos": "Indagar signos de alarma y derivar según gravedad.",
-        "almacenamiento": "Mantener según las condiciones del producto dispensado.",
-        "accion": "Revisar adherencia, nuevos medicamentos y necesidad de derivación."
+        "almacenamiento": "Mantener en su envase y fuera del alcance de niños y mascotas; respetar las condiciones de conservación de la presentación dispensada.",
+        "accion": "Reforzar la continuidad del tratamiento y revisar dificultades prácticas. Solicitar apoyo profesional solo ante dudas o hallazgos relevantes."
       }
     },
     "consejos_practicos": [
@@ -1229,17 +1229,17 @@
     "nombre": "Linagliptina",
     "familia": "Inhibidor DPP-4",
     "via": "Oral",
-    "estado": "Ficha documental preliminar · validación farmacéutica y cotejo integral de guías pendiente",
-    "descripcion": "i-DPP4 oral; ficha individual diferenciada de la asociación empagliflozina/linagliptina.",
+    "estado": "Propuesta editorial DPP-4 v34 · seguridad y posología conservadas de v33; verificación documental pendiente",
+    "descripcion": "Medicamento oral que ayuda a controlar la glucosa en personas con diabetes tipo 2 al prolongar la acción de hormonas intestinales.",
     "seguridad": [
       "La linagliptina habitualmente no requiere ajuste de dosis por deterioro de la función renal. Confirmar ficha técnica chilena de monoterapia antes de cerrar la validación.",
       "Hipoglucemia especialmente al asociar insulina o sulfonilureas.",
       "Revisar señales de pancreatitis, hipersensibilidad y lesiones ampollosas."
     ],
-    "dispensacion": "Confirmar principio activo, presentación y pauta prescrita. Consultar al químico farmacéutico ante discrepancias o señales de alarma.",
+    "dispensacion": "Confirmar que el medicamento y la presentación coincidan con la receta. Explicar cómo tomarlo y preguntar si es la primera vez que lo utiliza, si ha olvidado dosis o si ha notado molestias. Preguntar por otros medicamentos, incluidos los que se hayan iniciado recientemente, para identificar interacciones relevantes. Evitar cambios de dosis u horarios sin indicación profesional.",
     "marcas": [],
     "posicionamiento": "Opción oral para control glucémico de eficacia moderada, usualmente neutra en peso y con bajo riesgo intrínseco de hipoglucemia. No atribuir protección cardiorrenal demostrada a esta familia; considerar guías vigentes y comorbilidades.",
-    "mecanismo": "La inhibición de DPP-4 prolonga la acción de GLP-1 y GIP endógenos, aumenta la secreción de insulina dependiente de glucosa y reduce la secreción de glucagón.",
+    "mecanismo": "Bloquea la enzima DPP-4, que normalmente desactiva ciertas hormonas liberadas después de comer. Así, cuando aumenta la glucosa, el organismo puede liberar más insulina y reducir la producción de glucosa estimulada por el glucagón. Su efecto depende de la concentración de glucosa.",
     "reacciones": [
       "Nasofaringitis, tos y reacciones de hipersensibilidad descritas para linagliptina; riesgo de hipoglucemia aumenta con insulina/sulfonilureas.",
       "Advertencias de pancreatitis y penfigoide ampolloso."
@@ -1277,21 +1277,21 @@
       }
     ],
     "revision": "2026-10-10 · revisión documental inicial",
-    "validacion": "No validada clínicamente; no sustituye ficha ISP específica ni evaluación del químico farmacéutico.",
+    "validacion": "Revisión editorial para claridad y dispensación; no constituye validación clínica. Posología, interacciones y conservación por producto pendientes de contraste final.",
     "dispensacion_rapida": {
       "primera": {
         "consejo": "Linagliptina sola se administra habitualmente 5 mg una vez al día, con o sin alimentos; confirmar producto y registro. Glyxambi es otra formulación con dos principios activos.",
-        "pregunta": "¿Es su primera dispensación? ¿Qué otros antidiabéticos utiliza? ¿Tiene enfermedad renal, hepática o insuficiencia cardíaca conocida?",
+        "pregunta": "¿Es la primera vez que toma este medicamento? ¿Sabe cuándo debe tomarlo? ¿Utiliza otros medicamentos para la diabetes?",
         "efectos": "Consultar por dolor abdominal intenso persistente, dificultad respiratoria, hinchazón facial o ampollas cutáneas.",
-        "almacenamiento": "Verificar la temperatura y condiciones del folleto del producto específico; no extrapolar entre marcas o combinaciones.",
-        "accion": "Revisar receta y envase; escalar dudas de dosis, interacciones o alertas al químico farmacéutico."
+        "almacenamiento": "Conservar en su envase original, protegido según las indicaciones del producto y fuera del alcance de niños y mascotas. Confirmar condiciones particulares de esta presentación.",
+        "accion": "Confirmar medicamento, presentación y pauta. Explicar las recomendaciones principales y consultar al químico farmacéutico si aparece una discrepancia concreta o un síntoma de alarma."
       },
       "habitual": {
-        "consejo": "Revisar adherencia, hipoglucemias con insulina/sulfonilureas y síntomas cutáneos o abdominales. No confundir linagliptina sola con Glyxambi.",
-        "pregunta": "¿Ha tenido episodios de hipoglucemia, dificultad para mantener la pauta o nuevos síntomas?",
+        "consejo": "Mantener la pauta indicada. Si olvida una dosis, seguir las instrucciones específicas del producto y nunca duplicar una toma. Consultar si presenta molestias importantes o persistentes.",
+        "pregunta": "¿Ha podido tomarlo regularmente? ¿Ha olvidado alguna dosis o notado alguna molestia? ¿Ha comenzado a tomar otro medicamento?",
         "efectos": "Indagar signos de alarma y derivar según gravedad.",
-        "almacenamiento": "Mantener según las condiciones del producto dispensado.",
-        "accion": "Revisar adherencia, nuevos medicamentos y necesidad de derivación."
+        "almacenamiento": "Mantener en su envase y fuera del alcance de niños y mascotas; respetar las condiciones de conservación de la presentación dispensada.",
+        "accion": "Reforzar la continuidad del tratamiento y revisar dificultades prácticas. Solicitar apoyo profesional solo ante dudas o hallazgos relevantes."
       }
     },
     "consejos_practicos": [
@@ -1318,17 +1318,17 @@
     "nombre": "Saxagliptina",
     "familia": "Inhibidor DPP-4",
     "via": "Oral",
-    "estado": "Ficha documental preliminar · validación farmacéutica y cotejo integral de guías pendiente",
-    "descripcion": "i-DPP4 oral con advertencia cardiovascular relevante por hospitalización por insuficiencia cardíaca.",
+    "estado": "Propuesta editorial DPP-4 v34 · seguridad y posología conservadas de v33; verificación documental pendiente",
+    "descripcion": "Medicamento oral que ayuda a controlar la glucosa en personas con diabetes tipo 2 al prolongar la acción de hormonas intestinales.",
     "seguridad": [
       "La saxagliptina requiere revisión de dosis según función renal y uso de inhibidores potentes de CYP3A4/5. Si se dispensa saxagliptina/metformina XR, aplicar además las restricciones renales de metformina y de la presentación fija. Dosis exacta pendiente de cotejo con folleto ISP.",
       "Hipoglucemia especialmente al asociar insulina o sulfonilureas.",
       "Revisar señales de pancreatitis, hipersensibilidad y lesiones ampollosas."
     ],
-    "dispensacion": "Confirmar principio activo, presentación y pauta prescrita. Consultar al químico farmacéutico ante discrepancias o señales de alarma.",
+    "dispensacion": "Confirmar que el medicamento y la presentación coincidan con la receta. Explicar cómo tomarlo y preguntar si es la primera vez que lo utiliza, si ha olvidado dosis o si ha notado molestias. Preguntar por otros medicamentos, incluidos los que se hayan iniciado recientemente, para identificar interacciones relevantes. Evitar cambios de dosis u horarios sin indicación profesional.",
     "marcas": [],
     "posicionamiento": "Opción oral para control glucémico de eficacia moderada, usualmente neutra en peso y con bajo riesgo intrínseco de hipoglucemia. No atribuir protección cardiorrenal demostrada a esta familia; considerar guías vigentes y comorbilidades. El ensayo SAVOR-TIMI 53 identificó aumento de hospitalizaciones por insuficiencia cardíaca con saxagliptina.",
-    "mecanismo": "La inhibición de DPP-4 prolonga la acción de GLP-1 y GIP endógenos, aumenta la secreción de insulina dependiente de glucosa y reduce la secreción de glucagón.",
+    "mecanismo": "Bloquea la enzima DPP-4, que normalmente desactiva ciertas hormonas liberadas después de comer. Así, cuando aumenta la glucosa, el organismo puede liberar más insulina y reducir la producción de glucosa estimulada por el glucagón. Su efecto depende de la concentración de glucosa.",
     "reacciones": [
       "Hipoglucemia especialmente con insulina/sulfonilureas; reacciones de hipersensibilidad, pancreatitis y artralgia intensa.",
       "SAVOR-TIMI 53: mayor hospitalización por insuficiencia cardíaca (3,5% frente a 2,8% con placebo)."
@@ -1366,21 +1366,21 @@
       }
     ],
     "revision": "2026-10-10 · revisión documental inicial",
-    "validacion": "No validada clínicamente; no sustituye ficha ISP específica ni evaluación del químico farmacéutico.",
+    "validacion": "Revisión editorial para claridad y dispensación; no constituye validación clínica. Posología, interacciones y conservación por producto pendientes de contraste final.",
     "dispensacion_rapida": {
       "primera": {
         "consejo": "Confirmar presentación: saxagliptina sola o saxagliptina/metformina XR. La pauta y administración dependen de la formulación. No extrapolar la dosificación de una a otra.",
-        "pregunta": "¿Es su primera dispensación? ¿Qué otros antidiabéticos utiliza? ¿Tiene enfermedad renal, hepática o insuficiencia cardíaca conocida?",
+        "pregunta": "¿Es la primera vez que toma este medicamento? ¿Sabe cuándo debe tomarlo? ¿Utiliza otros medicamentos para la diabetes?",
         "efectos": "Consultar por dolor abdominal intenso persistente, dificultad respiratoria, hinchazón facial o ampollas cutáneas.",
-        "almacenamiento": "Verificar la temperatura y condiciones del folleto del producto específico; no extrapolar entre marcas o combinaciones.",
-        "accion": "Revisar receta y envase; escalar dudas de dosis, interacciones o alertas al químico farmacéutico."
+        "almacenamiento": "Conservar en su envase original, protegido según las indicaciones del producto y fuera del alcance de niños y mascotas. Confirmar condiciones particulares de esta presentación.",
+        "accion": "Confirmar medicamento, presentación y pauta. Explicar las recomendaciones principales y consultar al químico farmacéutico si aparece una discrepancia concreta o un síntoma de alarma."
       },
       "habitual": {
-        "consejo": "Consultar por disnea, edema, aumento de peso, hipoglucemias y nuevos fármacos. Ante antecedentes de insuficiencia cardíaca, solicitar revisión farmacéutica.",
-        "pregunta": "¿Ha tenido episodios de hipoglucemia, dificultad para mantener la pauta o nuevos síntomas?",
+        "consejo": "Mantener la pauta indicada. Si olvida una dosis, seguir las instrucciones específicas del producto y nunca duplicar una toma. Consultar si presenta molestias importantes o persistentes.",
+        "pregunta": "¿Ha podido tomarlo regularmente? ¿Ha olvidado alguna dosis o notado alguna molestia? ¿Ha comenzado a tomar otro medicamento?",
         "efectos": "Indagar signos de alarma y derivar según gravedad.",
-        "almacenamiento": "Mantener según las condiciones del producto dispensado.",
-        "accion": "Revisar adherencia, nuevos medicamentos y necesidad de derivación."
+        "almacenamiento": "Mantener en su envase y fuera del alcance de niños y mascotas; respetar las condiciones de conservación de la presentación dispensada.",
+        "accion": "Reforzar la continuidad del tratamiento y revisar dificultades prácticas. Solicitar apoyo profesional solo ante dudas o hallazgos relevantes."
       }
     },
     "consejos_practicos": [

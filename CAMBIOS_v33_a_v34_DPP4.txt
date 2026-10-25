@@ -1,0 +1,78 @@
+FarmaDM2 v34 · PRIMER LOTE EDITORIAL iDPP-4
+Base: v33; se preserva la interfaz aprobada.
+Fichas: sitagliptina, vildagliptina, evogliptina, linagliptina, saxagliptina
+
+CAMBIOS: mecanismo y descripción simplificados; preguntas centradas en adherencia y experiencia del paciente; acciones no alarmistas; almacenamiento sin temperatura generalizada; texto de olvido sin duplicar dosis.
+NO MODIFICADO: posología específica, interacciones técnicas, alertas clínicas, referencias y demás familias. Esos contenidos permanecen sujetos a revisión y no se deben considerar validados.
+
+COMPARACIÓN DE TEXTOS:
+
+Sitagliptina
+
+descripcion
+ANTES: Inhibidor de la DPP-4 de administración oral que prolonga la actividad de incretinas endógenas; mejora el control glucémico con bajo riesgo intrínseco de hipoglucemia.
+DESPUÉS: Medicamento oral que ayuda a controlar la glucosa en personas con diabetes tipo 2 al prolongar la acción de hormonas intestinales.
+
+mecanismo
+ANTES: Inhibe la enzima dipeptidil peptidasa-4 (DPP-4), que normalmente degrada las incretinas GLP-1 y GIP. Al prolongar su acción, aumenta la secreción de insulina y disminuye la de glucagón de forma dependiente de la glucosa, reduciendo principalmente la hiperglucemia. Por este mecanismo, usada sola presenta bajo riesgo de hipoglucemia.
+DESPUÉS: Bloquea la enzima DPP-4, que normalmente desactiva ciertas hormonas liberadas después de comer. Así, cuando aumenta la glucosa, el organismo puede liberar más insulina y reducir la producción de glucosa estimulada por el glucagón. Su efecto depende de la concentración de glucosa.
+
+dispensacion
+ANTES: Verificar pauta y presentación, función renal conocida y uso simultáneo de insulina o sulfonilureas. Preguntar por dolor abdominal intenso persistente, reacciones alérgicas, dolor articular incapacitante o ampollas cutáneas. Ante hallazgos relevantes, consultar al químico farmacéutico y derivar según gravedad. Diferenciar explícitamente sitagliptina sola de la asociación sitagliptina/metformina: en la combinación confirmar administración con comidas, función renal y factores de riesgo de acidosis láctica.
+DESPUÉS: Confirmar que el medicamento y la presentación coincidan con la receta. Explicar cómo tomarlo y preguntar si es la primera vez que lo utiliza, si ha olvidado dosis o si ha notado molestias. Preguntar por otros medicamentos, incluidos los que se hayan iniciado recientemente, para identificar interacciones relevantes. Evitar cambios de dosis u horarios sin indicación profesional.
+
+Vildagliptina
+
+descripcion
+ANTES: i-DPP4 oral; requiere especial vigilancia de función hepática.
+DESPUÉS: Medicamento oral que ayuda a controlar la glucosa en personas con diabetes tipo 2 al prolongar la acción de hormonas intestinales.
+
+mecanismo
+ANTES: La inhibición de DPP-4 prolonga la acción de GLP-1 y GIP endógenos, aumenta la secreción de insulina dependiente de glucosa y reduce la secreción de glucagón.
+DESPUÉS: Bloquea la enzima DPP-4, que normalmente desactiva ciertas hormonas liberadas después de comer. Así, cuando aumenta la glucosa, el organismo puede liberar más insulina y reducir la producción de glucosa estimulada por el glucagón. Su efecto depende de la concentración de glucosa.
+
+dispensacion
+ANTES: Confirmar principio activo, presentación y pauta prescrita. Consultar al químico farmacéutico ante discrepancias o señales de alarma.
+DESPUÉS: Confirmar que el medicamento y la presentación coincidan con la receta. Explicar cómo tomarlo y preguntar si es la primera vez que lo utiliza, si ha olvidado dosis o si ha notado molestias. Preguntar por otros medicamentos, incluidos los que se hayan iniciado recientemente, para identificar interacciones relevantes. Evitar cambios de dosis u horarios sin indicación profesional.
+
+Evogliptina
+
+descripcion
+ANTES: i-DPP4 oral disponible en folleto chileno Suganon 5 mg.
+DESPUÉS: Medicamento oral que ayuda a controlar la glucosa en personas con diabetes tipo 2 al prolongar la acción de hormonas intestinales.
+
+mecanismo
+ANTES: La inhibición de DPP-4 prolonga la acción de GLP-1 y GIP endógenos, aumenta la secreción de insulina dependiente de glucosa y reduce la secreción de glucagón.
+DESPUÉS: Bloquea la enzima DPP-4, que normalmente desactiva ciertas hormonas liberadas después de comer. Así, cuando aumenta la glucosa, el organismo puede liberar más insulina y reducir la producción de glucosa estimulada por el glucagón. Su efecto depende de la concentración de glucosa.
+
+dispensacion
+ANTES: Confirmar principio activo, presentación y pauta prescrita. Consultar al químico farmacéutico ante discrepancias o señales de alarma.
+DESPUÉS: Confirmar que el medicamento y la presentación coincidan con la receta. Explicar cómo tomarlo y preguntar si es la primera vez que lo utiliza, si ha olvidado dosis o si ha notado molestias. Preguntar por otros medicamentos, incluidos los que se hayan iniciado recientemente, para identificar interacciones relevantes. Evitar cambios de dosis u horarios sin indicación profesional.
+
+Linagliptina
+
+descripcion
+ANTES: i-DPP4 oral; ficha individual diferenciada de la asociación empagliflozina/linagliptina.
+DESPUÉS: Medicamento oral que ayuda a controlar la glucosa en personas con diabetes tipo 2 al prolongar la acción de hormonas intestinales.
+
+mecanismo
+ANTES: La inhibición de DPP-4 prolonga la acción de GLP-1 y GIP endógenos, aumenta la secreción de insulina dependiente de glucosa y reduce la secreción de glucagón.
+DESPUÉS: Bloquea la enzima DPP-4, que normalmente desactiva ciertas hormonas liberadas después de comer. Así, cuando aumenta la glucosa, el organismo puede liberar más insulina y reducir la producción de glucosa estimulada por el glucagón. Su efecto depende de la concentración de glucosa.
+
+dispensacion
+ANTES: Confirmar principio activo, presentación y pauta prescrita. Consultar al químico farmacéutico ante discrepancias o señales de alarma.
+DESPUÉS: Confirmar que el medicamento y la presentación coincidan con la receta. Explicar cómo tomarlo y preguntar si es la primera vez que lo utiliza, si ha olvidado dosis o si ha notado molestias. Preguntar por otros medicamentos, incluidos los que se hayan iniciado recientemente, para identificar interacciones relevantes. Evitar cambios de dosis u horarios sin indicación profesional.
+
+Saxagliptina
+
+descripcion
+ANTES: i-DPP4 oral con advertencia cardiovascular relevante por hospitalización por insuficiencia cardíaca.
+DESPUÉS: Medicamento oral que ayuda a controlar la glucosa en personas con diabetes tipo 2 al prolongar la acción de hormonas intestinales.
+
+mecanismo
+ANTES: La inhibición de DPP-4 prolonga la acción de GLP-1 y GIP endógenos, aumenta la secreción de insulina dependiente de glucosa y reduce la secreción de glucagón.
+DESPUÉS: Bloquea la enzima DPP-4, que normalmente desactiva ciertas hormonas liberadas después de comer. Así, cuando aumenta la glucosa, el organismo puede liberar más insulina y reducir la producción de glucosa estimulada por el glucagón. Su efecto depende de la concentración de glucosa.
+
+dispensacion
+ANTES: Confirmar principio activo, presentación y pauta prescrita. Consultar al químico farmacéutico ante discrepancias o señales de alarma.
+DESPUÉS: Confirmar que el medicamento y la presentación coincidan con la receta. Explicar cómo tomarlo y preguntar si es la primera vez que lo utiliza, si ha olvidado dosis o si ha notado molestias. Preguntar por otros medicamentos, incluidos los que se hayan iniciado recientemente, para identificar interacciones relevantes. Evitar cambios de dosis u horarios sin indicación profesional.
