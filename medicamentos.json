@@ -599,7 +599,7 @@
     "dispensacion": "Confirmar que el medicamento y la presentación coincidan con la receta. Explicar cómo tomarlo y preguntar si es la primera vez que lo utiliza, si ha olvidado dosis o si ha notado molestias. Preguntar por otros medicamentos, incluidos los que se hayan iniciado recientemente, para identificar interacciones relevantes. Evitar cambios de dosis u horarios sin indicación profesional.",
     "marcas": [],
     "posicionamiento": "La sitagliptina es un inhibidor de DPP-4 que puede utilizarse para mejorar el control glucémico de personas con DM2, particularmente cuando se desea evitar hipoglucemias y aumento de peso y se necesita una opción oral. Su efecto sobre HbA1c suele ser moderado y su peso corporal es generalmente neutro. A diferencia de ciertos iSGLT2 y agonistas del receptor GLP-1, no ha demostrado beneficios cardiovasculares o renales adicionales que justifiquen elegirla con fines de protección de órganos. En TECOS mostró seguridad cardiovascular (no inferioridad), sin reducción de eventos cardiovasculares mayores ni aumento de hospitalización por insuficiencia cardíaca. La selección depende de comorbilidades, metas glucémicas y función renal; no se recomienda combinarla rutinariamente con tratamientos basados en agonistas del receptor GLP-1 por falta de beneficio glucémico adicional relevante.",
-    "mecanismo": "Bloquea la enzima DPP-4, que normalmente desactiva ciertas hormonas liberadas después de comer. Así, cuando aumenta la glucosa, el organismo puede liberar más insulina y reducir la producción de glucosa estimulada por el glucagón. Su efecto depende de la concentración de glucosa.",
+    "mecanismo": "Los inhibidores DPP-4 prolongan la acción de las hormonas intestinales GLP-1 y GIP, que participan en el control de la glucosa después de comer. Cuando la glucosa aumenta, ayudan al páncreas a liberar insulina y disminuyen la señal de glucagón que favorece la producción hepática de glucosa. Por sí solos presentan bajo riesgo de hipoglucemia.",
     "reacciones": [
       "Entre los eventos comunicados se incluyen cefalea, nasofaringitis e infecciones respiratorias altas; su frecuencia y atribución deben interpretarse según ensayos y presentación.",
       "Hipoglucemia: poco frecuente en monoterapia, pero aumenta al asociarse con insulina o sulfonilureas.",
@@ -680,15 +680,15 @@
     "validacion": "Revisión editorial para claridad y dispensación; no constituye validación clínica. Posología, interacciones y conservación por producto pendientes de contraste final.",
     "dispensacion_rapida": {
       "primera": {
-        "consejo": "Januvia (sitagliptina sola) se administra habitualmente una vez al día, con o sin alimentos, y sus comprimidos se tragan enteros. La dosis prescrita depende de la función renal. No confundir con la combinación sitagliptina/metformina, que tiene otra pauta.",
-        "pregunta": "¿Es la primera vez que toma este medicamento? ¿Sabe cuándo debe tomarlo? ¿Utiliza otros medicamentos para la diabetes?",
+        "consejo": "La sitagliptina como principio activo se administra habitualmente una vez al día, con o sin alimentos, y sus comprimidos se tragan enteros. La dosis prescrita depende de la función renal. No confundir con la combinación sitagliptina/metformina, que tiene otra pauta.",
+        "pregunta": "¿Es la primera vez que lo utiliza? ¿Sabe cuándo tomarlo y qué hacer si olvida una dosis?",
         "efectos": "Pregunte por molestias nuevas. Si aparece dolor abdominal intenso y persistente, hinchazón de cara o dificultad para respirar, o lesiones con ampollas, requiere evaluación inmediata según la gravedad.",
         "almacenamiento": "Conservar en su envase original, protegido según las indicaciones del producto y fuera del alcance de niños y mascotas. Confirmar condiciones particulares de esta presentación.",
         "accion": "Confirmar medicamento, presentación y pauta. Explicar las recomendaciones principales y consultar al químico farmacéutico si aparece una discrepancia concreta o un síntoma de alarma."
       },
       "habitual": {
         "consejo": "Mantener la pauta indicada. Si olvida una dosis, seguir las instrucciones específicas del producto y nunca duplicar una toma. Consultar si presenta molestias importantes o persistentes.",
-        "pregunta": "¿Ha podido tomarlo regularmente? ¿Ha olvidado alguna dosis o notado alguna molestia? ¿Ha comenzado a tomar otro medicamento?",
+        "pregunta": "¿Ha podido seguir la pauta indicada? ¿Ha olvidado alguna dosis o notado molestias? ¿Utiliza otros medicamentos para la diabetes?",
         "efectos": "Indagar aparición, intensidad y duración de síntomas. No atribuir automáticamente molestias graves a efectos esperables del tratamiento.",
         "almacenamiento": "Mantener en su envase y fuera del alcance de niños y mascotas; respetar las condiciones de conservación de la presentación dispensada.",
         "accion": "Reforzar la continuidad del tratamiento y revisar dificultades prácticas. Solicitar apoyo profesional solo ante dudas o hallazgos relevantes."
@@ -759,7 +759,28 @@
         "interpretacion": "Respalda seguridad cardiovascular en la población estudiada, pero no demuestra reducción de eventos cardiovasculares ni protección renal. No equivale a afirmar que prevenga insuficiencia cardíaca o infartos.",
         "url": "https://doi.org/10.1056/NEJMoa1501352"
       }
-    ]
+    ],
+    "guia_meson": {
+      "preguntas": "¿Es primera vez que lo utiliza? ¿Sabe cuándo tomarlo? ¿Ha olvidado dosis, notado molestias o comenzado otro medicamento? Si también usa insulina u otro antidiabético, ¿ha tenido síntomas de glucosa baja?",
+      "explicacion": "Ayuda a controlar la glucosa al prolongar el efecto de hormonas intestinales que favorecen la liberación de insulina cuando la glucosa aumenta y reducen la señal que estimula al hígado a producirla. No cambie la dosis ni duplique una toma olvidada.",
+      "alertas": "Dolor abdominal intenso y persistente, especialmente con vómitos, requiere atención médica. Dificultad para respirar o hinchazón de cara o lengua requiere atención urgente. Ampollas nuevas o dolor articular intenso deben ser evaluados. Una enfermedad renal conocida no significa por sí sola que el tratamiento sea incorrecto."
+    },
+    "ampliada_qf": {
+      "mecanismo": "Inhibición de la dipeptidil peptidasa-4 (DPP-4), enzima que degrada las incretinas endógenas GLP-1 y GIP. La mayor disponibilidad de incretinas activas favorece la secreción de insulina dependiente de glucosa y reduce la secreción inapropiada de glucagón. El efecto sobre HbA1c y la elección del fármaco dependen del contexto clínico.",
+      "consideraciones": "La sitagliptina requiere ajuste de dosis según TFGe. Según la monografía UpToDate aportada: TFGe ≥45 mL/min/1,73 m²: 100 mg una vez al día; TFGe ≥30 y <45: 50 mg una vez al día; TFGe <30, incluida enfermedad renal terminal con diálisis: 25 mg una vez al día. Estos valores son referencia clínica para comprobar la prescripción, no instrucciones para que el personal de mesón modifique dosis. El folleto ISP Januvia F-21957/15 confirma los intervalos TFGe ≥45: 100 mg/día; 30–44: 50 mg/día; <30, incluso diálisis: 25 mg/día. Sitagliptina sola puede administrarse independientemente de las sesiones de diálisis. El folleto ISP de sitagliptina/metformina (Reg. F-26606/22) confirma para el componente sitagliptina un máximo de 100 mg/día con TFG ≥45, 50 mg/día con TFG 30–44 y 25 mg/día con TFG <30; sin embargo, la combinación fija contiene metformina y está contraindicada con TFG <30. En TFG 30–44 la dosis fija disponible puede no permitir el ajuste requerido de sitagliptina, por lo que el folleto indica recurrir a los monocomponentes si no se dispone de una dosis apropiada. No extrapolar estas restricciones de la combinación a la sitagliptina sola.",
+      "interacciones": [
+        "Insulina o sulfonilureas: puede aumentar el riesgo de hipoglucemia; el equipo prescriptor puede requerir reevaluación de estas terapias.",
+        "Agonistas del receptor GLP-1 (p. ej., semaglutida) y tratamientos basados en ese receptor: combinación generalmente no recomendada por escaso beneficio glucémico adicional.",
+        "Inhibidores de la ECA y otros medicamentos asociados con angioedema: vigilar antecedentes o síntomas de hipersensibilidad; la relevancia clínica depende del contexto y de la combinación.",
+        "Revisar siempre el listado completo de medicamentos: la monografía remite a una base de interacciones específica y no considera exhaustiva su lista resumida.",
+        "Combinación fija sitagliptina/metformina: el folleto ISP advierte riesgo de acidosis láctica con intoxicación alcohólica y situaciones de deterioro renal; exige precauciones específicas ante contraste yodado, deshidratación y medicamentos que afecten la función renal. Estas advertencias corresponden al componente metformina y no deben atribuirse a sitagliptina en monoterapia.",
+        "Digoxina: el folleto ISP de Januvia F-21957/15 describe aumentos pequeños de exposición y recomienda vigilancia en pacientes con riesgo de toxicidad, sin ajuste rutinario de dosis.",
+        "Digoxina: en estudios farmacocinéticos, sitagliptina elevó modestamente el AUC de digoxina (11 %) y su concentración máxima (18 %); el folleto peruano no considera estos cambios clínicamente significativos. Individualizar vigilancia en pacientes con riesgo de toxicidad, sin recomendar cambios automáticos de dosis.",
+        "Ciclosporina: aumentó la exposición a sitagliptina (AUC aproximadamente 29 % y Cmáx 68 %) en un estudio de dosis única, sin considerarse clínicamente significativo; no constituye por sí solo indicación de ajuste.",
+        "Los estudios recogidos en la ficha peruana no identificaron cambios farmacocinéticos clínicamente significativos con warfarina, simvastatina, glibenclamida ni anticonceptivos orales. La ausencia de interacción farmacocinética no elimina el riesgo farmacodinámico de hipoglucemia al asociar sulfonilureas."
+      ],
+      "evidencia": "Consultar las referencias y estudios vinculados en la ficha. No extrapolar indicaciones ni resultados de un principio activo a otro."
+    }
   },
   {
     "id": "dapagliflozina",
@@ -1056,7 +1077,7 @@
     "dispensacion": "Confirmar que el medicamento y la presentación coincidan con la receta. Explicar cómo tomarlo y preguntar si es la primera vez que lo utiliza, si ha olvidado dosis o si ha notado molestias. Preguntar por otros medicamentos, incluidos los que se hayan iniciado recientemente, para identificar interacciones relevantes. Evitar cambios de dosis u horarios sin indicación profesional.",
     "marcas": [],
     "posicionamiento": "Opción oral para control glucémico de eficacia moderada, usualmente neutra en peso y con bajo riesgo intrínseco de hipoglucemia. No atribuir protección cardiorrenal demostrada a esta familia; considerar guías vigentes y comorbilidades.",
-    "mecanismo": "Bloquea la enzima DPP-4, que normalmente desactiva ciertas hormonas liberadas después de comer. Así, cuando aumenta la glucosa, el organismo puede liberar más insulina y reducir la producción de glucosa estimulada por el glucagón. Su efecto depende de la concentración de glucosa.",
+    "mecanismo": "Los inhibidores DPP-4 prolongan la acción de las hormonas intestinales GLP-1 y GIP, que participan en el control de la glucosa después de comer. Cuando la glucosa aumenta, ayudan al páncreas a liberar insulina y disminuyen la señal de glucagón que favorece la producción hepática de glucosa. Por sí solos presentan bajo riesgo de hipoglucemia.",
     "reacciones": [
       "Mareos, cefalea y síntomas gastrointestinales; hipoglucemia más probable con sulfonilureas o insulina.",
       "Hepatitis/disfunción hepática, angioedema, pancreatitis y lesiones ampollosas: señales de alarma."
@@ -1098,15 +1119,15 @@
     "validacion": "Revisión editorial para claridad y dispensación; no constituye validación clínica. Posología, interacciones y conservación por producto pendientes de contraste final.",
     "dispensacion_rapida": {
       "primera": {
-        "consejo": "Galvus 50 mg: 50 mg una o dos veces al día según esquema; máximo 100 mg/día. Con sulfonilurea en biterapia, 50 mg una vez al día. Puede administrarse con o sin alimentos. Verificar pauta prescrita.",
-        "pregunta": "¿Es la primera vez que toma este medicamento? ¿Sabe cuándo debe tomarlo? ¿Utiliza otros medicamentos para la diabetes?",
+        "consejo": "Vildagliptina: 50 mg una o dos veces al día según esquema; máximo 100 mg/día. Con sulfonilurea en biterapia, 50 mg una vez al día. Puede administrarse con o sin alimentos. Verificar pauta prescrita.",
+        "pregunta": "¿Es la primera vez que lo utiliza? ¿Sabe cuándo tomarlo y qué hacer si olvida una dosis?",
         "efectos": "Consultar por dolor abdominal intenso persistente, dificultad respiratoria, hinchazón facial o ampollas cutáneas.",
         "almacenamiento": "Conservar en su envase original, protegido según las indicaciones del producto y fuera del alcance de niños y mascotas. Confirmar condiciones particulares de esta presentación.",
         "accion": "Confirmar medicamento, presentación y pauta. Explicar las recomendaciones principales y consultar al químico farmacéutico si aparece una discrepancia concreta o un síntoma de alarma."
       },
       "habitual": {
         "consejo": "Mantener la pauta indicada. Si olvida una dosis, seguir las instrucciones específicas del producto y nunca duplicar una toma. Consultar si presenta molestias importantes o persistentes.",
-        "pregunta": "¿Ha podido tomarlo regularmente? ¿Ha olvidado alguna dosis o notado alguna molestia? ¿Ha comenzado a tomar otro medicamento?",
+        "pregunta": "¿Ha podido seguir la pauta indicada? ¿Ha olvidado alguna dosis o notado molestias? ¿Utiliza otros medicamentos para la diabetes?",
         "efectos": "Indagar signos de alarma y derivar según gravedad.",
         "almacenamiento": "Mantener en su envase y fuera del alcance de niños y mascotas; respetar las condiciones de conservación de la presentación dispensada.",
         "accion": "Reforzar la continuidad del tratamiento y revisar dificultades prácticas. Solicitar apoyo profesional solo ante dudas o hallazgos relevantes."
@@ -1129,7 +1150,21 @@
         "texto": "No duplicar dosis olvidadas. Consultar si aparecen síntomas hepáticos, dolor abdominal persistente, ampollas o hipoglucemia con otros antidiabéticos."
       }
     ],
-    "evidencia_clinica": []
+    "evidencia_clinica": [],
+    "guia_meson": {
+      "preguntas": "¿Es primera vez que lo utiliza? ¿Sabe cuándo tomarlo? ¿Ha olvidado dosis, notado molestias o comenzado otro medicamento? Si también usa insulina u otro antidiabético, ¿ha tenido síntomas de glucosa baja?",
+      "explicacion": "Ayuda a controlar la glucosa al prolongar el efecto de hormonas intestinales que favorecen la liberación de insulina cuando la glucosa aumenta y reducen la señal que estimula al hígado a producirla. No cambie la dosis ni duplique una toma olvidada.",
+      "alertas": "Dolor abdominal intenso y persistente, especialmente con vómitos, requiere atención médica. Dificultad para respirar o hinchazón de cara o lengua requiere atención urgente. Ampollas nuevas o dolor articular intenso deben ser evaluados. Una enfermedad renal conocida no significa por sí sola que el tratamiento sea incorrecto."
+    },
+    "ampliada_qf": {
+      "mecanismo": "Inhibición de la dipeptidil peptidasa-4 (DPP-4), enzima que degrada las incretinas endógenas GLP-1 y GIP. La mayor disponibilidad de incretinas activas favorece la secreción de insulina dependiente de glucosa y reduce la secreción inapropiada de glucagón. El efecto sobre HbA1c y la elección del fármaco dependen del contexto clínico.",
+      "consideraciones": "Galvus ISP F-21478/19: en disfunción renal moderada o grave, 50 mg una vez al día; en leve no requiere ajuste. No se recomienda en disfunción hepática, incluidos valores basales de ALT o AST >2,5 veces el límite superior normal.",
+      "interacciones": [
+        "Sulfonilureas e insulina: mayor riesgo de hipoglucemia.",
+        "Combinación vildagliptina/metformina (Jalra M): evaluar restricciones adicionales de metformina y función renal; no equiparar dosis de combinación con monoterapia."
+      ],
+      "evidencia": "Consultar las referencias y estudios vinculados en la ficha. No extrapolar indicaciones ni resultados de un principio activo a otro."
+    }
   },
   {
     "id": "evogliptina",
@@ -1146,7 +1181,7 @@
     "dispensacion": "Confirmar que el medicamento y la presentación coincidan con la receta. Explicar cómo tomarlo y preguntar si es la primera vez que lo utiliza, si ha olvidado dosis o si ha notado molestias. Preguntar por otros medicamentos, incluidos los que se hayan iniciado recientemente, para identificar interacciones relevantes. Evitar cambios de dosis u horarios sin indicación profesional.",
     "marcas": [],
     "posicionamiento": "Opción oral para control glucémico de eficacia moderada, usualmente neutra en peso y con bajo riesgo intrínseco de hipoglucemia. No atribuir protección cardiorrenal demostrada a esta familia; considerar guías vigentes y comorbilidades.",
-    "mecanismo": "Bloquea la enzima DPP-4, que normalmente desactiva ciertas hormonas liberadas después de comer. Así, cuando aumenta la glucosa, el organismo puede liberar más insulina y reducir la producción de glucosa estimulada por el glucagón. Su efecto depende de la concentración de glucosa.",
+    "mecanismo": "Los inhibidores DPP-4 prolongan la acción de las hormonas intestinales GLP-1 y GIP, que participan en el control de la glucosa después de comer. Cuando la glucosa aumenta, ayudan al páncreas a liberar insulina y disminuyen la señal de glucagón que favorece la producción hepática de glucosa. Por sí solos presentan bajo riesgo de hipoglucemia.",
     "reacciones": [
       "Artralgia, mareos, cefalea, insomnio, gastritis, urticaria, nasofaringitis y fatiga descritos en folleto.",
       "Advertencias de clase: pancreatitis, penfigoide ampolloso, dolor articular grave e hipersensibilidad."
@@ -1183,15 +1218,15 @@
     "validacion": "Revisión editorial para claridad y dispensación; no constituye validación clínica. Posología, interacciones y conservación por producto pendientes de contraste final.",
     "dispensacion_rapida": {
       "primera": {
-        "consejo": "Suganon 5 mg una vez al día, con o sin alimentos; dosis máxima 5 mg/día. El comprimido no debe partirse ni masticarse. Conservación: no más de 25 °C.",
-        "pregunta": "¿Es la primera vez que toma este medicamento? ¿Sabe cuándo debe tomarlo? ¿Utiliza otros medicamentos para la diabetes?",
+        "consejo": "Evogliptina una vez al día, con o sin alimentos; dosis máxima 5 mg/día. El comprimido no debe partirse ni masticarse. Conservación: no más de 25 °C.",
+        "pregunta": "¿Es la primera vez que lo utiliza? ¿Sabe cuándo tomarlo y qué hacer si olvida una dosis?",
         "efectos": "Consultar por dolor abdominal intenso persistente, dificultad respiratoria, hinchazón facial o ampollas cutáneas.",
         "almacenamiento": "Conservar en su envase original, protegido según las indicaciones del producto y fuera del alcance de niños y mascotas. Confirmar condiciones particulares de esta presentación.",
         "accion": "Confirmar medicamento, presentación y pauta. Explicar las recomendaciones principales y consultar al químico farmacéutico si aparece una discrepancia concreta o un síntoma de alarma."
       },
       "habitual": {
         "consejo": "Mantener la pauta indicada. Si olvida una dosis, seguir las instrucciones específicas del producto y nunca duplicar una toma. Consultar si presenta molestias importantes o persistentes.",
-        "pregunta": "¿Ha podido tomarlo regularmente? ¿Ha olvidado alguna dosis o notado alguna molestia? ¿Ha comenzado a tomar otro medicamento?",
+        "pregunta": "¿Ha podido seguir la pauta indicada? ¿Ha olvidado alguna dosis o notado molestias? ¿Utiliza otros medicamentos para la diabetes?",
         "efectos": "Indagar signos de alarma y derivar según gravedad.",
         "almacenamiento": "Mantener en su envase y fuera del alcance de niños y mascotas; respetar las condiciones de conservación de la presentación dispensada.",
         "accion": "Reforzar la continuidad del tratamiento y revisar dificultades prácticas. Solicitar apoyo profesional solo ante dudas o hallazgos relevantes."
@@ -1222,7 +1257,22 @@
         "interpretacion": "Comparación de control glucémico, no prueba de beneficio cardiovascular.",
         "url": ""
       }
-    ]
+    ],
+    "guia_meson": {
+      "preguntas": "¿Es primera vez que lo utiliza? ¿Sabe cuándo tomarlo? ¿Ha olvidado dosis, notado molestias o comenzado otro medicamento? Si también usa insulina u otro antidiabético, ¿ha tenido síntomas de glucosa baja?",
+      "explicacion": "Ayuda a controlar la glucosa al prolongar el efecto de hormonas intestinales que favorecen la liberación de insulina cuando la glucosa aumenta y reducen la señal que estimula al hígado a producirla. No cambie la dosis ni duplique una toma olvidada.",
+      "alertas": "Dolor abdominal intenso y persistente, especialmente con vómitos, requiere atención médica. Dificultad para respirar o hinchazón de cara o lengua requiere atención urgente. Ampollas nuevas o dolor articular intenso deben ser evaluados. Una enfermedad renal conocida no significa por sí sola que el tratamiento sea incorrecto."
+    },
+    "ampliada_qf": {
+      "mecanismo": "Inhibición de la dipeptidil peptidasa-4 (DPP-4), enzima que degrada las incretinas endógenas GLP-1 y GIP. La mayor disponibilidad de incretinas activas favorece la secreción de insulina dependiente de glucosa y reduce la secreción inapropiada de glucagón. El efecto sobre HbA1c y la elección del fármaco dependen del contexto clínico.",
+      "consideraciones": "Suganon ISP F-27650/23: no requiere ajuste de 5 mg/día en insuficiencia renal leve, moderada o grave, pero requiere precaución y vigilancia estrecha en moderada-grave. No recomendado en enfermedad renal terminal con diálisis.",
+      "interacciones": [
+        "Claritromicina (inhibidor potente CYP3A4): aumento aproximado de dos veces de exposición a evogliptina; precaución.",
+        "Rifampicina (inductor CYP3A4): reducción del AUC de evogliptina de 63%; revisar posible menor exposición.",
+        "Insulina/sulfonilureas: riesgo de hipoglucemia."
+      ],
+      "evidencia": "Consultar las referencias y estudios vinculados en la ficha. No extrapolar indicaciones ni resultados de un principio activo a otro."
+    }
   },
   {
     "id": "linagliptina",
@@ -1239,7 +1289,7 @@
     "dispensacion": "Confirmar que el medicamento y la presentación coincidan con la receta. Explicar cómo tomarlo y preguntar si es la primera vez que lo utiliza, si ha olvidado dosis o si ha notado molestias. Preguntar por otros medicamentos, incluidos los que se hayan iniciado recientemente, para identificar interacciones relevantes. Evitar cambios de dosis u horarios sin indicación profesional.",
     "marcas": [],
     "posicionamiento": "Opción oral para control glucémico de eficacia moderada, usualmente neutra en peso y con bajo riesgo intrínseco de hipoglucemia. No atribuir protección cardiorrenal demostrada a esta familia; considerar guías vigentes y comorbilidades.",
-    "mecanismo": "Bloquea la enzima DPP-4, que normalmente desactiva ciertas hormonas liberadas después de comer. Así, cuando aumenta la glucosa, el organismo puede liberar más insulina y reducir la producción de glucosa estimulada por el glucagón. Su efecto depende de la concentración de glucosa.",
+    "mecanismo": "Los inhibidores DPP-4 prolongan la acción de las hormonas intestinales GLP-1 y GIP, que participan en el control de la glucosa después de comer. Cuando la glucosa aumenta, ayudan al páncreas a liberar insulina y disminuyen la señal de glucagón que favorece la producción hepática de glucosa. Por sí solos presentan bajo riesgo de hipoglucemia.",
     "reacciones": [
       "Nasofaringitis, tos y reacciones de hipersensibilidad descritas para linagliptina; riesgo de hipoglucemia aumenta con insulina/sulfonilureas.",
       "Advertencias de pancreatitis y penfigoide ampolloso."
@@ -1281,14 +1331,14 @@
     "dispensacion_rapida": {
       "primera": {
         "consejo": "Linagliptina sola se administra habitualmente 5 mg una vez al día, con o sin alimentos; confirmar producto y registro. Glyxambi es otra formulación con dos principios activos.",
-        "pregunta": "¿Es la primera vez que toma este medicamento? ¿Sabe cuándo debe tomarlo? ¿Utiliza otros medicamentos para la diabetes?",
+        "pregunta": "¿Es la primera vez que lo utiliza? ¿Sabe cuándo tomarlo y qué hacer si olvida una dosis?",
         "efectos": "Consultar por dolor abdominal intenso persistente, dificultad respiratoria, hinchazón facial o ampollas cutáneas.",
         "almacenamiento": "Conservar en su envase original, protegido según las indicaciones del producto y fuera del alcance de niños y mascotas. Confirmar condiciones particulares de esta presentación.",
         "accion": "Confirmar medicamento, presentación y pauta. Explicar las recomendaciones principales y consultar al químico farmacéutico si aparece una discrepancia concreta o un síntoma de alarma."
       },
       "habitual": {
         "consejo": "Mantener la pauta indicada. Si olvida una dosis, seguir las instrucciones específicas del producto y nunca duplicar una toma. Consultar si presenta molestias importantes o persistentes.",
-        "pregunta": "¿Ha podido tomarlo regularmente? ¿Ha olvidado alguna dosis o notado alguna molestia? ¿Ha comenzado a tomar otro medicamento?",
+        "pregunta": "¿Ha podido seguir la pauta indicada? ¿Ha olvidado alguna dosis o notado molestias? ¿Utiliza otros medicamentos para la diabetes?",
         "efectos": "Indagar signos de alarma y derivar según gravedad.",
         "almacenamiento": "Mantener en su envase y fuera del alcance de niños y mascotas; respetar las condiciones de conservación de la presentación dispensada.",
         "accion": "Reforzar la continuidad del tratamiento y revisar dificultades prácticas. Solicitar apoyo profesional solo ante dudas o hallazgos relevantes."
@@ -1311,7 +1361,22 @@
         "texto": "Revisar adherencia, hipoglucemias con insulina/sulfonilureas y síntomas cutáneos o abdominales. No confundir linagliptina sola con Glyxambi."
       }
     ],
-    "evidencia_clinica": []
+    "evidencia_clinica": [],
+    "guia_meson": {
+      "preguntas": "¿Es primera vez que lo utiliza? ¿Sabe cuándo tomarlo? ¿Ha olvidado dosis, notado molestias o comenzado otro medicamento? Si también usa insulina u otro antidiabético, ¿ha tenido síntomas de glucosa baja?",
+      "explicacion": "Ayuda a controlar la glucosa al prolongar el efecto de hormonas intestinales que favorecen la liberación de insulina cuando la glucosa aumenta y reducen la señal que estimula al hígado a producirla. No cambie la dosis ni duplique una toma olvidada.",
+      "alertas": "Dolor abdominal intenso y persistente, especialmente con vómitos, requiere atención médica. Dificultad para respirar o hinchazón de cara o lengua requiere atención urgente. Ampollas nuevas o dolor articular intenso deben ser evaluados. Una enfermedad renal conocida no significa por sí sola que el tratamiento sea incorrecto."
+    },
+    "ampliada_qf": {
+      "mecanismo": "Inhibición de la dipeptidil peptidasa-4 (DPP-4), enzima que degrada las incretinas endógenas GLP-1 y GIP. La mayor disponibilidad de incretinas activas favorece la secreción de insulina dependiente de glucosa y reduce la secreción inapropiada de glucagón. El efecto sobre HbA1c y la elección del fármaco dependen del contexto clínico.",
+      "consideraciones": "La linagliptina habitualmente no requiere ajuste de dosis por deterioro de la función renal. Confirmar ficha técnica chilena de monoterapia antes de cerrar la validación.",
+      "interacciones": [
+        "Inductores potentes de P-gp/CYP3A4 como rifampicina pueden reducir la exposición a linagliptina.",
+        "Insulina/sulfonilureas: posible aumento de hipoglucemia.",
+        "Glyxambi combina linagliptina con empagliflozina: las precauciones de cetoacidosis, infecciones genitourinarias y volumen corresponden al componente iSGLT2."
+      ],
+      "evidencia": "Consultar las referencias y estudios vinculados en la ficha. No extrapolar indicaciones ni resultados de un principio activo a otro."
+    }
   },
   {
     "id": "saxagliptina",
@@ -1328,7 +1393,7 @@
     "dispensacion": "Confirmar que el medicamento y la presentación coincidan con la receta. Explicar cómo tomarlo y preguntar si es la primera vez que lo utiliza, si ha olvidado dosis o si ha notado molestias. Preguntar por otros medicamentos, incluidos los que se hayan iniciado recientemente, para identificar interacciones relevantes. Evitar cambios de dosis u horarios sin indicación profesional.",
     "marcas": [],
     "posicionamiento": "Opción oral para control glucémico de eficacia moderada, usualmente neutra en peso y con bajo riesgo intrínseco de hipoglucemia. No atribuir protección cardiorrenal demostrada a esta familia; considerar guías vigentes y comorbilidades. El ensayo SAVOR-TIMI 53 identificó aumento de hospitalizaciones por insuficiencia cardíaca con saxagliptina.",
-    "mecanismo": "Bloquea la enzima DPP-4, que normalmente desactiva ciertas hormonas liberadas después de comer. Así, cuando aumenta la glucosa, el organismo puede liberar más insulina y reducir la producción de glucosa estimulada por el glucagón. Su efecto depende de la concentración de glucosa.",
+    "mecanismo": "Los inhibidores DPP-4 prolongan la acción de las hormonas intestinales GLP-1 y GIP, que participan en el control de la glucosa después de comer. Cuando la glucosa aumenta, ayudan al páncreas a liberar insulina y disminuyen la señal de glucagón que favorece la producción hepática de glucosa. Por sí solos presentan bajo riesgo de hipoglucemia.",
     "reacciones": [
       "Hipoglucemia especialmente con insulina/sulfonilureas; reacciones de hipersensibilidad, pancreatitis y artralgia intensa.",
       "SAVOR-TIMI 53: mayor hospitalización por insuficiencia cardíaca (3,5% frente a 2,8% con placebo)."
@@ -1370,14 +1435,14 @@
     "dispensacion_rapida": {
       "primera": {
         "consejo": "Confirmar presentación: saxagliptina sola o saxagliptina/metformina XR. La pauta y administración dependen de la formulación. No extrapolar la dosificación de una a otra.",
-        "pregunta": "¿Es la primera vez que toma este medicamento? ¿Sabe cuándo debe tomarlo? ¿Utiliza otros medicamentos para la diabetes?",
+        "pregunta": "¿Es la primera vez que lo utiliza? ¿Sabe cuándo tomarlo y qué hacer si olvida una dosis?",
         "efectos": "Consultar por dolor abdominal intenso persistente, dificultad respiratoria, hinchazón facial o ampollas cutáneas.",
         "almacenamiento": "Conservar en su envase original, protegido según las indicaciones del producto y fuera del alcance de niños y mascotas. Confirmar condiciones particulares de esta presentación.",
         "accion": "Confirmar medicamento, presentación y pauta. Explicar las recomendaciones principales y consultar al químico farmacéutico si aparece una discrepancia concreta o un síntoma de alarma."
       },
       "habitual": {
         "consejo": "Mantener la pauta indicada. Si olvida una dosis, seguir las instrucciones específicas del producto y nunca duplicar una toma. Consultar si presenta molestias importantes o persistentes.",
-        "pregunta": "¿Ha podido tomarlo regularmente? ¿Ha olvidado alguna dosis o notado alguna molestia? ¿Ha comenzado a tomar otro medicamento?",
+        "pregunta": "¿Ha podido seguir la pauta indicada? ¿Ha olvidado alguna dosis o notado molestias? ¿Utiliza otros medicamentos para la diabetes?",
         "efectos": "Indagar signos de alarma y derivar según gravedad.",
         "almacenamiento": "Mantener en su envase y fuera del alcance de niños y mascotas; respetar las condiciones de conservación de la presentación dispensada.",
         "accion": "Reforzar la continuidad del tratamiento y revisar dificultades prácticas. Solicitar apoyo profesional solo ante dudas o hallazgos relevantes."
@@ -1408,7 +1473,22 @@
         "interpretacion": "Advertencia de seguridad; no equivale a cardioprotección.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/23992601/"
       }
-    ]
+    ],
+    "guia_meson": {
+      "preguntas": "¿Es primera vez que lo utiliza? ¿Sabe cuándo tomarlo? ¿Ha olvidado dosis, notado molestias o comenzado otro medicamento? Si también usa insulina u otro antidiabético, ¿ha tenido síntomas de glucosa baja?",
+      "explicacion": "Ayuda a controlar la glucosa al prolongar el efecto de hormonas intestinales que favorecen la liberación de insulina cuando la glucosa aumenta y reducen la señal que estimula al hígado a producirla. No cambie la dosis ni duplique una toma olvidada.",
+      "alertas": "Dolor abdominal intenso y persistente, especialmente con vómitos, requiere atención médica. Dificultad para respirar o hinchazón de cara o lengua requiere atención urgente. Ampollas nuevas o dolor articular intenso deben ser evaluados. Una enfermedad renal conocida no significa por sí sola que el tratamiento sea incorrecto."
+    },
+    "ampliada_qf": {
+      "mecanismo": "Inhibición de la dipeptidil peptidasa-4 (DPP-4), enzima que degrada las incretinas endógenas GLP-1 y GIP. La mayor disponibilidad de incretinas activas favorece la secreción de insulina dependiente de glucosa y reduce la secreción inapropiada de glucagón. El efecto sobre HbA1c y la elección del fármaco dependen del contexto clínico.",
+      "consideraciones": "La saxagliptina requiere revisión de dosis según función renal y uso de inhibidores potentes de CYP3A4/5. Si se dispensa saxagliptina/metformina XR, aplicar además las restricciones renales de metformina y de la presentación fija. Dosis exacta pendiente de cotejo con folleto ISP.",
+      "interacciones": [
+        "Inhibidores potentes CYP3A4/5 pueden aumentar exposición a saxagliptina; verificar ajustes con folleto profesional.",
+        "Sulfonilureas e insulina: mayor riesgo de hipoglucemia.",
+        "Combinación con metformina XR: verificar interacciones, función renal, contrastes y riesgos propios de metformina."
+      ],
+      "evidencia": "Consultar las referencias y estudios vinculados en la ficha. No extrapolar indicaciones ni resultados de un principio activo a otro."
+    }
   },
   {
     "id": "semaglutida-oral",

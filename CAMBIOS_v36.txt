@@ -1,0 +1,1 @@
+Base v34. Se incorporaron guia_meson y ampliada_qf para cinco DPP-4; se unificaron destinos de accesos rápidos y se eliminó bloque duplicado exclusivo de sitagliptina. Se amplió contenido principal y técnico. Revisión documental de dosis, olvidos, interacciones y fichas regulatorias aún pendiente. No constituye validación clínica.
