@@ -766,20 +766,12 @@
       "alertas": "Dolor abdominal intenso y persistente, especialmente con vómitos, requiere atención médica. Dificultad para respirar o hinchazón de cara o lengua requiere atención urgente. Ampollas nuevas o dolor articular intenso deben ser evaluados. Una enfermedad renal conocida no significa por sí sola que el tratamiento sea incorrecto."
     },
     "ampliada_qf": {
-      "mecanismo": "Inhibición de la dipeptidil peptidasa-4 (DPP-4), enzima que degrada las incretinas endógenas GLP-1 y GIP. La mayor disponibilidad de incretinas activas favorece la secreción de insulina dependiente de glucosa y reduce la secreción inapropiada de glucagón. El efecto sobre HbA1c y la elección del fármaco dependen del contexto clínico.",
-      "consideraciones": "La sitagliptina requiere ajuste de dosis según TFGe. Según la monografía UpToDate aportada: TFGe ≥45 mL/min/1,73 m²: 100 mg una vez al día; TFGe ≥30 y <45: 50 mg una vez al día; TFGe <30, incluida enfermedad renal terminal con diálisis: 25 mg una vez al día. Estos valores son referencia clínica para comprobar la prescripción, no instrucciones para que el personal de mesón modifique dosis. El folleto ISP Januvia F-21957/15 confirma los intervalos TFGe ≥45: 100 mg/día; 30–44: 50 mg/día; <30, incluso diálisis: 25 mg/día. Sitagliptina sola puede administrarse independientemente de las sesiones de diálisis. El folleto ISP de sitagliptina/metformina (Reg. F-26606/22) confirma para el componente sitagliptina un máximo de 100 mg/día con TFG ≥45, 50 mg/día con TFG 30–44 y 25 mg/día con TFG <30; sin embargo, la combinación fija contiene metformina y está contraindicada con TFG <30. En TFG 30–44 la dosis fija disponible puede no permitir el ajuste requerido de sitagliptina, por lo que el folleto indica recurrir a los monocomponentes si no se dispone de una dosis apropiada. No extrapolar estas restricciones de la combinación a la sitagliptina sola.",
-      "interacciones": [
-        "Insulina o sulfonilureas: puede aumentar el riesgo de hipoglucemia; el equipo prescriptor puede requerir reevaluación de estas terapias.",
-        "Agonistas del receptor GLP-1 (p. ej., semaglutida) y tratamientos basados en ese receptor: combinación generalmente no recomendada por escaso beneficio glucémico adicional.",
-        "Inhibidores de la ECA y otros medicamentos asociados con angioedema: vigilar antecedentes o síntomas de hipersensibilidad; la relevancia clínica depende del contexto y de la combinación.",
-        "Revisar siempre el listado completo de medicamentos: la monografía remite a una base de interacciones específica y no considera exhaustiva su lista resumida.",
-        "Combinación fija sitagliptina/metformina: el folleto ISP advierte riesgo de acidosis láctica con intoxicación alcohólica y situaciones de deterioro renal; exige precauciones específicas ante contraste yodado, deshidratación y medicamentos que afecten la función renal. Estas advertencias corresponden al componente metformina y no deben atribuirse a sitagliptina en monoterapia.",
-        "Digoxina: el folleto ISP de Januvia F-21957/15 describe aumentos pequeños de exposición y recomienda vigilancia en pacientes con riesgo de toxicidad, sin ajuste rutinario de dosis.",
-        "Digoxina: en estudios farmacocinéticos, sitagliptina elevó modestamente el AUC de digoxina (11 %) y su concentración máxima (18 %); el folleto peruano no considera estos cambios clínicamente significativos. Individualizar vigilancia en pacientes con riesgo de toxicidad, sin recomendar cambios automáticos de dosis.",
-        "Ciclosporina: aumentó la exposición a sitagliptina (AUC aproximadamente 29 % y Cmáx 68 %) en un estudio de dosis única, sin considerarse clínicamente significativo; no constituye por sí solo indicación de ajuste.",
-        "Los estudios recogidos en la ficha peruana no identificaron cambios farmacocinéticos clínicamente significativos con warfarina, simvastatina, glibenclamida ni anticonceptivos orales. La ausencia de interacción farmacocinética no elimina el riesgo farmacodinámico de hipoglucemia al asociar sulfonilureas."
-      ],
-      "evidencia": "Consultar las referencias y estudios vinculados en la ficha. No extrapolar indicaciones ni resultados de un principio activo a otro."
+      "titulo_foco": "Eliminación renal y ajuste individualizado",
+      "fundamento": "Inhibición de la dipeptidil peptidasa-4 (DPP-4), enzima que degrada las incretinas endógenas GLP-1 y GIP. La mayor disponibilidad de incretinas activas favorece la secreción de insulina dependiente de glucosa y reduce la secreción inapropiada de glucagón. El efecto sobre HbA1c y la elección del fármaco dependen del contexto clínico.",
+      "farmacocinetica_y_seleccion": "La eliminación renal tiene importancia clínica: la exposición aumenta cuando disminuye la función renal. La ficha existente distingue dosis de monoterapia según TFGe y advierte que las combinaciones fijas con metformina tienen restricciones adicionales.",
+      "interacciones_especificas": "Interacción con digoxina: se ha descrito un aumento pequeño de su exposición; la vigilancia se individualiza. La combinación con insulina o sulfonilureas aumenta el riesgo de hipoglucemia.",
+      "evidencia_y_limitaciones": "TECOS evaluó desenlaces cardiovasculares de sitagliptina; sus resultados no deben extrapolarse automáticamente a toda la clase.",
+      "detalle_regulatorio": "La sitagliptina requiere ajuste de dosis según TFGe. Según la monografía UpToDate aportada: TFGe ≥45 mL/min/1,73 m²: 100 mg una vez al día; TFGe ≥30 y <45: 50 mg una vez al día; TFGe <30, incluida enfermedad renal terminal con diálisis: 25 mg una vez al día. Estos valores son referencia clínica para comprobar la prescripción, no instrucciones para que el personal de mesón modifique dosis. El folleto ISP Januvia F-21957/15 confirma los intervalos TFGe ≥45: 100 mg/día; 30–44: 50 mg/día; <30, incluso diálisis: 25 mg/día. Sitagliptina sola puede administrarse independientemente de las sesiones de diálisis. El folleto ISP de sitagliptina/metformina (Reg. F-26606/22) confirma para el componente sitagliptina un máximo de 100 mg/día con TFG ≥45, 50 mg/día con TFG 30–44 y 25 mg/día con TFG <30; sin embargo, la combinación fija contiene metformina y está contraindicada con TFG <30. En TFG 30–44 la dosis fija disponible puede no permitir el ajuste requerido de sitagliptina, por lo que el folleto indica recurrir a los monocomponentes si no se dispone de una dosis apropiada. No extrapolar estas restricciones de la combinación a la sitagliptina sola."
     }
   },
   {
@@ -1157,13 +1149,12 @@
       "alertas": "Dolor abdominal intenso y persistente, especialmente con vómitos, requiere atención médica. Dificultad para respirar o hinchazón de cara o lengua requiere atención urgente. Ampollas nuevas o dolor articular intenso deben ser evaluados. Una enfermedad renal conocida no significa por sí sola que el tratamiento sea incorrecto."
     },
     "ampliada_qf": {
-      "mecanismo": "Inhibición de la dipeptidil peptidasa-4 (DPP-4), enzima que degrada las incretinas endógenas GLP-1 y GIP. La mayor disponibilidad de incretinas activas favorece la secreción de insulina dependiente de glucosa y reduce la secreción inapropiada de glucagón. El efecto sobre HbA1c y la elección del fármaco dependen del contexto clínico.",
-      "consideraciones": "Galvus ISP F-21478/19: en disfunción renal moderada o grave, 50 mg una vez al día; en leve no requiere ajuste. No se recomienda en disfunción hepática, incluidos valores basales de ALT o AST >2,5 veces el límite superior normal.",
-      "interacciones": [
-        "Sulfonilureas e insulina: mayor riesgo de hipoglucemia.",
-        "Combinación vildagliptina/metformina (Jalra M): evaluar restricciones adicionales de metformina y función renal; no equiparar dosis de combinación con monoterapia."
-      ],
-      "evidencia": "Consultar las referencias y estudios vinculados en la ficha. No extrapolar indicaciones ni resultados de un principio activo a otro."
+      "titulo_foco": "Metabolismo, función hepática y renal",
+      "fundamento": "Inhibición de la dipeptidil peptidasa-4 (DPP-4), enzima que degrada las incretinas endógenas GLP-1 y GIP. La mayor disponibilidad de incretinas activas favorece la secreción de insulina dependiente de glucosa y reduce la secreción inapropiada de glucagón. El efecto sobre HbA1c y la elección del fármaco dependen del contexto clínico.",
+      "farmacocinetica_y_seleccion": "El seguimiento hepático y la selección de dosis en deterioro renal son particularidades relevantes. El documento regulatorio citado en la ficha distingue disfunción renal leve de moderada o grave y recoge restricciones por alteración hepática.",
+      "interacciones_especificas": "Con insulina o sulfonilureas puede aumentar la hipoglucemia. En combinaciones fijas con metformina deben evaluarse también las precauciones propias de esta última.",
+      "evidencia_y_limitaciones": "La decisión de utilizarla requiere considerar las características del paciente y la ficha técnica del producto; no se deben generalizar sus precauciones a todos los DPP-4.",
+      "detalle_regulatorio": "Galvus ISP F-21478/19: en disfunción renal moderada o grave, 50 mg una vez al día; en leve no requiere ajuste. No se recomienda en disfunción hepática, incluidos valores basales de ALT o AST >2,5 veces el límite superior normal."
     }
   },
   {
@@ -1264,14 +1255,12 @@
       "alertas": "Dolor abdominal intenso y persistente, especialmente con vómitos, requiere atención médica. Dificultad para respirar o hinchazón de cara o lengua requiere atención urgente. Ampollas nuevas o dolor articular intenso deben ser evaluados. Una enfermedad renal conocida no significa por sí sola que el tratamiento sea incorrecto."
     },
     "ampliada_qf": {
-      "mecanismo": "Inhibición de la dipeptidil peptidasa-4 (DPP-4), enzima que degrada las incretinas endógenas GLP-1 y GIP. La mayor disponibilidad de incretinas activas favorece la secreción de insulina dependiente de glucosa y reduce la secreción inapropiada de glucagón. El efecto sobre HbA1c y la elección del fármaco dependen del contexto clínico.",
-      "consideraciones": "Suganon ISP F-27650/23: no requiere ajuste de 5 mg/día en insuficiencia renal leve, moderada o grave, pero requiere precaución y vigilancia estrecha en moderada-grave. No recomendado en enfermedad renal terminal con diálisis.",
-      "interacciones": [
-        "Claritromicina (inhibidor potente CYP3A4): aumento aproximado de dos veces de exposición a evogliptina; precaución.",
-        "Rifampicina (inductor CYP3A4): reducción del AUC de evogliptina de 63%; revisar posible menor exposición.",
-        "Insulina/sulfonilureas: riesgo de hipoglucemia."
-      ],
-      "evidencia": "Consultar las referencias y estudios vinculados en la ficha. No extrapolar indicaciones ni resultados de un principio activo a otro."
+      "titulo_foco": "Metabolismo e interacciones específicas",
+      "fundamento": "Inhibición de la dipeptidil peptidasa-4 (DPP-4), enzima que degrada las incretinas endógenas GLP-1 y GIP. La mayor disponibilidad de incretinas activas favorece la secreción de insulina dependiente de glucosa y reduce la secreción inapropiada de glucagón. El efecto sobre HbA1c y la elección del fármaco dependen del contexto clínico.",
+      "farmacocinetica_y_seleccion": "Su exposición puede cambiar por medicamentos que modifican el metabolismo mediado por CYP3A4. La documentación recogida en la ficha señala diferencias entre insuficiencia renal y enfermedad renal terminal en diálisis.",
+      "interacciones_especificas": "Claritromicina puede aumentar la exposición a evogliptina; rifampicina puede disminuirla. Estas interacciones no se solucionan necesariamente separando horarios.",
+      "evidencia_y_limitaciones": "La evidencia clínica y las condiciones de autorización deben comprobarse específicamente para evogliptina; no extrapolar resultados de otros inhibidores DPP-4.",
+      "detalle_regulatorio": "Suganon ISP F-27650/23: no requiere ajuste de 5 mg/día en insuficiencia renal leve, moderada o grave, pero requiere precaución y vigilancia estrecha en moderada-grave. No recomendado en enfermedad renal terminal con diálisis."
     }
   },
   {
@@ -1368,14 +1357,12 @@
       "alertas": "Dolor abdominal intenso y persistente, especialmente con vómitos, requiere atención médica. Dificultad para respirar o hinchazón de cara o lengua requiere atención urgente. Ampollas nuevas o dolor articular intenso deben ser evaluados. Una enfermedad renal conocida no significa por sí sola que el tratamiento sea incorrecto."
     },
     "ampliada_qf": {
-      "mecanismo": "Inhibición de la dipeptidil peptidasa-4 (DPP-4), enzima que degrada las incretinas endógenas GLP-1 y GIP. La mayor disponibilidad de incretinas activas favorece la secreción de insulina dependiente de glucosa y reduce la secreción inapropiada de glucagón. El efecto sobre HbA1c y la elección del fármaco dependen del contexto clínico.",
-      "consideraciones": "La linagliptina habitualmente no requiere ajuste de dosis por deterioro de la función renal. Confirmar ficha técnica chilena de monoterapia antes de cerrar la validación.",
-      "interacciones": [
-        "Inductores potentes de P-gp/CYP3A4 como rifampicina pueden reducir la exposición a linagliptina.",
-        "Insulina/sulfonilureas: posible aumento de hipoglucemia.",
-        "Glyxambi combina linagliptina con empagliflozina: las precauciones de cetoacidosis, infecciones genitourinarias y volumen corresponden al componente iSGLT2."
-      ],
-      "evidencia": "Consultar las referencias y estudios vinculados en la ficha. No extrapolar indicaciones ni resultados de un principio activo a otro."
+      "titulo_foco": "Eliminación predominantemente no renal",
+      "fundamento": "Inhibición de la dipeptidil peptidasa-4 (DPP-4), enzima que degrada las incretinas endógenas GLP-1 y GIP. La mayor disponibilidad de incretinas activas favorece la secreción de insulina dependiente de glucosa y reduce la secreción inapropiada de glucagón. El efecto sobre HbA1c y la elección del fármaco dependen del contexto clínico.",
+      "farmacocinetica_y_seleccion": "A diferencia de otros DPP-4, su eliminación es predominantemente no renal, por lo que habitualmente no necesita ajuste de dosis por función renal. Esta propiedad es relevante al comparar alternativas, pero no sustituye la evaluación del tratamiento completo.",
+      "interacciones_especificas": "Rifampicina y otros inductores potentes de P-gp/CYP3A4 pueden reducir la exposición a linagliptina. Con insulina o sulfonilureas aumenta el riesgo de hipoglucemia.",
+      "evidencia_y_limitaciones": "Si el paciente utiliza una combinación fija con empagliflozina, deben considerarse adicionalmente las precauciones del inhibidor SGLT2.",
+      "detalle_regulatorio": "La linagliptina habitualmente no requiere ajuste de dosis por deterioro de la función renal. Confirmar ficha técnica chilena de monoterapia antes de cerrar la validación."
     }
   },
   {
@@ -1480,14 +1467,12 @@
       "alertas": "Dolor abdominal intenso y persistente, especialmente con vómitos, requiere atención médica. Dificultad para respirar o hinchazón de cara o lengua requiere atención urgente. Ampollas nuevas o dolor articular intenso deben ser evaluados. Una enfermedad renal conocida no significa por sí sola que el tratamiento sea incorrecto."
     },
     "ampliada_qf": {
-      "mecanismo": "Inhibición de la dipeptidil peptidasa-4 (DPP-4), enzima que degrada las incretinas endógenas GLP-1 y GIP. La mayor disponibilidad de incretinas activas favorece la secreción de insulina dependiente de glucosa y reduce la secreción inapropiada de glucagón. El efecto sobre HbA1c y la elección del fármaco dependen del contexto clínico.",
-      "consideraciones": "La saxagliptina requiere revisión de dosis según función renal y uso de inhibidores potentes de CYP3A4/5. Si se dispensa saxagliptina/metformina XR, aplicar además las restricciones renales de metformina y de la presentación fija. Dosis exacta pendiente de cotejo con folleto ISP.",
-      "interacciones": [
-        "Inhibidores potentes CYP3A4/5 pueden aumentar exposición a saxagliptina; verificar ajustes con folleto profesional.",
-        "Sulfonilureas e insulina: mayor riesgo de hipoglucemia.",
-        "Combinación con metformina XR: verificar interacciones, función renal, contrastes y riesgos propios de metformina."
-      ],
-      "evidencia": "Consultar las referencias y estudios vinculados en la ficha. No extrapolar indicaciones ni resultados de un principio activo a otro."
+      "titulo_foco": "Metabolismo, función renal y seguridad cardiovascular",
+      "fundamento": "Inhibición de la dipeptidil peptidasa-4 (DPP-4), enzima que degrada las incretinas endógenas GLP-1 y GIP. La mayor disponibilidad de incretinas activas favorece la secreción de insulina dependiente de glucosa y reduce la secreción inapropiada de glucagón. El efecto sobre HbA1c y la elección del fármaco dependen del contexto clínico.",
+      "farmacocinetica_y_seleccion": "Su metabolismo por CYP3A4/5 genera interacciones farmacocinéticas relevantes. La función renal puede exigir una dosis distinta; las combinaciones con metformina XR tienen restricciones propias de ambos componentes.",
+      "interacciones_especificas": "Los inhibidores potentes de CYP3A4/5 pueden elevar la exposición a saxagliptina. Con insulina o sulfonilureas aumenta el riesgo de hipoglucemia.",
+      "evidencia_y_limitaciones": "La señal de hospitalización por insuficiencia cardíaca descrita para saxagliptina debe valorarse en la selección y seguimiento, sin asumir que todo paciente que la recibe está incorrectamente tratado.",
+      "detalle_regulatorio": "La saxagliptina requiere revisión de dosis según función renal y uso de inhibidores potentes de CYP3A4/5. Si se dispensa saxagliptina/metformina XR, aplicar además las restricciones renales de metformina y de la presentación fija. Dosis exacta pendiente de cotejo con folleto ISP."
     }
   },
   {

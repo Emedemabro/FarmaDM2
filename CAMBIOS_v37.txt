@@ -1,0 +1,7 @@
+FarmaDM2 v37 - comparación con v36
+- Las cinco fichas DPP-4 tienen un apartado ampliado con contenidos individuales (no el mismo texto de clase).
+- En la vista clínica general DPP-4 se evita repetir el bloque técnico de función renal e interacciones, ahora profundizado en el desplegable profesional.
+- Se conservan los accesos rápidos implementados en v36.
+- Se actualiza la clave de caché del service worker para evitar que se muestre una versión anterior.
+- Revisión: comprobación de estructura JSON y sintaxis JS; NO prueba manual en navegador.
+- Pendiente: verificación clínica y regulatoria de cada ficha y revisión editorial completa de la sección principal.
