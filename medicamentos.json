@@ -147,7 +147,7 @@
     ],
     "dispensacion": "Confirmar pauta prescrita: una vez al día, con o sin alimentos. Reforzar síntomas de alarma, higiene y consultas oportunas; no indicar cambios autónomos de dosis ni suspensión.",
     "posicionamiento": "La empagliflozina ha adquirido un papel importante en el tratamiento de la DM2, especialmente cuando coexisten enfermedad cardiovascular, insuficiencia cardíaca o enfermedad renal crónica. Su utilidad va más allá de reducir la glucosa: en personas con DM2 y enfermedad cardiovascular establecida, EMPA-REG OUTCOME mostró una reducción de muerte cardiovascular y hospitalización por insuficiencia cardíaca; EMPA-KIDNEY, por su parte, respaldó su beneficio en determinados pacientes con enfermedad renal crónica, incluso sin diabetes. Esto ayuda a comprender por qué puede elegirse por objetivos cardiorrenales y no solo por la HbA1c. La decisión debe considerar la indicación autorizada, la función renal y las características individuales; los resultados de cada ensayo no se extrapolan automáticamente a todos los pacientes.",
-    "mecanismo": "Inhibe SGLT2 en el túbulo proximal renal y reduce la reabsorción de glucosa, aumentando su eliminación por orina; también modifica el manejo renal de sodio.",
+    "mecanismo": "Actúa en los riñones, donde normalmente se recupera parte de la glucosa filtrada. Al bloquear ese proceso, una mayor cantidad de glucosa sale del cuerpo a través de la orina. Algunos medicamentos de esta familia también tienen beneficios demostrados para el corazón o los riñones en situaciones específicas.",
     "reacciones": [
       "Puede aumentar la frecuencia urinaria y favorecer infecciones genitales por hongos. Consulte si presenta picazón, irritación, flujo anormal o molestias al orinar. La pérdida de líquidos puede provocar sed o mareos; los eventos graves son infrecuentes, pero deben reconocerse."
     ],
@@ -194,7 +194,7 @@
       }
     ],
     "revision": "2026-10-10",
-    "validacion": "Síntesis académica contrastada con monografías aportadas de UpToDate, antecedentes regulatorios ISP y publicaciones originales de ensayos. Revisión profesional y validación clínica formal pendientes.",
+    "validacion": "Síntesis académica contrastada con monografías aportadas de UpToDate, antecedentes regulatorios ISP y publicaciones originales de ensayos. Revisión profesional y validación clínica formal pendientes. | Reorganización editorial v38: información clínica ampliada diferenciada; verificación regulatoria individual pendiente.",
     "marcas": [],
     "dispensacion_rapida": {
       "primera": {
@@ -263,7 +263,20 @@
         "pregunta": "¿Utiliza diuréticos, insulina o sulfonilureas?",
         "accion": "Solicitar revisión del químico farmacéutico si existen síntomas, dudas o riesgos de interacción."
       }
-    ]
+    ],
+    "ampliada_qf": {
+      "titulo_foco": "Eliminación renal de glucosa y beneficios cardiorrenales",
+      "farmacocinetica_y_seleccion": "La indicación, dosis y umbrales de función renal deben evaluarse por producto y objetivo terapéutico (control glucémico, insuficiencia cardíaca o enfermedad renal). La eficacia hipoglucemiante disminuye con menor filtración renal, pero ello no equivale a ausencia de beneficio cardiorrenal.",
+      "fundamento": "La inhibición de SGLT2 en el túbulo proximal disminuye la reabsorción de glucosa y sodio. La glucosuria contribuye al descenso de glucemia; los beneficios en insuficiencia cardíaca y enfermedad renal no se explican exclusivamente por la reducción de HbA1c.",
+      "interacciones_especificas": "Diuréticos: posible depleción de volumen e hipotensión. Insulina o sulfonilureas: mayor riesgo de hipoglucemia; la evaluación de dosis corresponde al prescriptor.",
+      "evidencia_y_limitaciones": "Los resultados de EMPA-REG OUTCOME y estudios posteriores son específicos de población, desenlace e indicación; evitar extrapolarlos automáticamente a toda la clase.",
+      "detalle_regulatorio": "Verificar dosis, contraindicaciones, almacenamiento, condiciones de inicio y ajuste con el folleto ISP vigente de la presentación específica; los antecedentes de esta ficha no sustituyen dicha verificación."
+    },
+    "guia_meson": {
+      "preguntas": "¿Es primera vez que lo toma? ¿Ha notado mareos, sed intensa o molestias genitales? ¿Ha tenido vómitos o dificultad para beber líquidos? ¿Usa otros medicamentos para la diabetes?",
+      "explicacion": "Ayuda a eliminar glucosa por la orina. Puede hacer que orine más. Explique la pauta prescrita y la importancia de consultar si aparecen molestias genitales, mareos persistentes o problemas para mantenerse hidratado.",
+      "alertas": "Náuseas o vómitos importantes, dolor abdominal, respiración rápida o decaimiento marcado requieren evaluación urgente, incluso sin glucosa muy elevada. Si está enfermo y no puede comer o beber, debe contactar al equipo tratante para recibir instrucciones; no improvisar cambios de dosis."
+    }
   },
   {
     "id": "semaglutida",
@@ -281,7 +294,7 @@
     "dispensacion": "Verificar presentación, indicación de receta, titulación, técnica de administración y tolerancia; no modificar dosis sin prescriptor.",
     "marcas": [],
     "posicionamiento": "Indicación del producto: DM2. Los beneficios de ensayos clínicos se interpretan por molécula, formulación y población, no como efecto uniforme de clase.",
-    "mecanismo": "Agonismo del receptor GLP-1: estimula la secreción de insulina dependiente de glucosa, reduce glucagón inapropiadamente elevado y enlentece vaciamiento gástrico; puede reducir apetito.",
+    "mecanismo": "Imita la acción de una hormona intestinal (GLP-1): ayuda a liberar insulina cuando la glucosa está elevada, reduce una señal que aumenta la producción de glucosa por el hígado y puede favorecer la sensación de saciedad.",
     "reacciones": [
       "Náuseas, vómitos, diarrea o estreñimiento, especialmente durante la titulación.",
       "Hipoglucemia más probable en combinación con insulina o sulfonilureas."
@@ -322,7 +335,7 @@
       }
     ],
     "revision": "2026-10-12 · ampliación semaglutida con folletos ISP aportados y evidencia primaria; auditoría final pendiente",
-    "validacion": "Material educativo de apoyo al mesón; no sustituye folleto vigente ni juicio clínico.",
+    "validacion": "Material educativo de apoyo al mesón; no sustituye folleto vigente ni juicio clínico. | Reorganización editorial v38: información clínica ampliada diferenciada; verificación regulatoria individual pendiente.",
     "dispensacion_rapida": {
       "primera": {
         "consejo": "Inyectar vía subcutánea en abdomen, muslo o brazo una vez por semana, con o sin comidas. No usar vía IV ni IM. Folleto ISP aportado: 0,25 mg semanal por 4 semanas (inicio, no mantenimiento); luego 0,5 mg semanal; después de al menos 4 semanas a 0,5 mg, considerar 1 mg semanal según prescripción. El folleto aportado no recomienda superar 1 mg/semana; verificar versiones posteriores.",
@@ -386,7 +399,20 @@
         "interpretacion": "Evidencia de beneficio renal en población específica; no equivale a indicación ISP chilena automáticamente.",
         "url": "https://doi.org/10.1056/NEJMoa2403347"
       }
-    ]
+    ],
+    "ampliada_qf": {
+      "titulo_foco": "Semaglutida subcutánea: farmacología y evidencia por formulación",
+      "farmacocinetica_y_seleccion": "Distinguir la titulación inicial de la dosis de mantenimiento y verificar el dispositivo exacto. La elección clínica considera control glucémico, peso, tolerabilidad, comorbilidades y evidencia específica de formulación.",
+      "fundamento": "Agonista del receptor GLP-1 con acción prolongada; potencia la secreción de insulina dependiente de glucosa, reduce el glucagón inapropiado y modula vaciamiento gástrico y saciedad. La exposición sostenida permite administración semanal.",
+      "interacciones_especificas": "Insulina o sulfonilureas: hipoglucemia más probable. El retraso del vaciamiento gástrico puede influir en la absorción de algunos fármacos orales; evaluar casos específicos, sin recomendar separación horaria universal.",
+      "evidencia_y_limitaciones": "SUSTAIN-6 estudió resultados cardiovasculares en una población de alto riesgo. No trasladar automáticamente datos de presentaciones para obesidad a la indicación DM2.",
+      "detalle_regulatorio": "Verificar dosis, contraindicaciones, almacenamiento, condiciones de inicio y ajuste con el folleto ISP vigente de la presentación específica; los antecedentes de esta ficha no sustituyen dicha verificación."
+    },
+    "guia_meson": {
+      "preguntas": "¿Es primera vez que utiliza esta presentación? ¿Le mostraron cómo administrarla? ¿Ha tenido náuseas o vómitos que le dificulten comer o beber? ¿Usa insulina u otro medicamento que pueda bajar la glucosa?",
+      "explicacion": "Confirme el día de administración y que conoce la técnica y el dispositivo de su presentación. Las molestias digestivas son frecuentes al inicio; siga la titulación indicada.",
+      "alertas": "Dolor abdominal intenso y persistente, especialmente con vómitos, requiere evaluación médica urgente. Vómitos o diarrea que impiden hidratarse requieren consulta. No modificar la dosis por cuenta propia."
+    }
   },
   {
     "id": "insulina-nph",
@@ -788,7 +814,7 @@
     ],
     "dispensacion": "Confirmar pauta prescrita: una vez al día, con o sin alimentos. Reforzar síntomas de alarma, higiene y consultas oportunas; no indicar cambios autónomos de dosis ni suspensión.",
     "posicionamiento": "La dapagliflozina ocupa un lugar relevante en la DM2 cuando también es necesario considerar el riesgo de insuficiencia cardíaca o progresión de enfermedad renal. Además de favorecer la eliminación urinaria de glucosa, ha demostrado beneficios cardiorrenales en poblaciones específicas: DECLARE–TIMI 58 observó menos hospitalizaciones por insuficiencia cardíaca, mientras que DAPA-HF y DAPA-CKD mostraron beneficios en insuficiencia cardíaca con fracción de eyección reducida y enfermedad renal crónica albuminúrica, respectivamente, incluyendo personas sin diabetes. Por ello, su elección puede responder a objetivos distintos del control glucémico. Es importante recordar que su efecto sobre la glucosa disminuye con la reducción de la función renal, sin que esto signifique necesariamente la pérdida de sus beneficios cardiorrenales; la indicación y los umbrales de uso deben evaluarse según el contexto clínico y la información autorizada.",
-    "mecanismo": "Inhibe SGLT2 en el túbulo proximal renal y reduce la reabsorción de glucosa, aumentando su eliminación por orina; también modifica el manejo renal de sodio.",
+    "mecanismo": "Actúa en los riñones, donde normalmente se recupera parte de la glucosa filtrada. Al bloquear ese proceso, una mayor cantidad de glucosa sale del cuerpo a través de la orina. Algunos medicamentos de esta familia también tienen beneficios demostrados para el corazón o los riñones en situaciones específicas.",
     "reacciones": [
       "Puede aumentar la frecuencia urinaria y favorecer infecciones genitales por hongos. Consulte si presenta picazón, irritación, flujo anormal o molestias al orinar. La pérdida de líquidos puede provocar sed o mareos; los eventos graves son infrecuentes, pero deben reconocerse."
     ],
@@ -839,7 +865,7 @@
       }
     ],
     "revision": "2026-10-10",
-    "validacion": "Síntesis académica contrastada con monografías aportadas de UpToDate, antecedentes regulatorios ISP y publicaciones originales de ensayos. Revisión profesional y validación clínica formal pendientes.",
+    "validacion": "Síntesis académica contrastada con monografías aportadas de UpToDate, antecedentes regulatorios ISP y publicaciones originales de ensayos. Revisión profesional y validación clínica formal pendientes. | Reorganización editorial v38: información clínica ampliada diferenciada; verificación regulatoria individual pendiente.",
     "marcas": [],
     "dispensacion_rapida": {
       "primera": {
@@ -915,7 +941,20 @@
         "pregunta": "¿Utiliza diuréticos, insulina o sulfonilureas?",
         "accion": "Solicitar revisión del químico farmacéutico si existen síntomas, dudas o riesgos de interacción."
       }
-    ]
+    ],
+    "ampliada_qf": {
+      "titulo_foco": "Glucosuria, función renal y selección según indicación",
+      "farmacocinetica_y_seleccion": "Distinguir los criterios de uso para DM2, insuficiencia cardíaca y enfermedad renal crónica. No extrapolar dosis, umbrales renales ni criterios de inicio entre indicaciones o presentaciones.",
+      "fundamento": "El bloqueo del cotransportador SGLT2 reduce la reabsorción tubular de glucosa y sodio. Su efecto glucémico depende de la filtración de glucosa; las indicaciones cardiorrenales requieren una valoración independiente del efecto sobre HbA1c.",
+      "interacciones_especificas": "Diuréticos: vigilar síntomas de depleción de volumen. Insulina o sulfonilureas: riesgo adicional de hipoglucemia.",
+      "evidencia_y_limitaciones": "Interpretar DECLARE–TIMI 58 y ensayos cardiorrenales en sus respectivas poblaciones; no confundir reducción de hospitalización por insuficiencia cardíaca con reducción demostrada de todos los eventos cardiovasculares.",
+      "detalle_regulatorio": "Verificar dosis, contraindicaciones, almacenamiento, condiciones de inicio y ajuste con el folleto ISP vigente de la presentación específica; los antecedentes de esta ficha no sustituyen dicha verificación."
+    },
+    "guia_meson": {
+      "preguntas": "¿Es primera vez que lo toma? ¿Ha notado mareos, sed intensa o molestias genitales? ¿Ha tenido vómitos o dificultad para beber líquidos? ¿Usa otros medicamentos para la diabetes?",
+      "explicacion": "Ayuda a eliminar glucosa por la orina. Puede hacer que orine más. Explique la pauta prescrita y la importancia de consultar si aparecen molestias genitales, mareos persistentes o problemas para mantenerse hidratado.",
+      "alertas": "Náuseas o vómitos importantes, dolor abdominal, respiración rápida o decaimiento marcado requieren evaluación urgente, incluso sin glucosa muy elevada. Si está enfermo y no puede comer o beber, debe contactar al equipo tratante para recibir instrucciones; no improvisar cambios de dosis."
+    }
   },
   {
     "id": "canagliflozina",
@@ -931,7 +970,7 @@
     ],
     "dispensacion": "Confirmar pauta prescrita: una vez al día, preferentemente antes de la primera comida del día. Reforzar síntomas de alarma, higiene y consultas oportunas; no indicar cambios autónomos de dosis ni suspensión.",
     "posicionamiento": "La canagliflozina representa una alternativa en la DM2 cuyo interés no se limita a disminuir la glucosa sanguínea. En personas con DM2 y riesgo cardiovascular elevado, el programa CANVAS demostró una reducción de eventos cardiovasculares mayores; en pacientes con DM2 y enfermedad renal crónica albuminúrica, CREDENCE mostró una menor progresión de desenlaces renales importantes. Estos hallazgos permiten comprender su posicionamiento cuando el tratamiento busca abordar tanto el control metabólico como el riesgo cardiovascular y renal. Sin embargo, la elección requiere valorar las características del paciente, especialmente la salud de los pies y antecedentes vasculares, debido a la señal de amputaciones observada en CANVAS. Esta advertencia exige precaución individualizada, no constituye por sí sola una contraindicación general.",
-    "mecanismo": "Inhibe SGLT2 en el túbulo proximal renal y reduce la reabsorción de glucosa, aumentando su eliminación por orina; también modifica el manejo renal de sodio.",
+    "mecanismo": "Actúa en los riñones, donde normalmente se recupera parte de la glucosa filtrada. Al bloquear ese proceso, una mayor cantidad de glucosa sale del cuerpo a través de la orina. Algunos medicamentos de esta familia también tienen beneficios demostrados para el corazón o los riñones en situaciones específicas.",
     "reacciones": [
       "Puede aumentar la frecuencia urinaria y favorecer infecciones genitales por hongos. Consulte si presenta picazón, irritación, flujo anormal o molestias al orinar. La pérdida de líquidos puede provocar sed o mareos; los eventos graves son infrecuentes, pero deben reconocerse."
     ],
@@ -978,7 +1017,7 @@
       }
     ],
     "revision": "2026-10-10",
-    "validacion": "Síntesis académica contrastada con monografías aportadas de UpToDate, antecedentes regulatorios ISP y publicaciones originales de ensayos. Revisión profesional y validación clínica formal pendientes.",
+    "validacion": "Síntesis académica contrastada con monografías aportadas de UpToDate, antecedentes regulatorios ISP y publicaciones originales de ensayos. Revisión profesional y validación clínica formal pendientes. | Reorganización editorial v38: información clínica ampliada diferenciada; verificación regulatoria individual pendiente.",
     "marcas": [],
     "dispensacion_rapida": {
       "primera": {
@@ -1052,7 +1091,20 @@
         "pregunta": "¿Utiliza diuréticos, insulina o sulfonilureas?",
         "accion": "Solicitar revisión del químico farmacéutico si existen síntomas, dudas o riesgos de interacción."
       }
-    ]
+    ],
+    "ampliada_qf": {
+      "titulo_foco": "Selección terapéutica y perfil de seguridad propio",
+      "farmacocinetica_y_seleccion": "La selección requiere considerar función renal, indicación y riesgos individuales, especialmente antecedentes de lesiones en pies, enfermedad vascular periférica y factores de depleción de volumen.",
+      "fundamento": "Inhibe SGLT2 y reduce la reabsorción renal de glucosa; la pérdida urinaria de glucosa genera un efecto antihiperglucemiante dependiente de la función renal.",
+      "interacciones_especificas": "Diuréticos: posible hipotensión por pérdida de volumen. Insulina y sulfonilureas: mayor riesgo de hipoglucemia. Revisar otros medicamentos según producto.",
+      "evidencia_y_limitaciones": "En CANVAS se observó una señal de amputaciones que requiere contextualización; CREDENCE evaluó resultados renales en una población específica. No presentar la magnitud del riesgo como idéntica en todos los ensayos.",
+      "detalle_regulatorio": "Verificar dosis, contraindicaciones, almacenamiento, condiciones de inicio y ajuste con el folleto ISP vigente de la presentación específica; los antecedentes de esta ficha no sustituyen dicha verificación."
+    },
+    "guia_meson": {
+      "preguntas": "¿Es primera vez que lo toma? ¿Ha notado mareos, sed intensa o molestias genitales? ¿Ha tenido vómitos o dificultad para beber líquidos? ¿Usa otros medicamentos para la diabetes?",
+      "explicacion": "Ayuda a eliminar glucosa por la orina. Puede hacer que orine más. Explique la pauta prescrita y la importancia de consultar si aparecen molestias genitales, mareos persistentes o problemas para mantenerse hidratado.",
+      "alertas": "Náuseas o vómitos importantes, dolor abdominal, respiración rápida o decaimiento marcado requieren evaluación urgente, incluso sin glucosa muy elevada. Si está enfermo y no puede comer o beber, debe contactar al equipo tratante para recibir instrucciones; no improvisar cambios de dosis."
+    }
   },
   {
     "id": "vildagliptina",
@@ -1492,7 +1544,7 @@
     "dispensacion": "Verificar presentación, indicación de receta, titulación, técnica de administración y tolerancia; no modificar dosis sin prescriptor.",
     "marcas": [],
     "posicionamiento": "Indicación del producto: DM2. Los beneficios de ensayos clínicos se interpretan por molécula, formulación y población, no como efecto uniforme de clase.",
-    "mecanismo": "Agonismo del receptor GLP-1: estimula la secreción de insulina dependiente de glucosa, reduce glucagón inapropiadamente elevado y enlentece vaciamiento gástrico; puede reducir apetito.",
+    "mecanismo": "Imita la acción de una hormona intestinal (GLP-1): ayuda a liberar insulina cuando la glucosa está elevada, reduce una señal que aumenta la producción de glucosa por el hígado y puede favorecer la sensación de saciedad.",
     "reacciones": [
       "Náuseas, vómitos, diarrea o estreñimiento, especialmente durante la titulación.",
       "Hipoglucemia más probable en combinación con insulina o sulfonilureas."
@@ -1534,7 +1586,7 @@
       }
     ],
     "revision": "2026-10-12 · ampliación semaglutida con folletos ISP aportados y evidencia primaria; auditoría final pendiente",
-    "validacion": "Material educativo de apoyo al mesón; no sustituye folleto vigente ni juicio clínico.",
+    "validacion": "Material educativo de apoyo al mesón; no sustituye folleto vigente ni juicio clínico. | Reorganización editorial v38: información clínica ampliada diferenciada; verificación regulatoria individual pendiente.",
     "dispensacion_rapida": {
       "primera": {
         "consejo": "Tomar una vez al día en ayunas, con hasta 120 mL de agua; tragar entero, sin partir/triturar/masticar. Esperar al menos 30 minutos antes de comer, beber o tomar otros medicamentos. Folleto ISP aportado: 3 mg una vez al día durante un mes (inicio); luego 7 mg diarios; después de al menos un mes a 7 mg puede aumentarse a 14 mg diarios según prescripción. No utilizar dos comprimidos de 7 mg para reemplazar 14 mg.",
@@ -1603,7 +1655,20 @@
         "interpretacion": "Resultado de ensayo posterior al folleto ISP aportado; revisar indicación vigente antes de atribuir ampliación regulatoria.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/?term=SOUL+oral+semaglutide+2025+NEJM"
       }
-    ]
+    ],
+    "ampliada_qf": {
+      "titulo_foco": "Semaglutida oral: absorción y administración crítica",
+      "farmacocinetica_y_seleccion": "La toma en ayunas con poca agua y la espera antes de ingerir alimentos, bebidas u otros medicamentos son requisitos farmacotécnicos, no simples preferencias de horario. No intercambiar dosis de formulaciones oral y subcutánea.",
+      "fundamento": "La semaglutida es un péptido agonista GLP-1. Su formulación oral incorpora un promotor de absorción gástrica (SNAC); la biodisponibilidad es baja y depende de condiciones estrictas de administración.",
+      "interacciones_especificas": "Levotiroxina: se ha observado aumento de exposición a tiroxina con semaglutida oral; considerar seguimiento clínico y analítico según situación. Insulina o sulfonilureas: riesgo de hipoglucemia.",
+      "evidencia_y_limitaciones": "Los ensayos PIONEER corresponden a semaglutida oral. No extrapolar de manera directa equivalencias de dosis ni desenlaces desde semaglutida inyectable.",
+      "detalle_regulatorio": "Verificar dosis, contraindicaciones, almacenamiento, condiciones de inicio y ajuste con el folleto ISP vigente de la presentación específica; los antecedentes de esta ficha no sustituyen dicha verificación."
+    },
+    "guia_meson": {
+      "preguntas": "¿Es primera vez que utiliza esta presentación? ¿Le mostraron cómo administrarla? ¿Ha tenido náuseas o vómitos que le dificulten comer o beber? ¿Usa insulina u otro medicamento que pueda bajar la glucosa?",
+      "explicacion": "La semaglutida oral requiere tomarse en ayunas con una pequeña cantidad de agua y esperar antes de comer o tomar otros medicamentos. La forma de tomarla es esencial para que funcione.",
+      "alertas": "Dolor abdominal intenso y persistente, especialmente con vómitos, requiere evaluación médica urgente. Vómitos o diarrea que impiden hidratarse requieren consulta. No modificar la dosis por cuenta propia."
+    }
   },
   {
     "id": "dulaglutida",
@@ -1621,7 +1686,7 @@
     "dispensacion": "Verificar presentación, indicación de receta, titulación, técnica de administración y tolerancia; no modificar dosis sin prescriptor.",
     "marcas": [],
     "posicionamiento": "Indicación del producto: DM2. Los beneficios de ensayos clínicos se interpretan por molécula, formulación y población, no como efecto uniforme de clase. El folleto ISP consultado es de 2016; verificar vigencia y modificaciones regulatorias en auditoría final.",
-    "mecanismo": "Agonismo del receptor GLP-1: estimula la secreción de insulina dependiente de glucosa, reduce glucagón inapropiadamente elevado y enlentece vaciamiento gástrico; puede reducir apetito.",
+    "mecanismo": "Imita la acción de una hormona intestinal (GLP-1): ayuda a liberar insulina cuando la glucosa está elevada, reduce una señal que aumenta la producción de glucosa por el hígado y puede favorecer la sensación de saciedad.",
     "reacciones": [
       "Náuseas, vómitos, diarrea o estreñimiento, especialmente durante la titulación.",
       "Hipoglucemia más probable en combinación con insulina o sulfonilureas."
@@ -1679,7 +1744,7 @@
       }
     ],
     "revision": "2026-10-12 · ampliación documental según folleto ISP B-2605/16 (2016), REWIND y AWARD-11",
-    "validacion": "Material educativo de apoyo al mesón; no sustituye folleto vigente ni juicio clínico.",
+    "validacion": "Material educativo de apoyo al mesón; no sustituye folleto vigente ni juicio clínico. | Reorganización editorial v38: información clínica ampliada diferenciada; verificación regulatoria individual pendiente.",
     "dispensacion_rapida": {
       "primera": {
         "consejo": "Según folleto ISP 2016: 0,75 mg una vez por semana en monoterapia; 1,5 mg una vez por semana en combinación. No se describe en este folleto un escalamiento universal 0,75→1,5 mg. Administrar por vía subcutánea en abdomen, muslo o brazo, con o sin alimentos; confirmar receta y presentación.",
@@ -1750,7 +1815,20 @@
         "interpretacion": "No confundir un análisis exploratorio renal con una indicación renal aprobada en Chile.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/31189509/"
       }
-    ]
+    ],
+    "ampliada_qf": {
+      "titulo_foco": "Dulaglutida semanal: estructura y selección",
+      "farmacocinetica_y_seleccion": "Considerar dispositivo de administración semanal, tolerabilidad gastrointestinal y beneficios evaluados en poblaciones específicas. Verificar presentación disponible antes de describir pasos del dispositivo.",
+      "fundamento": "Agonista GLP-1 de acción prolongada unido a una estructura tipo Fc que prolonga su permanencia sistémica. Favorece insulina dependiente de glucosa, reduce glucagón y enlentece vaciamiento gástrico.",
+      "interacciones_especificas": "Insulina y sulfonilureas: posible aumento de hipoglucemia. El vaciamiento gástrico puede afectar la absorción de ciertos fármacos orales; valorar según medicamento.",
+      "evidencia_y_limitaciones": "REWIND incluyó una proporción importante de pacientes sin evento cardiovascular previo; interpretar resultados según desenlaces y población del ensayo.",
+      "detalle_regulatorio": "Verificar dosis, contraindicaciones, almacenamiento, condiciones de inicio y ajuste con el folleto ISP vigente de la presentación específica; los antecedentes de esta ficha no sustituyen dicha verificación."
+    },
+    "guia_meson": {
+      "preguntas": "¿Es primera vez que utiliza esta presentación? ¿Le mostraron cómo administrarla? ¿Ha tenido náuseas o vómitos que le dificulten comer o beber? ¿Usa insulina u otro medicamento que pueda bajar la glucosa?",
+      "explicacion": "Confirme el día de administración y que conoce la técnica y el dispositivo de su presentación. Las molestias digestivas son frecuentes al inicio; siga la titulación indicada.",
+      "alertas": "Dolor abdominal intenso y persistente, especialmente con vómitos, requiere evaluación médica urgente. Vómitos o diarrea que impiden hidratarse requieren consulta. No modificar la dosis por cuenta propia."
+    }
   },
   {
     "id": "liraglutida",
@@ -1773,7 +1851,7 @@
       "Victoza (DM2, ISP B-2249/22; distribución voluntariamente suspendida según ficha pública consultada)"
     ],
     "posicionamiento": "Indicación del producto: DM2. Los beneficios de ensayos clínicos se interpretan por molécula, formulación y población, no como efecto uniforme de clase.",
-    "mecanismo": "Agonismo del receptor GLP-1: estimula la secreción de insulina dependiente de glucosa, reduce glucagón inapropiadamente elevado y enlentece vaciamiento gástrico; puede reducir apetito.",
+    "mecanismo": "Imita la acción de una hormona intestinal (GLP-1): ayuda a liberar insulina cuando la glucosa está elevada, reduce una señal que aumenta la producción de glucosa por el hígado y puede favorecer la sensación de saciedad.",
     "reacciones": [
       "Náuseas, vómitos, diarrea o estreñimiento, especialmente durante la titulación.",
       "Hipoglucemia más probable en combinación con insulina o sulfonilureas."
@@ -1823,7 +1901,7 @@
       }
     ],
     "revision": "2026-10-11 · folleto ISP 2017 + cotejo índice ISP 2021 y registro público B-2249/22",
-    "validacion": "Ficha documental no validada clínicamente. Discrepancia por resolver: el folleto 2021 y la indicación visible en ficha pública del registro pueden diferir respecto de población pediátrica; evitar afirmar indicación pediátrica sin cotejo íntegro. Estado de distribución sujeto a cambios.",
+    "validacion": "Ficha documental no validada clínicamente. Discrepancia por resolver: el folleto 2021 y la indicación visible en ficha pública del registro pueden diferir respecto de población pediátrica; evitar afirmar indicación pediátrica sin cotejo íntegro. Estado de distribución sujeto a cambios. | Reorganización editorial v38: información clínica ampliada diferenciada; verificación regulatoria individual pendiente.",
     "dispensacion_rapida": {
       "primera": {
         "consejo": "Victoza: inyectar por vía subcutánea una vez al día, a cualquier hora, con o sin comidas. Dosis inicial 0,6 mg/día; tras al menos una semana 1,2 mg/día; si precisa, tras al menos otra semana 1,8 mg/día. Dosis máxima 1,8 mg/día según folleto ISP aportado. No utilizar pauta Saxenda.",
@@ -1885,7 +1963,20 @@
         "interpretacion": "Reducción relativa de 13 % del desenlace compuesto en población del ensayo; no implica el mismo efecto para todas las formulaciones ni indicaciones.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/27295427/"
       }
-    ]
+    ],
+    "ampliada_qf": {
+      "titulo_foco": "Liraglutida diaria: exposición y evidencia",
+      "farmacocinetica_y_seleccion": "La formulación para DM2 y la indicada para control de peso no deben tratarse como intercambiables; tienen objetivos y pautas diferentes. Revisar técnica y titulación del producto dispensado.",
+      "fundamento": "Análogo de GLP-1 acilado con unión a albúmina y resistencia relativa a degradación, lo que permite administración subcutánea diaria. Sus acciones son glucosa-dependientes sobre insulina y glucagón.",
+      "interacciones_especificas": "Insulina o sulfonilureas: riesgo adicional de hipoglucemia. La intolerancia digestiva persistente puede ocasionar deshidratación.",
+      "evidencia_y_limitaciones": "LEADER evaluó desenlaces cardiovasculares con liraglutida en personas con DM2 de alto riesgo; no extrapolar su efecto cuantitativo a todos los agonistas GLP-1.",
+      "detalle_regulatorio": "Verificar dosis, contraindicaciones, almacenamiento, condiciones de inicio y ajuste con el folleto ISP vigente de la presentación específica; los antecedentes de esta ficha no sustituyen dicha verificación."
+    },
+    "guia_meson": {
+      "preguntas": "¿Es primera vez que utiliza esta presentación? ¿Le mostraron cómo administrarla? ¿Ha tenido náuseas o vómitos que le dificulten comer o beber? ¿Usa insulina u otro medicamento que pueda bajar la glucosa?",
+      "explicacion": "Confirme el día de administración y que conoce la técnica y el dispositivo de su presentación. Las molestias digestivas son frecuentes al inicio; siga la titulación indicada.",
+      "alertas": "Dolor abdominal intenso y persistente, especialmente con vómitos, requiere evaluación médica urgente. Vómitos o diarrea que impiden hidratarse requieren consulta. No modificar la dosis por cuenta propia."
+    }
   },
   {
     "id": "semaglutida-peso",
@@ -1903,7 +1994,7 @@
     "dispensacion": "Verificar presentación, indicación de receta, titulación, técnica de administración y tolerancia; no modificar dosis sin prescriptor.",
     "marcas": [],
     "posicionamiento": "Indicación del producto: Control crónico del peso (no ficha de tratamiento glucémico de DM2). Los beneficios de ensayos clínicos se interpretan por molécula, formulación y población, no como efecto uniforme de clase.",
-    "mecanismo": "Agonismo del receptor GLP-1: estimula la secreción de insulina dependiente de glucosa, reduce glucagón inapropiadamente elevado y enlentece vaciamiento gástrico; puede reducir apetito.",
+    "mecanismo": "Imita la acción de una hormona intestinal (GLP-1): ayuda a liberar insulina cuando la glucosa está elevada, reduce una señal que aumenta la producción de glucosa por el hígado y puede favorecer la sensación de saciedad.",
     "reacciones": [
       "Náuseas, vómitos, diarrea o estreñimiento, especialmente durante la titulación.",
       "Hipoglucemia más probable en combinación con insulina o sulfonilureas."
@@ -1940,7 +2031,7 @@
       }
     ],
     "revision": "2026-10-12 · ampliación semaglutida con folletos ISP aportados y evidencia primaria; auditoría final pendiente",
-    "validacion": "Material educativo de apoyo al mesón; no sustituye folleto vigente ni juicio clínico.",
+    "validacion": "Material educativo de apoyo al mesón; no sustituye folleto vigente ni juicio clínico. | Reorganización editorial v38: información clínica ampliada diferenciada; verificación regulatoria individual pendiente.",
     "dispensacion_rapida": {
       "primera": {
         "consejo": "Administrar por vía subcutánea semanal, con o sin comidas; enseñar dispositivo correspondiente. Folleto ISP aportado: 0,25 mg semanas 1–4; 0,5 mg semanas 5–8; 1 mg semanas 9–12; 1,7 mg semanas 13–16; mantenimiento 2,4 mg semanal. Indicación: control de peso, NO pauta de Ozempic para DM2.",
@@ -2004,7 +2095,20 @@
         "interpretacion": "Contexto complementario de obesidad, no justifica atribuir indicación glicémica.",
         "url": "https://doi.org/10.1056/NEJMoa2307563"
       }
-    ]
+    ],
+    "ampliada_qf": {
+      "titulo_foco": "Semaglutida para manejo de peso: indicación diferenciada",
+      "farmacocinetica_y_seleccion": "Ficha fuera del núcleo de farmacoterapia DM2: conservar diferenciación de indicación, titulación y dispositivo. Confirmar registro local y folleto vigente antes de cualquier recomendación de dispensación.",
+      "fundamento": "Comparte agonismo GLP-1 con las presentaciones para DM2, pero la evaluación clínica y las dosis de mantenimiento dependen de la indicación y producto autorizados.",
+      "interacciones_especificas": "Revisar medicamentos que causan hipoglucemia si existe DM2 concomitante; no combinar de forma automática productos con el mismo principio activo.",
+      "evidencia_y_limitaciones": "Los ensayos STEP de control de peso no deben presentarse como equivalentes a SUSTAIN o PIONEER para DM2.",
+      "detalle_regulatorio": "Verificar dosis, contraindicaciones, almacenamiento, condiciones de inicio y ajuste con el folleto ISP vigente de la presentación específica; los antecedentes de esta ficha no sustituyen dicha verificación."
+    },
+    "guia_meson": {
+      "preguntas": "¿Es primera vez que utiliza esta presentación? ¿Le mostraron cómo administrarla? ¿Ha tenido náuseas o vómitos que le dificulten comer o beber? ¿Usa insulina u otro medicamento que pueda bajar la glucosa?",
+      "explicacion": "Confirme el día de administración y que conoce la técnica y el dispositivo de su presentación. Las molestias digestivas son frecuentes al inicio; siga la titulación indicada. Esta presentación se utiliza para control de peso; no debe confundirse con la formulación destinada a DM2.",
+      "alertas": "Dolor abdominal intenso y persistente, especialmente con vómitos, requiere evaluación médica urgente. Vómitos o diarrea que impiden hidratarse requieren consulta. No modificar la dosis por cuenta propia."
+    }
   },
   {
     "id": "liraglutida-peso",
@@ -2023,7 +2127,7 @@
     "dispensacion": "Verificar presentación, indicación de receta, titulación, técnica de administración y tolerancia; no modificar dosis sin prescriptor.",
     "marcas": [],
     "posicionamiento": "Indicación del producto: Control de peso (no ficha posológica para DM2). Los beneficios de ensayos clínicos se interpretan por molécula, formulación y población, no como efecto uniforme de clase.",
-    "mecanismo": "Agonismo del receptor GLP-1: estimula la secreción de insulina dependiente de glucosa, reduce glucagón inapropiadamente elevado y enlentece vaciamiento gástrico; puede reducir apetito.",
+    "mecanismo": "Imita la acción de una hormona intestinal (GLP-1): ayuda a liberar insulina cuando la glucosa está elevada, reduce una señal que aumenta la producción de glucosa por el hígado y puede favorecer la sensación de saciedad.",
     "reacciones": [
       "Náuseas, vómitos, diarrea o estreñimiento, especialmente durante la titulación.",
       "Hipoglucemia más probable en combinación con insulina o sulfonilureas."
@@ -2057,7 +2161,7 @@
       }
     ],
     "revision": "2026-10-11 · cotejo documental ISP y literatura",
-    "validacion": "Material educativo de apoyo al mesón; no sustituye folleto vigente ni juicio clínico.",
+    "validacion": "Material educativo de apoyo al mesón; no sustituye folleto vigente ni juicio clínico. | Reorganización editorial v38: información clínica ampliada diferenciada; verificación regulatoria individual pendiente.",
     "dispensacion_rapida": {
       "primera": {
         "consejo": "Administración subcutánea diaria en abdomen, muslo o brazo, independientemente de comidas. Folleto ISP aportado: iniciar 0,6 mg/día, aumentar 0,6 mg a intervalos de al menos una semana hasta 3 mg/día para control de peso. NO es pauta de liraglutida para DM2.",
@@ -2096,7 +2200,20 @@
         "texto": "Verificar antecedentes de pancreatitis y síntomas abdominales persistentes. / Vigilar deshidratación por efectos gastrointestinales. / Insulina o sulfonilurea concomitante: mayor riesgo de hipoglucemia. / No asociar con otro agonista GLP-1. / Evaluar respuesta ponderal según criterios del folleto del producto."
       }
     ],
-    "evidencia_clinica": []
+    "evidencia_clinica": [],
+    "ampliada_qf": {
+      "titulo_foco": "Liraglutida para manejo de peso: indicación diferenciada",
+      "farmacocinetica_y_seleccion": "Diferenciar claramente indicación, dosis y dispositivo respecto de liraglutida para DM2. Confirmar documentación regulatoria local antes de incorporar instrucciones específicas.",
+      "fundamento": "Agonista GLP-1 de administración diaria; los efectos sobre saciedad y apetito participan en el control de peso, además de sus acciones metabólicas.",
+      "interacciones_especificas": "Revisar coexistencia de otros agonistas GLP-1 y tratamientos hipoglucemiantes; no indicar cambios autónomos.",
+      "evidencia_y_limitaciones": "Los ensayos de manejo de peso no sustituyen la evidencia específica de resultados clínicos en DM2.",
+      "detalle_regulatorio": "Verificar dosis, contraindicaciones, almacenamiento, condiciones de inicio y ajuste con el folleto ISP vigente de la presentación específica; los antecedentes de esta ficha no sustituyen dicha verificación."
+    },
+    "guia_meson": {
+      "preguntas": "¿Es primera vez que utiliza esta presentación? ¿Le mostraron cómo administrarla? ¿Ha tenido náuseas o vómitos que le dificulten comer o beber? ¿Usa insulina u otro medicamento que pueda bajar la glucosa?",
+      "explicacion": "Confirme el día de administración y que conoce la técnica y el dispositivo de su presentación. Las molestias digestivas son frecuentes al inicio; siga la titulación indicada. Esta presentación se utiliza para control de peso; no debe confundirse con la formulación destinada a DM2.",
+      "alertas": "Dolor abdominal intenso y persistente, especialmente con vómitos, requiere evaluación médica urgente. Vómitos o diarrea que impiden hidratarse requieren consulta. No modificar la dosis por cuenta propia."
+    }
   },
   {
     "id": "insulina-glargina-u100",
