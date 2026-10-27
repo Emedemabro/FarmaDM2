@@ -484,26 +484,21 @@
   },
   {
     "id": "tirzepatida",
-    "nombre": "Tirzepatida (Mounjaro) — DM2",
+    "nombre": "Tirzepatida",
     "familia": "Agonista dual GIP/GLP-1",
     "via": "Subcutánea semanal",
-    "estado": "Ficha documental ampliada · pendiente de auditoría integral",
-    "descripcion": "Agonista dual GIP/GLP-1 indicado en adultos con DM2 como complemento de dieta y ejercicio, según folleto ISP F-28423/24 (vial 5 mg/0,5 mL).",
+    "estado": "Revisión editorial basada en folletos ISP y nota de farmacovigilancia 2026; verificación final pendiente",
+    "descripcion": "Agonista dual de receptores GIP y GLP-1 utilizado en adultos con diabetes mellitus tipo 2; administración subcutánea semanal.",
     "seguridad": [
-      "Contraindicado si antecedentes personales/familiares de carcinoma medular tiroideo, NEM2 o hipersensibilidad grave a tirzepatida/excipientes.",
-      "Pancreatitis: evaluar dolor abdominal intenso persistente; suspender ante sospecha y derivar.",
-      "Riesgo de deshidratación/lesión renal aguda por vómitos o diarrea.",
-      "Hipoglucemia más probable con insulina o sulfonilureas; eventual ajuste corresponde al prescriptor.",
-      "Precaución en gastroparesia grave, colecistopatía, retinopatía diabética y embarazo.",
-      "No asumir intercambiabilidad de instrucciones entre vial de dosis única y KwikPen.",
-      "Procedimientos con sedación profunda o anestesia: comunicar uso de tirzepatida al equipo tratante por retraso del vaciamiento gástrico y posible riesgo de aspiración; no suspender por cuenta propia."
+      "Pancreatitis aguda: reconocer dolor abdominal intenso persistente y derivar.",
+      "Malnutrición: advertencia ISP 2026; vigilar ingesta insuficiente y pérdida de peso excesiva.",
+      "Hipoglucemia con insulina o sulfonilureas; deshidratación por vómitos/diarrea.",
+      "Confirmar instrucciones específicas para vial o KwikPen y anticoncepción oral."
     ],
-    "dispensacion": "Confirmar indicación DM2, concentración, presentación (vial frente a KwikPen), escalamiento, técnica, anticoncepción oral y fármacos concomitantes.",
-    "marcas": [
-      "Mounjaro — vial 5 mg/0,5 mL (registro ISP F-28423/24, folleto aportado); otras concentraciones citadas en folleto, verificar registro individual."
-    ],
-    "mecanismo": "Agonista dual GIP/GLP-1; aumenta secreción de insulina y reduce glucagón de manera dependiente de glucosa; retrasa vaciamiento gástrico y reduce apetito.",
-    "posicionamiento": "ADA 2026: elevada eficacia en HbA1c y peso; beneficio en IC con FE preservada y obesidad según SUMMIT. SURPASS-CVOT demostró no inferioridad cardiovascular frente a dulaglutida, no superioridad. No atribuir protección renal definitiva a partir de análisis exploratorios.",
+    "dispensacion": "Confirmar pauta semanal, concentración, tipo de dispositivo y comprensión de su uso. Preguntar por insulina o sulfonilureas, anticonceptivos orales y síntomas gastrointestinales persistentes. Explicar señales de pancreatitis y malnutrición.",
+    "marcas": [],
+    "mecanismo": "Activa receptores GIP y GLP-1: favorece la secreción de insulina dependiente de glucosa, modula el glucagón, retrasa el vaciamiento gástrico y contribuye a regular apetito y saciedad.",
+    "posicionamiento": "Alternativa de elevada eficacia para reducir HbA1c y peso corporal en adultos con DM2 cuando resulta pertinente según evaluación individual. No equivale a un agonista exclusivo GLP-1; la elección considera tolerancia, comorbilidades y tratamiento concomitante.",
     "renal": "Folleto ISP 2024: sin ajuste de dosis por insuficiencia renal, incluso terminal, según farmacocinética. Monitorizar función renal si hay reacciones gastrointestinales graves/deshidratación al iniciar o titular.",
     "interacciones": [
       "Anticonceptivos hormonales orales: según folleto ISP, cambiar a método no oral o añadir barrera 4 semanas tras iniciar y 4 semanas tras cada incremento de dosis.",
@@ -513,45 +508,50 @@
       "UpToDate: evitar asociación rutinaria con inhibidores DPP-4 por falta de beneficio glucémico aditivo; corroborar pertinencia de tratamiento con prescriptor."
     ],
     "reacciones": [
-      "Náuseas, diarrea, vómitos, estreñimiento, dispepsia, disminución del apetito y dolor abdominal.",
-      "Reacciones locales, hipersensibilidad y colecistopatía; vigilar signos de alarma."
+      "Náuseas, diarrea, vómitos, estreñimiento y disminución del apetito.",
+      "Pueden presentarse reacciones de hipersensibilidad y eventos biliares; valorar signos de alarma."
     ],
     "dispensacion_rapida": {
       "primera": {
-        "consejo": "Inicio 2,5 mg SC una vez por semana por 4 semanas (dosis de adaptación, no de control glicémico); luego 5 mg semanal. Si precisa, subir en pasos de 2,5 mg tras ≥4 semanas por dosis hasta 15 mg/semana. Verificar receta y concentración.",
-        "pregunta": "¿Es primera dosis? ¿Usa anticonceptivo oral, insulina, sulfonilurea o warfarina? ¿Qué dispositivo recibió?",
-        "efectos": "Explicar náuseas/diarrea, hidratación y alertas de pancreatitis, reacción alérgica e hipoglucemia combinada.",
-        "almacenamiento": "Vial ISP: refrigerar 2–8 °C; sin refrigeración hasta 21 días a ≤30 °C. No congelar y proteger de la luz en envase original.",
-        "accion": "Para vial de dosis única, enseñar preparación con jeringa adecuada para 0,5 mL; no aplicar instrucciones de KwikPen sin su propio folleto."
+        "consejo": "Se aplica por vía subcutánea una vez a la semana. Confirmar el día de aplicación, la dosis prescrita y cómo usar el dispositivo específico antes de la primera administración.",
+        "pregunta": "¿Le enseñaron a utilizar el dispositivo? ¿Usa insulina, glimepirida, gliclazida o anticonceptivos orales? ¿Ha tenido pancreatitis?",
+        "efectos": "Puede provocar náuseas, diarrea, vómitos o menor apetito. Mantener hidratación y alimentación equilibrada; consultar si los síntomas impiden comer o beber.",
+        "almacenamiento": "Confirmar presentación: el vial de uso único y KwikPen multidosis tienen instrucciones de conservación y uso diferentes. Revisar el folleto correspondiente.",
+        "accion": "Comprobar concentración, dispositivo, pauta semanal y comprensión de la técnica. Si utiliza anticonceptivos orales, consultar al QF sobre método adicional durante inicio y escalamiento."
       },
       "habitual": {
-        "consejo": "Dosis olvidada: administrar hasta 96 horas después; si pasan más de 4 días, omitir y seguir calendario. Cambio de día: ≥72 horas entre dosis.",
-        "pregunta": "¿Ha tenido vómitos persistentes, dolor abdominal intenso, hipoglucemia o cambios de anticoncepción?",
-        "efectos": "Si hay dolor abdominal intenso persistente, derivar por sospecha de pancreatitis; si vómitos o diarrea prolongados, evaluar hidratación y función renal.",
-        "almacenamiento": "No usar vial congelado, con partículas o decoloración.",
-        "accion": "Verificar adherencia, tolerancia y necesidad de derivación, sin cambiar dosis por cuenta propia. Si se omitieron varias dosis consecutivas, no reiniciar automáticamente en dosis altas: derivar al prescriptor para reevaluar tolerancia y reinicio; UpToDate aporta esquemas clínicos no equivalentes a instrucción ISP."
+        "consejo": "Si olvida una dosis, administrarla dentro de los 4 días siguientes; si pasan más de 4 días, omitirla y continuar en el día programado. No duplicar dosis.",
+        "pregunta": "¿Ha tenido dolor abdominal intenso, vómitos persistentes, debilidad marcada o pérdida de peso demasiado rápida? ¿Ha cambiado su anticoncepción o sus medicamentos para diabetes?",
+        "efectos": "Náuseas y diarrea pueden ocurrir, especialmente al aumentar dosis. Dolor abdominal intenso y persistente, o incapacidad para hidratarse, requieren atención médica.",
+        "almacenamiento": "Seguir condiciones de conservación del producto y dispositivo dispensados; no congelar. No extrapolar la duración de uso del vial al dispositivo multidosis.",
+        "accion": "Verificar tolerabilidad, alimentación, hidratación, técnica y olvidos. Ante señales de alarma, derivar; no ajustar la dosis por cuenta propia."
       }
     },
     "alertas": [
       {
-        "nivel": "Alerta de dispensación",
-        "titulo": "Anticonceptivos hormonales orales",
-        "detalle": "Método no oral o barrera adicional por 4 semanas tras inicio y cada aumento de dosis (folleto ISP, pp. 17–18 y 23)."
+        "nivel": "Evaluación urgente",
+        "titulo": "Sospecha de pancreatitis",
+        "detalle": "Dolor abdominal intenso y persistente, con o sin vómitos y posible irradiación a espalda. Suspender ante sospecha y derivar."
       },
       {
-        "nivel": "Contraindicación",
-        "titulo": "CMT / NEM2",
-        "detalle": "No dispensar sin aclaración médica ante antecedente personal/familiar de CMT o NEM2."
+        "nivel": "Evaluación médica",
+        "titulo": "Malnutrición",
+        "detalle": "Pérdida de peso acelerada, debilidad, fatiga extrema o caída inusual del cabello; evaluar alimentación y estado nutricional."
       },
       {
-        "nivel": "Evaluación inmediata",
-        "titulo": "Pancreatitis / deshidratación grave",
-        "detalle": "Dolor abdominal persistente intenso o vómitos/diarrea graves: derivación inmediata."
+        "nivel": "Precaución",
+        "titulo": "Hipoglucemia combinada",
+        "detalle": "Especialmente con insulina o sulfonilureas."
       },
       {
-        "nivel": "Precaución perioperatoria",
-        "titulo": "Sedación y anestesia",
-        "detalle": "Informar al equipo de anestesia sobre tirzepatida por posible contenido gástrico residual. La decisión de continuar o suspender debe individualizarse por el equipo tratante (UpToDate, referencia complementaria)."
+        "nivel": "Evaluación médica",
+        "titulo": "Deshidratación",
+        "detalle": "Vómitos o diarrea persistentes que dificulten ingerir líquidos."
+      },
+      {
+        "nivel": "Revisión profesional",
+        "titulo": "Anticoncepción oral",
+        "detalle": "Consultar medidas adicionales durante 4 semanas tras inicio y cada incremento de dosis."
       }
     ],
     "evidencia_clinica": [
@@ -578,35 +578,40 @@
     ],
     "fuentes": [
       {
-        "nombre": "ISP Chile · Mounjaro 5 mg/0,5 mL, F-28423/24 · folleto profesional aportado (24 pp.; pp. 2, 13–18, 23–24)"
+        "nombre": "ISP Chile · Folleto profesional Mounjaro vial 12,5 mg/0,5 mL · F-28426/24 (archivo aportado)"
       },
       {
-        "nombre": "ADA Standards of Care in Diabetes 2026, sección 9",
-        "url": "https://doi.org/10.2337/dc26-s009"
+        "nombre": "ISP Chile · Folleto profesional Mounjaro KwikPen 15 mg/0,6 mL · F-29345/25 (archivo aportado)"
       },
       {
-        "nombre": "ADA 2026, sección 10 (IC FE preservada)",
-        "url": "https://doi.org/10.2337/dc26-s010"
+        "nombre": "ISP Chile · Nota informativa de farmacovigilancia sobre malnutrición, 01-09-2026",
+        "url": "https://doc.digital.gob.cl/validador/1KFDND-097"
       },
       {
-        "nombre": "ADA 2026, sección 11 (ERC)",
-        "url": "https://doi.org/10.2337/dc26-s011"
+        "nombre": "NICE · Tirzepatide for treating type 2 diabetes · TA924, actualizado 2025",
+        "url": "https://www.nice.org.uk/guidance/ta924"
       },
       {
-        "nombre": "MINSAL Chile · Vía Clínica DM2 (2026): contexto de atención integral; recomendación específica para tirzepatida no corroborada",
-        "url": "https://redcronicas.minsal.cl/webinar-lanzamiento-via-clinica-dm2/"
-      },
-      {
-        "nombre": "Consenso chileno AR-GLP-1 (2026): contexto de clase; no extrapolar automáticamente a tirzepatida",
-        "url": "https://doi.org/10.4067/S0034-98872026000701070"
-      },
-      {
-        "nombre": "UpToDate · Tirzepatide: Drug information (monografía aportada, consulta documental 2026-10-12; recomendaciones internacionales no sustituyen ISP)",
-        "url": "https://www.uptodate.com/contents/tirzepatide-drug-information"
+        "nombre": "SURPASS-2 · ensayo comparativo",
+        "url": "https://doi.org/10.1056/NEJMoa2107519"
       }
     ],
-    "revision": "2026-10-12 · cotejo complementario con monografía UpToDate aportada; regulación basada en folleto ISP F-28423/24; auditoría final pendiente.",
-    "validacion": "Ficha documental para apoyo educativo en dispensación; no constituye validación clínica ni autorización para ajustar tratamientos."
+    "revision": "2026-10-27 · revisión editorial de tirzepatida basada en documentación aportada",
+    "validacion": "Revisión documental y editorial; pendiente auditoría farmacoterapéutica final y prueba de interfaz. No constituye validación clínica.",
+    "guia_meson": {
+      "preguntas": "¿Sabe utilizar su dispositivo y qué día le corresponde la inyección? ¿Usa insulina o sulfonilureas? ¿Ha presentado dolor abdominal fuerte, vómitos persistentes, pérdida de peso muy rápida o dificultades para alimentarse? ¿Usa anticonceptivos orales?",
+      "explicacion": "Es una inyección semanal que ayuda a reducir la glucosa y puede favorecer una pérdida importante de peso. Durante el tratamiento debe mantener alimentación equilibrada, hidratación y la pauta indicada. Si olvida una dosis, puede recuperarla dentro de 4 días; después, debe omitirla.",
+      "alertas": "1. Pancreatitis: dolor abdominal intenso y persistente, a veces hacia la espalda, con o sin vómitos: evaluación médica urgente; no administrar nuevas dosis mientras se investiga la sospecha.\\n2. Malnutrición: pérdida de peso excesivamente rápida, fatiga extrema, debilidad o caída inusual del cabello: consultar al equipo tratante.\\n3. Hipoglucemia: mayor riesgo al combinar con insulina o sulfonilureas.\\n4. Deshidratación: vómitos o diarrea persistentes, especialmente si no logra beber líquidos: valoración médica.\\n5. Reacción alérgica grave: hinchazón de cara o lengua o dificultad respiratoria: urgencia."
+    },
+    "ampliada_qf": {
+      "titulo_foco": "Agonismo dual GIP/GLP-1, seguridad nutricional y diferencias entre dispositivos",
+      "fundamento": "Agonismo prolongado de receptores GIP y GLP-1. Aumenta la secreción de insulina de manera dependiente de glucosa, reduce glucagón, retrasa el vaciamiento gástrico y regula el apetito. El efecto sobre vaciamiento gástrico es más marcado tras la primera dosis y disminuye con el tiempo.",
+      "farmacocinetica_y_seleccion": "Administración subcutánea semanal; semivida aproximada de 5 días. Los folletos ISP describen ausencia de ajuste posológico por insuficiencia renal, pero recomiendan vigilancia ante deshidratación por efectos gastrointestinales. El vial de dosis única y el dispositivo KwikPen multidosis requieren instrucciones específicas de preparación, administración y conservación.",
+      "interacciones_especificas": "Insulina o sulfonilureas: mayor riesgo de hipoglucemia y posible necesidad de reevaluar dosis por prescriptor. El retraso del vaciamiento gástrico puede modificar absorción de fármacos orales; los folletos ISP recomiendan método anticonceptivo no oral o barrera adicional durante 4 semanas tras el inicio y tras cada aumento de dosis cuando se usan anticonceptivos hormonales orales. Evaluar medicamentos orales de margen terapéutico estrecho.",
+      "evidencia_y_limitaciones": "Los ensayos SURPASS documentan reducciones importantes de HbA1c y peso; SURPASS-2 comparó tirzepatida con semaglutida 1 mg semanal, no con todas sus dosis o indicaciones. NICE TA924 analiza una población y criterios de financiación del NHS que no constituyen criterios regulatorios chilenos. La nota ISP de septiembre de 2026 advierte sobre malnutrición, incluidas deficiencias nutricionales y pérdida ponderal acelerada.",
+      "detalle_regulatorio": "Folletos ISP: vial F-28426/24 y KwikPen F-29345/25 (presentaciones específicas). En pancreatitis sospechada, suspender y evaluar; si se confirma, no reiniciar según folleto. Vigilar síntomas de deshidratación, colecistopatía y tolerancia gastrointestinal. ISP, nota de farmacovigilancia 01-09-2026: evaluar estado nutricional antes y durante el tratamiento y considerar suspensión por profesional ante malnutrición grave o persistente."
+    },
+    "consejos_practicos": []
   },
   {
     "id": "sitagliptina",
