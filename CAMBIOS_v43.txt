@@ -1,0 +1,1 @@
+Reparación de error sintáctico que impedía cargar la PWA v42. Se mantiene el contenido editorial de sulfonilureas y la nota en Actualización. Validación con node --check y JSON de 23 fichas.
