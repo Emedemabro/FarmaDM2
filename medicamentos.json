@@ -2395,7 +2395,7 @@
     "estado": "Borrador editorial · pendiente cotejo con presentación ISP",
     "marcas": [],
     "revision": "2026-10-28",
-    "validacion": "Prototipo académico para revisión. Fichas AEMPS como referencia complementaria; confirmar formulación, instrucciones y situación regulatoria con ISP antes de uso asistencial.",
+    "validacion": "Ficha educativa para adultos con DM2 no gestantes. Excluye embarazo, lactancia, diabetes gestacional y población pediátrica. Verificar la presentación y la receta; no sustituye decisiones del profesional tratante.",
     "id": "glibenclamida",
     "nombre": "Glibenclamida",
     "descripcion": "Sulfonilurea que estimula la secreción de insulina; destaca el riesgo de hipoglucemia prolongada.",
@@ -2414,7 +2414,7 @@
     ],
     "renal": "La alteración renal puede aumentar la susceptibilidad a hipoglucemia; revisar ficha técnica de la presentación y derivar dudas al QF.",
     "interacciones": [
-      "Revisar medicamentos que potencian la hipoglucemia y consumo de alcohol."
+      "Alcohol y medicamentos concomitantes pueden modificar la respuesta glucémica; verificar interacciones concretas con el QF y la ficha del producto."
     ],
     "alertas": [
       {
@@ -2445,7 +2445,11 @@
         "url": "https://doi.org/10.2337/dc26-S009"
       },
       {
-        "nombre": "MINSAL, Ord. C51 N.º 2191 (2025), retiro programado de glibenclamida en APS; cotejo documental pendiente",
+        "nombre": "MINSAL, Ord. C51 N.º 2191 (16 diciembre 2025), documento oficial aportado al proyecto",
+        "url": ""
+      },
+      {
+        "nombre": "Laboratorio Chile, Glibenclamida comprimidos 5 mg, folleto informativo aportado",
         "url": ""
       }
     ],
@@ -2486,9 +2490,9 @@
       "titulo_foco": "Seguridad y diferencias de glibenclamida",
       "fundamento": "Su acción secretagoga no es dependiente de glucosa, lo que contribuye al riesgo de hipoglucemia, incluso prolongada.",
       "farmacocinetica_y_seleccion": "Revisar especialmente riesgo de hipoglucemia prolongada y función renal/hepática.",
-      "interacciones_especificas": "Revisar medicamentos que potencian la hipoglucemia y consumo de alcohol.",
+      "interacciones_especificas": "El folleto chileno de glibenclamida 5 mg menciona AINE, IECA, quinolonas, corticosteroides, rifampicina y otros; el efecto puede variar. Revisar fármaco, dosis y contexto antes de aconsejar.",
       "evidencia_y_limitaciones": "El metaanálisis de Volke et al. (2022) aporta evidencia comparativa de riesgo de hipoglucemia a nivel de clase; no justifica ajustes individuales.",
-      "detalle_regulatorio": "Revisar alcance del oficio chileno de retiro programado de glibenclamida antes de publicar su situación de uso."
+      "detalle_regulatorio": "MINSAL, Ord. C51 N.º 2191 (16-12-2025): en la red APS se instruye no programar ni comprar glibenclamida desde 2026, disminuir progresivamente su indicación y no iniciar nuevos tratamientos desde 2026. Para quienes ya la utilizan, la indicación del cambio debe quedar realizada a más tardar el 30-06-2027, durante la atención médica habitual. El oficio no acredita por sí solo implementación local ni cancelación del registro sanitario."
     }
   },
   {
@@ -2497,7 +2501,7 @@
     "estado": "Borrador editorial · pendiente cotejo con presentación ISP",
     "marcas": [],
     "revision": "2026-10-28",
-    "validacion": "Prototipo académico para revisión. Fichas AEMPS como referencia complementaria; confirmar formulación, instrucciones y situación regulatoria con ISP antes de uso asistencial.",
+    "validacion": "Ficha educativa para adultos con DM2 no gestantes. Excluye embarazo, lactancia, diabetes gestacional y población pediátrica. Verificar la presentación y la receta; no sustituye decisiones del profesional tratante.",
     "id": "gliclazida",
     "nombre": "Gliclazida",
     "descripcion": "Sulfonilurea secretagoga de insulina; existen formulaciones que requieren instrucciones distintas.",
@@ -2545,6 +2549,14 @@
       {
         "nombre": "ADA, Standards of Care in Diabetes 2026, sección 9",
         "url": "https://doi.org/10.2337/dc26-S009"
+      },
+      {
+        "nombre": "Vademécum Chile, GLIKEM comprimidos de liberación prolongada 60 mg",
+        "url": "https://www.vademecum.es/chile/medicamento/1502054/glikem-comprimidos-de-liberacion-prolongada-60-mg"
+      },
+      {
+        "nombre": "UpToDate, Gliclazide: Drug information (material de consulta aportado)",
+        "url": "https://www.uptodate.com/contents/gliclazide-united-states-not-available-drug-information"
       }
     ],
     "guia_meson": {
@@ -2583,8 +2595,8 @@
     "ampliada_qf": {
       "titulo_foco": "Seguridad y diferencias de gliclazida",
       "fundamento": "Las formulaciones de liberación modificada permiten perfiles de administración diferentes de las convencionales; no deben intercambiarse instrucciones.",
-      "farmacocinetica_y_seleccion": "Verificar diferencias entre liberación inmediata y modificada; no asumir equivalencia de dosis ni de modo de administración.",
-      "interacciones_especificas": "La ficha AEMPS destaca miconazol como interacción importante; verificar alcance según presentación y vía.",
+      "farmacocinetica_y_seleccion": "GLIKEM 60 mg es una presentación de liberación prolongada documentada para Chile. Confirmar siempre el tipo de formulación en la caja y la receta; no extrapolar horarios ni equivalencias de dosis desde formulaciones convencionales.",
+      "interacciones_especificas": "La información farmacológica consultada advierte interacciones que aumentan el riesgo de hipoglucemia, entre ellas miconazol; confirmar vía de administración y ficha del producto antes de orientar.",
       "evidencia_y_limitaciones": "Pan et al. (2024) aporta contexto sobre riesgo de hipoglucemia en adultos mayores, no recomendaciones de cambio terapéutico.",
       "detalle_regulatorio": "Las instrucciones de gliclazida LM 30 mg españolas no se extrapolan a todas las formulaciones chilenas."
     }
@@ -2595,7 +2607,7 @@
     "estado": "Borrador editorial · pendiente cotejo con presentación ISP",
     "marcas": [],
     "revision": "2026-10-28",
-    "validacion": "Prototipo académico para revisión. Fichas AEMPS como referencia complementaria; confirmar formulación, instrucciones y situación regulatoria con ISP antes de uso asistencial.",
+    "validacion": "Ficha educativa para adultos con DM2 no gestantes. Excluye embarazo, lactancia, diabetes gestacional y población pediátrica. Verificar la presentación y la receta; no sustituye decisiones del profesional tratante.",
     "id": "glimepirida",
     "nombre": "Glimepirida",
     "descripcion": "Sulfonilurea que aumenta la secreción de insulina; la regularidad alimentaria es relevante para su seguridad.",
@@ -2643,6 +2655,10 @@
       {
         "nombre": "ADA, Standards of Care in Diabetes 2026, sección 9",
         "url": "https://doi.org/10.2337/dc26-S009"
+      },
+      {
+        "nombre": "UpToDate, Glimepiride: Drug information (material de consulta aportado)",
+        "url": "https://www.uptodate.com/contents/glimepiride-drug-information"
       }
     ],
     "guia_meson": {
@@ -2682,7 +2698,7 @@
       "titulo_foco": "Seguridad y diferencias de glimepirida",
       "fundamento": "La glimepirida es secretagoga de insulina y su efecto puede persistir aunque se reduzca la ingesta alimentaria.",
       "farmacocinetica_y_seleccion": "Revisar susceptibilidad a hipoglucemia en personas mayores y ante alteración renal o hepática.",
-      "interacciones_especificas": "Interacciones capaces de aumentar o disminuir el efecto hipoglucemiante; verificar medicación concomitante.",
+      "interacciones_especificas": "Revisar especialmente medicamentos nuevos capaces de potenciar o disminuir el efecto hipoglucemiante; confirmar interacciones específicas en la ficha del producto antes de orientar.",
       "evidencia_y_limitaciones": "La evidencia comparativa de clase no determina por sí sola que glimepirida sea apropiada para una persona concreta.",
       "detalle_regulatorio": "Confirmar las condiciones de administración y posibilidad de fraccionamiento del comprimido según fabricante."
     }

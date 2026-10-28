@@ -1,0 +1,7 @@
+FarmaDM2 v44 - auditoría documental focalizada.
+- Tres fichas de sulfonilureas: delimitación explícita de población adulta no gestante.
+- Glibenclamida: alcance y plazos textuales del Ord. C51 N.º 2191, sin inferir implementación local.
+- Gliclazida: referencia a GLIKEM 60 mg liberación prolongada; precaución sobre formulaciones.
+- Glimepirida: referencia UpToDate y revisión prudente de interacciones.
+- Se conserva dispensación rápida, regla 15/15, diseño y otras 20 fichas.
+- Fuentes comerciales/UpToDate son complementarias; verificar registro sanitario en ISP para uso asistencial.
