@@ -2406,8 +2406,8 @@
       "4. Personas mayores o con deterioro renal/hepático: especial precaución."
     ],
     "dispensacion": "¿Mantiene horarios regulares de comida? ¿Ha tenido temblores, sudor frío o confusión? ¿Presenta enfermedad renal o hepática conocida? Puede bajar la glucosa incluso cuando no se ha comido lo suficiente. Es importante mantener la alimentación regular y reconocer los síntomas de hipoglucemia.",
-    "posicionamiento": "Opción de control glucémico cuyo uso requiere considerar hipoglucemia y características individuales; la selección corresponde al equipo tratante.",
-    "mecanismo": "Unión a SUR1 y cierre de canales KATP en células beta pancreáticas, con despolarización y liberación de insulina.",
+    "posicionamiento": "La glibenclamida reduce eficazmente la glucemia y ha tenido un uso histórico por su bajo costo. Sin embargo, presenta especial preocupación por la hipoglucemia, que puede ser intensa o prolongada, en particular en personas mayores o con alteración renal. Por ello, su bajo costo no equivale a una preferencia terapéutica general. En Chile, el MINSAL ha comunicado un retiro programado de glibenclamida en la red de Atención Primaria de Salud (APS); consulte la sección «Actualización» para conocer el contexto. La evaluación de alternativas corresponde al equipo tratante.",
+    "mecanismo": "Las sulfonilureas ayudan a disminuir la glucosa en sangre al estimular al páncreas para que libere más insulina. Esta hormona permite que la glucosa sea utilizada por las células del organismo. Como pueden estimular la liberación de insulina incluso cuando la glucosa está baja, existe riesgo de hipoglucemia, especialmente si la persona omite comidas o ingiere menos alimentos de lo habitual.",
     "reacciones": [
       "Hipoglucemia, que puede ser grave.",
       "Posible aumento de peso."
@@ -2439,6 +2439,14 @@
       {
         "nombre": "ADA, orientación sobre hipoglucemia",
         "url": "https://diabetes.org/es/vivir-con-diabetes/hipoglucemia-niveles-bajos-de-glucosa-en-sangre/sintomas-tratamiento"
+      },
+      {
+        "nombre": "ADA, Standards of Care in Diabetes 2026, sección 9",
+        "url": "https://doi.org/10.2337/dc26-S009"
+      },
+      {
+        "nombre": "MINSAL, Ord. C51 N.º 2191 (2025), retiro programado de glibenclamida en APS; cotejo documental pendiente",
+        "url": ""
       }
     ],
     "guia_meson": {
@@ -2500,8 +2508,8 @@
       "4. Miconazol sistémico: interacción relevante descrita en fichas técnicas; solicitar revisión QF."
     ],
     "dispensacion": "¿El envase indica liberación modificada? ¿Desayuna regularmente? ¿Ha tenido episodios de glucosa baja? Ayuda a reducir la glucosa al estimular la liberación de insulina. Las instrucciones de administración dependen de la formulación dispensada.",
-    "posicionamiento": "Opción de control glucémico cuyo uso requiere considerar hipoglucemia y características individuales; la selección corresponde al equipo tratante.",
-    "mecanismo": "Unión a SUR1 y cierre de canales KATP en células beta pancreáticas, con despolarización y liberación de insulina.",
+    "posicionamiento": "La gliclazida conserva utilidad para reducir la glucemia cuando se considera apropiada una sulfonilurea. Su disponibilidad y costo pueden favorecer el acceso al tratamiento, pero mantiene riesgo de hipoglucemia y posible aumento de peso. Su selección requiere considerar el riesgo individual y distinguir las presentaciones convencionales de las de liberación modificada. Las guías actuales también consideran otras familias con beneficios cardiovasculares o renales demostrados según las comorbilidades; la elección corresponde al equipo tratante.",
+    "mecanismo": "Las sulfonilureas ayudan a disminuir la glucosa en sangre al estimular al páncreas para que libere más insulina. Esta hormona permite que la glucosa sea utilizada por las células del organismo. Como pueden estimular la liberación de insulina incluso cuando la glucosa está baja, existe riesgo de hipoglucemia, especialmente si la persona omite comidas o ingiere menos alimentos de lo habitual.",
     "reacciones": [
       "Hipoglucemia, que puede ser grave.",
       "Posible aumento de peso."
@@ -2533,6 +2541,10 @@
       {
         "nombre": "ADA, orientación sobre hipoglucemia",
         "url": "https://diabetes.org/es/vivir-con-diabetes/hipoglucemia-niveles-bajos-de-glucosa-en-sangre/sintomas-tratamiento"
+      },
+      {
+        "nombre": "ADA, Standards of Care in Diabetes 2026, sección 9",
+        "url": "https://doi.org/10.2337/dc26-S009"
       }
     ],
     "guia_meson": {
@@ -2594,8 +2606,8 @@
       "4. Nuevos medicamentos y enfermedad renal/hepática: revisar con QF."
     ],
     "dispensacion": "¿La toma con el desayuno o primera comida principal? ¿Se salta comidas? ¿Ha notado síntomas de glucosa baja? Estimula la liberación de insulina y puede causar hipoglucemia si se omiten comidas o existe mayor susceptibilidad.",
-    "posicionamiento": "Opción de control glucémico cuyo uso requiere considerar hipoglucemia y características individuales; la selección corresponde al equipo tratante.",
-    "mecanismo": "Unión a SUR1 y cierre de canales KATP en células beta pancreáticas, con despolarización y liberación de insulina.",
+    "posicionamiento": "La glimepirida es una opción oral eficaz para reducir la glucemia y puede resultar accesible en contextos de restricciones económicas. Continúa utilizándose cuando sus beneficios y riesgos son adecuados para la persona, pero requiere precaución por hipoglucemia y aumento de peso. Existe evidencia de seguridad cardiovascular para glimepirida, lo que no significa que proporcione los beneficios cardiovasculares o renales demostrados para determinados medicamentos de otras familias. La selección debe individualizarse por el equipo tratante.",
+    "mecanismo": "Las sulfonilureas ayudan a disminuir la glucosa en sangre al estimular al páncreas para que libere más insulina. Esta hormona permite que la glucosa sea utilizada por las células del organismo. Como pueden estimular la liberación de insulina incluso cuando la glucosa está baja, existe riesgo de hipoglucemia, especialmente si la persona omite comidas o ingiere menos alimentos de lo habitual.",
     "reacciones": [
       "Hipoglucemia, que puede ser grave.",
       "Posible aumento de peso."
@@ -2627,6 +2639,10 @@
       {
         "nombre": "ADA, orientación sobre hipoglucemia",
         "url": "https://diabetes.org/es/vivir-con-diabetes/hipoglucemia-niveles-bajos-de-glucosa-en-sangre/sintomas-tratamiento"
+      },
+      {
+        "nombre": "ADA, Standards of Care in Diabetes 2026, sección 9",
+        "url": "https://doi.org/10.2337/dc26-S009"
       }
     ],
     "guia_meson": {

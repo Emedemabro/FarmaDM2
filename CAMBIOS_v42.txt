@@ -1,0 +1,7 @@
+FarmaDM2 v42 — revisión editorial dirigida
+- Mecanismo de acción didáctico en glibenclamida, gliclazida y glimepirida.
+- Posicionamiento terapéutico diferenciado y contextualizado según ADA 2026.
+- Nota educativa sobre retiro programado de glibenclamida en APS, sección Actualización.
+- NO se modificaron las alertas, dispensación rápida, regla 15/15 ni otras fichas.
+- Pendiente: cotejar oficio MINSAL C51 N.º 2191 y sus plazos/criterios exactos con original oficial antes de uso asistencial.
+- No se afirma cancelación de registro sanitario ni sustitución automática de tratamiento.
