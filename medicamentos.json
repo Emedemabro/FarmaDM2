@@ -2388,5 +2388,287 @@
       "explicacion": "«La pluma Tresiba U-200 indica directamente las unidades que se administrarán. No convierta la dosis a mililitros ni extraiga insulina con jeringa. Verifiquemos juntos la concentración de la caja».",
       "alertas": "La pluma U-200 selecciona dosis en incrementos de dos unidades según el folleto aportado. Si la prescripción o la técnica no son compatibles con el dispositivo, solicitar evaluación profesional; no redondear dosis por cuenta propia."
     }
+  },
+  {
+    "familia": "Sulfonilurea",
+    "via": "Oral",
+    "estado": "Borrador editorial · pendiente cotejo con presentación ISP",
+    "marcas": [],
+    "revision": "2026-10-28",
+    "validacion": "Prototipo académico para revisión. Fichas AEMPS como referencia complementaria; confirmar formulación, instrucciones y situación regulatoria con ISP antes de uso asistencial.",
+    "id": "glibenclamida",
+    "nombre": "Glibenclamida",
+    "descripcion": "Sulfonilurea que estimula la secreción de insulina; destaca el riesgo de hipoglucemia prolongada.",
+    "seguridad": [
+      "1. Hipoglucemia: temblores, sudor frío, palpitaciones, hambre intensa o confusión.",
+      "2. Hipoglucemia grave, prolongada o recurrente: solicitar atención urgente.",
+      "3. Saltarse comidas, alcohol o ingesta insuficiente: aumentan el riesgo.",
+      "4. Personas mayores o con deterioro renal/hepático: especial precaución."
+    ],
+    "dispensacion": "¿Mantiene horarios regulares de comida? ¿Ha tenido temblores, sudor frío o confusión? ¿Presenta enfermedad renal o hepática conocida? Puede bajar la glucosa incluso cuando no se ha comido lo suficiente. Es importante mantener la alimentación regular y reconocer los síntomas de hipoglucemia.",
+    "posicionamiento": "Opción de control glucémico cuyo uso requiere considerar hipoglucemia y características individuales; la selección corresponde al equipo tratante.",
+    "mecanismo": "Unión a SUR1 y cierre de canales KATP en células beta pancreáticas, con despolarización y liberación de insulina.",
+    "reacciones": [
+      "Hipoglucemia, que puede ser grave.",
+      "Posible aumento de peso."
+    ],
+    "renal": "La alteración renal puede aumentar la susceptibilidad a hipoglucemia; revisar ficha técnica de la presentación y derivar dudas al QF.",
+    "interacciones": [
+      "Revisar medicamentos que potencian la hipoglucemia y consumo de alcohol."
+    ],
+    "alertas": [
+      {
+        "nivel": "Precaución",
+        "titulo": "Hipoglucemia",
+        "detalle": "Identificar síntomas, valorar gravedad y derivar cuando corresponda."
+      }
+    ],
+    "fuentes": [
+      {
+        "nombre": "AEMPS/CIMA, ficha técnica española (referencia complementaria)",
+        "url": "https://cima.aemps.es/cima/dochtml/ft/48545/FT_48545.html"
+      },
+      {
+        "nombre": "Volke et al. (2022), metaanálisis",
+        "url": "https://doi.org/10.1186/s12902-022-01158-5"
+      },
+      {
+        "nombre": "Pan et al. (2024), metaanálisis en adultos mayores",
+        "url": "https://doi.org/10.1093/ageing/afae175"
+      },
+      {
+        "nombre": "ADA, orientación sobre hipoglucemia",
+        "url": "https://diabetes.org/es/vivir-con-diabetes/hipoglucemia-niveles-bajos-de-glucosa-en-sangre/sintomas-tratamiento"
+      }
+    ],
+    "guia_meson": {
+      "preguntas": "¿Mantiene horarios regulares de comida? ¿Ha tenido temblores, sudor frío o confusión? ¿Presenta enfermedad renal o hepática conocida?",
+      "explicacion": "Puede bajar la glucosa incluso cuando no se ha comido lo suficiente. Es importante mantener la alimentación regular y reconocer los síntomas de hipoglucemia.",
+      "alertas": "1. Hipoglucemia: temblores, sudor frío, palpitaciones, hambre intensa o confusión.\n2. Hipoglucemia grave, prolongada o recurrente: solicitar atención urgente.\n3. Saltarse comidas, alcohol o ingesta insuficiente: aumentan el riesgo.\n4. Personas mayores o con deterioro renal/hepático: especial precaución."
+    },
+    "dispensacion_rapida": {
+      "primera": {
+        "pregunta": "¿Mantiene horarios regulares de comida? ¿Ha tenido temblores, sudor frío o confusión? ¿Presenta enfermedad renal o hepática conocida?",
+        "consejo": "No omita comidas y siga la pauta indicada. Si olvida una dosis, no duplique la siguiente; consulte el folleto de su presentación.",
+        "efectos": "Reconocer hipoglucemia; ante confusión grave, convulsiones o pérdida de conciencia solicitar urgencias.",
+        "almacenamiento": "Conservar según el envase y folleto del producto dispensado.",
+        "accion": "Verificar receta y presentación; reforzar educación y consultar al QF ante discrepancias."
+      },
+      "habitual": {
+        "pregunta": "¿Ha presentado episodios de hipoglucemia, cambios de alimentación o medicamentos nuevos?",
+        "consejo": "No omita comidas y siga la pauta indicada. Si olvida una dosis, no duplique la siguiente; consulte el folleto de su presentación.",
+        "efectos": "Consultar por hipoglucemias repetidas o graves.",
+        "almacenamiento": "Respetar las indicaciones del envase.",
+        "accion": "Reforzar educación y derivar alertas al QF."
+      }
+    },
+    "consejos_practicos": [
+      {
+        "titulo": "Hipoglucemia: orientación educativa 15/15",
+        "texto": "Si la persona está consciente, puede tragar y confirma glucosa ≤70 mg/dL, orientar sobre la regla 15/15: 15 g de carbohidratos de absorción rápida, esperar 15 minutos y volver a medir; repetir si continúa baja. Si pierde la conciencia, convulsiona o no puede tragar, no administrar nada por boca y solicitar urgencias. Las sulfonilureas pueden causar recurrencia: informar al equipo de salud.",
+        "tipo": "Seguridad"
+      },
+      {
+        "titulo": "No modificar el tratamiento",
+        "texto": "La PWA no indica ajustar, suspender o sustituir tratamientos. Consultar al profesional tratante.",
+        "tipo": "Educación"
+      }
+    ],
+    "ampliada_qf": {
+      "titulo_foco": "Seguridad y diferencias de glibenclamida",
+      "fundamento": "Su acción secretagoga no es dependiente de glucosa, lo que contribuye al riesgo de hipoglucemia, incluso prolongada.",
+      "farmacocinetica_y_seleccion": "Revisar especialmente riesgo de hipoglucemia prolongada y función renal/hepática.",
+      "interacciones_especificas": "Revisar medicamentos que potencian la hipoglucemia y consumo de alcohol.",
+      "evidencia_y_limitaciones": "El metaanálisis de Volke et al. (2022) aporta evidencia comparativa de riesgo de hipoglucemia a nivel de clase; no justifica ajustes individuales.",
+      "detalle_regulatorio": "Revisar alcance del oficio chileno de retiro programado de glibenclamida antes de publicar su situación de uso."
+    }
+  },
+  {
+    "familia": "Sulfonilurea",
+    "via": "Oral",
+    "estado": "Borrador editorial · pendiente cotejo con presentación ISP",
+    "marcas": [],
+    "revision": "2026-10-28",
+    "validacion": "Prototipo académico para revisión. Fichas AEMPS como referencia complementaria; confirmar formulación, instrucciones y situación regulatoria con ISP antes de uso asistencial.",
+    "id": "gliclazida",
+    "nombre": "Gliclazida",
+    "descripcion": "Sulfonilurea secretagoga de insulina; existen formulaciones que requieren instrucciones distintas.",
+    "seguridad": [
+      "1. Hipoglucemia: reconocer temblores, sudoración, hambre intensa o confusión.",
+      "2. Ayuno o comidas insuficientes: pueden precipitar hipoglucemia.",
+      "3. Liberación inmediata frente a modificada: verificar la presentación antes de orientar.",
+      "4. Miconazol sistémico: interacción relevante descrita en fichas técnicas; solicitar revisión QF."
+    ],
+    "dispensacion": "¿El envase indica liberación modificada? ¿Desayuna regularmente? ¿Ha tenido episodios de glucosa baja? Ayuda a reducir la glucosa al estimular la liberación de insulina. Las instrucciones de administración dependen de la formulación dispensada.",
+    "posicionamiento": "Opción de control glucémico cuyo uso requiere considerar hipoglucemia y características individuales; la selección corresponde al equipo tratante.",
+    "mecanismo": "Unión a SUR1 y cierre de canales KATP en células beta pancreáticas, con despolarización y liberación de insulina.",
+    "reacciones": [
+      "Hipoglucemia, que puede ser grave.",
+      "Posible aumento de peso."
+    ],
+    "renal": "La alteración renal puede aumentar la susceptibilidad a hipoglucemia; revisar ficha técnica de la presentación y derivar dudas al QF.",
+    "interacciones": [
+      "La ficha AEMPS destaca miconazol como interacción importante; verificar alcance según presentación y vía."
+    ],
+    "alertas": [
+      {
+        "nivel": "Precaución",
+        "titulo": "Hipoglucemia",
+        "detalle": "Identificar síntomas, valorar gravedad y derivar cuando corresponda."
+      }
+    ],
+    "fuentes": [
+      {
+        "nombre": "AEMPS/CIMA, ficha técnica española (referencia complementaria)",
+        "url": "https://cima.aemps.es/cima/dochtml/ft/79929/FT_79929.html"
+      },
+      {
+        "nombre": "Volke et al. (2022), metaanálisis",
+        "url": "https://doi.org/10.1186/s12902-022-01158-5"
+      },
+      {
+        "nombre": "Pan et al. (2024), metaanálisis en adultos mayores",
+        "url": "https://doi.org/10.1093/ageing/afae175"
+      },
+      {
+        "nombre": "ADA, orientación sobre hipoglucemia",
+        "url": "https://diabetes.org/es/vivir-con-diabetes/hipoglucemia-niveles-bajos-de-glucosa-en-sangre/sintomas-tratamiento"
+      }
+    ],
+    "guia_meson": {
+      "preguntas": "¿El envase indica liberación modificada? ¿Desayuna regularmente? ¿Ha tenido episodios de glucosa baja?",
+      "explicacion": "Ayuda a reducir la glucosa al estimular la liberación de insulina. Las instrucciones de administración dependen de la formulación dispensada.",
+      "alertas": "1. Hipoglucemia: reconocer temblores, sudoración, hambre intensa o confusión.\n2. Ayuno o comidas insuficientes: pueden precipitar hipoglucemia.\n3. Liberación inmediata frente a modificada: verificar la presentación antes de orientar.\n4. Miconazol sistémico: interacción relevante descrita en fichas técnicas; solicitar revisión QF."
+    },
+    "dispensacion_rapida": {
+      "primera": {
+        "pregunta": "¿El envase indica liberación modificada? ¿Desayuna regularmente? ¿Ha tenido episodios de glucosa baja?",
+        "consejo": "Compruebe si su medicamento es de liberación modificada y siga la indicación de su presentación; no duplique dosis olvidadas.",
+        "efectos": "Reconocer hipoglucemia; ante confusión grave, convulsiones o pérdida de conciencia solicitar urgencias.",
+        "almacenamiento": "Conservar según el envase y folleto del producto dispensado.",
+        "accion": "Verificar receta y presentación; reforzar educación y consultar al QF ante discrepancias."
+      },
+      "habitual": {
+        "pregunta": "¿Ha presentado episodios de hipoglucemia, cambios de alimentación o medicamentos nuevos?",
+        "consejo": "Compruebe si su medicamento es de liberación modificada y siga la indicación de su presentación; no duplique dosis olvidadas.",
+        "efectos": "Consultar por hipoglucemias repetidas o graves.",
+        "almacenamiento": "Respetar las indicaciones del envase.",
+        "accion": "Reforzar educación y derivar alertas al QF."
+      }
+    },
+    "consejos_practicos": [
+      {
+        "titulo": "Hipoglucemia: orientación educativa 15/15",
+        "texto": "Si la persona está consciente, puede tragar y confirma glucosa ≤70 mg/dL, orientar sobre la regla 15/15: 15 g de carbohidratos de absorción rápida, esperar 15 minutos y volver a medir; repetir si continúa baja. Si pierde la conciencia, convulsiona o no puede tragar, no administrar nada por boca y solicitar urgencias. Las sulfonilureas pueden causar recurrencia: informar al equipo de salud.",
+        "tipo": "Seguridad"
+      },
+      {
+        "titulo": "No modificar el tratamiento",
+        "texto": "La PWA no indica ajustar, suspender o sustituir tratamientos. Consultar al profesional tratante.",
+        "tipo": "Educación"
+      }
+    ],
+    "ampliada_qf": {
+      "titulo_foco": "Seguridad y diferencias de gliclazida",
+      "fundamento": "Las formulaciones de liberación modificada permiten perfiles de administración diferentes de las convencionales; no deben intercambiarse instrucciones.",
+      "farmacocinetica_y_seleccion": "Verificar diferencias entre liberación inmediata y modificada; no asumir equivalencia de dosis ni de modo de administración.",
+      "interacciones_especificas": "La ficha AEMPS destaca miconazol como interacción importante; verificar alcance según presentación y vía.",
+      "evidencia_y_limitaciones": "Pan et al. (2024) aporta contexto sobre riesgo de hipoglucemia en adultos mayores, no recomendaciones de cambio terapéutico.",
+      "detalle_regulatorio": "Las instrucciones de gliclazida LM 30 mg españolas no se extrapolan a todas las formulaciones chilenas."
+    }
+  },
+  {
+    "familia": "Sulfonilurea",
+    "via": "Oral",
+    "estado": "Borrador editorial · pendiente cotejo con presentación ISP",
+    "marcas": [],
+    "revision": "2026-10-28",
+    "validacion": "Prototipo académico para revisión. Fichas AEMPS como referencia complementaria; confirmar formulación, instrucciones y situación regulatoria con ISP antes de uso asistencial.",
+    "id": "glimepirida",
+    "nombre": "Glimepirida",
+    "descripcion": "Sulfonilurea que aumenta la secreción de insulina; la regularidad alimentaria es relevante para su seguridad.",
+    "seguridad": [
+      "1. Hipoglucemia: sudor frío, temblores, hambre, palpitaciones o confusión.",
+      "2. Saltarse la primera comida principal: aumenta el riesgo de hipoglucemia.",
+      "3. Episodios recurrentes o graves: solicitar evaluación urgente.",
+      "4. Nuevos medicamentos y enfermedad renal/hepática: revisar con QF."
+    ],
+    "dispensacion": "¿La toma con el desayuno o primera comida principal? ¿Se salta comidas? ¿Ha notado síntomas de glucosa baja? Estimula la liberación de insulina y puede causar hipoglucemia si se omiten comidas o existe mayor susceptibilidad.",
+    "posicionamiento": "Opción de control glucémico cuyo uso requiere considerar hipoglucemia y características individuales; la selección corresponde al equipo tratante.",
+    "mecanismo": "Unión a SUR1 y cierre de canales KATP en células beta pancreáticas, con despolarización y liberación de insulina.",
+    "reacciones": [
+      "Hipoglucemia, que puede ser grave.",
+      "Posible aumento de peso."
+    ],
+    "renal": "La alteración renal puede aumentar la susceptibilidad a hipoglucemia; revisar ficha técnica de la presentación y derivar dudas al QF.",
+    "interacciones": [
+      "Interacciones capaces de aumentar o disminuir el efecto hipoglucemiante; verificar medicación concomitante."
+    ],
+    "alertas": [
+      {
+        "nivel": "Precaución",
+        "titulo": "Hipoglucemia",
+        "detalle": "Identificar síntomas, valorar gravedad y derivar cuando corresponda."
+      }
+    ],
+    "fuentes": [
+      {
+        "nombre": "AEMPS/CIMA, ficha técnica española (referencia complementaria)",
+        "url": "https://cima.aemps.es/cima/dochtml/ft/67067/FT_67067.html"
+      },
+      {
+        "nombre": "Volke et al. (2022), metaanálisis",
+        "url": "https://doi.org/10.1186/s12902-022-01158-5"
+      },
+      {
+        "nombre": "Pan et al. (2024), metaanálisis en adultos mayores",
+        "url": "https://doi.org/10.1093/ageing/afae175"
+      },
+      {
+        "nombre": "ADA, orientación sobre hipoglucemia",
+        "url": "https://diabetes.org/es/vivir-con-diabetes/hipoglucemia-niveles-bajos-de-glucosa-en-sangre/sintomas-tratamiento"
+      }
+    ],
+    "guia_meson": {
+      "preguntas": "¿La toma con el desayuno o primera comida principal? ¿Se salta comidas? ¿Ha notado síntomas de glucosa baja?",
+      "explicacion": "Estimula la liberación de insulina y puede causar hipoglucemia si se omiten comidas o existe mayor susceptibilidad.",
+      "alertas": "1. Hipoglucemia: sudor frío, temblores, hambre, palpitaciones o confusión.\n2. Saltarse la primera comida principal: aumenta el riesgo de hipoglucemia.\n3. Episodios recurrentes o graves: solicitar evaluación urgente.\n4. Nuevos medicamentos y enfermedad renal/hepática: revisar con QF."
+    },
+    "dispensacion_rapida": {
+      "primera": {
+        "pregunta": "¿La toma con el desayuno o primera comida principal? ¿Se salta comidas? ¿Ha notado síntomas de glucosa baja?",
+        "consejo": "Mantenga la administración vinculada a la comida indicada en su receta y no duplique dosis olvidadas.",
+        "efectos": "Reconocer hipoglucemia; ante confusión grave, convulsiones o pérdida de conciencia solicitar urgencias.",
+        "almacenamiento": "Conservar según el envase y folleto del producto dispensado.",
+        "accion": "Verificar receta y presentación; reforzar educación y consultar al QF ante discrepancias."
+      },
+      "habitual": {
+        "pregunta": "¿Ha presentado episodios de hipoglucemia, cambios de alimentación o medicamentos nuevos?",
+        "consejo": "Mantenga la administración vinculada a la comida indicada en su receta y no duplique dosis olvidadas.",
+        "efectos": "Consultar por hipoglucemias repetidas o graves.",
+        "almacenamiento": "Respetar las indicaciones del envase.",
+        "accion": "Reforzar educación y derivar alertas al QF."
+      }
+    },
+    "consejos_practicos": [
+      {
+        "titulo": "Hipoglucemia: orientación educativa 15/15",
+        "texto": "Si la persona está consciente, puede tragar y confirma glucosa ≤70 mg/dL, orientar sobre la regla 15/15: 15 g de carbohidratos de absorción rápida, esperar 15 minutos y volver a medir; repetir si continúa baja. Si pierde la conciencia, convulsiona o no puede tragar, no administrar nada por boca y solicitar urgencias. Las sulfonilureas pueden causar recurrencia: informar al equipo de salud.",
+        "tipo": "Seguridad"
+      },
+      {
+        "titulo": "No modificar el tratamiento",
+        "texto": "La PWA no indica ajustar, suspender o sustituir tratamientos. Consultar al profesional tratante.",
+        "tipo": "Educación"
+      }
+    ],
+    "ampliada_qf": {
+      "titulo_foco": "Seguridad y diferencias de glimepirida",
+      "fundamento": "La glimepirida es secretagoga de insulina y su efecto puede persistir aunque se reduzca la ingesta alimentaria.",
+      "farmacocinetica_y_seleccion": "Revisar susceptibilidad a hipoglucemia en personas mayores y ante alteración renal o hepática.",
+      "interacciones_especificas": "Interacciones capaces de aumentar o disminuir el efecto hipoglucemiante; verificar medicación concomitante.",
+      "evidencia_y_limitaciones": "La evidencia comparativa de clase no determina por sí sola que glimepirida sea apropiada para una persona concreta.",
+      "detalle_regulatorio": "Confirmar las condiciones de administración y posibilidad de fraccionamiento del comprimido según fabricante."
+    }
   }
 ]
