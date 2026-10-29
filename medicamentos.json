@@ -430,19 +430,20 @@
   },
   {
     "id": "insulina-nph",
-    "nombre": "Insulina humana NPH (Insulatard)",
+    "nombre": "Insulina humana NPH",
     "familia": "Insulina de acción intermedia",
     "via": "Subcutánea",
-    "estado": "Ficha de seguridad documental preliminar · verificar folleto ISP vigente y presentación",
-    "descripcion": "Suspensión de insulina humana de acción intermedia; las instrucciones de preparación dependen de la presentación.",
+    "estado": "Ficha por principio activo/formulación · revisión documental 2026; verificar producto dispensado",
+    "descripcion": "Insulina humana de acción intermedia formulada como suspensión con protamina. Su perfil temporal es orientativo y puede variar según dosis, formulación y características individuales.",
     "seguridad": [
-      "Resuspender conforme a las instrucciones del producto hasta obtener una suspensión uniformemente blanca y turbia.",
-      "No administrar si persisten grumos, partículas adheridas o apariencia no uniforme según folleto.",
-      "Confirmar dispositivo y concentración antes de la entrega."
+      "Suspensión: requiere resuspensión homogénea antes de su administración, conforme a las instrucciones del dispositivo; no debe utilizarse si presenta grumos o aspecto anómalo.",
+      "La hipoglicemia es un riesgo clínico importante, especialmente ante comidas omitidas, ejercicio no previsto o cambios en requerimientos de insulina.",
+      "Conservación general de presentaciones sin usar: refrigeración habitual entre 2 y 8 °C, sin congelar; verificar siempre el prospecto del producto específico.",
+      "El período de uso y la temperatura permitida después de la primera utilización no son universales: cotejar el prospecto del fabricante."
     ],
-    "dispensacion": "Verificar la técnica de resuspensión de Insulatard para frasco o Penfill; no extrapolar maniobras entre dispositivos.",
+    "dispensacion": "Confirmar nombre, concentración, suspensión y dispositivo. Demostrar o verificar la resuspensión conforme al folleto del producto. Comprobar conservación y capacidad del paciente para reconocer hipoglicemia. No modificar dosis desde la PWA.",
     "marcas": [],
-    "mecanismo": "Insulina exógena: facilita la utilización de glucosa y reduce la producción hepática de glucosa. El perfil temporal depende de la formulación.",
+    "mecanismo": "Insulina exógena que favorece la captación periférica de glucosa y disminuye la producción hepática. La protamina retrasa su absorción subcutánea.",
     "reacciones": [
       "Hipoglicemia, potencialmente grave.",
       "Reacciones en el sitio de inyección y lipodistrofia por falta de rotación."
@@ -466,35 +467,39 @@
     ],
     "fuentes": [
       {
-        "nombre": "ISP Chile · Insulatard, folleto aportado (verificar versión y presentación)"
+        "nombre": "MINSAL Chile, Protocolo de insulinización para personas con diabetes mellitus tipo 2 (documento aportado)"
       },
       {
-        "nombre": "UpToDate · Insulina NPH, monografía aportada"
+        "nombre": "SOCHIDIAB, Consenso chileno sobre manejo de diabetes mellitus tipo 2 (documento aportado)"
+      },
+      {
+        "nombre": "UpToDate, Insulin NPH: Drug information (monografía aportada)"
       }
     ],
-    "revision": "2026-10-13 · integración preliminar de seguridad documental",
-    "validacion": "Material informativo para dispensación. No sustituye ficha ISP vigente, indicación médica ni evaluación del químico farmacéutico. No efectúa ajustes ni conversiones de dosis.",
+    "revision": "Integración por principio activo, con contexto SOCHIDIAB/MINSAL; pendiente cotejo final de rangos numéricos y prospectos por presentación.",
+    "validacion": "Rangos farmacocinéticos teóricos; datos de producto y conservación en uso sujetos a folleto oficial.",
     "dispensacion_rapida": {
       "primera": {
         "consejo": "«Esta insulina tiene aspecto lechoso. Antes de usarla debe quedar uniformemente mezclada según las instrucciones de su presentación. Revisemos juntos cómo preparar el dispositivo y dónde conservarlo».",
-        "pregunta": "¿Es su primera vez con Insulatard? ¿Usa frasco o Penfill? ¿Le enseñaron a resuspenderla? ¿Ha tenido episodios de hipoglicemia?",
+        "pregunta": "¿Le enseñaron a resuspender esta insulina? ¿Qué dispositivo utiliza? ¿Sabe cómo almacenarla y reconocer una hipoglicemia?",
         "efectos": "Explicar signos de hipoglicemia y cuándo solicitar asistencia urgente.",
-        "almacenamiento": "Conservación antes y después de abrir: cotejo pendiente con el folleto ISP específico de frasco o Penfill.",
+        "almacenamiento": "En general, sin usar: refrigeración 2–8 °C y no congelar. Después del primer uso: consultar el prospecto de la presentación dispensada.",
         "accion": "Revisar prescripción y dispositivo; enseñar técnica con instrucciones específicas del fabricante."
       },
       "habitual": {
         "consejo": "«Antes de cada administración, compruebe que el nombre, la concentración y el dispositivo sean los prescritos. Si hubo cambios o hipoglicemias, coméntelo con el equipo de salud».",
-        "pregunta": "¿Es su primera vez con Insulatard? ¿Usa frasco o Penfill? ¿Le enseñaron a resuspenderla? ¿Ha tenido episodios de hipoglicemia?",
+        "pregunta": "¿Le enseñaron a resuspender esta insulina? ¿Qué dispositivo utiliza? ¿Sabe cómo almacenarla y reconocer una hipoglicemia?",
         "efectos": "Reforzar reconocimiento de hipoglicemia y rotación de sitios.",
-        "almacenamiento": "Conservación antes y después de abrir: cotejo pendiente con el folleto ISP específico de frasco o Penfill.",
+        "almacenamiento": "En general, sin usar: refrigeración 2–8 °C y no congelar. Después del primer uso: consultar el prospecto de la presentación dispensada.",
         "accion": "Derivar al químico farmacéutico ante discrepancias o dudas de técnica."
       }
     },
     "guia_meson": {
-      "preguntas": "¿Es su primera vez con Insulatard? ¿Usa frasco o Penfill? ¿Le enseñaron a resuspenderla? ¿Ha tenido episodios de hipoglicemia?",
-      "explicacion": "«Esta insulina tiene aspecto lechoso. Antes de usarla debe quedar uniformemente mezclada según las instrucciones de su presentación. Revisemos juntos cómo preparar el dispositivo y dónde conservarlo».",
+      "preguntas": "¿Le enseñaron a resuspender esta insulina? ¿Qué dispositivo utiliza? ¿Sabe cómo almacenarla y reconocer una hipoglicemia?",
+      "explicacion": "«Esta insulina es una suspensión y debe quedar homogénea antes de usarla, siguiendo el instructivo del dispositivo. Revisemos juntos cómo conservarla y reconocer una baja de azúcar».",
       "alertas": "Si aparecen grumos o la suspensión no queda uniforme, no usar hasta consultar. Ante pérdida de conciencia, convulsiones o incapacidad para tragar por posible hipoglicemia, solicitar asistencia de urgencia."
-    }
+    },
+    "posicionamiento": "Perfil teórico de acción intermedia: inicio gradual, máximo de acción reconocible y duración variable; no utilizar estos parámetros como predicción exacta de respuesta individual. Los tiempos específicos dependen de la formulación y deben contrastarse con el prospecto."
   },
   {
     "id": "tirzepatida",
@@ -2829,5 +2834,82 @@
         "accion": "Revisar riesgo de hipoglucemia, cambios de control glicémico o síntomas enmascarados y derivar al QF; verificar interacciones específicas en la ficha del producto."
       }
     ]
+  },
+  {
+    "id": "insulina-regular",
+    "nombre": "Insulina humana regular",
+    "familia": "Insulina humana de acción corta",
+    "via": "Subcutánea",
+    "estado": "Ficha por principio activo · revisión documental 2026; verificar producto dispensado",
+    "descripcion": "Insulina humana soluble de acción corta. Su inicio, máximo y duración de efecto se describen como referencias teóricas y varían según la dosis y la formulación.",
+    "seguridad": [
+      "Solución habitualmente transparente; no requiere resuspensión. No utilizar si el aspecto no corresponde al indicado en el prospecto.",
+      "La relación temporal con las comidas es relevante para reducir hipoglicemia; comprobar la pauta prescrita y las instrucciones del producto.",
+      "Conservación general de presentaciones sin usar: refrigeración habitual entre 2 y 8 °C, sin congelar; verificar el prospecto específico.",
+      "Las condiciones después del primer uso dependen de presentación y dispositivo; no asignar un plazo universal.",
+      "No confundir insulina regular con análogos de acción rápida ni con NPH."
+    ],
+    "dispensacion": "Verificar que la prescripción corresponda a insulina humana regular, concentración y dispositivo; comprobar pauta respecto de comidas, técnica, conservación y reconocimiento de hipoglicemia. No ajustar dosis desde la PWA.",
+    "marcas": [],
+    "mecanismo": "Insulina humana exógena soluble que facilita la utilización periférica de glucosa e inhibe su producción hepática.",
+    "reacciones": [
+      "Hipoglicemia, potencialmente grave.",
+      "Reacciones en el sitio de inyección y lipodistrofia por falta de rotación."
+    ],
+    "renal": "La disminución de la función renal puede modificar los requerimientos de insulina; evaluar con el equipo tratante, sin ajustar dosis desde la PWA.",
+    "interacciones": [
+      "Otros medicamentos hipoglicemiantes pueden incrementar el riesgo de hipoglicemia.",
+      "Los betabloqueadores pueden enmascarar algunas manifestaciones adrenérgicas de hipoglicemia."
+    ],
+    "alertas": [
+      {
+        "nivel": "Evaluación inmediata",
+        "titulo": "Hipoglicemia grave",
+        "detalle": "Alteración de conciencia, convulsiones o incapacidad para tragar: solicitar atención urgente; no administrar nada por vía oral."
+      },
+      {
+        "nivel": "Revisión farmacéutica",
+        "titulo": "Confusión de insulina o dispositivo",
+        "detalle": "Comprobar nombre, concentración y presentación con receta y envase; no sustituir automáticamente."
+      }
+    ],
+    "fuentes": [
+      {
+        "nombre": "MINSAL Chile, Protocolo de insulinización para personas con diabetes mellitus tipo 2 (documento aportado)"
+      },
+      {
+        "nombre": "SOCHIDIAB, Consenso chileno sobre manejo de diabetes mellitus tipo 2 (documento aportado)"
+      },
+      {
+        "nombre": "UpToDate, Insulin regular: Drug information (monografía aportada)"
+      },
+      {
+        "nombre": "ISP Chile, folleto de Actrapid Penfill (documento aportado; información de producto no extrapolable)"
+      }
+    ],
+    "revision": "Ficha general basada en documentación aportada; tiempos numéricos y particularidades comerciales requieren verificación.",
+    "validacion": "La conservación en uso y el intervalo específico respecto de comidas deben cotejarse con el prospecto de la presentación dispensada.",
+    "dispensacion_rapida": {
+      "primera": {
+        "consejo": "«Esta es insulina humana regular, distinta de la NPH y de los análogos rápidos. Revisemos su pauta en relación con las comidas y el dispositivo que utiliza».",
+        "pregunta": "¿Conoce el momento de administración indicado respecto de las comidas? ¿Sabe reconocer una hipoglicemia?",
+        "efectos": "Explicar signos de hipoglicemia y cuándo solicitar asistencia urgente.",
+        "almacenamiento": "En general, sin usar: refrigeración 2–8 °C, sin congelar. En uso: verificar el prospecto del fabricante.",
+        "accion": "Revisar prescripción y dispositivo; enseñar técnica con instrucciones específicas del fabricante."
+      },
+      "habitual": {
+        "consejo": "«Compruebe el nombre y la concentración antes de cada administración. Consulte si cambió su alimentación o ha tenido hipoglicemias».",
+        "pregunta": "¿Conoce el momento de administración indicado respecto de las comidas? ¿Sabe reconocer una hipoglicemia?",
+        "efectos": "Reforzar reconocimiento de hipoglicemia y rotación de sitios.",
+        "almacenamiento": "En general, sin usar: refrigeración 2–8 °C, sin congelar. En uso: verificar el prospecto del fabricante.",
+        "accion": "Derivar al químico farmacéutico ante discrepancias o dudas de técnica."
+      }
+    },
+    "guia_meson": {
+      "preguntas": "¿Conoce el momento de administración indicado respecto de las comidas? ¿Sabe reconocer una hipoglicemia?",
+      "explicacion": "«Esta es insulina humana regular, distinta de la NPH y de los análogos rápidos. Revisemos su pauta en relación con las comidas y el dispositivo que utiliza».",
+      "alertas": "Ante hipoglicemia grave o compromiso de conciencia, solicitar asistencia urgente. Verificar discrepancias de nombre, concentración o dispositivo antes de dispensar."
+    },
+    "posicionamiento": "Perfil farmacocinético teórico de acción corta: inicio posterior a la administración subcutánea, efecto máximo y duración dependientes de dosis y contexto. No extrapolar tiempos exactos entre productos o vías de administración."
   }
 ]
