@@ -1,0 +1,1 @@
+v45: Recomendaciones generales ISP de almacenamiento para medicamentos orales; se conserva especificidad de semaglutida oral. Interacciones de las tres sulfonilureas con fundamento QF. Sin cambios a app.js ni interfaz.

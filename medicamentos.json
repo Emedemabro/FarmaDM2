@@ -63,6 +63,10 @@
       {
         "nombre": "DailyMed, información regulatoria de metformina (referencia complementaria)",
         "url": "https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=400ff9dc-9789-44ac-afb5-730b632a1667"
+      },
+      {
+        "nombre": "ISP Chile, recomendaciones generales de almacenamiento y adquisición de medicamentos",
+        "url": "https://www.ispch.gob.cl/noticia/isp-entrega-recomendaciones-sobre-el-correcto-almacenamiento-y-adquisicion-de-los-medicamentos/"
       }
     ],
     "revision": "2026-10-08",
@@ -88,6 +92,11 @@
         "titulo": "No duplicar dosis olvidadas",
         "texto": "No tomar una dosis doble para compensar una omisión. La instrucción específica debe cotejarse con el folleto del producto y la pauta prescrita.",
         "tipo": "Educación"
+      },
+      {
+        "titulo": "Conservación segura (orientación ISP)",
+        "texto": "Mantener en su envase original, en lugar seco y protegido de la luz solar directa y fuentes de calor; evitar el baño y otros lugares húmedos. Respetar siempre la temperatura y las condiciones particulares indicadas en el envase y folleto de la presentación dispensada.",
+        "tipo": "Conservación"
       }
     ],
     "pasos_meson": [
@@ -114,14 +123,14 @@
         "pregunta": "¿Es la primera vez que la utiliza? ¿Le explicaron cuándo y cómo tomarla?",
         "accion": "Confirmar receta, formulación y pauta con el envase o folleto. Si existe una discrepancia, solicitar revisión del químico farmacéutico y aclaración con el médico prescriptor antes de asumir equivalencias o cambios.",
         "efectos": "Al inicio pueden aparecer náuseas, diarrea y molestias abdominales. Si persisten, empeoran o dificultan la hidratación, solicitar orientación del químico farmacéutico y evaluación médica según la gravedad.",
-        "almacenamiento": "Verificar las condiciones de conservación del envase y folleto de la presentación específica. Temperatura y requisitos particulares pendientes de validación documental."
+        "almacenamiento": "Mantener en su envase original, en lugar seco y protegido de la luz solar directa y fuentes de calor; evitar el baño y otros lugares húmedos. Respetar siempre la temperatura y las condiciones particulares indicadas en el envase y folleto de la presentación dispensada."
       },
       "habitual": {
         "consejo": "Si las molestias digestivas son persistentes, consulte al químico farmacéutico para revisar el uso del medicamento y coméntelas con su médico tratante. Si son leves y estables, puede mencionarlas en el próximo control; si empeoran, no espere.",
         "pregunta": "¿Ha tenido molestias al tomarla o le cambiaron la presentación?",
         "accion": "Comprobar cambios de formulación y tolerancia. El químico farmacéutico puede evaluar el problema y coordinar con el prescriptor; cualquier ajuste de dosis o formulación requiere indicación del profesional habilitado. Si hay vómitos o diarrea intensos, signos de deshidratación o deterioro general, solicitar evaluación médica pronta.",
         "efectos": "Preguntar si ha presentado náuseas, diarrea o molestias abdominales persistentes. Revisar cambios de formulación; comentar con el químico farmacéutico y el médico tratante si afectan la continuidad del tratamiento.",
-        "almacenamiento": "Verificar las condiciones de conservación del envase y folleto de la presentación específica. Temperatura y requisitos particulares pendientes de validación documental."
+        "almacenamiento": "Mantener en su envase original, en lugar seco y protegido de la luz solar directa y fuentes de calor; evitar el baño y otros lugares húmedos. Respetar siempre la temperatura y las condiciones particulares indicadas en el envase y folleto de la presentación dispensada."
       }
     },
     "revision_consejos": "2026-10-09",
@@ -202,14 +211,14 @@
         "pregunta": "¿Es la primera vez que lo utiliza? ¿Le explicaron cuándo tomarlo y qué molestias requieren consulta?",
         "accion": "Verificar nombre, concentración, pauta prescrita y presentación. Explicar hidratación habitual según indicación clínica y signos de alarma; derivar dudas al químico farmacéutico.",
         "efectos": "Puede aumentar la frecuencia urinaria y favorecer infecciones genitales por hongos. Consulte si presenta picazón, irritación, flujo anormal o molestias al orinar.  Acuda a urgencias si presenta náuseas o vómitos intensos, dolor abdominal, respiración rápida, somnolencia o debilidad marcada, incluso si la glucosa no está muy elevada. Dolor intenso, enrojecimiento o hinchazón genital o perineal, especialmente con fiebre, también requiere atención urgente.",
-        "almacenamiento": "Conserve el medicamento en su envase original, protegido de la humedad y del calor excesivo, y fuera del alcance de los niños. Respete las condiciones de conservación indicadas en el envase o folleto del producto."
+        "almacenamiento": "Mantener en su envase original, en lugar seco y protegido de la luz solar directa y fuentes de calor; evitar el baño y otros lugares húmedos. Respetar siempre la temperatura y las condiciones particulares indicadas en el envase y folleto de la presentación dispensada."
       },
       "habitual": {
         "consejo": "Mantenga la pauta indicada. Si presenta mareos, debilidad o mucha sed, acuda a un servicio de salud. Ante vómitos o diarrea intensos, imposibilidad de comer o beber, o una cirugía programada, contacte al equipo tratante para recibir indicaciones sobre el manejo temporal y reinicio del medicamento.",
         "pregunta": "¿Ha presentado molestias genitales, mareos o dificultades para alimentarse o hidratarse?",
         "accion": "Reforzar adherencia, evaluar dudas y derivar signos de alarma. Confirmar indicaciones del equipo tratante ante enfermedad aguda o cirugía.",
         "efectos": "Puede aumentar la frecuencia urinaria y favorecer infecciones genitales por hongos. Consulte si presenta picazón, irritación, flujo anormal o molestias al orinar. ",
-        "almacenamiento": "Conserve el medicamento en su envase original, protegido de la humedad y del calor excesivo, y fuera del alcance de los niños. Respete las condiciones de conservación indicadas en el envase o folleto del producto."
+        "almacenamiento": "Mantener en su envase original, en lugar seco y protegido de la luz solar directa y fuentes de calor; evitar el baño y otros lugares húmedos. Respetar siempre la temperatura y las condiciones particulares indicadas en el envase y folleto de la presentación dispensada."
       }
     },
     "evidencia_clinica": [
@@ -248,6 +257,11 @@
         "titulo": "Revisar otros tratamientos",
         "texto": "Si utiliza insulina o sulfonilureas, verificar posibles síntomas de hipoglicemia. Con diuréticos, considerar el riesgo de pérdida de volumen. Derivar al químico farmacéutico cuando corresponda.",
         "tipo": "Consulta QF"
+      },
+      {
+        "titulo": "Conservación segura (orientación ISP)",
+        "texto": "Mantener en su envase original, en lugar seco y protegido de la luz solar directa y fuentes de calor; evitar el baño y otros lugares húmedos. Respetar siempre la temperatura y las condiciones particulares indicadas en el envase y folleto de la presentación dispensada.",
+        "tipo": "Conservación"
       }
     ],
     "pasos_meson": [
@@ -699,6 +713,10 @@
       {
         "nombre": "Ficha técnica peruana Diabelina M® 50/500 mg (sitagliptina clorhidrato/metformina), documento aportado, págs. 1–18; fuente complementaria, no autorización ISP Chile",
         "url": ""
+      },
+      {
+        "nombre": "ISP Chile, recomendaciones generales de almacenamiento y adquisición de medicamentos",
+        "url": "https://www.ispch.gob.cl/noticia/isp-entrega-recomendaciones-sobre-el-correcto-almacenamiento-y-adquisicion-de-los-medicamentos/"
       }
     ],
     "revision": "2026-10-28 · revisión editorial por principio activo; comprobación regulatoria final pendiente",
@@ -708,14 +726,14 @@
         "consejo": "Puede tomarse con o sin alimentos, siguiendo la pauta prescrita. Si utiliza insulina o sulfonilureas, conviene reconocer los síntomas de glucosa baja.",
         "pregunta": "¿Es la primera vez que lo utiliza? ¿Sabe cuándo tomarlo y qué hacer si olvida una dosis?",
         "efectos": "Dolor abdominal intenso y persistente, que puede extenderse hacia la espalda, con o sin náuseas o vómitos: solicitar evaluación médica urgente por posible pancreatitis.",
-        "almacenamiento": "Conservar en su envase original, protegido según las indicaciones del producto y fuera del alcance de niños y mascotas. Confirmar condiciones particulares de esta presentación.",
+        "almacenamiento": "Mantener en su envase original, en lugar seco y protegido de la luz solar directa y fuentes de calor; evitar el baño y otros lugares húmedos. Respetar siempre la temperatura y las condiciones particulares indicadas en el envase y folleto de la presentación dispensada.",
         "accion": "Confirmar medicamento, presentación y pauta. Explicar las recomendaciones principales y consultar al químico farmacéutico si aparece una discrepancia concreta o un síntoma de alarma."
       },
       "habitual": {
         "consejo": "Mantenga la pauta indicada; si olvida una dosis, no duplique la siguiente. Consulte si aparecen molestias importantes o persistentes.",
         "pregunta": "¿Ha podido seguir la pauta indicada? ¿Ha olvidado alguna dosis o notado molestias? ¿Utiliza otros medicamentos para la diabetes?",
         "efectos": "Dolor abdominal intenso y persistente, que puede extenderse hacia la espalda, con o sin náuseas o vómitos: solicitar evaluación médica urgente por posible pancreatitis.",
-        "almacenamiento": "Mantener en su envase y fuera del alcance de niños y mascotas; respetar las condiciones de conservación de la presentación dispensada.",
+        "almacenamiento": "Mantener en su envase original, en lugar seco y protegido de la luz solar directa y fuentes de calor; evitar el baño y otros lugares húmedos. Respetar siempre la temperatura y las condiciones particulares indicadas en el envase y folleto de la presentación dispensada.",
         "accion": "Reforzar la continuidad del tratamiento y revisar dificultades prácticas. Solicitar apoyo profesional solo ante dudas o hallazgos relevantes."
       }
     },
@@ -734,6 +752,11 @@
         "tipo": "Seguimiento",
         "titulo": "Tratamientos concomitantes",
         "texto": "Si utiliza insulina o sulfonilureas, reconocer temblor, sudoración, hambre intensa o confusión como posibles síntomas de hipoglucemia."
+      },
+      {
+        "titulo": "Conservación segura (orientación ISP)",
+        "texto": "Mantener en su envase original, en lugar seco y protegido de la luz solar directa y fuentes de calor; evitar el baño y otros lugares húmedos. Respetar siempre la temperatura y las condiciones particulares indicadas en el envase y folleto de la presentación dispensada.",
+        "tipo": "Conservación"
       }
     ],
     "evidencia_clinica": [
@@ -832,14 +855,14 @@
         "pregunta": "¿Es la primera vez que lo utiliza? ¿Le explicaron cuándo tomarlo y qué molestias requieren consulta?",
         "accion": "Verificar nombre, concentración, pauta prescrita y presentación. Explicar hidratación habitual según indicación clínica y signos de alarma; derivar dudas al químico farmacéutico.",
         "efectos": "Puede aumentar la frecuencia urinaria y favorecer infecciones genitales por hongos. Consulte si presenta picazón, irritación, flujo anormal o molestias al orinar.  Acuda a urgencias si presenta náuseas o vómitos intensos, dolor abdominal, respiración rápida, somnolencia o debilidad marcada, incluso si la glucosa no está muy elevada. Dolor intenso, enrojecimiento o hinchazón genital o perineal, especialmente con fiebre, también requiere atención urgente.",
-        "almacenamiento": "Conserve el medicamento en su envase original, protegido de la humedad y del calor excesivo, y fuera del alcance de los niños. Respete las condiciones de conservación indicadas en el envase o folleto del producto."
+        "almacenamiento": "Mantener en su envase original, en lugar seco y protegido de la luz solar directa y fuentes de calor; evitar el baño y otros lugares húmedos. Respetar siempre la temperatura y las condiciones particulares indicadas en el envase y folleto de la presentación dispensada."
       },
       "habitual": {
         "consejo": "Mantenga la pauta indicada. Si presenta mareos, debilidad o mucha sed, acuda a un servicio de salud. Ante vómitos o diarrea intensos, imposibilidad de comer o beber, o una cirugía programada, contacte al equipo tratante para recibir indicaciones sobre el manejo temporal y reinicio del medicamento.",
         "pregunta": "¿Ha presentado molestias genitales, mareos o dificultades para alimentarse o hidratarse?",
         "accion": "Reforzar adherencia, evaluar dudas y derivar signos de alarma. Confirmar indicaciones del equipo tratante ante enfermedad aguda o cirugía.",
         "efectos": "Puede aumentar la frecuencia urinaria y favorecer infecciones genitales por hongos. Consulte si presenta picazón, irritación, flujo anormal o molestias al orinar. ",
-        "almacenamiento": "Conserve el medicamento en su envase original, protegido de la humedad y del calor excesivo, y fuera del alcance de los niños. Respete las condiciones de conservación indicadas en el envase o folleto del producto."
+        "almacenamiento": "Mantener en su envase original, en lugar seco y protegido de la luz solar directa y fuentes de calor; evitar el baño y otros lugares húmedos. Respetar siempre la temperatura y las condiciones particulares indicadas en el envase y folleto de la presentación dispensada."
       }
     },
     "evidencia_clinica": [
@@ -885,6 +908,11 @@
         "titulo": "Revisar otros tratamientos",
         "texto": "Si utiliza insulina o sulfonilureas, verificar posibles síntomas de hipoglicemia. Con diuréticos, considerar el riesgo de pérdida de volumen. Derivar al químico farmacéutico cuando corresponda.",
         "tipo": "Consulta QF"
+      },
+      {
+        "titulo": "Conservación segura (orientación ISP)",
+        "texto": "Mantener en su envase original, en lugar seco y protegido de la luz solar directa y fuentes de calor; evitar el baño y otros lugares húmedos. Respetar siempre la temperatura y las condiciones particulares indicadas en el envase y folleto de la presentación dispensada.",
+        "tipo": "Conservación"
       }
     ],
     "pasos_meson": [
@@ -984,14 +1012,14 @@
         "pregunta": "¿Es la primera vez que lo utiliza? ¿Le explicaron cuándo tomarlo y qué molestias requieren consulta?",
         "accion": "Verificar nombre, concentración, pauta prescrita y presentación. Explicar hidratación habitual según indicación clínica y signos de alarma; derivar dudas al químico farmacéutico.",
         "efectos": "Puede aumentar la frecuencia urinaria y favorecer infecciones genitales por hongos. Consulte si presenta picazón, irritación, flujo anormal o molestias al orinar. Revise sus pies y consulte oportunamente por heridas, dolor nuevo, cambios de color o signos de infección. Acuda a urgencias si presenta náuseas o vómitos intensos, dolor abdominal, respiración rápida, somnolencia o debilidad marcada, incluso si la glucosa no está muy elevada. Dolor intenso, enrojecimiento o hinchazón genital o perineal, especialmente con fiebre, también requiere atención urgente.",
-        "almacenamiento": "Conserve el medicamento en su envase original, protegido de la humedad y del calor excesivo, y fuera del alcance de los niños. Respete las condiciones de conservación indicadas en el envase o folleto del producto."
+        "almacenamiento": "Mantener en su envase original, en lugar seco y protegido de la luz solar directa y fuentes de calor; evitar el baño y otros lugares húmedos. Respetar siempre la temperatura y las condiciones particulares indicadas en el envase y folleto de la presentación dispensada."
       },
       "habitual": {
         "consejo": "Mantenga la pauta indicada. Si presenta mareos, debilidad o mucha sed, acuda a un servicio de salud. Ante vómitos o diarrea intensos, imposibilidad de comer o beber, o una cirugía programada, contacte al equipo tratante para recibir indicaciones sobre el manejo temporal y reinicio del medicamento.",
         "pregunta": "¿Ha presentado molestias genitales, mareos o dificultades para alimentarse o hidratarse?",
         "accion": "Reforzar adherencia, evaluar dudas y derivar signos de alarma. Confirmar indicaciones del equipo tratante ante enfermedad aguda o cirugía.",
         "efectos": "Puede aumentar la frecuencia urinaria y favorecer infecciones genitales por hongos. Consulte si presenta picazón, irritación, flujo anormal o molestias al orinar. Revise sus pies y consulte oportunamente por heridas, dolor nuevo, cambios de color o signos de infección.",
-        "almacenamiento": "Conserve el medicamento en su envase original, protegido de la humedad y del calor excesivo, y fuera del alcance de los niños. Respete las condiciones de conservación indicadas en el envase o folleto del producto."
+        "almacenamiento": "Mantener en su envase original, en lugar seco y protegido de la luz solar directa y fuentes de calor; evitar el baño y otros lugares húmedos. Respetar siempre la temperatura y las condiciones particulares indicadas en el envase y folleto de la presentación dispensada."
       }
     },
     "evidencia_clinica": [
@@ -1035,6 +1063,11 @@
         "titulo": "Cuidado de los pies",
         "texto": "Preguntar por heridas, úlceras, dolor o cambios de color en los pies. Una lesión nueva o signos de infección requieren evaluación profesional oportuna.",
         "tipo": "Seguridad"
+      },
+      {
+        "titulo": "Conservación segura (orientación ISP)",
+        "texto": "Mantener en su envase original, en lugar seco y protegido de la luz solar directa y fuentes de calor; evitar el baño y otros lugares húmedos. Respetar siempre la temperatura y las condiciones particulares indicadas en el envase y folleto de la presentación dispensada.",
+        "tipo": "Conservación"
       }
     ],
     "pasos_meson": [
@@ -1116,6 +1149,10 @@
       },
       {
         "nombre": "Jovius 50 mg · folleto para paciente aportado"
+      },
+      {
+        "nombre": "ISP Chile, recomendaciones generales de almacenamiento y adquisición de medicamentos",
+        "url": "https://www.ispch.gob.cl/noticia/isp-entrega-recomendaciones-sobre-el-correcto-almacenamiento-y-adquisicion-de-los-medicamentos/"
       }
     ],
     "revision": "2026-10-28 · revisión editorial por principio activo; comprobación regulatoria final pendiente",
@@ -1125,14 +1162,14 @@
         "consejo": "Puede administrarse con o sin alimentos. Mantenga la pauta indicada y consulte si aparecen molestias persistentes, especialmente dolor abdominal o síntomas compatibles con alteración hepática.",
         "pregunta": "¿Es la primera vez que lo utiliza? ¿Sabe cuándo tomarlo y qué hacer si olvida una dosis?",
         "efectos": "Dolor abdominal intenso y persistente, que puede extenderse hacia la espalda, con o sin náuseas o vómitos: solicitar evaluación médica urgente por posible pancreatitis.",
-        "almacenamiento": "Conservar en su envase original, protegido según las indicaciones del producto y fuera del alcance de niños y mascotas. Confirmar condiciones particulares de esta presentación.",
+        "almacenamiento": "Mantener en su envase original, en lugar seco y protegido de la luz solar directa y fuentes de calor; evitar el baño y otros lugares húmedos. Respetar siempre la temperatura y las condiciones particulares indicadas en el envase y folleto de la presentación dispensada.",
         "accion": "Confirmar medicamento, presentación y pauta. Explicar las recomendaciones principales y consultar al químico farmacéutico si aparece una discrepancia concreta o un síntoma de alarma."
       },
       "habitual": {
         "consejo": "Mantenga la pauta indicada; si olvida una dosis, no duplique la siguiente. Consulte si aparecen molestias importantes o persistentes.",
         "pregunta": "¿Ha podido seguir la pauta indicada? ¿Ha olvidado alguna dosis o notado molestias? ¿Utiliza otros medicamentos para la diabetes?",
         "efectos": "Dolor abdominal intenso y persistente, que puede extenderse hacia la espalda, con o sin náuseas o vómitos: solicitar evaluación médica urgente por posible pancreatitis.",
-        "almacenamiento": "Mantener en su envase y fuera del alcance de niños y mascotas; respetar las condiciones de conservación de la presentación dispensada.",
+        "almacenamiento": "Mantener en su envase original, en lugar seco y protegido de la luz solar directa y fuentes de calor; evitar el baño y otros lugares húmedos. Respetar siempre la temperatura y las condiciones particulares indicadas en el envase y folleto de la presentación dispensada.",
         "accion": "Reforzar la continuidad del tratamiento y revisar dificultades prácticas. Solicitar apoyo profesional solo ante dudas o hallazgos relevantes."
       }
     },
@@ -1151,6 +1188,11 @@
         "tipo": "Seguimiento",
         "titulo": "Tratamientos concomitantes",
         "texto": "Si utiliza insulina o sulfonilureas, reconocer temblor, sudoración, hambre intensa o confusión como posibles síntomas de hipoglucemia."
+      },
+      {
+        "titulo": "Conservación segura (orientación ISP)",
+        "texto": "Mantener en su envase original, en lugar seco y protegido de la luz solar directa y fuentes de calor; evitar el baño y otros lugares húmedos. Respetar siempre la temperatura y las condiciones particulares indicadas en el envase y folleto de la presentación dispensada.",
+        "tipo": "Conservación"
       }
     ],
     "evidencia_clinica": [],
@@ -1214,6 +1256,10 @@
     "fuentes": [
       {
         "nombre": "ISP Chile · Suganon 5 mg (evogliptina), F-27650/23, folleto profesional aportado"
+      },
+      {
+        "nombre": "ISP Chile, recomendaciones generales de almacenamiento y adquisición de medicamentos",
+        "url": "https://www.ispch.gob.cl/noticia/isp-entrega-recomendaciones-sobre-el-correcto-almacenamiento-y-adquisicion-de-los-medicamentos/"
       }
     ],
     "revision": "2026-10-28 · revisión editorial por principio activo; comprobación regulatoria final pendiente",
@@ -1223,14 +1269,14 @@
         "consejo": "Mantenga la toma diaria según su receta. No duplique dosis olvidadas y consulte si presenta dolor abdominal intenso o síntomas de alergia.",
         "pregunta": "¿Es la primera vez que lo utiliza? ¿Sabe cuándo tomarlo y qué hacer si olvida una dosis?",
         "efectos": "Dolor abdominal intenso y persistente, que puede extenderse hacia la espalda, con o sin náuseas o vómitos: solicitar evaluación médica urgente por posible pancreatitis.",
-        "almacenamiento": "Conservar en su envase original, protegido según las indicaciones del producto y fuera del alcance de niños y mascotas. Confirmar condiciones particulares de esta presentación.",
+        "almacenamiento": "Mantener en su envase original, en lugar seco y protegido de la luz solar directa y fuentes de calor; evitar el baño y otros lugares húmedos. Respetar siempre la temperatura y las condiciones particulares indicadas en el envase y folleto de la presentación dispensada.",
         "accion": "Confirmar medicamento, presentación y pauta. Explicar las recomendaciones principales y consultar al químico farmacéutico si aparece una discrepancia concreta o un síntoma de alarma."
       },
       "habitual": {
         "consejo": "Mantenga la pauta indicada; si olvida una dosis, no duplique la siguiente. Consulte si aparecen molestias importantes o persistentes.",
         "pregunta": "¿Ha podido seguir la pauta indicada? ¿Ha olvidado alguna dosis o notado molestias? ¿Utiliza otros medicamentos para la diabetes?",
         "efectos": "Dolor abdominal intenso y persistente, que puede extenderse hacia la espalda, con o sin náuseas o vómitos: solicitar evaluación médica urgente por posible pancreatitis.",
-        "almacenamiento": "Mantener en su envase y fuera del alcance de niños y mascotas; respetar las condiciones de conservación de la presentación dispensada.",
+        "almacenamiento": "Mantener en su envase original, en lugar seco y protegido de la luz solar directa y fuentes de calor; evitar el baño y otros lugares húmedos. Respetar siempre la temperatura y las condiciones particulares indicadas en el envase y folleto de la presentación dispensada.",
         "accion": "Reforzar la continuidad del tratamiento y revisar dificultades prácticas. Solicitar apoyo profesional solo ante dudas o hallazgos relevantes."
       }
     },
@@ -1249,6 +1295,11 @@
         "tipo": "Seguimiento",
         "titulo": "Tratamientos concomitantes",
         "texto": "Si utiliza insulina o sulfonilureas, reconocer temblor, sudoración, hambre intensa o confusión como posibles síntomas de hipoglucemia."
+      },
+      {
+        "titulo": "Conservación segura (orientación ISP)",
+        "texto": "Mantener en su envase original, en lugar seco y protegido de la luz solar directa y fuentes de calor; evitar el baño y otros lugares húmedos. Respetar siempre la temperatura y las condiciones particulares indicadas en el envase y folleto de la presentación dispensada.",
+        "tipo": "Conservación"
       }
     ],
     "evidencia_clinica": [
@@ -1323,6 +1374,10 @@
       {
         "nombre": "EMA · Trajenta, ficha regulatoria",
         "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/trajenta"
+      },
+      {
+        "nombre": "ISP Chile, recomendaciones generales de almacenamiento y adquisición de medicamentos",
+        "url": "https://www.ispch.gob.cl/noticia/isp-entrega-recomendaciones-sobre-el-correcto-almacenamiento-y-adquisicion-de-los-medicamentos/"
       }
     ],
     "revision": "2026-10-28 · revisión editorial por principio activo; comprobación regulatoria final pendiente",
@@ -1332,14 +1387,14 @@
         "consejo": "Puede tomarse con o sin alimentos. Si también utiliza insulina o sulfonilureas, esté atento a síntomas de hipoglucemia.",
         "pregunta": "¿Es la primera vez que lo utiliza? ¿Sabe cuándo tomarlo y qué hacer si olvida una dosis?",
         "efectos": "Dolor abdominal intenso y persistente, que puede extenderse hacia la espalda, con o sin náuseas o vómitos: solicitar evaluación médica urgente por posible pancreatitis.",
-        "almacenamiento": "Conservar en su envase original, protegido según las indicaciones del producto y fuera del alcance de niños y mascotas. Confirmar condiciones particulares de esta presentación.",
+        "almacenamiento": "Mantener en su envase original, en lugar seco y protegido de la luz solar directa y fuentes de calor; evitar el baño y otros lugares húmedos. Respetar siempre la temperatura y las condiciones particulares indicadas en el envase y folleto de la presentación dispensada.",
         "accion": "Confirmar medicamento, presentación y pauta. Explicar las recomendaciones principales y consultar al químico farmacéutico si aparece una discrepancia concreta o un síntoma de alarma."
       },
       "habitual": {
         "consejo": "Mantenga la pauta indicada; si olvida una dosis, no duplique la siguiente. Consulte si aparecen molestias importantes o persistentes.",
         "pregunta": "¿Ha podido seguir la pauta indicada? ¿Ha olvidado alguna dosis o notado molestias? ¿Utiliza otros medicamentos para la diabetes?",
         "efectos": "Dolor abdominal intenso y persistente, que puede extenderse hacia la espalda, con o sin náuseas o vómitos: solicitar evaluación médica urgente por posible pancreatitis.",
-        "almacenamiento": "Mantener en su envase y fuera del alcance de niños y mascotas; respetar las condiciones de conservación de la presentación dispensada.",
+        "almacenamiento": "Mantener en su envase original, en lugar seco y protegido de la luz solar directa y fuentes de calor; evitar el baño y otros lugares húmedos. Respetar siempre la temperatura y las condiciones particulares indicadas en el envase y folleto de la presentación dispensada.",
         "accion": "Reforzar la continuidad del tratamiento y revisar dificultades prácticas. Solicitar apoyo profesional solo ante dudas o hallazgos relevantes."
       }
     },
@@ -1358,6 +1413,11 @@
         "tipo": "Seguimiento",
         "titulo": "Tratamientos concomitantes",
         "texto": "Si utiliza insulina o sulfonilureas, reconocer temblor, sudoración, hambre intensa o confusión como posibles síntomas de hipoglucemia."
+      },
+      {
+        "titulo": "Conservación segura (orientación ISP)",
+        "texto": "Mantener en su envase original, en lugar seco y protegido de la luz solar directa y fuentes de calor; evitar el baño y otros lugares húmedos. Respetar siempre la temperatura y las condiciones particulares indicadas en el envase y folleto de la presentación dispensada.",
+        "tipo": "Conservación"
       }
     ],
     "evidencia_clinica": [],
@@ -1425,6 +1485,10 @@
       {
         "nombre": "SAVOR-TIMI 53 · Scirica et al., NEJM 2013",
         "url": "https://pubmed.ncbi.nlm.nih.gov/23992601/"
+      },
+      {
+        "nombre": "ISP Chile, recomendaciones generales de almacenamiento y adquisición de medicamentos",
+        "url": "https://www.ispch.gob.cl/noticia/isp-entrega-recomendaciones-sobre-el-correcto-almacenamiento-y-adquisicion-de-los-medicamentos/"
       }
     ],
     "revision": "2026-10-28 · revisión editorial por principio activo; comprobación regulatoria final pendiente",
@@ -1434,14 +1498,14 @@
         "consejo": "Siga la pauta prescrita y confirme si toma saxagliptina sola o combinada con otro principio activo. Consulte si aparecen falta de aire, hinchazón de piernas o aumento rápido de peso.",
         "pregunta": "¿Es la primera vez que lo utiliza? ¿Sabe cuándo tomarlo y qué hacer si olvida una dosis?",
         "efectos": "Dolor abdominal intenso y persistente, que puede extenderse hacia la espalda, con o sin náuseas o vómitos: solicitar evaluación médica urgente por posible pancreatitis.",
-        "almacenamiento": "Conservar en su envase original, protegido según las indicaciones del producto y fuera del alcance de niños y mascotas. Confirmar condiciones particulares de esta presentación.",
+        "almacenamiento": "Mantener en su envase original, en lugar seco y protegido de la luz solar directa y fuentes de calor; evitar el baño y otros lugares húmedos. Respetar siempre la temperatura y las condiciones particulares indicadas en el envase y folleto de la presentación dispensada.",
         "accion": "Confirmar medicamento, presentación y pauta. Explicar las recomendaciones principales y consultar al químico farmacéutico si aparece una discrepancia concreta o un síntoma de alarma."
       },
       "habitual": {
         "consejo": "Mantenga la pauta indicada; si olvida una dosis, no duplique la siguiente. Consulte si aparecen molestias importantes o persistentes.",
         "pregunta": "¿Ha podido seguir la pauta indicada? ¿Ha olvidado alguna dosis o notado molestias? ¿Utiliza otros medicamentos para la diabetes?",
         "efectos": "Dolor abdominal intenso y persistente, que puede extenderse hacia la espalda, con o sin náuseas o vómitos: solicitar evaluación médica urgente por posible pancreatitis.",
-        "almacenamiento": "Mantener en su envase y fuera del alcance de niños y mascotas; respetar las condiciones de conservación de la presentación dispensada.",
+        "almacenamiento": "Mantener en su envase original, en lugar seco y protegido de la luz solar directa y fuentes de calor; evitar el baño y otros lugares húmedos. Respetar siempre la temperatura y las condiciones particulares indicadas en el envase y folleto de la presentación dispensada.",
         "accion": "Reforzar la continuidad del tratamiento y revisar dificultades prácticas. Solicitar apoyo profesional solo ante dudas o hallazgos relevantes."
       }
     },
@@ -1460,6 +1524,11 @@
         "tipo": "Seguimiento",
         "titulo": "Tratamientos concomitantes",
         "texto": "Si utiliza insulina o sulfonilureas, reconocer temblor, sudoración, hambre intensa o confusión como posibles síntomas de hipoglucemia."
+      },
+      {
+        "titulo": "Conservación segura (orientación ISP)",
+        "texto": "Mantener en su envase original, en lugar seco y protegido de la luz solar directa y fuentes de calor; evitar el baño y otros lugares húmedos. Respetar siempre la temperatura y las condiciones particulares indicadas en el envase y folleto de la presentación dispensada.",
+        "tipo": "Conservación"
       }
     ],
     "evidencia_clinica": [
@@ -1541,6 +1610,10 @@
       },
       {
         "nombre": "Folleto ISP aportado Rybelsus (B-2944/22); datos de conservación y posología cotejados en PDF local. Vigencia regulatoria actual pendiente de verificación."
+      },
+      {
+        "nombre": "ISP Chile, recomendaciones generales de almacenamiento y adquisición de medicamentos",
+        "url": "https://www.ispch.gob.cl/noticia/isp-entrega-recomendaciones-sobre-el-correcto-almacenamiento-y-adquisicion-de-los-medicamentos/"
       }
     ],
     "revision": "2026-10-12 · ampliación semaglutida con folletos ISP aportados y evidencia primaria; auditoría final pendiente",
@@ -1550,14 +1623,14 @@
         "consejo": "Tomar una vez al día en ayunas, con hasta 120 mL de agua; tragar entero, sin partir/triturar/masticar. Esperar al menos 30 minutos antes de comer, beber o tomar otros medicamentos. Folleto ISP aportado: 3 mg una vez al día durante un mes (inicio); luego 7 mg diarios; después de al menos un mes a 7 mg puede aumentarse a 14 mg diarios según prescripción. No utilizar dos comprimidos de 7 mg para reemplazar 14 mg.",
         "pregunta": "¿Es primera dispensación? ¿Conoce la pauta de escalamiento y utiliza insulina o sulfonilureas?",
         "efectos": "Explicar síntomas gastrointestinales y signos de pancreatitis o deshidratación.",
-        "almacenamiento": "Folleto ISP aportado, sección 6.4: no conservar a más de 30 °C; mantener en blíster original para proteger de humedad y luz.",
+        "almacenamiento": "Conservar en el blíster original, a temperatura no superior a 30 °C y protegido de la humedad y la luz, según el folleto documentado. Además, evitar fuentes de calor y lugares húmedos; cotejar la presentación dispensada.",
         "accion": "Confirmar presentación, indicación y dispositivo; enseñar técnica según fabricante."
       },
       "habitual": {
         "consejo": "Si olvida una dosis, omitirla y tomar la siguiente al día siguiente; no duplicar.",
         "pregunta": "¿Ha tenido vómitos persistentes, hipoglucemias, dificultades de administración o cambios de tratamiento?",
         "efectos": "Revisar tolerancia, hidratación y signos de alarma.",
-        "almacenamiento": "Conservar a ≤30 °C en blíster original; evitar extraer comprimidos anticipadamente.",
+        "almacenamiento": "Conservar en el blíster original, a temperatura no superior a 30 °C y protegido de la humedad y la luz, según el folleto documentado. Además, evitar fuentes de calor y lugares húmedos; cotejar la presentación dispensada.",
         "accion": "Revisar adherencia, escalamiento prescrito y posible duplicidad GLP-1."
       }
     },
@@ -1595,7 +1668,7 @@
       {
         "tipo": "Conservación",
         "titulo": "Blíster original",
-        "texto": "Conservar a temperatura no superior a 30 °C en blíster original para proteger de humedad y luz."
+        "texto": "Conservar a temperatura no superior a 30 °C en blíster original para proteger de humedad y luz. Como recomendación general del ISP, evitar el baño, la humedad y las fuentes de calor; verificar el folleto y la rotulación del producto."
       }
     ],
     "evidencia_clinica": [
@@ -2414,7 +2487,10 @@
     ],
     "renal": "La alteración renal puede aumentar la susceptibilidad a hipoglucemia; revisar ficha técnica de la presentación y derivar dudas al QF.",
     "interacciones": [
-      "Alcohol y medicamentos concomitantes pueden modificar la respuesta glucémica; verificar interacciones concretas con el QF y la ficha del producto."
+      "Mayor riesgo de hipoglucemia: revisar especialmente nuevos tratamientos con cotrimoxazol (trimetoprima/sulfametoxazol), azoles antifúngicos como fluconazol, otros antidiabéticos y consumo de alcohol. La magnitud de la interacción depende del fármaco y del contexto clínico; el QF debe cotejar el principio activo y la ficha autorizada.",
+      "Betabloqueadores: pueden atenuar señales adrenérgicas de hipoglucemia (por ejemplo, palpitaciones y temblor), dificultando su reconocimiento; no implica que todos produzcan el mismo efecto sobre la glucosa.",
+      "Corticoides sistémicos y otros medicamentos hiperglucemiantes pueden reducir el control glicémico; ante inicio, suspensión o cambio de dosis, derivar al QF para revisión del tratamiento.",
+      "Fundamento para el QF: glibenclamida estimula la liberación de insulina incluso cuando disminuye la ingesta; las interacciones que potencian su efecto o disminuyen el aporte de glucosa elevan el riesgo de hipoglucemia prolongada. Priorizar episodios previos, comidas omitidas y función renal/hepática. No modificar tratamientos desde la PWA."
     ],
     "alertas": [
       {
@@ -2451,6 +2527,10 @@
       {
         "nombre": "Laboratorio Chile, Glibenclamida comprimidos 5 mg, folleto informativo aportado",
         "url": ""
+      },
+      {
+        "nombre": "ISP Chile, recomendaciones generales de almacenamiento y adquisición de medicamentos",
+        "url": "https://www.ispch.gob.cl/noticia/isp-entrega-recomendaciones-sobre-el-correcto-almacenamiento-y-adquisicion-de-los-medicamentos/"
       }
     ],
     "guia_meson": {
@@ -2463,14 +2543,14 @@
         "pregunta": "¿Mantiene horarios regulares de comida? ¿Ha tenido temblores, sudor frío o confusión? ¿Presenta enfermedad renal o hepática conocida?",
         "consejo": "No omita comidas y siga la pauta indicada. Si olvida una dosis, no duplique la siguiente; consulte el folleto de su presentación.",
         "efectos": "Reconocer hipoglucemia; ante confusión grave, convulsiones o pérdida de conciencia solicitar urgencias.",
-        "almacenamiento": "Conservar según el envase y folleto del producto dispensado.",
+        "almacenamiento": "Mantener en su envase original, en lugar seco y protegido de la luz solar directa y fuentes de calor; evitar el baño y otros lugares húmedos. Respetar siempre la temperatura y las condiciones particulares indicadas en el envase y folleto de la presentación dispensada.",
         "accion": "Verificar receta y presentación; reforzar educación y consultar al QF ante discrepancias."
       },
       "habitual": {
         "pregunta": "¿Ha presentado episodios de hipoglucemia, cambios de alimentación o medicamentos nuevos?",
         "consejo": "No omita comidas y siga la pauta indicada. Si olvida una dosis, no duplique la siguiente; consulte el folleto de su presentación.",
         "efectos": "Consultar por hipoglucemias repetidas o graves.",
-        "almacenamiento": "Respetar las indicaciones del envase.",
+        "almacenamiento": "Mantener en su envase original, en lugar seco y protegido de la luz solar directa y fuentes de calor; evitar el baño y otros lugares húmedos. Respetar siempre la temperatura y las condiciones particulares indicadas en el envase y folleto de la presentación dispensada.",
         "accion": "Reforzar educación y derivar alertas al QF."
       }
     },
@@ -2484,6 +2564,11 @@
         "titulo": "No modificar el tratamiento",
         "texto": "La PWA no indica ajustar, suspender o sustituir tratamientos. Consultar al profesional tratante.",
         "tipo": "Educación"
+      },
+      {
+        "titulo": "Conservación segura (orientación ISP)",
+        "texto": "Mantener en su envase original, en lugar seco y protegido de la luz solar directa y fuentes de calor; evitar el baño y otros lugares húmedos. Respetar siempre la temperatura y las condiciones particulares indicadas en el envase y folleto de la presentación dispensada.",
+        "tipo": "Conservación"
       }
     ],
     "ampliada_qf": {
@@ -2493,7 +2578,13 @@
       "interacciones_especificas": "El folleto chileno de glibenclamida 5 mg menciona AINE, IECA, quinolonas, corticosteroides, rifampicina y otros; el efecto puede variar. Revisar fármaco, dosis y contexto antes de aconsejar.",
       "evidencia_y_limitaciones": "El metaanálisis de Volke et al. (2022) aporta evidencia comparativa de riesgo de hipoglucemia a nivel de clase; no justifica ajustes individuales.",
       "detalle_regulatorio": "MINSAL, Ord. C51 N.º 2191 (16-12-2025): en la red APS se instruye no programar ni comprar glibenclamida desde 2026, disminuir progresivamente su indicación y no iniciar nuevos tratamientos desde 2026. Para quienes ya la utilizan, la indicación del cambio debe quedar realizada a más tardar el 30-06-2027, durante la atención médica habitual. El oficio no acredita por sí solo implementación local ni cancelación del registro sanitario."
-    }
+    },
+    "pasos_meson": [
+      {
+        "pregunta": "¿Comenzó algún medicamento nuevo, especialmente antimicrobianos, antifúngicos o corticoides? ¿Usa betabloqueadores?",
+        "accion": "Revisar riesgo de hipoglucemia, cambios de control glicémico o síntomas enmascarados y derivar al QF; verificar interacciones específicas en la ficha del producto."
+      }
+    ]
   },
   {
     "familia": "Sulfonilurea",
@@ -2520,7 +2611,10 @@
     ],
     "renal": "La alteración renal puede aumentar la susceptibilidad a hipoglucemia; revisar ficha técnica de la presentación y derivar dudas al QF.",
     "interacciones": [
-      "La ficha AEMPS destaca miconazol como interacción importante; verificar alcance según presentación y vía."
+      "Miconazol, especialmente por vía sistémica o gel oral: interacción clínicamente importante por potenciación del efecto hipoglucemiante; verificar la contraindicación o restricción aplicable en la ficha técnica de la presentación.",
+      "Otros fármacos que pueden aumentar el riesgo de hipoglucemia incluyen algunos azoles, otros antidiabéticos y alcohol; confirmar el principio activo, la vía y la relevancia concreta con el QF.",
+      "Betabloqueadores pueden enmascarar síntomas adrenérgicos de hipoglucemia; los corticoides sistémicos pueden dificultar el control glicémico. Indagar por medicamentos iniciados recientemente.",
+      "Fundamento para el QF: la potenciación del efecto secretagogo puede producir hipoglucemia; la relevancia de una interacción no se extrapola automáticamente entre formulaciones de gliclazida convencional y de liberación modificada. Cotejar ficha autorizada y tratamiento completo."
     ],
     "alertas": [
       {
@@ -2557,6 +2651,10 @@
       {
         "nombre": "UpToDate, Gliclazide: Drug information (material de consulta aportado)",
         "url": "https://www.uptodate.com/contents/gliclazide-united-states-not-available-drug-information"
+      },
+      {
+        "nombre": "ISP Chile, recomendaciones generales de almacenamiento y adquisición de medicamentos",
+        "url": "https://www.ispch.gob.cl/noticia/isp-entrega-recomendaciones-sobre-el-correcto-almacenamiento-y-adquisicion-de-los-medicamentos/"
       }
     ],
     "guia_meson": {
@@ -2569,14 +2667,14 @@
         "pregunta": "¿El envase indica liberación modificada? ¿Desayuna regularmente? ¿Ha tenido episodios de glucosa baja?",
         "consejo": "Compruebe si su medicamento es de liberación modificada y siga la indicación de su presentación; no duplique dosis olvidadas.",
         "efectos": "Reconocer hipoglucemia; ante confusión grave, convulsiones o pérdida de conciencia solicitar urgencias.",
-        "almacenamiento": "Conservar según el envase y folleto del producto dispensado.",
+        "almacenamiento": "Mantener en su envase original, en lugar seco y protegido de la luz solar directa y fuentes de calor; evitar el baño y otros lugares húmedos. Respetar siempre la temperatura y las condiciones particulares indicadas en el envase y folleto de la presentación dispensada.",
         "accion": "Verificar receta y presentación; reforzar educación y consultar al QF ante discrepancias."
       },
       "habitual": {
         "pregunta": "¿Ha presentado episodios de hipoglucemia, cambios de alimentación o medicamentos nuevos?",
         "consejo": "Compruebe si su medicamento es de liberación modificada y siga la indicación de su presentación; no duplique dosis olvidadas.",
         "efectos": "Consultar por hipoglucemias repetidas o graves.",
-        "almacenamiento": "Respetar las indicaciones del envase.",
+        "almacenamiento": "Mantener en su envase original, en lugar seco y protegido de la luz solar directa y fuentes de calor; evitar el baño y otros lugares húmedos. Respetar siempre la temperatura y las condiciones particulares indicadas en el envase y folleto de la presentación dispensada.",
         "accion": "Reforzar educación y derivar alertas al QF."
       }
     },
@@ -2590,6 +2688,11 @@
         "titulo": "No modificar el tratamiento",
         "texto": "La PWA no indica ajustar, suspender o sustituir tratamientos. Consultar al profesional tratante.",
         "tipo": "Educación"
+      },
+      {
+        "titulo": "Conservación segura (orientación ISP)",
+        "texto": "Mantener en su envase original, en lugar seco y protegido de la luz solar directa y fuentes de calor; evitar el baño y otros lugares húmedos. Respetar siempre la temperatura y las condiciones particulares indicadas en el envase y folleto de la presentación dispensada.",
+        "tipo": "Conservación"
       }
     ],
     "ampliada_qf": {
@@ -2599,7 +2702,13 @@
       "interacciones_especificas": "La información farmacológica consultada advierte interacciones que aumentan el riesgo de hipoglucemia, entre ellas miconazol; confirmar vía de administración y ficha del producto antes de orientar.",
       "evidencia_y_limitaciones": "Pan et al. (2024) aporta contexto sobre riesgo de hipoglucemia en adultos mayores, no recomendaciones de cambio terapéutico.",
       "detalle_regulatorio": "Las instrucciones de gliclazida LM 30 mg españolas no se extrapolan a todas las formulaciones chilenas."
-    }
+    },
+    "pasos_meson": [
+      {
+        "pregunta": "¿Comenzó algún medicamento nuevo, especialmente antimicrobianos, antifúngicos o corticoides? ¿Usa betabloqueadores?",
+        "accion": "Revisar riesgo de hipoglucemia, cambios de control glicémico o síntomas enmascarados y derivar al QF; verificar interacciones específicas en la ficha del producto."
+      }
+    ]
   },
   {
     "familia": "Sulfonilurea",
@@ -2626,7 +2735,10 @@
     ],
     "renal": "La alteración renal puede aumentar la susceptibilidad a hipoglucemia; revisar ficha técnica de la presentación y derivar dudas al QF.",
     "interacciones": [
-      "Interacciones capaces de aumentar o disminuir el efecto hipoglucemiante; verificar medicación concomitante."
+      "Mayor riesgo de hipoglucemia con medicamentos que potencian el efecto hipoglucemiante, entre ellos algunos antifúngicos azólicos (por ejemplo, fluconazol), otros antidiabéticos y alcohol. Consultar al QF ante incorporación de estos tratamientos.",
+      "Betabloqueadores pueden atenuar señales de alarma adrenérgicas de hipoglucemia; verificar antecedentes de episodios y educación del paciente.",
+      "Corticoides sistémicos y otros fármacos hiperglucemiantes pueden disminuir el control glicémico. No sugerir ajustes de dosis desde el mesón.",
+      "Fundamento para el QF: glimepirida es metabolizada principalmente por CYP2C9; inhibidores o inductores pueden modificar su exposición, pero la conducta depende del fármaco específico, comorbilidades y ficha autorizada. Distinguir alteraciones de glicemia del enmascaramiento de síntomas."
     ],
     "alertas": [
       {
@@ -2659,6 +2771,10 @@
       {
         "nombre": "UpToDate, Glimepiride: Drug information (material de consulta aportado)",
         "url": "https://www.uptodate.com/contents/glimepiride-drug-information"
+      },
+      {
+        "nombre": "ISP Chile, recomendaciones generales de almacenamiento y adquisición de medicamentos",
+        "url": "https://www.ispch.gob.cl/noticia/isp-entrega-recomendaciones-sobre-el-correcto-almacenamiento-y-adquisicion-de-los-medicamentos/"
       }
     ],
     "guia_meson": {
@@ -2671,14 +2787,14 @@
         "pregunta": "¿La toma con el desayuno o primera comida principal? ¿Se salta comidas? ¿Ha notado síntomas de glucosa baja?",
         "consejo": "Mantenga la administración vinculada a la comida indicada en su receta y no duplique dosis olvidadas.",
         "efectos": "Reconocer hipoglucemia; ante confusión grave, convulsiones o pérdida de conciencia solicitar urgencias.",
-        "almacenamiento": "Conservar según el envase y folleto del producto dispensado.",
+        "almacenamiento": "Mantener en su envase original, en lugar seco y protegido de la luz solar directa y fuentes de calor; evitar el baño y otros lugares húmedos. Respetar siempre la temperatura y las condiciones particulares indicadas en el envase y folleto de la presentación dispensada.",
         "accion": "Verificar receta y presentación; reforzar educación y consultar al QF ante discrepancias."
       },
       "habitual": {
         "pregunta": "¿Ha presentado episodios de hipoglucemia, cambios de alimentación o medicamentos nuevos?",
         "consejo": "Mantenga la administración vinculada a la comida indicada en su receta y no duplique dosis olvidadas.",
         "efectos": "Consultar por hipoglucemias repetidas o graves.",
-        "almacenamiento": "Respetar las indicaciones del envase.",
+        "almacenamiento": "Mantener en su envase original, en lugar seco y protegido de la luz solar directa y fuentes de calor; evitar el baño y otros lugares húmedos. Respetar siempre la temperatura y las condiciones particulares indicadas en el envase y folleto de la presentación dispensada.",
         "accion": "Reforzar educación y derivar alertas al QF."
       }
     },
@@ -2692,6 +2808,11 @@
         "titulo": "No modificar el tratamiento",
         "texto": "La PWA no indica ajustar, suspender o sustituir tratamientos. Consultar al profesional tratante.",
         "tipo": "Educación"
+      },
+      {
+        "titulo": "Conservación segura (orientación ISP)",
+        "texto": "Mantener en su envase original, en lugar seco y protegido de la luz solar directa y fuentes de calor; evitar el baño y otros lugares húmedos. Respetar siempre la temperatura y las condiciones particulares indicadas en el envase y folleto de la presentación dispensada.",
+        "tipo": "Conservación"
       }
     ],
     "ampliada_qf": {
@@ -2701,6 +2822,12 @@
       "interacciones_especificas": "Revisar especialmente medicamentos nuevos capaces de potenciar o disminuir el efecto hipoglucemiante; confirmar interacciones específicas en la ficha del producto antes de orientar.",
       "evidencia_y_limitaciones": "La evidencia comparativa de clase no determina por sí sola que glimepirida sea apropiada para una persona concreta.",
       "detalle_regulatorio": "Confirmar las condiciones de administración y posibilidad de fraccionamiento del comprimido según fabricante."
-    }
+    },
+    "pasos_meson": [
+      {
+        "pregunta": "¿Comenzó algún medicamento nuevo, especialmente antimicrobianos, antifúngicos o corticoides? ¿Usa betabloqueadores?",
+        "accion": "Revisar riesgo de hipoglucemia, cambios de control glicémico o síntomas enmascarados y derivar al QF; verificar interacciones específicas en la ficha del producto."
+      }
+    ]
   }
 ]
