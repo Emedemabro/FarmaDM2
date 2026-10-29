@@ -1,0 +1,1 @@
+v46 parcial: separacion de catalogos por id/categoria_catalogo; correccion del apartado Insulinas; eliminacion del bloque duplicado Consejos complementarios. Aun no incorpora fichas nuevas de insulina ni validacion clinica.
