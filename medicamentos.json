@@ -2953,5 +2953,263 @@
         "fuente": "Tsai Y-Y, Gu Y-S, Jiang Y-D. An update of contemporary insulin therapy. Journal of Diabetes Investigation. 2024;15(8):1000–1002. doi:10.1111/jdi.14212. Tabla 1."
       }
     }
+  },
+  {
+    "id": "insulina-asparta",
+    "nombre": "Insulina asparta",
+    "familia": "Análogo de insulina de acción rápida",
+    "via": "Subcutánea",
+    "estado": "Borrador documental · requiere validación farmacoterapéutica",
+    "descripcion": "Análogo de insulina prandial de acción rápida utilizado para controlar el incremento de glucosa asociado a las comidas. La información describe el principio activo; el horario específico depende de la formulación y la pauta prescrita.",
+    "seguridad": [
+      "Confirmar que se trata de un análogo prandial rápido; no confundir con insulinas basales ni sustituir automáticamente entre insulinas o formulaciones.",
+      "Reforzar el momento de administración respecto de la comida según prescripción y prospecto: puede variar entre formulaciones.",
+      "Rotar los puntos de inyección dentro de las zonas indicadas y evitar áreas con bultos o endurecimientos.",
+      "Comprobar que el paciente conoce signos de hipoglicemia y dispone de un plan de actuación.",
+      "Conservación habitual de presentaciones sin abrir: refrigeración entre 2 y 8 °C, sin congelar; las condiciones tras apertura deben verificarse en el prospecto.",
+      "Verificar integridad del envase, aspecto de la solución y fecha de vencimiento; no utilizar si presenta alteraciones incompatibles con el prospecto."
+    ],
+    "dispensacion": "Verificar principio activo, concentración, dispositivo y pauta prescrita. Reforzar la coordinación con las comidas conforme al prospecto de la formulación dispensada, la rotación de sitios y el reconocimiento de hipoglicemia.",
+    "marcas": [],
+    "mecanismo": "Agonista del receptor de insulina: favorece la captación periférica de glucosa y reduce la producción hepática. Las modificaciones estructurales favorecen una absorción subcutánea más rápida que la insulina humana regular.",
+    "reacciones": [
+      "Hipoglicemia: sudoración, temblor, palpitaciones, hambre, debilidad, mareo; en casos graves, confusión, convulsiones o pérdida de conciencia. La gravedad exige atención urgente.",
+      "Lipohipertrofia o alteraciones del tejido subcutáneo por inyectar reiteradamente en el mismo punto: pueden causar absorción errática; revisar y rotar los sitios de inyección.",
+      "Dolor, eritema o irritación local; evaluar si persisten o progresan.",
+      "Hipopotasemia: riesgo farmacológico relevante en determinadas situaciones clínicas, especialmente para evaluación del QF."
+    ],
+    "renal": "La disminución de la función renal puede modificar la depuración y los requerimientos de insulina, con posible aumento del riesgo de hipoglicemia. Requiere evaluación clínica individualizada.",
+    "interacciones": [
+      "Betabloqueadores (p. ej., propranolol, metoprolol, atenolol y carvedilol): pueden atenuar signos adrenérgicos de hipoglicemia, especialmente la taquicardia; la sudoración puede persistir.",
+      "Sulfonilureas (p. ej., gliclazida o glibenclamida): la asociación con insulina puede aumentar el riesgo de hipoglicemia; corresponde revisar el tratamiento completo."
+    ],
+    "alertas": [
+      {
+        "nivel": "Evaluación inmediata",
+        "titulo": "Hipoglicemia grave",
+        "detalle": "Alteración de conciencia, convulsiones o incapacidad para tragar: solicitar atención urgente; no administrar nada por vía oral."
+      },
+      {
+        "nivel": "Revisión farmacéutica",
+        "titulo": "Confusión de insulina o dispositivo",
+        "detalle": "Comprobar nombre, concentración y presentación con receta y envase; no sustituir automáticamente."
+      }
+    ],
+    "fuentes": [
+      {
+        "nombre": "UpToDate, Insulin aspart: Drug information (documento aportado)"
+      },
+      {
+        "nombre": "MINSAL Chile, Protocolo de insulinización para personas con DM2 (documento aportado)"
+      },
+      {
+        "nombre": "SOCHIDIAB, Consenso chileno de manejo de DM2 (documento aportado)"
+      },
+      {
+        "nombre": "Tsai Y-Y, Gu Y-S, Jiang Y-D. An update of contemporary insulin therapy. J Diabetes Investig. 2024;15:1000–1002. doi:10.1111/jdi.14212. Tabla 1; los rangos solo se utilizan cuando la insulina está incluida.",
+        "url": "https://doi.org/10.1111/jdi.14212"
+      },
+      {
+        "nombre": "ISP Chile, Rapilog / Rapilog One: folleto de insulina asparta (documento aportado)"
+      }
+    ],
+    "revision": "Borrador v47.5: análogos rápidos por principio activo; revisión profesional pendiente. Rangos numéricos de Tsai et al. solo para asparta y lispro.",
+    "validacion": "Ficha educativa en revisión; los horarios exactos, las condiciones tras apertura y los dispositivos requieren cotejo del prospecto.",
+    "dispensacion_rapida": {
+      "primera": {
+        "consejo": "Confirme el dispositivo, la concentración y la pauta prescrita. Explique que esta insulina se utiliza para cubrir las comidas; verifique con el prospecto el momento de administración de la formulación entregada. Enseñe rotación de puntos, monitoreo indicado y signos de hipoglicemia.",
+        "pregunta": "¿Le explicaron cuándo aplicarla en relación con la comida y qué hacer si se retrasa o no puede comer?",
+        "almacenamiento": "Sin abrir, refrigeración habitual entre 2 y 8 °C, sin congelar; verificar instrucciones del producto."
+      },
+      "habitual": {
+        "consejo": "Pregunte por horarios, comidas omitidas o retrasadas, episodios de hipoglicemia, dificultades con el dispositivo y bultos en sitios de inyección. Verifique fecha de apertura y conservación conforme al prospecto.",
+        "pregunta": "¿Ha tenido bajas de glucosa cuando se retrasa una comida o cambia su rutina?",
+        "almacenamiento": "Consultar en el prospecto del producto el plazo y las condiciones de conservación tras el primer uso."
+      }
+    },
+    "guia_meson": {
+      "preguntas": "¿En qué momento respecto de las comidas le indicaron inyectarse? ¿Qué hace si se retrasa la comida? ¿Ha tenido temblores, sudor frío, hambre intensa o confusión? ¿Rota los puntos de inyección?",
+      "explicacion": "«Esta insulina está destinada a cubrir la subida de glucosa relacionada con las comidas. Respete el horario y la dosis indicados; el momento exacto de inyección debe confirmarse para su presentación. Si no puede comer como estaba previsto, siga el plan indicado por su equipo de salud y consulte si tiene dudas. Rote los puntos de inyección para prevenir bultos que pueden alterar la absorción. Sudoración, temblor, palpitaciones, hambre repentina o confusión pueden ser signos de hipoglicemia».",
+      "alertas": "Si la persona está consciente y puede tragar, seguir el protocolo de hipoglicemia indicado por su equipo: MINSAL describe 15 g de carbohidratos de absorción rápida y nueva medición a los 15 minutos, repitiendo si persiste la baja. Si no puede tragar, convulsiona o pierde la conciencia: urgencia; no administrar alimentos ni líquidos por boca. Derivar al QF ante hipoglicemias repetidas, dudas de dispositivo, concentración o pauta."
+    },
+    "posicionamiento": "En DM2, la insulina prandial puede incorporarse cuando se requiere controlar la hiperglicemia asociada a las comidas, según evaluación individual y esquema basal existente. Los análogos rápidos presentan un comienzo de acción más próximo a la ingesta que la insulina humana regular; esto puede facilitar la coordinación con las comidas, pero no elimina el riesgo de hipoglicemia ni permite modificar por cuenta propia el horario.",
+    "ampliada_qf": {
+      "titulo_foco": "ADME y perfil de acción de insulina asparta",
+      "farmacocinetica_y_seleccion": "Absorción: modificaciones en la secuencia de aminoácidos que disminuyen la autoasociación y favorecen una absorción subcutánea más rápida. Tras inyección subcutánea, la velocidad de absorción también depende del sitio, perfusión, dosis y técnica. Perfil teórico de acción subcutánea (Tsai et al., 2024, tabla 1): inicio 5–15 minutos; máximo efecto 30–90 minutos; duración 4–6 horas. Estos valores describen efecto farmacodinámico y varían según dosis, técnica y formulación.",
+      "fundamento": "Distribución: una vez absorbida, la insulina llega a la circulación y actúa sobre receptores en tejidos diana, promoviendo utilización de glucosa y reduciendo producción hepática. Metabolismo: degradación proteolítica, con participación hepática y renal; no depende del CYP450. Excreción y eliminación: la depuración renal participa en la eliminación y su deterioro puede modificar requerimientos y riesgo de hipoglicemia. La semivida plasmática no equivale a la duración del efecto desde el depósito subcutáneo.",
+      "interacciones_especificas": "Sulfonilureas (por ejemplo, gliclazida o glibenclamida) pueden aumentar el riesgo de hipoglicemia con insulina. Betabloqueadores (por ejemplo, propranolol o metoprolol) pueden atenuar manifestaciones adrenérgicas, especialmente taquicardia; la sudoración puede persistir. Revisar además comidas omitidas, alcohol, actividad física y función renal.",
+      "evidencia_y_limitaciones": "Los perfiles de acción son orientativos y no sustituyen las especificaciones de cada formulación. El documento de Tsai et al. (2024) incluye rangos para asparta y lispro, pero no para glulisina. SOCHIDIAB y MINSAL aportan contexto de atención chilena; las indicaciones comerciales se cotejan con prospectos.",
+      "detalle_regulatorio": "Verificar rotulado, concentración, dispositivo, integridad y conservación de la presentación dispensada. No asumir equivalencia de horario entre formulaciones del mismo principio activo. FarmaDM2 es un apoyo educativo, no una herramienta autónoma de decisión clínica ni de ajuste de dosis."
+    }
+  },
+  {
+    "id": "insulina-lispro",
+    "nombre": "Insulina lispro",
+    "familia": "Análogo de insulina de acción rápida",
+    "via": "Subcutánea",
+    "estado": "Borrador documental · requiere validación farmacoterapéutica",
+    "descripcion": "Análogo de insulina prandial de acción rápida utilizado para controlar el incremento de glucosa asociado a las comidas. La información describe el principio activo; el horario específico depende de la formulación y la pauta prescrita.",
+    "seguridad": [
+      "Confirmar que se trata de un análogo prandial rápido; no confundir con insulinas basales ni sustituir automáticamente entre insulinas o formulaciones.",
+      "Reforzar el momento de administración respecto de la comida según prescripción y prospecto: puede variar entre formulaciones.",
+      "Rotar los puntos de inyección dentro de las zonas indicadas y evitar áreas con bultos o endurecimientos.",
+      "Comprobar que el paciente conoce signos de hipoglicemia y dispone de un plan de actuación.",
+      "Conservación habitual de presentaciones sin abrir: refrigeración entre 2 y 8 °C, sin congelar; las condiciones tras apertura deben verificarse en el prospecto.",
+      "Verificar integridad del envase, aspecto de la solución y fecha de vencimiento; no utilizar si presenta alteraciones incompatibles con el prospecto."
+    ],
+    "dispensacion": "Verificar principio activo, concentración, dispositivo y pauta prescrita. Reforzar la coordinación con las comidas conforme al prospecto de la formulación dispensada, la rotación de sitios y el reconocimiento de hipoglicemia.",
+    "marcas": [],
+    "mecanismo": "Agonista del receptor de insulina: favorece la captación periférica de glucosa y reduce la producción hepática. Las modificaciones estructurales favorecen una absorción subcutánea más rápida que la insulina humana regular.",
+    "reacciones": [
+      "Hipoglicemia: sudoración, temblor, palpitaciones, hambre, debilidad, mareo; en casos graves, confusión, convulsiones o pérdida de conciencia. La gravedad exige atención urgente.",
+      "Lipohipertrofia o alteraciones del tejido subcutáneo por inyectar reiteradamente en el mismo punto: pueden causar absorción errática; revisar y rotar los sitios de inyección.",
+      "Dolor, eritema o irritación local; evaluar si persisten o progresan.",
+      "Hipopotasemia: riesgo farmacológico relevante en determinadas situaciones clínicas, especialmente para evaluación del QF."
+    ],
+    "renal": "La disminución de la función renal puede modificar la depuración y los requerimientos de insulina, con posible aumento del riesgo de hipoglicemia. Requiere evaluación clínica individualizada.",
+    "interacciones": [
+      "Betabloqueadores (p. ej., propranolol, metoprolol, atenolol y carvedilol): pueden atenuar signos adrenérgicos de hipoglicemia, especialmente la taquicardia; la sudoración puede persistir.",
+      "Sulfonilureas (p. ej., gliclazida o glibenclamida): la asociación con insulina puede aumentar el riesgo de hipoglicemia; corresponde revisar el tratamiento completo."
+    ],
+    "alertas": [
+      {
+        "nivel": "Evaluación inmediata",
+        "titulo": "Hipoglicemia grave",
+        "detalle": "Alteración de conciencia, convulsiones o incapacidad para tragar: solicitar atención urgente; no administrar nada por vía oral."
+      },
+      {
+        "nivel": "Revisión farmacéutica",
+        "titulo": "Confusión de insulina o dispositivo",
+        "detalle": "Comprobar nombre, concentración y presentación con receta y envase; no sustituir automáticamente."
+      }
+    ],
+    "fuentes": [
+      {
+        "nombre": "UpToDate, Insulin lispro: Drug information (documento aportado)"
+      },
+      {
+        "nombre": "MINSAL Chile, Protocolo de insulinización para personas con DM2 (documento aportado)"
+      },
+      {
+        "nombre": "SOCHIDIAB, Consenso chileno de manejo de DM2 (documento aportado)"
+      },
+      {
+        "nombre": "Tsai Y-Y, Gu Y-S, Jiang Y-D. An update of contemporary insulin therapy. J Diabetes Investig. 2024;15:1000–1002. doi:10.1111/jdi.14212. Tabla 1; los rangos solo se utilizan cuando la insulina está incluida.",
+        "url": "https://doi.org/10.1111/jdi.14212"
+      }
+    ],
+    "revision": "Borrador v47.5: análogos rápidos por principio activo; revisión profesional pendiente. Rangos numéricos de Tsai et al. solo para asparta y lispro.",
+    "validacion": "Ficha educativa en revisión; los horarios exactos, las condiciones tras apertura y los dispositivos requieren cotejo del prospecto.",
+    "dispensacion_rapida": {
+      "primera": {
+        "consejo": "Confirme el dispositivo, la concentración y la pauta prescrita. Explique que esta insulina se utiliza para cubrir las comidas; verifique con el prospecto el momento de administración de la formulación entregada. Enseñe rotación de puntos, monitoreo indicado y signos de hipoglicemia.",
+        "pregunta": "¿Le explicaron cuándo aplicarla en relación con la comida y qué hacer si se retrasa o no puede comer?",
+        "almacenamiento": "Sin abrir, refrigeración habitual entre 2 y 8 °C, sin congelar; verificar instrucciones del producto."
+      },
+      "habitual": {
+        "consejo": "Pregunte por horarios, comidas omitidas o retrasadas, episodios de hipoglicemia, dificultades con el dispositivo y bultos en sitios de inyección. Verifique fecha de apertura y conservación conforme al prospecto.",
+        "pregunta": "¿Ha tenido bajas de glucosa cuando se retrasa una comida o cambia su rutina?",
+        "almacenamiento": "Consultar en el prospecto del producto el plazo y las condiciones de conservación tras el primer uso."
+      }
+    },
+    "guia_meson": {
+      "preguntas": "¿En qué momento respecto de las comidas le indicaron inyectarse? ¿Qué hace si se retrasa la comida? ¿Ha tenido temblores, sudor frío, hambre intensa o confusión? ¿Rota los puntos de inyección?",
+      "explicacion": "«Esta insulina está destinada a cubrir la subida de glucosa relacionada con las comidas. Respete el horario y la dosis indicados; el momento exacto de inyección debe confirmarse para su presentación. Si no puede comer como estaba previsto, siga el plan indicado por su equipo de salud y consulte si tiene dudas. Rote los puntos de inyección para prevenir bultos que pueden alterar la absorción. Sudoración, temblor, palpitaciones, hambre repentina o confusión pueden ser signos de hipoglicemia».",
+      "alertas": "Si la persona está consciente y puede tragar, seguir el protocolo de hipoglicemia indicado por su equipo: MINSAL describe 15 g de carbohidratos de absorción rápida y nueva medición a los 15 minutos, repitiendo si persiste la baja. Si no puede tragar, convulsiona o pierde la conciencia: urgencia; no administrar alimentos ni líquidos por boca. Derivar al QF ante hipoglicemias repetidas, dudas de dispositivo, concentración o pauta."
+    },
+    "posicionamiento": "En DM2, la insulina prandial puede incorporarse cuando se requiere controlar la hiperglicemia asociada a las comidas, según evaluación individual y esquema basal existente. Los análogos rápidos presentan un comienzo de acción más próximo a la ingesta que la insulina humana regular; esto puede facilitar la coordinación con las comidas, pero no elimina el riesgo de hipoglicemia ni permite modificar por cuenta propia el horario.",
+    "ampliada_qf": {
+      "titulo_foco": "ADME y perfil de acción de insulina lispro",
+      "farmacocinetica_y_seleccion": "Absorción: inversión de aminoácidos en la cadena B que reduce la autoasociación y facilita una absorción subcutánea rápida. Tras inyección subcutánea, la velocidad de absorción también depende del sitio, perfusión, dosis y técnica. Perfil teórico de acción subcutánea (Tsai et al., 2024, tabla 1): inicio 5–15 minutos; máximo efecto 30–90 minutos; duración 4–6 horas. Estos valores describen efecto farmacodinámico y varían según dosis, técnica y formulación.",
+      "fundamento": "Distribución: una vez absorbida, la insulina llega a la circulación y actúa sobre receptores en tejidos diana, promoviendo utilización de glucosa y reduciendo producción hepática. Metabolismo: degradación proteolítica, con participación hepática y renal; no depende del CYP450. Excreción y eliminación: la depuración renal participa en la eliminación y su deterioro puede modificar requerimientos y riesgo de hipoglicemia. La semivida plasmática no equivale a la duración del efecto desde el depósito subcutáneo.",
+      "interacciones_especificas": "Sulfonilureas (por ejemplo, gliclazida o glibenclamida) pueden aumentar el riesgo de hipoglicemia con insulina. Betabloqueadores (por ejemplo, propranolol o metoprolol) pueden atenuar manifestaciones adrenérgicas, especialmente taquicardia; la sudoración puede persistir. Revisar además comidas omitidas, alcohol, actividad física y función renal.",
+      "evidencia_y_limitaciones": "Los perfiles de acción son orientativos y no sustituyen las especificaciones de cada formulación. El documento de Tsai et al. (2024) incluye rangos para asparta y lispro, pero no para glulisina. SOCHIDIAB y MINSAL aportan contexto de atención chilena; las indicaciones comerciales se cotejan con prospectos.",
+      "detalle_regulatorio": "Verificar rotulado, concentración, dispositivo, integridad y conservación de la presentación dispensada. No asumir equivalencia de horario entre formulaciones del mismo principio activo. FarmaDM2 es un apoyo educativo, no una herramienta autónoma de decisión clínica ni de ajuste de dosis."
+    }
+  },
+  {
+    "id": "insulina-glulisina",
+    "nombre": "Insulina glulisina",
+    "familia": "Análogo de insulina de acción rápida",
+    "via": "Subcutánea",
+    "estado": "Borrador documental · requiere validación farmacoterapéutica",
+    "descripcion": "Análogo de insulina prandial de acción rápida utilizado para controlar el incremento de glucosa asociado a las comidas. La información describe el principio activo; el horario específico depende de la formulación y la pauta prescrita.",
+    "seguridad": [
+      "Confirmar que se trata de un análogo prandial rápido; no confundir con insulinas basales ni sustituir automáticamente entre insulinas o formulaciones.",
+      "Reforzar el momento de administración respecto de la comida según prescripción y prospecto: puede variar entre formulaciones.",
+      "Rotar los puntos de inyección dentro de las zonas indicadas y evitar áreas con bultos o endurecimientos.",
+      "Comprobar que el paciente conoce signos de hipoglicemia y dispone de un plan de actuación.",
+      "Conservación habitual de presentaciones sin abrir: refrigeración entre 2 y 8 °C, sin congelar; las condiciones tras apertura deben verificarse en el prospecto.",
+      "Verificar integridad del envase, aspecto de la solución y fecha de vencimiento; no utilizar si presenta alteraciones incompatibles con el prospecto."
+    ],
+    "dispensacion": "Verificar principio activo, concentración, dispositivo y pauta prescrita. Reforzar la coordinación con las comidas conforme al prospecto de la formulación dispensada, la rotación de sitios y el reconocimiento de hipoglicemia.",
+    "marcas": [],
+    "mecanismo": "Agonista del receptor de insulina: favorece la captación periférica de glucosa y reduce la producción hepática. Las modificaciones estructurales favorecen una absorción subcutánea más rápida que la insulina humana regular.",
+    "reacciones": [
+      "Hipoglicemia: sudoración, temblor, palpitaciones, hambre, debilidad, mareo; en casos graves, confusión, convulsiones o pérdida de conciencia. La gravedad exige atención urgente.",
+      "Lipohipertrofia o alteraciones del tejido subcutáneo por inyectar reiteradamente en el mismo punto: pueden causar absorción errática; revisar y rotar los sitios de inyección.",
+      "Dolor, eritema o irritación local; evaluar si persisten o progresan.",
+      "Hipopotasemia: riesgo farmacológico relevante en determinadas situaciones clínicas, especialmente para evaluación del QF."
+    ],
+    "renal": "La disminución de la función renal puede modificar la depuración y los requerimientos de insulina, con posible aumento del riesgo de hipoglicemia. Requiere evaluación clínica individualizada.",
+    "interacciones": [
+      "Betabloqueadores (p. ej., propranolol, metoprolol, atenolol y carvedilol): pueden atenuar signos adrenérgicos de hipoglicemia, especialmente la taquicardia; la sudoración puede persistir.",
+      "Sulfonilureas (p. ej., gliclazida o glibenclamida): la asociación con insulina puede aumentar el riesgo de hipoglicemia; corresponde revisar el tratamiento completo."
+    ],
+    "alertas": [
+      {
+        "nivel": "Evaluación inmediata",
+        "titulo": "Hipoglicemia grave",
+        "detalle": "Alteración de conciencia, convulsiones o incapacidad para tragar: solicitar atención urgente; no administrar nada por vía oral."
+      },
+      {
+        "nivel": "Revisión farmacéutica",
+        "titulo": "Confusión de insulina o dispositivo",
+        "detalle": "Comprobar nombre, concentración y presentación con receta y envase; no sustituir automáticamente."
+      }
+    ],
+    "fuentes": [
+      {
+        "nombre": "UpToDate, Insulin glulisine: Drug information (documento aportado)"
+      },
+      {
+        "nombre": "MINSAL Chile, Protocolo de insulinización para personas con DM2 (documento aportado)"
+      },
+      {
+        "nombre": "SOCHIDIAB, Consenso chileno de manejo de DM2 (documento aportado)"
+      },
+      {
+        "nombre": "Tsai Y-Y, Gu Y-S, Jiang Y-D. An update of contemporary insulin therapy. J Diabetes Investig. 2024;15:1000–1002. doi:10.1111/jdi.14212. Tabla 1; los rangos solo se utilizan cuando la insulina está incluida.",
+        "url": "https://doi.org/10.1111/jdi.14212"
+      }
+    ],
+    "revision": "Borrador v47.5: análogos rápidos por principio activo; revisión profesional pendiente. Rangos numéricos de Tsai et al. solo para asparta y lispro.",
+    "validacion": "Ficha educativa en revisión; los horarios exactos, las condiciones tras apertura y los dispositivos requieren cotejo del prospecto.",
+    "dispensacion_rapida": {
+      "primera": {
+        "consejo": "Confirme el dispositivo, la concentración y la pauta prescrita. Explique que esta insulina se utiliza para cubrir las comidas; verifique con el prospecto el momento de administración de la formulación entregada. Enseñe rotación de puntos, monitoreo indicado y signos de hipoglicemia.",
+        "pregunta": "¿Le explicaron cuándo aplicarla en relación con la comida y qué hacer si se retrasa o no puede comer?",
+        "almacenamiento": "Sin abrir, refrigeración habitual entre 2 y 8 °C, sin congelar; verificar instrucciones del producto."
+      },
+      "habitual": {
+        "consejo": "Pregunte por horarios, comidas omitidas o retrasadas, episodios de hipoglicemia, dificultades con el dispositivo y bultos en sitios de inyección. Verifique fecha de apertura y conservación conforme al prospecto.",
+        "pregunta": "¿Ha tenido bajas de glucosa cuando se retrasa una comida o cambia su rutina?",
+        "almacenamiento": "Consultar en el prospecto del producto el plazo y las condiciones de conservación tras el primer uso."
+      }
+    },
+    "guia_meson": {
+      "preguntas": "¿En qué momento respecto de las comidas le indicaron inyectarse? ¿Qué hace si se retrasa la comida? ¿Ha tenido temblores, sudor frío, hambre intensa o confusión? ¿Rota los puntos de inyección?",
+      "explicacion": "«Esta insulina está destinada a cubrir la subida de glucosa relacionada con las comidas. Respete el horario y la dosis indicados; el momento exacto de inyección debe confirmarse para su presentación. Si no puede comer como estaba previsto, siga el plan indicado por su equipo de salud y consulte si tiene dudas. Rote los puntos de inyección para prevenir bultos que pueden alterar la absorción. Sudoración, temblor, palpitaciones, hambre repentina o confusión pueden ser signos de hipoglicemia».",
+      "alertas": "Si la persona está consciente y puede tragar, seguir el protocolo de hipoglicemia indicado por su equipo: MINSAL describe 15 g de carbohidratos de absorción rápida y nueva medición a los 15 minutos, repitiendo si persiste la baja. Si no puede tragar, convulsiona o pierde la conciencia: urgencia; no administrar alimentos ni líquidos por boca. Derivar al QF ante hipoglicemias repetidas, dudas de dispositivo, concentración o pauta."
+    },
+    "posicionamiento": "En DM2, la insulina prandial puede incorporarse cuando se requiere controlar la hiperglicemia asociada a las comidas, según evaluación individual y esquema basal existente. Los análogos rápidos presentan un comienzo de acción más próximo a la ingesta que la insulina humana regular; esto puede facilitar la coordinación con las comidas, pero no elimina el riesgo de hipoglicemia ni permite modificar por cuenta propia el horario.",
+    "ampliada_qf": {
+      "titulo_foco": "ADME y perfil de acción de insulina glulisina",
+      "farmacocinetica_y_seleccion": "Absorción: sustituciones de aminoácidos que reducen la tendencia a la autoasociación y permiten una absorción subcutánea rápida. Tras inyección subcutánea, la velocidad de absorción también depende del sitio, perfusión, dosis y técnica. El artículo de Tsai et al. (2024) aportado no presenta una fila específica para glulisina; se omiten rangos numéricos hasta verificar una fuente primaria o monografía con valores aplicables.",
+      "fundamento": "Distribución: una vez absorbida, la insulina llega a la circulación y actúa sobre receptores en tejidos diana, promoviendo utilización de glucosa y reduciendo producción hepática. Metabolismo: degradación proteolítica, con participación hepática y renal; no depende del CYP450. Excreción y eliminación: la depuración renal participa en la eliminación y su deterioro puede modificar requerimientos y riesgo de hipoglicemia. La semivida plasmática no equivale a la duración del efecto desde el depósito subcutáneo.",
+      "interacciones_especificas": "Sulfonilureas (por ejemplo, gliclazida o glibenclamida) pueden aumentar el riesgo de hipoglicemia con insulina. Betabloqueadores (por ejemplo, propranolol o metoprolol) pueden atenuar manifestaciones adrenérgicas, especialmente taquicardia; la sudoración puede persistir. Revisar además comidas omitidas, alcohol, actividad física y función renal.",
+      "evidencia_y_limitaciones": "Los perfiles de acción son orientativos y no sustituyen las especificaciones de cada formulación. El documento de Tsai et al. (2024) incluye rangos para asparta y lispro, pero no para glulisina. SOCHIDIAB y MINSAL aportan contexto de atención chilena; las indicaciones comerciales se cotejan con prospectos.",
+      "detalle_regulatorio": "Verificar rotulado, concentración, dispositivo, integridad y conservación de la presentación dispensada. No asumir equivalencia de horario entre formulaciones del mismo principio activo. FarmaDM2 es un apoyo educativo, no una herramienta autónoma de decisión clínica ni de ajuste de dosis."
+    }
   }
 ]
