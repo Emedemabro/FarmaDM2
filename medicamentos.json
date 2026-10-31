@@ -441,7 +441,7 @@
       "Conservación general de presentaciones sin usar: refrigeración habitual entre 2 y 8 °C, sin congelar; verificar siempre el prospecto del producto específico.",
       "El período de uso y la temperatura permitida después de la primera utilización no son universales: cotejar el prospecto del fabricante."
     ],
-    "dispensacion": "Confirmar nombre, concentración, suspensión y dispositivo. Demostrar o verificar la resuspensión conforme al folleto del producto. Comprobar conservación y capacidad del paciente para reconocer hipoglicemia. No modificar dosis desde la PWA.",
+    "dispensacion": "Confirmar nombre, concentración, suspensión y dispositivo. Demostrar o verificar la resuspensión conforme al folleto del producto. Comprobar conservación y capacidad del paciente para reconocer hipoglicemia.",
     "marcas": [],
     "mecanismo": "Insulina exógena que favorece la captación periférica de glucosa y disminuye la producción hepática. La protamina retrasa su absorción subcutánea.",
     "reacciones": [
@@ -450,10 +450,10 @@
       "Dolor, eritema o irritación local; evaluar si persisten o progresan.",
       "Hipopotasemia: riesgo farmacológico relevante en determinadas situaciones clínicas, especialmente para evaluación del QF."
     ],
-    "renal": "La disminución de la función renal puede modificar los requerimientos de insulina; evaluar con el equipo tratante, sin ajustar dosis desde la PWA.",
+    "renal": "La disminución de la función renal puede modificar la depuración y los requerimientos de insulina, con posible aumento del riesgo de hipoglicemia. Requiere evaluación clínica individualizada.",
     "interacciones": [
-      "Otros medicamentos hipoglicemiantes pueden incrementar el riesgo de hipoglicemia.",
-      "Los betabloqueadores pueden enmascarar algunas manifestaciones adrenérgicas de hipoglicemia."
+      "Betabloqueadores (p. ej., propranolol, metoprolol, atenolol y carvedilol): pueden atenuar signos adrenérgicos de hipoglicemia, especialmente la taquicardia; la sudoración puede persistir.",
+      "Sulfonilureas (p. ej., gliclazida o glibenclamida): la asociación con insulina puede aumentar el riesgo de hipoglicemia; corresponde revisar el tratamiento completo."
     ],
     "alertas": [
       {
@@ -480,7 +480,18 @@
     ],
     "revision": "Revisión de contenido ampliada para dispensación y QF; contrastar valores farmacocinéticos y condiciones comerciales con fuentes primarias antes de validación final.",
     "validacion": "Rangos farmacocinéticos teóricos; datos de producto y conservación en uso sujetos a folleto oficial.",
-    "dispensacion_rapida": "Verificar principio activo, concentración, presentación, dosis y horario de la receta; confirmar disponibilidad de insumos, técnica y almacenamiento. Reforzar rotación de sitios y signos de hipoglicemia. La conservación habitual de presentaciones sin abrir es refrigerada (frecuentemente 2–8 °C, nunca congelar); las condiciones tras el primer uso son específicas del producto y deben cotejarse con el prospecto.",
+    "dispensacion_rapida": {
+      "primera": {
+        "consejo": "Confirme la pauta y el dispositivo. La NPH requiere resuspensión según el prospecto. Refuerce horario, técnica, rotación de sitios y reconocimiento de hipoglicemia.",
+        "pregunta": "¿Recibió instrucciones sobre el dispositivo, el horario y qué hacer ante una hipoglicemia?",
+        "almacenamiento": "Sin abrir, las insulinas suelen refrigerarse entre 2 y 8 °C, sin congelar. Verificar el prospecto del producto."
+      },
+      "habitual": {
+        "consejo": "Compruebe horario, resuspensión de NPH, rotación de sitios y posibles hipoglicemias nocturnas. Pregunte por bultos o problemas con el dispositivo.",
+        "pregunta": "¿Ha presentado bajas de glucosa o dificultades con su dispositivo, horario o alimentación?",
+        "almacenamiento": "Comprobar fecha de apertura y conservación tras primer uso según el prospecto de la presentación concreta."
+      }
+    },
     "guia_meson": {
       "preguntas": "¿A qué hora se administra la NPH? ¿Sabe cómo resuspenderla según el dispositivo? ¿Ha tenido bajas de glucosa, especialmente durante la noche? ¿Rota los puntos de inyección?",
       "explicacion": "«Mantenga el horario prescrito; no cambie dosis ni horario por cuenta propia. La NPH es una suspensión: antes de administrarla debe quedar uniformemente turbia mediante la resuspensión indicada para su envase; no la utilice si observa grumos o partículas anormales. Alterne los puntos de inyección para prevenir bultos que alteran la absorción. Reconozca sudor frío, temblor, hambre, palpitaciones, mareos o confusión como posibles señales de hipoglicemia, incluso durante la noche».",
@@ -491,7 +502,7 @@
       "titulo_foco": "ADME y perfil de acción de insulina humana NPH",
       "farmacocinetica_y_seleccion": "Absorción: la protamina retrasa la liberación de insulina desde el depósito subcutáneo. NPH presenta acción intermedia y un máximo de efecto reconocible, con variabilidad entre personas y aplicaciones. La suspensión exige resuspensión uniforme según el dispositivo. Inicio, pico y duración del efecto son parámetros farmacodinámicos teóricos, distintos de la semivida de eliminación. El perfil puede favorecer hipoglicemia cuando el efecto máximo no coincide con las necesidades de glucosa.",
       "fundamento": "Distribución y acción: tras absorberse, la insulina circulante se une a receptores en tejidos diana, favorece captación periférica de glucosa y reduce producción hepática de glucosa. Metabolismo: degradación proteolítica con participación hepática y renal; no se metaboliza por CYP450. Eliminación: la depuración renal contribuye a su eliminación; en deterioro renal pueden disminuir los requerimientos y aumentar el riesgo de hipoglicemia, por lo que se requiere monitorización y evaluación individual. ADME no debe confundirse con duración de acción del depósito subcutáneo.",
-      "interacciones_especificas": "Otros agentes hipoglicemiantes, especialmente sulfonilureas, pueden incrementar el riesgo de hipoglicemia. Alcohol, ingesta insuficiente, actividad física no habitual y cambios en función renal modifican el riesgo clínico. Betabloqueadores pueden atenuar algunas señales adrenérgicas de hipoglicemia. La revisión de ajustes de dosis corresponde al equipo tratante.",
+      "interacciones_especificas": "Otros agentes hipoglicemiantes, especialmente sulfonilureas, pueden incrementar el riesgo de hipoglicemia. Alcohol, ingesta insuficiente, actividad física no habitual y cambios en función renal modifican el riesgo clínico. Betabloqueadores pueden atenuar algunas señales adrenérgicas de hipoglicemia. La revisión de ajustes de dosis corresponde al equipo tratante. Ejemplos de interés: propranolol, metoprolol, atenolol y carvedilol pueden atenuar algunas manifestaciones adrenérgicas de hipoglicemia; gliclazida y glibenclamida pueden aumentar el riesgo hipoglicémico cuando se asocian con insulina. La interpretación depende del contexto clínico.",
       "evidencia_y_limitaciones": "El perfil de acción depende de la formulación, dosis, vía, sitio de inyección y características individuales. Las recomendaciones generales se apoyan en el protocolo MINSAL de insulinización, consenso SOCHIDIAB 2022 y monografías UpToDate aportadas; la PWA no reemplaza el juicio clínico ni una pauta individualizada. Los valores numéricos de inicio, pico y duración quedan pendientes de cotejo documental cruzado.",
       "detalle_regulatorio": "Aplicar recomendaciones generales de seguridad del ISP: revisar rotulado, fecha de vencimiento, cadena de frío y ausencia de congelación; las temperaturas y duración después de abrir, compatibilidad con dispositivos, preparación y técnica específicas se deben verificar en el prospecto vigente del producto efectivamente dispensado. No extrapolar instrucciones entre marcas, concentraciones o presentaciones."
     }
@@ -2844,7 +2855,7 @@
       "Las condiciones después del primer uso dependen de presentación y dispositivo; no asignar un plazo universal.",
       "No confundir insulina regular con análogos de acción rápida ni con NPH."
     ],
-    "dispensacion": "Verificar que la prescripción corresponda a insulina humana regular, concentración y dispositivo; comprobar pauta respecto de comidas, técnica, conservación y reconocimiento de hipoglicemia. No ajustar dosis desde la PWA.",
+    "dispensacion": "Verificar que la prescripción corresponda a insulina humana regular, concentración y dispositivo; comprobar pauta respecto de comidas, técnica, conservación y reconocimiento de hipoglicemia.",
     "marcas": [],
     "mecanismo": "Insulina humana exógena soluble que facilita la utilización periférica de glucosa e inhibe su producción hepática.",
     "reacciones": [
@@ -2853,10 +2864,10 @@
       "Dolor, eritema o irritación local; evaluar si persisten o progresan.",
       "Hipopotasemia: riesgo farmacológico relevante en determinadas situaciones clínicas, especialmente para evaluación del QF."
     ],
-    "renal": "La disminución de la función renal puede modificar los requerimientos de insulina; evaluar con el equipo tratante, sin ajustar dosis desde la PWA.",
+    "renal": "La disminución de la función renal puede modificar la depuración y los requerimientos de insulina, con posible aumento del riesgo de hipoglicemia. Requiere evaluación clínica individualizada.",
     "interacciones": [
-      "Otros medicamentos hipoglicemiantes pueden incrementar el riesgo de hipoglicemia.",
-      "Los betabloqueadores pueden enmascarar algunas manifestaciones adrenérgicas de hipoglicemia."
+      "Betabloqueadores (p. ej., propranolol, metoprolol, atenolol y carvedilol): pueden atenuar signos adrenérgicos de hipoglicemia, especialmente la taquicardia; la sudoración puede persistir.",
+      "Sulfonilureas (p. ej., gliclazida o glibenclamida): la asociación con insulina puede aumentar el riesgo de hipoglicemia; corresponde revisar el tratamiento completo."
     ],
     "alertas": [
       {
@@ -2886,7 +2897,18 @@
     ],
     "revision": "Revisión de contenido ampliada para dispensación y QF; contrastar valores farmacocinéticos y condiciones comerciales con fuentes primarias antes de validación final.",
     "validacion": "La conservación en uso y el intervalo específico respecto de comidas deben cotejarse con el prospecto de la presentación dispensada.",
-    "dispensacion_rapida": "Verificar principio activo, concentración, presentación, dosis y horario de la receta; confirmar disponibilidad de insumos, técnica y almacenamiento. Reforzar rotación de sitios y signos de hipoglicemia. La conservación habitual de presentaciones sin abrir es refrigerada (frecuentemente 2–8 °C, nunca congelar); las condiciones tras el primer uso son específicas del producto y deben cotejarse con el prospecto.",
+    "dispensacion_rapida": {
+      "primera": {
+        "consejo": "Confirme pauta, dispositivo y relación con comidas. La insulina regular subcutánea suele administrarse aproximadamente 30 minutos antes de comer; prevalecen la prescripción y el prospecto. Refuerce técnica, rotación de sitios e hipoglicemia.",
+        "pregunta": "¿Recibió instrucciones sobre el dispositivo, el horario y qué hacer ante una hipoglicemia?",
+        "almacenamiento": "Sin abrir, las insulinas suelen refrigerarse entre 2 y 8 °C, sin congelar. Verificar el prospecto del producto."
+      },
+      "habitual": {
+        "consejo": "Compruebe horario, coordinación con comidas, rotación de sitios y posibles hipoglicemias. Pregunte por comidas retrasadas, bultos o dificultades con el dispositivo.",
+        "pregunta": "¿Ha presentado bajas de glucosa o dificultades con su dispositivo, horario o alimentación?",
+        "almacenamiento": "Comprobar fecha de apertura y conservación tras primer uso según el prospecto de la presentación concreta."
+      }
+    },
     "guia_meson": {
       "preguntas": "¿Cuál es el horario prescrito respecto de las comidas? ¿Tiene disponible la comida al momento de inyectarse? ¿Conoce sus síntomas de hipoglicemia? ¿En qué sitios se inyecta?",
       "explicacion": "«Respete la dosis y el horario indicados. La insulina regular subcutánea suele administrarse aproximadamente 30 minutos antes de comer, pero confirme siempre su pauta y el prospecto. Evite aplicarla si la comida se retrasará sin disponer de un plan indicado por su equipo de salud. Alterne los puntos de inyección dentro de una misma zona: pinchar reiteradamente el mismo lugar puede producir bultos y alterar la absorción. Sudor frío, temblor, palpitaciones, hambre intensa, mareo o confusión pueden indicar hipoglicemia: mida su glucosa si es posible y siga el plan de manejo que le enseñaron».",
@@ -2897,7 +2919,7 @@
       "titulo_foco": "ADME y perfil de acción de insulina humana regular",
       "farmacocinetica_y_seleccion": "Absorción: tras inyección subcutánea, las asociaciones moleculares de insulina regular deben disociarse antes de su paso a la circulación, lo que retrasa el comienzo de su acción frente a análogos prandiales rápidos. El inicio, máximo y duración del efecto glucémico son parámetros farmacodinámicos teóricos; no equivalen a la semivida plasmática y varían con dosis, sitio, flujo sanguíneo y técnica. La administración prandial requiere sincronización con la comida.",
       "fundamento": "Distribución y acción: tras absorberse, la insulina circulante se une a receptores en tejidos diana, favorece captación periférica de glucosa y reduce producción hepática de glucosa. Metabolismo: degradación proteolítica con participación hepática y renal; no se metaboliza por CYP450. Eliminación: la depuración renal contribuye a su eliminación; en deterioro renal pueden disminuir los requerimientos y aumentar el riesgo de hipoglicemia, por lo que se requiere monitorización y evaluación individual. ADME no debe confundirse con duración de acción del depósito subcutáneo.",
-      "interacciones_especificas": "Otros agentes hipoglicemiantes, especialmente sulfonilureas, pueden incrementar el riesgo de hipoglicemia. Alcohol, ingesta insuficiente, actividad física no habitual y cambios en función renal modifican el riesgo clínico. Betabloqueadores pueden atenuar algunas señales adrenérgicas de hipoglicemia. La revisión de ajustes de dosis corresponde al equipo tratante.",
+      "interacciones_especificas": "Otros agentes hipoglicemiantes, especialmente sulfonilureas, pueden incrementar el riesgo de hipoglicemia. Alcohol, ingesta insuficiente, actividad física no habitual y cambios en función renal modifican el riesgo clínico. Betabloqueadores pueden atenuar algunas señales adrenérgicas de hipoglicemia. La revisión de ajustes de dosis corresponde al equipo tratante. Ejemplos de interés: propranolol, metoprolol, atenolol y carvedilol pueden atenuar algunas manifestaciones adrenérgicas de hipoglicemia; gliclazida y glibenclamida pueden aumentar el riesgo hipoglicémico cuando se asocian con insulina. La interpretación depende del contexto clínico.",
       "evidencia_y_limitaciones": "El perfil de acción depende de la formulación, dosis, vía, sitio de inyección y características individuales. Las recomendaciones generales se apoyan en el protocolo MINSAL de insulinización, consenso SOCHIDIAB 2022 y monografías UpToDate aportadas; la PWA no reemplaza el juicio clínico ni una pauta individualizada. Los valores numéricos de inicio, pico y duración quedan pendientes de cotejo documental cruzado.",
       "detalle_regulatorio": "Aplicar recomendaciones generales de seguridad del ISP: revisar rotulado, fecha de vencimiento, cadena de frío y ausencia de congelación; las temperaturas y duración después de abrir, compatibilidad con dispositivos, preparación y técnica específicas se deben verificar en el prospecto vigente del producto efectivamente dispensado. No extrapolar instrucciones entre marcas, concentraciones o presentaciones."
     }
