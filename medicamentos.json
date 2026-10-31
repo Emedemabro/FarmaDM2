@@ -433,8 +433,8 @@
     "nombre": "Insulina humana NPH",
     "familia": "Insulina de acción intermedia",
     "via": "Subcutánea",
-    "estado": "Ficha por principio activo/formulación · revisión documental 2026; verificar producto dispensado",
-    "descripcion": "Insulina humana de acción intermedia formulada como suspensión con protamina. Su perfil temporal es orientativo y puede variar según dosis, formulación y características individuales.",
+    "estado": "Ficha ampliada · revisión documental y clínica pendiente",
+    "descripcion": "Suspensión de insulina humana isófana asociada a protamina, de acción intermedia y con un máximo de efecto que exige atención al riesgo de hipoglicemia.",
     "seguridad": [
       "Suspensión: requiere resuspensión homogénea antes de su administración, conforme a las instrucciones del dispositivo; no debe utilizarse si presenta grumos o aspecto anómalo.",
       "La hipoglicemia es un riesgo clínico importante, especialmente ante comidas omitidas, ejercicio no previsto o cambios en requerimientos de insulina.",
@@ -445,8 +445,10 @@
     "marcas": [],
     "mecanismo": "Insulina exógena que favorece la captación periférica de glucosa y disminuye la producción hepática. La protamina retrasa su absorción subcutánea.",
     "reacciones": [
-      "Hipoglicemia, potencialmente grave.",
-      "Reacciones en el sitio de inyección y lipodistrofia por falta de rotación."
+      "Hipoglicemia: sudoración, temblor, palpitaciones, hambre, debilidad, mareo; en casos graves, confusión, convulsiones o pérdida de conciencia. La gravedad exige atención urgente.",
+      "Lipohipertrofia o alteraciones del tejido subcutáneo por inyectar reiteradamente en el mismo punto: pueden causar absorción errática; revisar y rotar los sitios de inyección.",
+      "Dolor, eritema o irritación local; evaluar si persisten o progresan.",
+      "Hipopotasemia: riesgo farmacológico relevante en determinadas situaciones clínicas, especialmente para evaluación del QF."
     ],
     "renal": "La disminución de la función renal puede modificar los requerimientos de insulina; evaluar con el equipo tratante, sin ajustar dosis desde la PWA.",
     "interacciones": [
@@ -476,30 +478,23 @@
         "nombre": "UpToDate, Insulin NPH: Drug information (monografía aportada)"
       }
     ],
-    "revision": "Integración por principio activo, con contexto SOCHIDIAB/MINSAL; pendiente cotejo final de rangos numéricos y prospectos por presentación.",
+    "revision": "Revisión de contenido ampliada para dispensación y QF; contrastar valores farmacocinéticos y condiciones comerciales con fuentes primarias antes de validación final.",
     "validacion": "Rangos farmacocinéticos teóricos; datos de producto y conservación en uso sujetos a folleto oficial.",
-    "dispensacion_rapida": {
-      "primera": {
-        "consejo": "«Esta insulina tiene aspecto lechoso. Antes de usarla debe quedar uniformemente mezclada según las instrucciones de su presentación. Revisemos juntos cómo preparar el dispositivo y dónde conservarlo».",
-        "pregunta": "¿Le enseñaron a resuspender esta insulina? ¿Qué dispositivo utiliza? ¿Sabe cómo almacenarla y reconocer una hipoglicemia?",
-        "efectos": "Explicar signos de hipoglicemia y cuándo solicitar asistencia urgente.",
-        "almacenamiento": "En general, sin usar: refrigeración 2–8 °C y no congelar. Después del primer uso: consultar el prospecto de la presentación dispensada.",
-        "accion": "Revisar prescripción y dispositivo; enseñar técnica con instrucciones específicas del fabricante."
-      },
-      "habitual": {
-        "consejo": "«Antes de cada administración, compruebe que el nombre, la concentración y el dispositivo sean los prescritos. Si hubo cambios o hipoglicemias, coméntelo con el equipo de salud».",
-        "pregunta": "¿Le enseñaron a resuspender esta insulina? ¿Qué dispositivo utiliza? ¿Sabe cómo almacenarla y reconocer una hipoglicemia?",
-        "efectos": "Reforzar reconocimiento de hipoglicemia y rotación de sitios.",
-        "almacenamiento": "En general, sin usar: refrigeración 2–8 °C y no congelar. Después del primer uso: consultar el prospecto de la presentación dispensada.",
-        "accion": "Derivar al químico farmacéutico ante discrepancias o dudas de técnica."
-      }
-    },
+    "dispensacion_rapida": "Verificar principio activo, concentración, presentación, dosis y horario de la receta; confirmar disponibilidad de insumos, técnica y almacenamiento. Reforzar rotación de sitios y signos de hipoglicemia. La conservación habitual de presentaciones sin abrir es refrigerada (frecuentemente 2–8 °C, nunca congelar); las condiciones tras el primer uso son específicas del producto y deben cotejarse con el prospecto.",
     "guia_meson": {
-      "preguntas": "¿Le enseñaron a resuspender esta insulina? ¿Qué dispositivo utiliza? ¿Sabe cómo almacenarla y reconocer una hipoglicemia?",
-      "explicacion": "«Esta insulina es una suspensión y debe quedar homogénea antes de usarla, siguiendo el instructivo del dispositivo. Revisemos juntos cómo conservarla y reconocer una baja de azúcar».",
-      "alertas": "Si aparecen grumos o la suspensión no queda uniforme, no usar hasta consultar. Ante pérdida de conciencia, convulsiones o incapacidad para tragar por posible hipoglicemia, solicitar asistencia de urgencia."
+      "preguntas": "¿A qué hora se administra la NPH? ¿Sabe cómo resuspenderla según el dispositivo? ¿Ha tenido bajas de glucosa, especialmente durante la noche? ¿Rota los puntos de inyección?",
+      "explicacion": "«Mantenga el horario prescrito; no cambie dosis ni horario por cuenta propia. La NPH es una suspensión: antes de administrarla debe quedar uniformemente turbia mediante la resuspensión indicada para su envase; no la utilice si observa grumos o partículas anormales. Alterne los puntos de inyección para prevenir bultos que alteran la absorción. Reconozca sudor frío, temblor, hambre, palpitaciones, mareos o confusión como posibles señales de hipoglicemia, incluso durante la noche».",
+      "alertas": "Ante convulsiones, pérdida de conciencia o incapacidad para tragar: urgencia; no dar alimentos ni líquidos por boca. Ante hipoglicemias repetidas, discrepancias de concentración o dispositivo, dudas sobre la pauta o cambios de tratamiento: derivar al QF y equipo tratante. No sustituir formulaciones automáticamente."
     },
-    "posicionamiento": "Perfil teórico de acción intermedia: inicio gradual, máximo de acción reconocible y duración variable; no utilizar estos parámetros como predicción exacta de respuesta individual. Los tiempos específicos dependen de la formulación y deben contrastarse con el prospecto."
+    "posicionamiento": "En DM2, la insulina basal busca cubrir necesidades entre comidas y durante la noche y contribuir al control de la glucosa en ayunas. NPH es una opción basal de acción intermedia; su pico de efecto y variabilidad requieren especial vigilancia de hipoglicemia, incluida la nocturna según pauta. La selección entre NPH y análogos basales depende del riesgo de hipoglicemia, necesidades clínicas, disponibilidad y seguimiento. Los tiempos de acción son orientativos y variables.",
+    "ampliada_qf": {
+      "titulo_foco": "ADME y perfil de acción de insulina humana NPH",
+      "farmacocinetica_y_seleccion": "Absorción: la protamina retrasa la liberación de insulina desde el depósito subcutáneo. NPH presenta acción intermedia y un máximo de efecto reconocible, con variabilidad entre personas y aplicaciones. La suspensión exige resuspensión uniforme según el dispositivo. Inicio, pico y duración del efecto son parámetros farmacodinámicos teóricos, distintos de la semivida de eliminación. El perfil puede favorecer hipoglicemia cuando el efecto máximo no coincide con las necesidades de glucosa.",
+      "fundamento": "Distribución y acción: tras absorberse, la insulina circulante se une a receptores en tejidos diana, favorece captación periférica de glucosa y reduce producción hepática de glucosa. Metabolismo: degradación proteolítica con participación hepática y renal; no se metaboliza por CYP450. Eliminación: la depuración renal contribuye a su eliminación; en deterioro renal pueden disminuir los requerimientos y aumentar el riesgo de hipoglicemia, por lo que se requiere monitorización y evaluación individual. ADME no debe confundirse con duración de acción del depósito subcutáneo.",
+      "interacciones_especificas": "Otros agentes hipoglicemiantes, especialmente sulfonilureas, pueden incrementar el riesgo de hipoglicemia. Alcohol, ingesta insuficiente, actividad física no habitual y cambios en función renal modifican el riesgo clínico. Betabloqueadores pueden atenuar algunas señales adrenérgicas de hipoglicemia. La revisión de ajustes de dosis corresponde al equipo tratante.",
+      "evidencia_y_limitaciones": "El perfil de acción depende de la formulación, dosis, vía, sitio de inyección y características individuales. Las recomendaciones generales se apoyan en el protocolo MINSAL de insulinización, consenso SOCHIDIAB 2022 y monografías UpToDate aportadas; la PWA no reemplaza el juicio clínico ni una pauta individualizada. Los valores numéricos de inicio, pico y duración quedan pendientes de cotejo documental cruzado.",
+      "detalle_regulatorio": "Aplicar recomendaciones generales de seguridad del ISP: revisar rotulado, fecha de vencimiento, cadena de frío y ausencia de congelación; las temperaturas y duración después de abrir, compatibilidad con dispositivos, preparación y técnica específicas se deben verificar en el prospecto vigente del producto efectivamente dispensado. No extrapolar instrucciones entre marcas, concentraciones o presentaciones."
+    }
   },
   {
     "id": "tirzepatida",
@@ -2840,8 +2835,8 @@
     "nombre": "Insulina humana regular",
     "familia": "Insulina humana de acción corta",
     "via": "Subcutánea",
-    "estado": "Ficha por principio activo · revisión documental 2026; verificar producto dispensado",
-    "descripcion": "Insulina humana soluble de acción corta. Su inicio, máximo y duración de efecto se describen como referencias teóricas y varían según la dosis y la formulación.",
+    "estado": "Ficha ampliada · revisión documental y clínica pendiente",
+    "descripcion": "Insulina humana soluble de acción corta utilizada para cubrir necesidades prandiales; su absorción subcutánea condiciona la anticipación respecto de la comida.",
     "seguridad": [
       "Solución habitualmente transparente; no requiere resuspensión. No utilizar si el aspecto no corresponde al indicado en el prospecto.",
       "La relación temporal con las comidas es relevante para reducir hipoglicemia; comprobar la pauta prescrita y las instrucciones del producto.",
@@ -2853,8 +2848,10 @@
     "marcas": [],
     "mecanismo": "Insulina humana exógena soluble que facilita la utilización periférica de glucosa e inhibe su producción hepática.",
     "reacciones": [
-      "Hipoglicemia, potencialmente grave.",
-      "Reacciones en el sitio de inyección y lipodistrofia por falta de rotación."
+      "Hipoglicemia: sudoración, temblor, palpitaciones, hambre, debilidad, mareo; en casos graves, confusión, convulsiones o pérdida de conciencia. La gravedad exige atención urgente.",
+      "Lipohipertrofia o alteraciones del tejido subcutáneo por inyectar reiteradamente en el mismo punto: pueden causar absorción errática; revisar y rotar los sitios de inyección.",
+      "Dolor, eritema o irritación local; evaluar si persisten o progresan.",
+      "Hipopotasemia: riesgo farmacológico relevante en determinadas situaciones clínicas, especialmente para evaluación del QF."
     ],
     "renal": "La disminución de la función renal puede modificar los requerimientos de insulina; evaluar con el equipo tratante, sin ajustar dosis desde la PWA.",
     "interacciones": [
@@ -2887,29 +2884,22 @@
         "nombre": "ISP Chile, folleto de Actrapid Penfill (documento aportado; información de producto no extrapolable)"
       }
     ],
-    "revision": "Ficha general basada en documentación aportada; tiempos numéricos y particularidades comerciales requieren verificación.",
+    "revision": "Revisión de contenido ampliada para dispensación y QF; contrastar valores farmacocinéticos y condiciones comerciales con fuentes primarias antes de validación final.",
     "validacion": "La conservación en uso y el intervalo específico respecto de comidas deben cotejarse con el prospecto de la presentación dispensada.",
-    "dispensacion_rapida": {
-      "primera": {
-        "consejo": "«Esta es insulina humana regular, distinta de la NPH y de los análogos rápidos. Revisemos su pauta en relación con las comidas y el dispositivo que utiliza».",
-        "pregunta": "¿Conoce el momento de administración indicado respecto de las comidas? ¿Sabe reconocer una hipoglicemia?",
-        "efectos": "Explicar signos de hipoglicemia y cuándo solicitar asistencia urgente.",
-        "almacenamiento": "En general, sin usar: refrigeración 2–8 °C, sin congelar. En uso: verificar el prospecto del fabricante.",
-        "accion": "Revisar prescripción y dispositivo; enseñar técnica con instrucciones específicas del fabricante."
-      },
-      "habitual": {
-        "consejo": "«Compruebe el nombre y la concentración antes de cada administración. Consulte si cambió su alimentación o ha tenido hipoglicemias».",
-        "pregunta": "¿Conoce el momento de administración indicado respecto de las comidas? ¿Sabe reconocer una hipoglicemia?",
-        "efectos": "Reforzar reconocimiento de hipoglicemia y rotación de sitios.",
-        "almacenamiento": "En general, sin usar: refrigeración 2–8 °C, sin congelar. En uso: verificar el prospecto del fabricante.",
-        "accion": "Derivar al químico farmacéutico ante discrepancias o dudas de técnica."
-      }
-    },
+    "dispensacion_rapida": "Verificar principio activo, concentración, presentación, dosis y horario de la receta; confirmar disponibilidad de insumos, técnica y almacenamiento. Reforzar rotación de sitios y signos de hipoglicemia. La conservación habitual de presentaciones sin abrir es refrigerada (frecuentemente 2–8 °C, nunca congelar); las condiciones tras el primer uso son específicas del producto y deben cotejarse con el prospecto.",
     "guia_meson": {
-      "preguntas": "¿Conoce el momento de administración indicado respecto de las comidas? ¿Sabe reconocer una hipoglicemia?",
-      "explicacion": "«Esta es insulina humana regular, distinta de la NPH y de los análogos rápidos. Revisemos su pauta en relación con las comidas y el dispositivo que utiliza».",
-      "alertas": "Ante hipoglicemia grave o compromiso de conciencia, solicitar asistencia urgente. Verificar discrepancias de nombre, concentración o dispositivo antes de dispensar."
+      "preguntas": "¿Cuál es el horario prescrito respecto de las comidas? ¿Tiene disponible la comida al momento de inyectarse? ¿Conoce sus síntomas de hipoglicemia? ¿En qué sitios se inyecta?",
+      "explicacion": "«Respete la dosis y el horario indicados. La insulina regular subcutánea suele administrarse aproximadamente 30 minutos antes de comer, pero confirme siempre su pauta y el prospecto. Evite aplicarla si la comida se retrasará sin disponer de un plan indicado por su equipo de salud. Alterne los puntos de inyección dentro de una misma zona: pinchar reiteradamente el mismo lugar puede producir bultos y alterar la absorción. Sudor frío, temblor, palpitaciones, hambre intensa, mareo o confusión pueden indicar hipoglicemia: mida su glucosa si es posible y siga el plan de manejo que le enseñaron».",
+      "alertas": "Ante convulsiones, pérdida de conciencia o incapacidad para tragar: urgencia; no dar alimentos ni líquidos por boca. Ante hipoglicemias repetidas, discrepancias de concentración o dispositivo, dudas sobre la pauta o cambios de tratamiento: derivar al QF y equipo tratante. No sustituir formulaciones automáticamente."
     },
-    "posicionamiento": "Perfil farmacocinético teórico de acción corta: inicio posterior a la administración subcutánea, efecto máximo y duración dependientes de dosis y contexto. No extrapolar tiempos exactos entre productos o vías de administración."
+    "posicionamiento": "En DM2, la insulina puede requerirse ante hiperglicemia marcada, síntomas de descompensación o cuando el esquema no logra objetivos individualizados. La insulina regular se emplea como componente prandial para limitar el ascenso de glucosa asociado a comidas; su absorción más lenta que la de análogos rápidos exige coordinar la inyección con la ingesta. Inicio, pico y duración se interpretan como perfiles teóricos variables, no como predicciones individuales.",
+    "ampliada_qf": {
+      "titulo_foco": "ADME y perfil de acción de insulina humana regular",
+      "farmacocinetica_y_seleccion": "Absorción: tras inyección subcutánea, las asociaciones moleculares de insulina regular deben disociarse antes de su paso a la circulación, lo que retrasa el comienzo de su acción frente a análogos prandiales rápidos. El inicio, máximo y duración del efecto glucémico son parámetros farmacodinámicos teóricos; no equivalen a la semivida plasmática y varían con dosis, sitio, flujo sanguíneo y técnica. La administración prandial requiere sincronización con la comida.",
+      "fundamento": "Distribución y acción: tras absorberse, la insulina circulante se une a receptores en tejidos diana, favorece captación periférica de glucosa y reduce producción hepática de glucosa. Metabolismo: degradación proteolítica con participación hepática y renal; no se metaboliza por CYP450. Eliminación: la depuración renal contribuye a su eliminación; en deterioro renal pueden disminuir los requerimientos y aumentar el riesgo de hipoglicemia, por lo que se requiere monitorización y evaluación individual. ADME no debe confundirse con duración de acción del depósito subcutáneo.",
+      "interacciones_especificas": "Otros agentes hipoglicemiantes, especialmente sulfonilureas, pueden incrementar el riesgo de hipoglicemia. Alcohol, ingesta insuficiente, actividad física no habitual y cambios en función renal modifican el riesgo clínico. Betabloqueadores pueden atenuar algunas señales adrenérgicas de hipoglicemia. La revisión de ajustes de dosis corresponde al equipo tratante.",
+      "evidencia_y_limitaciones": "El perfil de acción depende de la formulación, dosis, vía, sitio de inyección y características individuales. Las recomendaciones generales se apoyan en el protocolo MINSAL de insulinización, consenso SOCHIDIAB 2022 y monografías UpToDate aportadas; la PWA no reemplaza el juicio clínico ni una pauta individualizada. Los valores numéricos de inicio, pico y duración quedan pendientes de cotejo documental cruzado.",
+      "detalle_regulatorio": "Aplicar recomendaciones generales de seguridad del ISP: revisar rotulado, fecha de vencimiento, cadena de frío y ausencia de congelación; las temperaturas y duración después de abrir, compatibilidad con dispositivos, preparación y técnica específicas se deben verificar en el prospecto vigente del producto efectivamente dispensado. No extrapolar instrucciones entre marcas, concentraciones o presentaciones."
+    }
   }
 ]
