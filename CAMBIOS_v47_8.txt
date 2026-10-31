@@ -1,0 +1,1 @@
+v47.8: perfiles de accion en consulta rapida, con inicio/pico/duracion en lineas independientes; accion orientativa y consejos complementarios para asparta/lispro/glulisina; correccion de derivacion al QF. Fuente glulisina EMA/ISP 2013, sin inventar pico/duracion.

@@ -1,0 +1,6 @@
+FarmaDM2 v47.7 — cotejo glulisina ISP 2013 + EMA
+Base: v47.6; se mantienen 27 fichas y perfiles de accion.
+Glulisina: incorpora contraste chileno histórico sobre absorción y Tmax; interacciones concretas (corticoides, salbutamol, olanzapina); contexto regulatorio y limitaciones de vigencia.
+Se diferencia Tmax de pico farmacodinamico y se mantiene sin cifras de pico/duracion no respaldadas.
+Se incluye dato de horario Apidra EMA identificado expresamente como específico de producto; verificar prospecto chileno vigente.
+No se cambian otras fichas. Pendiente validación QF y prueba visual.
