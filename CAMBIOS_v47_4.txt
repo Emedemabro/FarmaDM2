@@ -1,0 +1,8 @@
+FarmaDM2 v47.4 — revisión focalizada de regular y NPH
+- Conserva interfaz, navegación y 24 fichas.
+- Corrige contradicción: el perfil de acción ya tiene fuente Tsai et al. 2024.
+- Refuerza primera dispensación y uso habitual con verificación de plan de hipoglicemia.
+- Incluye referencia MINSAL a manejo de hipoglicemia (15 g, control a los 15 minutos), condicionada a persona consciente que puede tragar.
+- Refuerza evaluación de lipohipertrofia y precauciones de conservación específicas por prospecto.
+- Distingue información teórica de indicaciones comerciales; no sugiere ajuste autónomo de dosis.
+Pendiente: validación clínica por QF y contraste final por presentación antes de uso asistencial.
