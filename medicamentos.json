@@ -476,6 +476,10 @@
       },
       {
         "nombre": "UpToDate, Insulin NPH: Drug information (monografía aportada)"
+      },
+      {
+        "nombre": "Tsai Y-Y, Gu Y-S, Jiang Y-D. An update of contemporary insulin therapy. Journal of Diabetes Investigation. 2024;15(8):1000–1002. doi:10.1111/jdi.14212. Tabla 1.",
+        "url": "https://doi.org/10.1111/jdi.14212"
       }
     ],
     "revision": "Revisión de contenido ampliada para dispensación y QF; contrastar valores farmacocinéticos y condiciones comerciales con fuentes primarias antes de validación final.",
@@ -501,10 +505,17 @@
     "ampliada_qf": {
       "titulo_foco": "ADME y perfil de acción de insulina humana NPH",
       "farmacocinetica_y_seleccion": "Absorción: la protamina retrasa la liberación de insulina desde el depósito subcutáneo. NPH presenta acción intermedia y un máximo de efecto reconocible, con variabilidad entre personas y aplicaciones. La suspensión exige resuspensión uniforme según el dispositivo. Inicio, pico y duración del efecto son parámetros farmacodinámicos teóricos, distintos de la semivida de eliminación. El perfil puede favorecer hipoglicemia cuando el efecto máximo no coincide con las necesidades de glucosa.",
-      "fundamento": "Distribución y acción: tras absorberse, la insulina circulante se une a receptores en tejidos diana, favorece captación periférica de glucosa y reduce producción hepática de glucosa. Metabolismo: degradación proteolítica con participación hepática y renal; no se metaboliza por CYP450. Eliminación: la depuración renal contribuye a su eliminación; en deterioro renal pueden disminuir los requerimientos y aumentar el riesgo de hipoglicemia, por lo que se requiere monitorización y evaluación individual. ADME no debe confundirse con duración de acción del depósito subcutáneo.",
+      "fundamento": "Distribución: tras absorberse, la insulina circulante se une a receptores en tejidos diana, favorece captación periférica de glucosa y reduce producción hepática de glucosa. Metabolismo: degradación proteolítica con participación hepática y renal; no se metaboliza por CYP450. Excreción y eliminación: la depuración renal contribuye a su eliminación; en deterioro renal pueden disminuir los requerimientos y aumentar el riesgo de hipoglicemia, por lo que se requiere monitorización y evaluación individual. ADME no debe confundirse con duración de acción del depósito subcutáneo.",
       "interacciones_especificas": "Otros agentes hipoglicemiantes, especialmente sulfonilureas, pueden incrementar el riesgo de hipoglicemia. Alcohol, ingesta insuficiente, actividad física no habitual y cambios en función renal modifican el riesgo clínico. Betabloqueadores pueden atenuar algunas señales adrenérgicas de hipoglicemia. La revisión de ajustes de dosis corresponde al equipo tratante. Ejemplos de interés: propranolol, metoprolol, atenolol y carvedilol pueden atenuar algunas manifestaciones adrenérgicas de hipoglicemia; gliclazida y glibenclamida pueden aumentar el riesgo hipoglicémico cuando se asocian con insulina. La interpretación depende del contexto clínico.",
       "evidencia_y_limitaciones": "El perfil de acción depende de la formulación, dosis, vía, sitio de inyección y características individuales. Las recomendaciones generales se apoyan en el protocolo MINSAL de insulinización, consenso SOCHIDIAB 2022 y monografías UpToDate aportadas; la PWA no reemplaza el juicio clínico ni una pauta individualizada. Los valores numéricos de inicio, pico y duración quedan pendientes de cotejo documental cruzado.",
-      "detalle_regulatorio": "Aplicar recomendaciones generales de seguridad del ISP: revisar rotulado, fecha de vencimiento, cadena de frío y ausencia de congelación; las temperaturas y duración después de abrir, compatibilidad con dispositivos, preparación y técnica específicas se deben verificar en el prospecto vigente del producto efectivamente dispensado. No extrapolar instrucciones entre marcas, concentraciones o presentaciones."
+      "detalle_regulatorio": "Aplicar recomendaciones generales de seguridad del ISP: revisar rotulado, fecha de vencimiento, cadena de frío y ausencia de congelación; las temperaturas y duración después de abrir, compatibilidad con dispositivos, preparación y técnica específicas se deben verificar en el prospecto vigente del producto efectivamente dispensado. No extrapolar instrucciones entre marcas, concentraciones o presentaciones.",
+      "perfil_accion_teorico": {
+        "inicio": "2–4 horas",
+        "maximo": "4–10 horas",
+        "duracion": "12–18 horas",
+        "nota": "Valores teóricos orientativos de efecto tras administración subcutánea; pueden variar según dosis, formulación y características individuales. No equivalen a la semivida plasmática. Verificar las instrucciones particulares del producto dispensado.",
+        "fuente": "Tsai Y-Y, Gu Y-S, Jiang Y-D. An update of contemporary insulin therapy. Journal of Diabetes Investigation. 2024;15(8):1000–1002. doi:10.1111/jdi.14212. Tabla 1."
+      }
     }
   },
   {
@@ -2893,6 +2904,10 @@
       },
       {
         "nombre": "ISP Chile, folleto de Actrapid Penfill (documento aportado; información de producto no extrapolable)"
+      },
+      {
+        "nombre": "Tsai Y-Y, Gu Y-S, Jiang Y-D. An update of contemporary insulin therapy. Journal of Diabetes Investigation. 2024;15(8):1000–1002. doi:10.1111/jdi.14212. Tabla 1.",
+        "url": "https://doi.org/10.1111/jdi.14212"
       }
     ],
     "revision": "Revisión de contenido ampliada para dispensación y QF; contrastar valores farmacocinéticos y condiciones comerciales con fuentes primarias antes de validación final.",
@@ -2918,10 +2933,17 @@
     "ampliada_qf": {
       "titulo_foco": "ADME y perfil de acción de insulina humana regular",
       "farmacocinetica_y_seleccion": "Absorción: tras inyección subcutánea, las asociaciones moleculares de insulina regular deben disociarse antes de su paso a la circulación, lo que retrasa el comienzo de su acción frente a análogos prandiales rápidos. El inicio, máximo y duración del efecto glucémico son parámetros farmacodinámicos teóricos; no equivalen a la semivida plasmática y varían con dosis, sitio, flujo sanguíneo y técnica. La administración prandial requiere sincronización con la comida.",
-      "fundamento": "Distribución y acción: tras absorberse, la insulina circulante se une a receptores en tejidos diana, favorece captación periférica de glucosa y reduce producción hepática de glucosa. Metabolismo: degradación proteolítica con participación hepática y renal; no se metaboliza por CYP450. Eliminación: la depuración renal contribuye a su eliminación; en deterioro renal pueden disminuir los requerimientos y aumentar el riesgo de hipoglicemia, por lo que se requiere monitorización y evaluación individual. ADME no debe confundirse con duración de acción del depósito subcutáneo.",
+      "fundamento": "Distribución: tras absorberse, la insulina circulante se une a receptores en tejidos diana, favorece captación periférica de glucosa y reduce producción hepática de glucosa. Metabolismo: degradación proteolítica con participación hepática y renal; no se metaboliza por CYP450. Excreción y eliminación: la depuración renal contribuye a su eliminación; en deterioro renal pueden disminuir los requerimientos y aumentar el riesgo de hipoglicemia, por lo que se requiere monitorización y evaluación individual. ADME no debe confundirse con duración de acción del depósito subcutáneo.",
       "interacciones_especificas": "Otros agentes hipoglicemiantes, especialmente sulfonilureas, pueden incrementar el riesgo de hipoglicemia. Alcohol, ingesta insuficiente, actividad física no habitual y cambios en función renal modifican el riesgo clínico. Betabloqueadores pueden atenuar algunas señales adrenérgicas de hipoglicemia. La revisión de ajustes de dosis corresponde al equipo tratante. Ejemplos de interés: propranolol, metoprolol, atenolol y carvedilol pueden atenuar algunas manifestaciones adrenérgicas de hipoglicemia; gliclazida y glibenclamida pueden aumentar el riesgo hipoglicémico cuando se asocian con insulina. La interpretación depende del contexto clínico.",
       "evidencia_y_limitaciones": "El perfil de acción depende de la formulación, dosis, vía, sitio de inyección y características individuales. Las recomendaciones generales se apoyan en el protocolo MINSAL de insulinización, consenso SOCHIDIAB 2022 y monografías UpToDate aportadas; la PWA no reemplaza el juicio clínico ni una pauta individualizada. Los valores numéricos de inicio, pico y duración quedan pendientes de cotejo documental cruzado.",
-      "detalle_regulatorio": "Aplicar recomendaciones generales de seguridad del ISP: revisar rotulado, fecha de vencimiento, cadena de frío y ausencia de congelación; las temperaturas y duración después de abrir, compatibilidad con dispositivos, preparación y técnica específicas se deben verificar en el prospecto vigente del producto efectivamente dispensado. No extrapolar instrucciones entre marcas, concentraciones o presentaciones."
+      "detalle_regulatorio": "Aplicar recomendaciones generales de seguridad del ISP: revisar rotulado, fecha de vencimiento, cadena de frío y ausencia de congelación; las temperaturas y duración después de abrir, compatibilidad con dispositivos, preparación y técnica específicas se deben verificar en el prospecto vigente del producto efectivamente dispensado. No extrapolar instrucciones entre marcas, concentraciones o presentaciones.",
+      "perfil_accion_teorico": {
+        "inicio": "30–60 minutos",
+        "maximo": "2–3 horas",
+        "duracion": "8–10 horas",
+        "nota": "Valores teóricos orientativos de efecto tras administración subcutánea; pueden variar según dosis, formulación y características individuales. No equivalen a la semivida plasmática. Verificar las instrucciones particulares del producto dispensado.",
+        "fuente": "Tsai Y-Y, Gu Y-S, Jiang Y-D. An update of contemporary insulin therapy. Journal of Diabetes Investigation. 2024;15(8):1000–1002. doi:10.1111/jdi.14212. Tabla 1."
+      }
     }
   }
 ]

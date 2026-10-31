@@ -84,12 +84,15 @@ function detail(id, tab='rapida', mode='primera', selectedBrand=''){
       '<p class="muted">Síntesis educativa de ensayos representativos. Los resultados se refieren a las poblaciones y desenlaces estudiados; no equivalen a una indicación individual ni a validación clínica de la plataforma.</p>'+
       m.evidencia_clinica.map(e=>'<div class="evidence-item"><h4>'+esc(e.estudio)+'</h4><p><strong>Población:</strong> '+esc(e.poblacion)+'</p><p><strong>Resultado:</strong> '+esc(e.hallazgo)+'</p><p><strong>Interpretación y límites:</strong> '+esc(e.interpretacion)+'</p><p><a href="'+esc(e.url)+'" target="_blank" rel="noopener noreferrer">Consultar publicación original ↗</a></p></div>').join(''));
   }
+  function formatADME(t){
+    return esc(t||'').replace(/(Absorción|Distribución(?: y acción)?|Metabolismo|Excreción y eliminación|Eliminación):/g, '<strong>$1:</strong>');
+  }
   if(m.ampliada_qf){
     const q=m.ampliada_qf;
     const professional=(q.farmacocinetica_y_seleccion!==undefined);
     body+=`<section class="clinical-extra"><details><summary><span>📚 Información clínica ampliada</span><small>Profundización para el químico farmacéutico · abrir cuando sea necesario</small></summary><div class="clinical-extra-content">`+
       (professional
-       ? `<p class="muted mini">Este nivel complementa, sin repetir, la orientación para el personal de farmacia. Contenido académico sujeto a contraste documental.</p><h4>${esc(q.titulo_foco)}</h4><p>${esc(q.farmacocinetica_y_seleccion)}</p><h4>Fundamento farmacológico</h4><p>${esc(q.fundamento)}</p><h4>Interacciones específicas y consecuencias</h4><p>${esc(q.interacciones_especificas)}</p><h4>Evidencia y límites de extrapolación</h4><p>${esc(q.evidencia_y_limitaciones)}</p><h4>Detalle regulatorio y consideraciones de dosis</h4><p>${esc(q.detalle_regulatorio)}</p>`
+       ? `<p class="muted mini">Este nivel complementa, sin repetir, la orientación para el personal de farmacia. Contenido académico sujeto a contraste documental.</p><h4>${esc(q.titulo_foco)}</h4><p>${formatADME(q.farmacocinetica_y_seleccion)}</p>${q.perfil_accion_teorico ? `<h4>Perfil de acción teórico (vía subcutánea)</h4><p><strong>Inicio:</strong> ${esc(q.perfil_accion_teorico.inicio)} · <strong>Máximo efecto:</strong> ${esc(q.perfil_accion_teorico.maximo)} · <strong>Duración:</strong> ${esc(q.perfil_accion_teorico.duracion)}</p><p class="muted mini">${esc(q.perfil_accion_teorico.nota)}</p><p class="muted mini"><strong>Fuente:</strong> ${esc(q.perfil_accion_teorico.fuente)}</p>` : ``}<h4>Fundamento farmacológico</h4><p>${formatADME(q.fundamento)}</p><h4>Interacciones específicas y consecuencias</h4><p>${esc(q.interacciones_especificas)}</p><h4>Evidencia y límites de extrapolación</h4><p>${esc(q.evidencia_y_limitaciones)}</p><h4>Detalle regulatorio y consideraciones de dosis</h4><p>${esc(q.detalle_regulatorio)}</p>`
        : `<h4>Fundamento farmacológico</h4><p>${esc(q.mecanismo||m.mecanismo)}</p><h4>Consideraciones clínicas</h4><p>${esc(q.consideraciones||m.renal)}</p>`)+
       `<p class="muted mini">Para decisiones asistenciales, comprobar el producto y la vigencia de sus fuentes en «Fuentes y trazabilidad».</p></div></details></section>`;
   }
