@@ -2273,222 +2273,6 @@
     }
   },
   {
-    "id": "insulina-glargina-u100",
-    "nombre": "Insulina glargina U-100 (Lantus)",
-    "familia": "Insulina basal de acción prolongada",
-    "via": "Subcutánea",
-    "estado": "Ficha de seguridad documental preliminar · verificar folleto ISP vigente y presentación",
-    "descripcion": "Solución de insulina glargina 100 unidades/mL; no confundir con glargina U-300.",
-    "seguridad": [
-      "Solución transparente e incolora; no requiere resuspensión.",
-      "No mezclar ni diluir Lantus.",
-      "La conservación en uso difiere entre frasco y pluma SoloStar según ficha FDA 2025; verificar folleto chileno antes de instruir."
-    ],
-    "dispensacion": "Confirmar glargina U-100, forma farmacéutica y dispositivo; no intercambiar por glargina U-300 sin evaluación del prescriptor.",
-    "marcas": [],
-    "mecanismo": "Insulina exógena: facilita la utilización de glucosa y reduce la producción hepática de glucosa. El perfil temporal depende de la formulación.",
-    "reacciones": [
-      "Hipoglicemia, potencialmente grave.",
-      "Reacciones en el sitio de inyección y lipodistrofia por falta de rotación."
-    ],
-    "renal": "La disminución de la función renal puede modificar los requerimientos de insulina; evaluar con el equipo tratante, sin ajustar dosis desde la PWA.",
-    "interacciones": [
-      "Otros medicamentos hipoglicemiantes pueden incrementar el riesgo de hipoglicemia.",
-      "Los betabloqueadores pueden enmascarar algunas manifestaciones adrenérgicas de hipoglicemia."
-    ],
-    "alertas": [
-      {
-        "nivel": "Evaluación inmediata",
-        "titulo": "Hipoglicemia grave",
-        "detalle": "Alteración de conciencia, convulsiones o incapacidad para tragar: solicitar atención urgente; no administrar nada por vía oral."
-      },
-      {
-        "nivel": "Revisión farmacéutica",
-        "titulo": "Confusión de insulina o dispositivo",
-        "detalle": "Comprobar nombre, concentración y presentación con receta y envase; no sustituir automáticamente."
-      },
-      {
-        "nivel": "Revisión farmacéutica",
-        "titulo": "U-100 frente a U-300",
-        "detalle": "No sustituir automáticamente por Toujeo; verificar prescripción y consultar al equipo tratante."
-      }
-    ],
-    "fuentes": [
-      {
-        "nombre": "FDA · Lantus, información de prescripción revisada 05/2025 (fuente estadounidense)"
-      },
-      {
-        "nombre": "ISP Chile · Lantus U-100, folleto B-1029/21 localizado; instrucciones específicas aún pendientes de cotejo"
-      }
-    ],
-    "revision": "2026-10-13 · integración preliminar de seguridad documental",
-    "validacion": "Material informativo para dispensación. No sustituye ficha ISP vigente, indicación médica ni evaluación del químico farmacéutico. No efectúa ajustes ni conversiones de dosis.",
-    "dispensacion_rapida": {
-      "primera": {
-        "consejo": "«Lantus U-100 es una solución transparente. Compruebe el nombre y la concentración antes de usarla. No la mezcle con otras insulinas. La conservación depende de si utiliza frasco o pluma».",
-        "pregunta": "¿La receta indica glargina U-100? ¿Usa frasco o SoloStar? ¿Le cambiaron recientemente la insulina? ¿Ha presentado hipoglicemias?",
-        "efectos": "Explicar signos de hipoglicemia y cuándo solicitar asistencia urgente.",
-        "almacenamiento": "Según ficha FDA 2025: frasco abierto, hasta 28 días refrigerado o a temperatura ambiente; pluma SoloStar en uso, 28 días sin refrigerar. Dato estadounidense: confirmar folleto ISP y presentación dispensada.",
-        "accion": "Revisar prescripción y dispositivo; enseñar técnica con instrucciones específicas del fabricante."
-      },
-      "habitual": {
-        "consejo": "«Antes de cada administración, compruebe que el nombre, la concentración y el dispositivo sean los prescritos. Si hubo cambios o hipoglicemias, coméntelo con el equipo de salud».",
-        "pregunta": "¿La receta indica glargina U-100? ¿Usa frasco o SoloStar? ¿Le cambiaron recientemente la insulina? ¿Ha presentado hipoglicemias?",
-        "efectos": "Reforzar reconocimiento de hipoglicemia y rotación de sitios.",
-        "almacenamiento": "Según ficha FDA 2025: frasco abierto, hasta 28 días refrigerado o a temperatura ambiente; pluma SoloStar en uso, 28 días sin refrigerar. Dato estadounidense: confirmar folleto ISP y presentación dispensada.",
-        "accion": "Derivar al químico farmacéutico ante discrepancias o dudas de técnica."
-      }
-    },
-    "guia_meson": {
-      "preguntas": "¿La receta indica glargina U-100? ¿Usa frasco o SoloStar? ¿Le cambiaron recientemente la insulina? ¿Ha presentado hipoglicemias?",
-      "explicacion": "«Lantus U-100 es una solución transparente. Compruebe el nombre y la concentración antes de usarla. No la mezcle con otras insulinas. La conservación depende de si utiliza frasco o pluma».",
-      "alertas": "Si la caja o el dispositivo indican U-300 en lugar de U-100, no asumir sustitución: solicitar revisión farmacéutica y confirmación con el prescriptor."
-    }
-  },
-  {
-    "id": "insulina-glargina-u300",
-    "nombre": "Insulina glargina U-300 (Toujeo)",
-    "familia": "Insulina basal de acción prolongada",
-    "via": "Subcutánea",
-    "estado": "Ficha de seguridad documental preliminar · verificar folleto ISP vigente y presentación",
-    "descripcion": "Solución de glargina 300 unidades/mL, con instrucciones propias de dispositivo.",
-    "seguridad": [
-      "Glargina U-100 y U-300 no son bioequivalentes ni directamente intercambiables.",
-      "No extraer insulina de la pluma con una jeringa.",
-      "El selector del dispositivo indica unidades; no efectuar conversiones manuales."
-    ],
-    "dispensacion": "Verificar que la receta indique glargina U-300 y el dispositivo correcto. Cualquier cambio desde/hacia U-100 requiere indicación y seguimiento clínico.",
-    "marcas": [],
-    "mecanismo": "Insulina exógena: facilita la utilización de glucosa y reduce la producción hepática de glucosa. El perfil temporal depende de la formulación.",
-    "reacciones": [
-      "Hipoglicemia, potencialmente grave.",
-      "Reacciones en el sitio de inyección y lipodistrofia por falta de rotación."
-    ],
-    "renal": "La disminución de la función renal puede modificar los requerimientos de insulina; evaluar con el equipo tratante, sin ajustar dosis desde la PWA.",
-    "interacciones": [
-      "Otros medicamentos hipoglicemiantes pueden incrementar el riesgo de hipoglicemia.",
-      "Los betabloqueadores pueden enmascarar algunas manifestaciones adrenérgicas de hipoglicemia."
-    ],
-    "alertas": [
-      {
-        "nivel": "Evaluación inmediata",
-        "titulo": "Hipoglicemia grave",
-        "detalle": "Alteración de conciencia, convulsiones o incapacidad para tragar: solicitar atención urgente; no administrar nada por vía oral."
-      },
-      {
-        "nivel": "Revisión farmacéutica",
-        "titulo": "Confusión de insulina o dispositivo",
-        "detalle": "Comprobar nombre, concentración y presentación con receta y envase; no sustituir automáticamente."
-      },
-      {
-        "nivel": "Alta prioridad",
-        "titulo": "Error de concentración",
-        "detalle": "Glargina U-300 no debe sustituirse automáticamente por U-100; derivar discrepancias al químico farmacéutico."
-      }
-    ],
-    "fuentes": [
-      {
-        "nombre": "ISP Chile · Toujeo U-300, folleto aportado B-2526/15 (versión histórica; verificar vigencia)"
-      }
-    ],
-    "revision": "2026-10-13 · integración preliminar de seguridad documental",
-    "validacion": "Material informativo para dispensación. No sustituye ficha ISP vigente, indicación médica ni evaluación del químico farmacéutico. No efectúa ajustes ni conversiones de dosis.",
-    "dispensacion_rapida": {
-      "primera": {
-        "consejo": "«Toujeo tiene 300 unidades por mililitro. La pluma muestra directamente las unidades indicadas; no hay que calcular volúmenes ni extraer insulina con jeringa. Un cambio desde Lantus necesita indicación clínica».",
-        "pregunta": "¿La receta especifica Toujeo U-300? ¿Cuál es el dispositivo? ¿Le cambiaron desde glargina U-100? ¿Reconoce el selector de unidades?",
-        "efectos": "Explicar signos de hipoglicemia y cuándo solicitar asistencia urgente.",
-        "almacenamiento": "Folleto ISP aportado: antes del uso 2–8 °C; pluma en uso hasta 6 semanas a temperatura no superior a 30 °C, sin refrigerar. Confirmar versión y dispositivo.",
-        "accion": "Revisar prescripción y dispositivo; enseñar técnica con instrucciones específicas del fabricante."
-      },
-      "habitual": {
-        "consejo": "«Antes de cada administración, compruebe que el nombre, la concentración y el dispositivo sean los prescritos. Si hubo cambios o hipoglicemias, coméntelo con el equipo de salud».",
-        "pregunta": "¿La receta especifica Toujeo U-300? ¿Cuál es el dispositivo? ¿Le cambiaron desde glargina U-100? ¿Reconoce el selector de unidades?",
-        "efectos": "Reforzar reconocimiento de hipoglicemia y rotación de sitios.",
-        "almacenamiento": "Folleto ISP aportado: antes del uso 2–8 °C; pluma en uso hasta 6 semanas a temperatura no superior a 30 °C, sin refrigerar. Confirmar versión y dispositivo.",
-        "accion": "Derivar al químico farmacéutico ante discrepancias o dudas de técnica."
-      }
-    },
-    "guia_meson": {
-      "preguntas": "¿La receta especifica Toujeo U-300? ¿Cuál es el dispositivo? ¿Le cambiaron desde glargina U-100? ¿Reconoce el selector de unidades?",
-      "explicacion": "«Toujeo tiene 300 unidades por mililitro. La pluma muestra directamente las unidades indicadas; no hay que calcular volúmenes ni extraer insulina con jeringa. Un cambio desde Lantus necesita indicación clínica».",
-      "alertas": "No intercambiar U-100 y U-300 automáticamente. No retirar insulina de la pluma con jeringa. Ante una discrepancia, detener la resolución autónoma y solicitar evaluación del químico farmacéutico."
-    }
-  },
-  {
-    "id": "insulina-degludec-u200",
-    "nombre": "Insulina degludec U-200 (Tresiba FlexTouch)",
-    "familia": "Insulina basal de acción ultraprolongada",
-    "via": "Subcutánea",
-    "estado": "Ficha de seguridad documental preliminar · verificar folleto ISP vigente y presentación",
-    "descripcion": "Solución de insulina degludec 200 unidades/mL en pluma FlexTouch; no extrapolar instrucciones de otras concentraciones.",
-    "seguridad": [
-      "El selector muestra las unidades que se administrarán: no convertir manualmente según concentración.",
-      "La pluma U-200 permite seleccionar dosis en incrementos de 2 unidades, según folleto aportado.",
-      "No extraer insulina de la pluma con una jeringa."
-    ],
-    "dispensacion": "Verificar U-200, nombre de dispositivo y congruencia con prescripción; los cambios de insulina requieren seguimiento clínico.",
-    "marcas": [],
-    "mecanismo": "Insulina exógena: facilita la utilización de glucosa y reduce la producción hepática de glucosa. El perfil temporal depende de la formulación.",
-    "reacciones": [
-      "Hipoglicemia, potencialmente grave.",
-      "Reacciones en el sitio de inyección y lipodistrofia por falta de rotación."
-    ],
-    "renal": "La disminución de la función renal puede modificar los requerimientos de insulina; evaluar con el equipo tratante, sin ajustar dosis desde la PWA.",
-    "interacciones": [
-      "Otros medicamentos hipoglicemiantes pueden incrementar el riesgo de hipoglicemia.",
-      "Los betabloqueadores pueden enmascarar algunas manifestaciones adrenérgicas de hipoglicemia."
-    ],
-    "alertas": [
-      {
-        "nivel": "Evaluación inmediata",
-        "titulo": "Hipoglicemia grave",
-        "detalle": "Alteración de conciencia, convulsiones o incapacidad para tragar: solicitar atención urgente; no administrar nada por vía oral."
-      },
-      {
-        "nivel": "Revisión farmacéutica",
-        "titulo": "Confusión de insulina o dispositivo",
-        "detalle": "Comprobar nombre, concentración y presentación con receta y envase; no sustituir automáticamente."
-      },
-      {
-        "nivel": "Alta prioridad",
-        "titulo": "Error por conversión de unidades",
-        "detalle": "No recalcular las unidades indicadas en el selector de la pluma U-200 ni extraer su contenido con jeringa."
-      }
-    ],
-    "fuentes": [
-      {
-        "nombre": "ISP Chile · Tresiba FlexTouch U-200, folleto aportado B-2363/13 (histórico)"
-      },
-      {
-        "nombre": "UpToDate · Insulina degludec, monografía aportada"
-      }
-    ],
-    "revision": "2026-10-13 · integración preliminar de seguridad documental",
-    "validacion": "Material informativo para dispensación. No sustituye ficha ISP vigente, indicación médica ni evaluación del químico farmacéutico. No efectúa ajustes ni conversiones de dosis.",
-    "dispensacion_rapida": {
-      "primera": {
-        "consejo": "«La pluma Tresiba U-200 indica directamente las unidades que se administrarán. No convierta la dosis a mililitros ni extraiga insulina con jeringa. Verifiquemos juntos la concentración de la caja».",
-        "pregunta": "¿La receta indica Tresiba U-200 FlexTouch? ¿Le enseñaron a usar el selector? ¿Su dosis prescrita coincide con los incrementos disponibles?",
-        "efectos": "Explicar signos de hipoglicemia y cuándo solicitar asistencia urgente.",
-        "almacenamiento": "Pendiente de cotejo definitivo del plazo de uso tras apertura en el folleto ISP chileno de Tresiba U-200; no extrapolar automáticamente de U-100.",
-        "accion": "Revisar prescripción y dispositivo; enseñar técnica con instrucciones específicas del fabricante."
-      },
-      "habitual": {
-        "consejo": "«Antes de cada administración, compruebe que el nombre, la concentración y el dispositivo sean los prescritos. Si hubo cambios o hipoglicemias, coméntelo con el equipo de salud».",
-        "pregunta": "¿La receta indica Tresiba U-200 FlexTouch? ¿Le enseñaron a usar el selector? ¿Su dosis prescrita coincide con los incrementos disponibles?",
-        "efectos": "Reforzar reconocimiento de hipoglicemia y rotación de sitios.",
-        "almacenamiento": "Pendiente de cotejo definitivo del plazo de uso tras apertura en el folleto ISP chileno de Tresiba U-200; no extrapolar automáticamente de U-100.",
-        "accion": "Derivar al químico farmacéutico ante discrepancias o dudas de técnica."
-      }
-    },
-    "guia_meson": {
-      "preguntas": "¿La receta indica Tresiba U-200 FlexTouch? ¿Le enseñaron a usar el selector? ¿Su dosis prescrita coincide con los incrementos disponibles?",
-      "explicacion": "«La pluma Tresiba U-200 indica directamente las unidades que se administrarán. No convierta la dosis a mililitros ni extraiga insulina con jeringa. Verifiquemos juntos la concentración de la caja».",
-      "alertas": "La pluma U-200 selecciona dosis en incrementos de dos unidades según el folleto aportado. Si la prescripción o la técnica no son compatibles con el dispositivo, solicitar evaluación profesional; no redondear dosis por cuenta propia."
-    }
-  },
-  {
     "familia": "Sulfonilurea",
     "via": "Oral",
     "estado": "Borrador editorial · pendiente cotejo con presentación ISP",
@@ -3310,6 +3094,348 @@
         "tipo": "Conservación",
         "titulo": "Cadena de frío y primer uso",
         "texto": "Antes de abrir, comprobar refrigeración según el producto, sin congelar. Registrar fecha de primer uso y verificar duración y temperatura permitidas en el prospecto de la presentación."
+      }
+    ]
+  },
+  {
+    "id": "insulina-glargina",
+    "nombre": "Insulina glargina",
+    "familia": "Análogo de insulina basal de acción prolongada",
+    "via": "Subcutánea",
+    "estado": "Borrador documental · requiere cotejo de fichas técnicas vigentes",
+    "descripcion": "Análogo basal de administración subcutánea. Las formulaciones U-100 y U-300 comparten principio activo, pero difieren en su perfil de absorción y duración de acción.",
+    "seguridad": [
+      "Confirmar principio activo, concentración, dispositivo y pauta prescrita; las concentraciones no deben intercambiarse automáticamente.",
+      "No confundir insulina basal con insulina prandial: no se utiliza como corrección improvisada de una comida.",
+      "Rotar los sitios de inyección; evitar zonas con lipohipertrofia o endurecimientos, que alteran la absorción.",
+      "Reconocer síntomas de hipoglicemia; ante compromiso de conciencia o imposibilidad de tragar, solicitar atención urgente y no dar nada por boca.",
+      "Verificar apariencia, integridad, fecha de vencimiento y conservación según prospecto de la presentación dispensada."
+    ],
+    "dispensacion": "Verificar prescripción, principio activo, concentración y dispositivo. Reforzar horario indicado, técnica, rotación, conservación y adherencia, sin modificar dosis.",
+    "marcas": [],
+    "mecanismo": "Análogo que forma un depósito subcutáneo del que se libera lentamente insulina activa; reduce producción hepática de glucosa y favorece captación periférica.",
+    "reacciones": [
+      "Hipoglicemia: sudoración, temblor, hambre, palpitaciones, confusión; cuadros graves requieren atención urgente.",
+      "Lipohipertrofia y reacciones locales: la inyección repetida en una misma zona puede alterar la absorción.",
+      "Aumento de peso y edema periférico pueden ocurrir durante el tratamiento con insulina; evaluar en contexto clínico.",
+      "Hipopotasemia: precaución farmacológica en situaciones de riesgo."
+    ],
+    "renal": "El deterioro renal puede disminuir los requerimientos de insulina y aumentar el riesgo de hipoglicemia; la evaluación y cualquier ajuste corresponden al equipo tratante.",
+    "interacciones": [
+      "Sulfonilureas (p. ej., gliclazida, glibenclamida): mayor riesgo de hipoglicemia cuando se asocian a insulina.",
+      "Betabloqueadores (p. ej., propranolol, metoprolol): pueden atenuar palpitaciones o taquicardia como aviso de hipoglicemia.",
+      "Corticoides sistémicos, salbutamol y olanzapina: pueden contrarrestar el efecto hipoglicemiante y dificultar el control glucémico."
+    ],
+    "alertas": [
+      {
+        "nivel": "Atención urgente",
+        "titulo": "Hipoglicemia grave",
+        "detalle": "Pérdida de conciencia, convulsiones o imposibilidad de tragar: activar atención urgente; no administrar nada por vía oral."
+      },
+      {
+        "nivel": "Revisión farmacéutica",
+        "titulo": "Error de insulina o concentración",
+        "detalle": "Comprobar principio activo, concentración y dispositivo con receta y envase; no sustituir automáticamente."
+      }
+    ],
+    "fuentes": [
+      {
+        "nombre": "Tsai Y-Y, Gu Y-S, Jiang Y-D. An update of contemporary insulin therapy. J Diabetes Investig. 2024;15(8):1000–1002. Tabla 1.",
+        "url": "https://doi.org/10.1111/jdi.14212"
+      },
+      {
+        "nombre": "MINSAL Chile. Protocolo de insulinización para personas con DM2 (documento aportado)."
+      },
+      {
+        "nombre": "Información de producto y registro sanitario ISP: verificar presentación y prospecto vigente.",
+        "url": "https://registrosanitario.ispch.gob.cl/"
+      }
+    ],
+    "revision": "Ficha de trabajo basada en revisión documental; pendiente de cotejo de prospectos vigentes para cada concentración y dispositivo.",
+    "validacion": "Borrador educativo de apoyo a la dispensación; no indica ajustes posológicos.",
+    "dispensacion_rapida": {
+      "primera": {
+        "consejo": "Explique la función basal de esta insulina, confirme horario y pauta prescritos y compruebe que el paciente identifica correctamente el dispositivo y la concentración. Demuestre técnica y rotación de sitios, y revise conservación y signos de hipoglicemia.",
+        "pregunta": "¿Le mostraron cómo utilizar este dispositivo y en qué horario debe administrarlo?",
+        "almacenamiento": "Antes de abrir, habitualmente entre 2 y 8 °C y sin congelar; verificar el prospecto. Tras apertura, el plazo y la temperatura dependen de la presentación.",
+        "accion": "Comprobar medicamento, concentración, dispositivo y pauta prescrita; reforzar técnica, horario y adherencia. Derivar al QF ante dudas sobre el dispositivo, la pauta prescrita o la técnica de administración."
+      },
+      "habitual": {
+        "consejo": "Pregunte por continuidad de uso, dosis omitidas, dificultades con la pluma, cambios de concentración, rotación de sitios y conservación. Ante discrepancias, solicitar revisión del QF sin modificar la pauta.",
+        "pregunta": "¿Ha cambiado recientemente la pluma, la concentración o la forma en que se administra la insulina?",
+        "almacenamiento": "Verificar fecha de primer uso y condiciones de conservación específicas del producto dispensado.",
+        "accion": "Revisar adherencia, técnica, rotación, identificación del dispositivo y conservación. Derivar al QF ante dudas sobre el dispositivo, la pauta prescrita o la técnica de administración."
+      }
+    },
+    "guia_meson": {
+      "preguntas": "¿Cuál es el nombre y concentración de su insulina? ¿A qué hora se la indicaron? ¿Sabe cómo preparar y utilizar su pluma? ¿Rota los sitios de inyección?",
+      "explicacion": "«Esta insulina proporciona una cobertura basal de glucosa durante el día y/o la noche. No reemplaza automáticamente a la insulina utilizada para las comidas. Respete el horario y dosis prescritos, revise la etiqueta antes de usarla y rote los sitios de inyección».",
+      "alertas": "Ante confusión de producto o concentración, detener la aclaración de la dispensación y solicitar evaluación del QF. Ante signos graves de hipoglicemia, activar atención urgente; no administrar alimentos ni líquidos por boca."
+    },
+    "posicionamiento": "En DM2, la insulina basal se utiliza para cubrir necesidades de insulina entre comidas y durante la noche, principalmente sobre la producción hepática de glucosa. Su incorporación o elección depende de evaluación médica individual, objetivos glucémicos y esquema farmacoterapéutico.",
+    "ampliada_qf": {
+      "titulo_foco": "ADME y selección farmacoterapéutica de insulina glargina",
+      "farmacocinetica_y_seleccion": "Absorción: Glargina forma microprecipitados tras inyección subcutánea, liberando insulina gradualmente; la formulación U-300 tiene una superficie de depósito distinta y absorción más lenta que U-100. Los tiempos de inicio y duración corresponden a efecto farmacodinámico, no a la semivida plasmática.",
+      "fundamento": "Distribución: tras la absorción sistémica, la insulina se distribuye a tejidos diana y se une al receptor de insulina. Metabolismo: degradación proteolítica, principalmente hepática y renal, sin participación relevante de CYP450. Excreción/eliminación: la depuración de insulina depende, entre otros factores, de la función renal y hepática; el deterioro renal puede disminuir requerimientos y aumentar el riesgo de hipoglicemia.",
+      "interacciones_especificas": "Las sulfonilureas pueden incrementar el riesgo de hipoglicemia; los betabloqueadores pueden atenuar signos adrenérgicos de aviso; los corticoides y ciertos simpaticomiméticos pueden elevar la glucemia. La PWA orienta la identificación de riesgos, no la modificación de dosis.",
+      "evidencia_y_limitaciones": "Los rangos son orientativos y no sustituyen los datos de cada formulación. No interpretar el rango general de Tsai como duración específica de U-300. La información debe contrastarse con rotulado vigente del ISP y la prescripción.",
+      "detalle_regulatorio": "Glargina U-100 (p. ej., Lantus) y U-300 (p. ej., Toujeo) requieren verificar instrucciones y dispositivo específicos. No son intercambiables unidad por unidad de forma automática; cualquier cambio requiere supervisión médica.",
+      "perfil_accion_teorico": {
+        "inicio": "U-100: aprox. 30–60 minutos (rango general orientativo)",
+        "maximo": "Sin pico pronunciado",
+        "duracion": "U-100: aprox. 16–24 horas; U-300: perfil más prolongado y plano, verificar ficha específica",
+        "nota": "La tabla de Tsai (2024) agrupa glargina y no permite equiparar U-100 con U-300. La duración depende de formulación y dosis.",
+        "fuente": "Tsai et al. (2024), tabla 1 (rango general); verificar prospectos de glargina U-100 y U-300."
+      }
+    },
+    "consejos_practicos": [
+      {
+        "tipo": "Identificación",
+        "titulo": "Nombre y concentración",
+        "texto": "Confirmar principio activo, unidades/mL, presentación y dispositivo antes de entregar; no asumir equivalencia de plumas."
+      },
+      {
+        "tipo": "Técnica",
+        "titulo": "Rotación de sitios",
+        "texto": "Alternar puntos de inyección y evitar áreas endurecidas; la absorción puede variar al cambiar desde zonas con lipohipertrofia."
+      },
+      {
+        "tipo": "Adherencia",
+        "titulo": "Pauta prescrita",
+        "texto": "Reforzar el horario indicado y las instrucciones recibidas para dosis omitidas; no improvisar compensaciones."
+      },
+      {
+        "tipo": "Conservación",
+        "titulo": "Prospecto específico",
+        "texto": "Comprobar fecha de apertura, temperatura y plazo de uso de la presentación efectivamente dispensada."
+      }
+    ]
+  },
+  {
+    "id": "insulina-degludec",
+    "nombre": "Insulina degludec",
+    "familia": "Análogo de insulina basal de acción ultralarga",
+    "via": "Subcutánea",
+    "estado": "Borrador documental · requiere cotejo de fichas técnicas vigentes",
+    "descripcion": "Análogo basal ultralargo. Existen presentaciones U-100 y U-200; la concentración y el dispositivo deben verificarse sin convertir manualmente unidades de la pluma.",
+    "seguridad": [
+      "Confirmar principio activo, concentración, dispositivo y pauta prescrita; las concentraciones no deben intercambiarse automáticamente.",
+      "No confundir insulina basal con insulina prandial: no se utiliza como corrección improvisada de una comida.",
+      "Rotar los sitios de inyección; evitar zonas con lipohipertrofia o endurecimientos, que alteran la absorción.",
+      "Reconocer síntomas de hipoglicemia; ante compromiso de conciencia o imposibilidad de tragar, solicitar atención urgente y no dar nada por boca.",
+      "Verificar apariencia, integridad, fecha de vencimiento y conservación según prospecto de la presentación dispensada."
+    ],
+    "dispensacion": "Verificar prescripción, principio activo, concentración y dispositivo. Reforzar horario indicado, técnica, rotación, conservación y adherencia, sin modificar dosis.",
+    "marcas": [],
+    "mecanismo": "Tras la inyección subcutánea forma multihexámeros que liberan lentamente monómeros; su unión reversible a albúmina contribuye a prolongar el perfil basal.",
+    "reacciones": [
+      "Hipoglicemia: sudoración, temblor, hambre, palpitaciones, confusión; cuadros graves requieren atención urgente.",
+      "Lipohipertrofia y reacciones locales: la inyección repetida en una misma zona puede alterar la absorción.",
+      "Aumento de peso y edema periférico pueden ocurrir durante el tratamiento con insulina; evaluar en contexto clínico.",
+      "Hipopotasemia: precaución farmacológica en situaciones de riesgo."
+    ],
+    "renal": "El deterioro renal puede disminuir los requerimientos de insulina y aumentar el riesgo de hipoglicemia; la evaluación y cualquier ajuste corresponden al equipo tratante.",
+    "interacciones": [
+      "Sulfonilureas (p. ej., gliclazida, glibenclamida): mayor riesgo de hipoglicemia cuando se asocian a insulina.",
+      "Betabloqueadores (p. ej., propranolol, metoprolol): pueden atenuar palpitaciones o taquicardia como aviso de hipoglicemia.",
+      "Corticoides sistémicos, salbutamol y olanzapina: pueden contrarrestar el efecto hipoglicemiante y dificultar el control glucémico."
+    ],
+    "alertas": [
+      {
+        "nivel": "Atención urgente",
+        "titulo": "Hipoglicemia grave",
+        "detalle": "Pérdida de conciencia, convulsiones o imposibilidad de tragar: activar atención urgente; no administrar nada por vía oral."
+      },
+      {
+        "nivel": "Revisión farmacéutica",
+        "titulo": "Error de insulina o concentración",
+        "detalle": "Comprobar principio activo, concentración y dispositivo con receta y envase; no sustituir automáticamente."
+      }
+    ],
+    "fuentes": [
+      {
+        "nombre": "Tsai Y-Y, Gu Y-S, Jiang Y-D. An update of contemporary insulin therapy. J Diabetes Investig. 2024;15(8):1000–1002. Tabla 1.",
+        "url": "https://doi.org/10.1111/jdi.14212"
+      },
+      {
+        "nombre": "MINSAL Chile. Protocolo de insulinización para personas con DM2 (documento aportado)."
+      },
+      {
+        "nombre": "Información de producto y registro sanitario ISP: verificar presentación y prospecto vigente.",
+        "url": "https://registrosanitario.ispch.gob.cl/"
+      }
+    ],
+    "revision": "Ficha de trabajo basada en revisión documental; pendiente de cotejo de prospectos vigentes para cada concentración y dispositivo.",
+    "validacion": "Borrador educativo de apoyo a la dispensación; no indica ajustes posológicos.",
+    "dispensacion_rapida": {
+      "primera": {
+        "consejo": "Explique la función basal de esta insulina, confirme horario y pauta prescritos y compruebe que el paciente identifica correctamente el dispositivo y la concentración. Demuestre técnica y rotación de sitios, y revise conservación y signos de hipoglicemia.",
+        "pregunta": "¿Le mostraron cómo utilizar este dispositivo y en qué horario debe administrarlo?",
+        "almacenamiento": "Antes de abrir, habitualmente entre 2 y 8 °C y sin congelar; verificar el prospecto. Tras apertura, el plazo y la temperatura dependen de la presentación.",
+        "accion": "Comprobar medicamento, concentración, dispositivo y pauta prescrita; reforzar técnica, horario y adherencia. Derivar al QF ante dudas sobre el dispositivo, la pauta prescrita o la técnica de administración."
+      },
+      "habitual": {
+        "consejo": "Pregunte por continuidad de uso, dosis omitidas, dificultades con la pluma, cambios de concentración, rotación de sitios y conservación. Ante discrepancias, solicitar revisión del QF sin modificar la pauta.",
+        "pregunta": "¿Ha cambiado recientemente la pluma, la concentración o la forma en que se administra la insulina?",
+        "almacenamiento": "Verificar fecha de primer uso y condiciones de conservación específicas del producto dispensado.",
+        "accion": "Revisar adherencia, técnica, rotación, identificación del dispositivo y conservación. Derivar al QF ante dudas sobre el dispositivo, la pauta prescrita o la técnica de administración."
+      }
+    },
+    "guia_meson": {
+      "preguntas": "¿Cuál es el nombre y concentración de su insulina? ¿A qué hora se la indicaron? ¿Sabe cómo preparar y utilizar su pluma? ¿Rota los sitios de inyección?",
+      "explicacion": "«Esta insulina proporciona una cobertura basal de glucosa durante el día y/o la noche. No reemplaza automáticamente a la insulina utilizada para las comidas. Respete el horario y dosis prescritos, revise la etiqueta antes de usarla y rote los sitios de inyección».",
+      "alertas": "Ante confusión de producto o concentración, detener la aclaración de la dispensación y solicitar evaluación del QF. Ante signos graves de hipoglicemia, activar atención urgente; no administrar alimentos ni líquidos por boca."
+    },
+    "posicionamiento": "En DM2, la insulina basal se utiliza para cubrir necesidades de insulina entre comidas y durante la noche, principalmente sobre la producción hepática de glucosa. Su incorporación o elección depende de evaluación médica individual, objetivos glucémicos y esquema farmacoterapéutico.",
+    "ampliada_qf": {
+      "titulo_foco": "ADME y selección farmacoterapéutica de insulina degludec",
+      "farmacocinetica_y_seleccion": "Absorción: Los multihexámeros subcutáneos permiten una liberación sostenida; la unión reversible a albúmina amortigua fluctuaciones y contribuye al perfil prolongado. Los tiempos de inicio y duración corresponden a efecto farmacodinámico, no a la semivida plasmática.",
+      "fundamento": "Distribución: tras la absorción sistémica, la insulina se distribuye a tejidos diana y se une al receptor de insulina. Metabolismo: degradación proteolítica, principalmente hepática y renal, sin participación relevante de CYP450. Excreción/eliminación: la depuración de insulina depende, entre otros factores, de la función renal y hepática; el deterioro renal puede disminuir requerimientos y aumentar el riesgo de hipoglicemia.",
+      "interacciones_especificas": "Las sulfonilureas pueden incrementar el riesgo de hipoglicemia; los betabloqueadores pueden atenuar signos adrenérgicos de aviso; los corticoides y ciertos simpaticomiméticos pueden elevar la glucemia. La PWA orienta la identificación de riesgos, no la modificación de dosis.",
+      "evidencia_y_limitaciones": "Los rangos son orientativos y no sustituyen los datos de cada formulación. Los datos farmacodinámicos son orientativos y no constituyen instrucciones de titulación. La información debe contrastarse con rotulado vigente del ISP y la prescripción.",
+      "detalle_regulatorio": "Las presentaciones U-100 y U-200 (p. ej., Tresiba) tienen dispositivos específicos; la pluma muestra unidades de dosis y no deben realizarse conversiones manuales sin indicación del fabricante. Comprobar prospecto vigente.",
+      "perfil_accion_teorico": {
+        "inicio": "Aproximadamente 30–90 minutos (orientativo)",
+        "maximo": "Sin pico pronunciado",
+        "duracion": "Más de 24 horas (tabla 2024); efecto ultralargo, consultar prospecto para duración específica",
+        "nota": "Rangos generales orientativos; no equivalen a semivida plasmática ni justifican cambios de horario o dosis.",
+        "fuente": "Tsai et al. (2024), tabla 1."
+      }
+    },
+    "consejos_practicos": [
+      {
+        "tipo": "Identificación",
+        "titulo": "Nombre y concentración",
+        "texto": "Confirmar principio activo, unidades/mL, presentación y dispositivo antes de entregar; no asumir equivalencia de plumas."
+      },
+      {
+        "tipo": "Técnica",
+        "titulo": "Rotación de sitios",
+        "texto": "Alternar puntos de inyección y evitar áreas endurecidas; la absorción puede variar al cambiar desde zonas con lipohipertrofia."
+      },
+      {
+        "tipo": "Adherencia",
+        "titulo": "Pauta prescrita",
+        "texto": "Reforzar el horario indicado y las instrucciones recibidas para dosis omitidas; no improvisar compensaciones."
+      },
+      {
+        "tipo": "Conservación",
+        "titulo": "Prospecto específico",
+        "texto": "Comprobar fecha de apertura, temperatura y plazo de uso de la presentación efectivamente dispensada."
+      }
+    ]
+  },
+  {
+    "id": "insulina-detemir",
+    "nombre": "Insulina detemir",
+    "familia": "Análogo de insulina basal de acción prolongada",
+    "via": "Subcutánea",
+    "estado": "Borrador documental · requiere cotejo de fichas técnicas vigentes",
+    "descripcion": "Análogo basal de acción prolongada; la duración puede ser dependiente de la dosis y algunos esquemas prescritos requieren más de una administración diaria.",
+    "seguridad": [
+      "Confirmar principio activo, concentración, dispositivo y pauta prescrita; las concentraciones no deben intercambiarse automáticamente.",
+      "No confundir insulina basal con insulina prandial: no se utiliza como corrección improvisada de una comida.",
+      "Rotar los sitios de inyección; evitar zonas con lipohipertrofia o endurecimientos, que alteran la absorción.",
+      "Reconocer síntomas de hipoglicemia; ante compromiso de conciencia o imposibilidad de tragar, solicitar atención urgente y no dar nada por boca.",
+      "Verificar apariencia, integridad, fecha de vencimiento y conservación según prospecto de la presentación dispensada."
+    ],
+    "dispensacion": "Verificar prescripción, principio activo, concentración y dispositivo. Reforzar horario indicado, técnica, rotación, conservación y adherencia, sin modificar dosis.",
+    "marcas": [],
+    "mecanismo": "Análogo acilado que se une reversiblemente a albúmina, prolongando su absorción y disponibilidad sistémica.",
+    "reacciones": [
+      "Hipoglicemia: sudoración, temblor, hambre, palpitaciones, confusión; cuadros graves requieren atención urgente.",
+      "Lipohipertrofia y reacciones locales: la inyección repetida en una misma zona puede alterar la absorción.",
+      "Aumento de peso y edema periférico pueden ocurrir durante el tratamiento con insulina; evaluar en contexto clínico.",
+      "Hipopotasemia: precaución farmacológica en situaciones de riesgo."
+    ],
+    "renal": "El deterioro renal puede disminuir los requerimientos de insulina y aumentar el riesgo de hipoglicemia; la evaluación y cualquier ajuste corresponden al equipo tratante.",
+    "interacciones": [
+      "Sulfonilureas (p. ej., gliclazida, glibenclamida): mayor riesgo de hipoglicemia cuando se asocian a insulina.",
+      "Betabloqueadores (p. ej., propranolol, metoprolol): pueden atenuar palpitaciones o taquicardia como aviso de hipoglicemia.",
+      "Corticoides sistémicos, salbutamol y olanzapina: pueden contrarrestar el efecto hipoglicemiante y dificultar el control glucémico."
+    ],
+    "alertas": [
+      {
+        "nivel": "Atención urgente",
+        "titulo": "Hipoglicemia grave",
+        "detalle": "Pérdida de conciencia, convulsiones o imposibilidad de tragar: activar atención urgente; no administrar nada por vía oral."
+      },
+      {
+        "nivel": "Revisión farmacéutica",
+        "titulo": "Error de insulina o concentración",
+        "detalle": "Comprobar principio activo, concentración y dispositivo con receta y envase; no sustituir automáticamente."
+      }
+    ],
+    "fuentes": [
+      {
+        "nombre": "Tsai Y-Y, Gu Y-S, Jiang Y-D. An update of contemporary insulin therapy. J Diabetes Investig. 2024;15(8):1000–1002. Tabla 1.",
+        "url": "https://doi.org/10.1111/jdi.14212"
+      },
+      {
+        "nombre": "MINSAL Chile. Protocolo de insulinización para personas con DM2 (documento aportado)."
+      },
+      {
+        "nombre": "Información de producto y registro sanitario ISP: verificar presentación y prospecto vigente.",
+        "url": "https://registrosanitario.ispch.gob.cl/"
+      }
+    ],
+    "revision": "Ficha de trabajo basada en revisión documental; pendiente de cotejo de prospectos vigentes para cada concentración y dispositivo.",
+    "validacion": "Borrador educativo de apoyo a la dispensación; no indica ajustes posológicos.",
+    "dispensacion_rapida": {
+      "primera": {
+        "consejo": "Explique la función basal de esta insulina, confirme horario y pauta prescritos y compruebe que el paciente identifica correctamente el dispositivo y la concentración. Demuestre técnica y rotación de sitios, y revise conservación y signos de hipoglicemia.",
+        "pregunta": "¿Le mostraron cómo utilizar este dispositivo y en qué horario debe administrarlo?",
+        "almacenamiento": "Antes de abrir, habitualmente entre 2 y 8 °C y sin congelar; verificar el prospecto. Tras apertura, el plazo y la temperatura dependen de la presentación.",
+        "accion": "Comprobar medicamento, concentración, dispositivo y pauta prescrita; reforzar técnica, horario y adherencia. Derivar al QF ante dudas sobre el dispositivo, la pauta prescrita o la técnica de administración."
+      },
+      "habitual": {
+        "consejo": "Pregunte por continuidad de uso, dosis omitidas, dificultades con la pluma, cambios de concentración, rotación de sitios y conservación. Ante discrepancias, solicitar revisión del QF sin modificar la pauta.",
+        "pregunta": "¿Ha cambiado recientemente la pluma, la concentración o la forma en que se administra la insulina?",
+        "almacenamiento": "Verificar fecha de primer uso y condiciones de conservación específicas del producto dispensado.",
+        "accion": "Revisar adherencia, técnica, rotación, identificación del dispositivo y conservación. Derivar al QF ante dudas sobre el dispositivo, la pauta prescrita o la técnica de administración."
+      }
+    },
+    "guia_meson": {
+      "preguntas": "¿Cuál es el nombre y concentración de su insulina? ¿A qué hora se la indicaron? ¿Sabe cómo preparar y utilizar su pluma? ¿Rota los sitios de inyección?",
+      "explicacion": "«Esta insulina proporciona una cobertura basal de glucosa durante el día y/o la noche. No reemplaza automáticamente a la insulina utilizada para las comidas. Respete el horario y dosis prescritos, revise la etiqueta antes de usarla y rote los sitios de inyección».",
+      "alertas": "Ante confusión de producto o concentración, detener la aclaración de la dispensación y solicitar evaluación del QF. Ante signos graves de hipoglicemia, activar atención urgente; no administrar alimentos ni líquidos por boca."
+    },
+    "posicionamiento": "En DM2, la insulina basal se utiliza para cubrir necesidades de insulina entre comidas y durante la noche, principalmente sobre la producción hepática de glucosa. Su incorporación o elección depende de evaluación médica individual, objetivos glucémicos y esquema farmacoterapéutico.",
+    "ampliada_qf": {
+      "titulo_foco": "ADME y selección farmacoterapéutica de insulina detemir",
+      "farmacocinetica_y_seleccion": "Absorción: La modificación con una cadena de ácido graso favorece autoasociación en tejido subcutáneo y unión reversible a albúmina; la duración depende de la dosis. Los tiempos de inicio y duración corresponden a efecto farmacodinámico, no a la semivida plasmática.",
+      "fundamento": "Distribución: tras la absorción sistémica, la insulina se distribuye a tejidos diana y se une al receptor de insulina. Metabolismo: degradación proteolítica, principalmente hepática y renal, sin participación relevante de CYP450. Excreción/eliminación: la depuración de insulina depende, entre otros factores, de la función renal y hepática; el deterioro renal puede disminuir requerimientos y aumentar el riesgo de hipoglicemia.",
+      "interacciones_especificas": "Las sulfonilureas pueden incrementar el riesgo de hipoglicemia; los betabloqueadores pueden atenuar signos adrenérgicos de aviso; los corticoides y ciertos simpaticomiméticos pueden elevar la glucemia. La PWA orienta la identificación de riesgos, no la modificación de dosis.",
+      "evidencia_y_limitaciones": "Los rangos son orientativos y no sustituyen los datos de cada formulación. Puede requerir distinta frecuencia de administración según pauta médica; no deducirla de la tabla de rangos. La información debe contrastarse con rotulado vigente del ISP y la prescripción.",
+      "detalle_regulatorio": "Verificar presentación y disponibilidad actual de detemir en Chile; la existencia de antecedentes de registro no confirma comercialización. No sustituir por otra insulina basal sin evaluación médica.",
+      "perfil_accion_teorico": {
+        "inicio": "Aproximadamente 30–60 minutos",
+        "maximo": "Sin pico pronunciado",
+        "duracion": "Aproximadamente 16–24 horas, dependiente de dosis",
+        "nota": "Rangos teóricos; en la práctica la duración puede variar con la dosis. Verificar disponibilidad y rotulado vigente en Chile.",
+        "fuente": "Tsai et al. (2024), tabla 1."
+      }
+    },
+    "consejos_practicos": [
+      {
+        "tipo": "Identificación",
+        "titulo": "Nombre y concentración",
+        "texto": "Confirmar principio activo, unidades/mL, presentación y dispositivo antes de entregar; no asumir equivalencia de plumas."
+      },
+      {
+        "tipo": "Técnica",
+        "titulo": "Rotación de sitios",
+        "texto": "Alternar puntos de inyección y evitar áreas endurecidas; la absorción puede variar al cambiar desde zonas con lipohipertrofia."
+      },
+      {
+        "tipo": "Adherencia",
+        "titulo": "Pauta prescrita",
+        "texto": "Reforzar el horario indicado y las instrucciones recibidas para dosis omitidas; no improvisar compensaciones."
+      },
+      {
+        "tipo": "Conservación",
+        "titulo": "Prospecto específico",
+        "texto": "Comprobar fecha de apertura, temperatura y plazo de uso de la presentación efectivamente dispensada."
       }
     ]
   }
