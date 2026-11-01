@@ -3377,6 +3377,10 @@
       {
         "nombre": "Información de producto y registro sanitario ISP: verificar presentación y prospecto vigente.",
         "url": "https://registrosanitario.ispch.gob.cl/"
+      },
+      {
+        "nombre": "EMA. Levemir, información de producto en español (documento aportado).",
+        "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/levemir"
       }
     ],
     "revision": "Ficha de trabajo basada en revisión documental; pendiente de cotejo de prospectos vigentes para cada concentración y dispositivo.",
@@ -3403,8 +3407,8 @@
     "posicionamiento": "En DM2, la insulina basal se utiliza para cubrir necesidades de insulina entre comidas y durante la noche, principalmente sobre la producción hepática de glucosa. Su incorporación o elección depende de evaluación médica individual, objetivos glucémicos y esquema farmacoterapéutico.",
     "ampliada_qf": {
       "titulo_foco": "ADME y selección farmacoterapéutica de insulina detemir",
-      "farmacocinetica_y_seleccion": "Absorción: La modificación con una cadena de ácido graso favorece autoasociación en tejido subcutáneo y unión reversible a albúmina; la duración depende de la dosis. Los tiempos de inicio y duración corresponden a efecto farmacodinámico, no a la semivida plasmática.",
-      "fundamento": "Distribución: tras la absorción sistémica, la insulina se distribuye a tejidos diana y se une al receptor de insulina. Metabolismo: degradación proteolítica, principalmente hepática y renal, sin participación relevante de CYP450. Excreción/eliminación: la depuración de insulina depende, entre otros factores, de la función renal y hepática; el deterioro renal puede disminuir requerimientos y aumentar el riesgo de hipoglicemia.",
+      "farmacocinetica_y_seleccion": "Absorción: autoasociación subcutánea y unión reversible a albúmina; concentración sérica máxima 6–8 horas después de inyección subcutánea. Duración máxima de acción hasta 24 horas, dependiente de la dosis.",
+      "fundamento": "Distribución: elevada unión a albúmina y volumen de distribución aparente de aproximadamente 0,1 L/kg. Metabolismo: degradación similar a insulina humana, metabolitos inactivos. Excreción/eliminación: semivida terminal tras administración subcutánea de 5–7 horas, dependiente de absorción; no equivale a duración del efecto.",
       "interacciones_especificas": "Las sulfonilureas pueden incrementar el riesgo de hipoglicemia; los betabloqueadores pueden atenuar signos adrenérgicos de aviso; los corticoides y ciertos simpaticomiméticos pueden elevar la glucemia. La PWA orienta la identificación de riesgos, no la modificación de dosis.",
       "evidencia_y_limitaciones": "Los rangos son orientativos y no sustituyen los datos de cada formulación. Puede requerir distinta frecuencia de administración según pauta médica; no deducirla de la tabla de rangos. La información debe contrastarse con rotulado vigente del ISP y la prescripción.",
       "detalle_regulatorio": "Verificar presentación y disponibilidad actual de detemir en Chile; la existencia de antecedentes de registro no confirma comercialización. No sustituir por otra insulina basal sin evaluación médica.",
@@ -3436,6 +3440,358 @@
         "tipo": "Conservación",
         "titulo": "Prospecto específico",
         "texto": "Comprobar fecha de apertura, temperatura y plazo de uso de la presentación efectivamente dispensada."
+      },
+      {
+        "tipo": "Dispositivo",
+        "titulo": "Levemir FlexPen (según folleto aportado)",
+        "texto": "Verificar etiqueta y prueba de flujo conforme a instrucciones; el folleto de FlexPen indica mantener la aguja bajo la piel al menos 6 segundos. No extrapolar a otras plumas."
+      },
+      {
+        "tipo": "Conservación",
+        "titulo": "Levemir FlexPen (según folleto aportado)",
+        "texto": "El folleto aportado indica para el dispositivo abierto hasta 6 semanas por debajo de 30 °C, sin refrigerar. Comprobar versión vigente y dispositivo concreto."
+      }
+    ]
+  },
+  {
+    "id": "insulina-mixta-humana-30-70",
+    "nombre": "Insulina premezclada: Bioinsugen 30/70",
+    "familia": "Premezcla de insulina humana",
+    "via": "Subcutánea",
+    "estado": "Borrador documental · verificar prospecto ISP y presentación vigente",
+    "descripcion": "Insulina humana regular 30 % + NPH 70 %. Suspensión bifásica con componente de cobertura de comidas y componente de acción intermedia; la proporción es fija.",
+    "seguridad": [
+      "Identificar expresamente la proporción de la premezcla: no sustituir por otra mezcla, insulina basal o prandial.",
+      "La formulación es suspensión: comprobar instrucciones de resuspensión del dispositivo o vial y aspecto homogéneo; no usar si hay grumos o partículas persistentes.",
+      "Confirmar horario de comida y pauta prescrita; omisión o retraso de alimentos puede incrementar el riesgo de hipoglicemia.",
+      "Uso subcutáneo según presentación; no administrar por vía intravenosa ni en bomba de infusión salvo indicación expresamente autorizada (no contemplada para estas fichas).",
+      "Rotar sitios de inyección; no compartir agujas ni plumas. Hipoglicemia grave con alteración de conciencia: urgencia, no administrar nada por boca."
+    ],
+    "dispensacion": "Comprobar nombre completo y proporción de la mezcla, presentación, concentración, pauta y relación con las comidas. Enseñar resuspensión conforme al folleto específico y verificar que la suspensión sea uniforme antes de administrar. No ajustar dosis.",
+    "marcas": [
+      "Bioinsugen 30/70"
+    ],
+    "mecanismo": "Ambos componentes activan el receptor de insulina, aumentando captación periférica de glucosa y reduciendo producción hepática. La fracción asociada a protamina retrasa la absorción subcutánea.",
+    "reacciones": [
+      "Hipoglicemia: sudoración, temblor, hambre, palpitaciones, confusión; cuadros graves requieren atención urgente.",
+      "Lipohipertrofia y reacciones locales: la inyección repetida en una misma zona puede alterar la absorción.",
+      "Aumento de peso y edema periférico pueden ocurrir durante el tratamiento con insulina; evaluar en contexto clínico.",
+      "Hipopotasemia: precaución farmacológica en situaciones de riesgo."
+    ],
+    "renal": "La alteración renal o hepática puede modificar necesidades de insulina y riesgo de hipoglicemia; cualquier ajuste corresponde al equipo tratante.",
+    "interacciones": [
+      "Sulfonilureas: pueden incrementar riesgo de hipoglicemia al combinarse con insulina.",
+      "Betabloqueadores: pueden enmascarar signos adrenérgicos de hipoglicemia.",
+      "Glucocorticoides y ciertos simpaticomiméticos: pueden reducir el efecto hipoglicemiante aparente; no ajustar dosis en mesón.",
+      "Pioglitazona con insulina: vigilar edema y síntomas de insuficiencia cardíaca; evaluación clínica."
+    ],
+    "alertas": [
+      {
+        "nivel": "Atención urgente",
+        "titulo": "Hipoglicemia grave",
+        "detalle": "Pérdida de conciencia, convulsiones o imposibilidad de tragar: activar atención urgente; no administrar nada por vía oral."
+      },
+      {
+        "nivel": "Revisión farmacéutica",
+        "titulo": "Error de insulina o concentración",
+        "detalle": "Comprobar principio activo, concentración y dispositivo con receta y envase; no sustituir automáticamente."
+      }
+    ],
+    "fuentes": [
+      {
+        "nombre": "Instituto Sanitas. Ficha técnica Bioinsugen-30/70 (2023).",
+        "url": "https://sanitas.cl/wp-content/uploads/2024/09/Ficha-Tecnica-Bioinsugen-3070-V02.pdf"
+      },
+      {
+        "nombre": "ISP Chile. Consulta de registro y folleto local vigente.",
+        "url": "https://registrosanitario.ispch.gob.cl/"
+      }
+    ],
+    "revision": "Ficha documental de apoyo; la existencia de registro no garantiza disponibilidad comercial. Verificar presentación, conservación y resuspensión exactas en prospecto local.",
+    "validacion": "Borrador educativo de apoyo a la dispensación; no indica ajustes posológicos.",
+    "dispensacion_rapida": {
+      "primera": {
+        "consejo": "Identifique con la persona la proporción de la mezcla y el dispositivo. Demuestre la resuspensión indicada por el fabricante, técnica, rotación y relación con las comidas. Confirmar intervalo previo a la comida según folleto autorizado del producto; no extrapolar la pauta de análogos rápidos.",
+        "pregunta": "¿Sabe cómo homogeneizar esta insulina y en qué momento respecto de la comida se la indicaron?",
+        "almacenamiento": "Sin abrir, revisar conservación en frío según prospecto. Una vez en uso, temperatura y plazo dependen de la presentación; registrar fecha de apertura.",
+        "accion": "Verificar proporción, dispositivo, resuspensión y horario prescrito. Derivar al QF ante dudas sobre el dispositivo, la pauta prescrita o la técnica de administración."
+      },
+      "habitual": {
+        "consejo": "Confirmar que reconoce la mezcla correcta, mantiene técnica de resuspensión y no presenta problemas con la relación inyección-comida, sitios de aplicación o conservación.",
+        "pregunta": "¿Ha tenido dificultades para homogeneizar la suspensión o coordinar la administración con las comidas?",
+        "almacenamiento": "Revisar fecha de primer uso, aspecto de la suspensión y condiciones específicas del envase.",
+        "accion": "Revisar adherencia, identificación de mezcla, resuspensión y conservación. Derivar al QF ante dudas sobre el dispositivo, la pauta prescrita o la técnica de administración."
+      }
+    },
+    "guia_meson": {
+      "preguntas": "¿Cuál es el nombre y concentración de su insulina? ¿A qué hora se la indicaron? ¿Sabe cómo preparar y utilizar su pluma? ¿Rota los sitios de inyección?",
+      "explicacion": "«Esta insulina proporciona una cobertura basal de glucosa durante el día y/o la noche. No reemplaza automáticamente a la insulina utilizada para las comidas. Respete el horario y dosis prescritos, revise la etiqueta antes de usarla y rote los sitios de inyección».",
+      "alertas": "Ante confusión de producto o concentración, detener la aclaración de la dispensación y solicitar evaluación del QF. Ante signos graves de hipoglicemia, activar atención urgente; no administrar alimentos ni líquidos por boca."
+    },
+    "posicionamiento": "Opción de insulinoterapia bifásica prescrita para aportar componentes prandial e intermedio en proporción fija; no permite modificar independientemente ambas fracciones.",
+    "ampliada_qf": {
+      "titulo_foco": "Farmacología de premezcla bifásica Bioinsugen 30/70",
+      "farmacocinetica_y_seleccion": "Absorción: fracción soluble más temprana y fracción con protamina de absorción retardada; la curva global no es la suma aritmética de rangos individuales.",
+      "fundamento": "Distribución: la insulina absorbida alcanza tejidos sensibles y se une a receptores; Metabolismo: degradación proteolítica con metabolitos inactivos; Excreción/eliminación: la depuración depende de función orgánica y no equivale a duración farmacodinámica de la suspensión.",
+      "interacciones_especificas": "Sulfonilureas y otras terapias hipoglicemiantes aumentan riesgo de hipoglicemia; betabloqueadores pueden ocultar síntomas; glucocorticoides pueden elevar glucemia.",
+      "evidencia_y_limitaciones": "Los tiempos corresponden a la formulación completa solo cuando la ficha técnica lo especifica; no utilizar Tmax plasmático como pico de efecto. Confirmar intervalo previo a la comida según folleto autorizado del producto; no extrapolar la pauta de análogos rápidos.",
+      "detalle_regulatorio": "Confirmar registro, presentación y folleto autorizado vigente ISP; autorización en otra jurisdicción no prueba disponibilidad en Chile.",
+      "perfil_accion_teorico": {
+        "inicio": "Componente regular de inicio aproximadamente 30–60 min; perfil exacto de la mezcla pendiente de validación",
+        "maximo": "No se establece un máximo único validado para esta formulación",
+        "duracion": "Componente NPH de acción intermedia; duración total específica pendiente de cotejo",
+        "nota": "Rangos de referencia documental. En Humalog Mix25 y Bioinsugen 30/70 no se asigna un máximo/duración universal sin evidencia específica de la mezcla.",
+        "fuente": "https://sanitas.cl/wp-content/uploads/2024/09/Ficha-Tecnica-Bioinsugen-3070-V02.pdf"
+      }
+    },
+    "consejos_practicos": [
+      {
+        "tipo": "Técnica",
+        "titulo": "Resuspensión obligatoria",
+        "texto": "La mezcla es una suspensión; seguir el número de movimientos e instrucciones del producto específico hasta lograr apariencia homogénea. No agitar violentamente ni extrapolar técnica entre marcas."
+      },
+      {
+        "tipo": "Identificación",
+        "titulo": "Proporción fija",
+        "texto": "Confirmar nombre y fracciones Insulina humana regular 30 % + NPH 70 %; no sustituir por otra proporción ni por componentes individuales sin nueva indicación."
+      },
+      {
+        "tipo": "Comidas",
+        "titulo": "Coordinación con alimentación",
+        "texto": "Confirmar intervalo previo a la comida según folleto autorizado del producto; no extrapolar la pauta de análogos rápidos."
+      },
+      {
+        "tipo": "Conservación",
+        "titulo": "Presentación específica",
+        "texto": "Confirmar temperatura, período tras apertura y compatibilidad de agujas o jeringas en folleto del producto dispensado."
+      }
+    ]
+  },
+  {
+    "id": "insulina-mixta-lispro-25-75",
+    "nombre": "Insulina premezclada: Humalog Mix25",
+    "familia": "Premezcla análoga bifásica",
+    "via": "Subcutánea",
+    "estado": "Borrador documental · verificar prospecto ISP y presentación vigente",
+    "descripcion": "Insulina lispro soluble 25 % + lispro protamina 75 %. Suspensión bifásica con componente de cobertura de comidas y componente de acción intermedia; la proporción es fija.",
+    "seguridad": [
+      "Identificar expresamente la proporción de la premezcla: no sustituir por otra mezcla, insulina basal o prandial.",
+      "La formulación es suspensión: comprobar instrucciones de resuspensión del dispositivo o vial y aspecto homogéneo; no usar si hay grumos o partículas persistentes.",
+      "Confirmar horario de comida y pauta prescrita; omisión o retraso de alimentos puede incrementar el riesgo de hipoglicemia.",
+      "Uso subcutáneo según presentación; no administrar por vía intravenosa ni en bomba de infusión salvo indicación expresamente autorizada (no contemplada para estas fichas).",
+      "Rotar sitios de inyección; no compartir agujas ni plumas. Hipoglicemia grave con alteración de conciencia: urgencia, no administrar nada por boca."
+    ],
+    "dispensacion": "Comprobar nombre completo y proporción de la mezcla, presentación, concentración, pauta y relación con las comidas. Enseñar resuspensión conforme al folleto específico y verificar que la suspensión sea uniforme antes de administrar. No ajustar dosis.",
+    "marcas": [
+      "Humalog Mix25"
+    ],
+    "mecanismo": "Ambos componentes activan el receptor de insulina, aumentando captación periférica de glucosa y reduciendo producción hepática. La fracción asociada a protamina retrasa la absorción subcutánea.",
+    "reacciones": [
+      "Hipoglicemia: sudoración, temblor, hambre, palpitaciones, confusión; cuadros graves requieren atención urgente.",
+      "Lipohipertrofia y reacciones locales: la inyección repetida en una misma zona puede alterar la absorción.",
+      "Aumento de peso y edema periférico pueden ocurrir durante el tratamiento con insulina; evaluar en contexto clínico.",
+      "Hipopotasemia: precaución farmacológica en situaciones de riesgo."
+    ],
+    "renal": "La alteración renal o hepática puede modificar necesidades de insulina y riesgo de hipoglicemia; cualquier ajuste corresponde al equipo tratante.",
+    "interacciones": [
+      "Sulfonilureas: pueden incrementar riesgo de hipoglicemia al combinarse con insulina.",
+      "Betabloqueadores: pueden enmascarar signos adrenérgicos de hipoglicemia.",
+      "Glucocorticoides y ciertos simpaticomiméticos: pueden reducir el efecto hipoglicemiante aparente; no ajustar dosis en mesón.",
+      "Pioglitazona con insulina: vigilar edema y síntomas de insuficiencia cardíaca; evaluación clínica."
+    ],
+    "alertas": [
+      {
+        "nivel": "Atención urgente",
+        "titulo": "Hipoglicemia grave",
+        "detalle": "Pérdida de conciencia, convulsiones o imposibilidad de tragar: activar atención urgente; no administrar nada por vía oral."
+      },
+      {
+        "nivel": "Revisión farmacéutica",
+        "titulo": "Error de insulina o concentración",
+        "detalle": "Comprobar principio activo, concentración y dispositivo con receta y envase; no sustituir automáticamente."
+      }
+    ],
+    "fuentes": [
+      {
+        "nombre": "Ficha técnica oficial Humalog Mix25 (AEMPS/EMA).",
+        "url": "https://cima.aemps.es/cima/dochtml/ft/96007033/FT_96007033.html"
+      },
+      {
+        "nombre": "ISP Chile. Consulta de registro y folleto local vigente.",
+        "url": "https://registrosanitario.ispch.gob.cl/"
+      }
+    ],
+    "revision": "Ficha documental de apoyo; la existencia de registro no garantiza disponibilidad comercial. Verificar presentación, conservación y resuspensión exactas en prospecto local.",
+    "validacion": "Borrador educativo de apoyo a la dispensación; no indica ajustes posológicos.",
+    "dispensacion_rapida": {
+      "primera": {
+        "consejo": "Identifique con la persona la proporción de la mezcla y el dispositivo. Demuestre la resuspensión indicada por el fabricante, técnica, rotación y relación con las comidas. La ficha permite administración poco antes de las comidas y, cuando sea necesario, poco después; confirmar pauta individual.",
+        "pregunta": "¿Sabe cómo homogeneizar esta insulina y en qué momento respecto de la comida se la indicaron?",
+        "almacenamiento": "Sin abrir, revisar conservación en frío según prospecto. Una vez en uso, temperatura y plazo dependen de la presentación; registrar fecha de apertura.",
+        "accion": "Verificar proporción, dispositivo, resuspensión y horario prescrito. Derivar al QF ante dudas sobre el dispositivo, la pauta prescrita o la técnica de administración."
+      },
+      "habitual": {
+        "consejo": "Confirmar que reconoce la mezcla correcta, mantiene técnica de resuspensión y no presenta problemas con la relación inyección-comida, sitios de aplicación o conservación.",
+        "pregunta": "¿Ha tenido dificultades para homogeneizar la suspensión o coordinar la administración con las comidas?",
+        "almacenamiento": "Revisar fecha de primer uso, aspecto de la suspensión y condiciones específicas del envase.",
+        "accion": "Revisar adherencia, identificación de mezcla, resuspensión y conservación. Derivar al QF ante dudas sobre el dispositivo, la pauta prescrita o la técnica de administración."
+      }
+    },
+    "guia_meson": {
+      "preguntas": "¿Cuál es el nombre y concentración de su insulina? ¿A qué hora se la indicaron? ¿Sabe cómo preparar y utilizar su pluma? ¿Rota los sitios de inyección?",
+      "explicacion": "«Esta insulina proporciona una cobertura basal de glucosa durante el día y/o la noche. No reemplaza automáticamente a la insulina utilizada para las comidas. Respete el horario y dosis prescritos, revise la etiqueta antes de usarla y rote los sitios de inyección».",
+      "alertas": "Ante confusión de producto o concentración, detener la aclaración de la dispensación y solicitar evaluación del QF. Ante signos graves de hipoglicemia, activar atención urgente; no administrar alimentos ni líquidos por boca."
+    },
+    "posicionamiento": "Opción de insulinoterapia bifásica prescrita para aportar componentes prandial e intermedio en proporción fija; no permite modificar independientemente ambas fracciones.",
+    "ampliada_qf": {
+      "titulo_foco": "Farmacología de premezcla bifásica Humalog Mix25",
+      "farmacocinetica_y_seleccion": "Absorción: fracción soluble más temprana y fracción con protamina de absorción retardada; la curva global no es la suma aritmética de rangos individuales.",
+      "fundamento": "Distribución: la insulina absorbida alcanza tejidos sensibles y se une a receptores; Metabolismo: degradación proteolítica con metabolitos inactivos; Excreción/eliminación: la depuración depende de función orgánica y no equivale a duración farmacodinámica de la suspensión.",
+      "interacciones_especificas": "Sulfonilureas y otras terapias hipoglicemiantes aumentan riesgo de hipoglicemia; betabloqueadores pueden ocultar síntomas; glucocorticoides pueden elevar glucemia.",
+      "evidencia_y_limitaciones": "Los tiempos corresponden a la formulación completa solo cuando la ficha técnica lo especifica; no utilizar Tmax plasmático como pico de efecto. La ficha permite administración poco antes de las comidas y, cuando sea necesario, poco después; confirmar pauta individual.",
+      "detalle_regulatorio": "Confirmar registro, presentación y folleto autorizado vigente ISP; autorización en otra jurisdicción no prueba disponibilidad en Chile.",
+      "perfil_accion_teorico": {
+        "inicio": "Inicio rápido por componente lispro, aproximadamente 15 min; valor orientativo, no del conjunto",
+        "maximo": "Pico temprano por lispro; no hay valor numérico universal de la mezcla en ficha consultada",
+        "duracion": "Componente lispro protamina con perfil similar a NPH; duración exacta de la mezcla no establecida",
+        "nota": "Rangos de referencia documental. En Humalog Mix25 y Bioinsugen 30/70 no se asigna un máximo/duración universal sin evidencia específica de la mezcla.",
+        "fuente": "https://cima.aemps.es/cima/dochtml/ft/96007033/FT_96007033.html"
+      }
+    },
+    "consejos_practicos": [
+      {
+        "tipo": "Técnica",
+        "titulo": "Resuspensión obligatoria",
+        "texto": "La mezcla es una suspensión; seguir el número de movimientos e instrucciones del producto específico hasta lograr apariencia homogénea. No agitar violentamente ni extrapolar técnica entre marcas."
+      },
+      {
+        "tipo": "Identificación",
+        "titulo": "Proporción fija",
+        "texto": "Confirmar nombre y fracciones Insulina lispro soluble 25 % + lispro protamina 75 %; no sustituir por otra proporción ni por componentes individuales sin nueva indicación."
+      },
+      {
+        "tipo": "Comidas",
+        "titulo": "Coordinación con alimentación",
+        "texto": "La ficha permite administración poco antes de las comidas y, cuando sea necesario, poco después; confirmar pauta individual."
+      },
+      {
+        "tipo": "Conservación",
+        "titulo": "Presentación específica",
+        "texto": "Confirmar temperatura, período tras apertura y compatibilidad de agujas o jeringas en folleto del producto dispensado."
+      }
+    ]
+  },
+  {
+    "id": "insulina-mixta-asparta-30-70",
+    "nombre": "Insulina premezclada: NovoMix 30",
+    "familia": "Premezcla análoga bifásica",
+    "via": "Subcutánea",
+    "estado": "Borrador documental · verificar prospecto ISP y presentación vigente",
+    "descripcion": "Insulina asparta soluble 30 % + asparta protamina cristalizada 70 %. Suspensión bifásica con componente de cobertura de comidas y componente de acción intermedia; la proporción es fija.",
+    "seguridad": [
+      "Identificar expresamente la proporción de la premezcla: no sustituir por otra mezcla, insulina basal o prandial.",
+      "La formulación es suspensión: comprobar instrucciones de resuspensión del dispositivo o vial y aspecto homogéneo; no usar si hay grumos o partículas persistentes.",
+      "Confirmar horario de comida y pauta prescrita; omisión o retraso de alimentos puede incrementar el riesgo de hipoglicemia.",
+      "Uso subcutáneo según presentación; no administrar por vía intravenosa ni en bomba de infusión salvo indicación expresamente autorizada (no contemplada para estas fichas).",
+      "Rotar sitios de inyección; no compartir agujas ni plumas. Hipoglicemia grave con alteración de conciencia: urgencia, no administrar nada por boca."
+    ],
+    "dispensacion": "Comprobar nombre completo y proporción de la mezcla, presentación, concentración, pauta y relación con las comidas. Enseñar resuspensión conforme al folleto específico y verificar que la suspensión sea uniforme antes de administrar. No ajustar dosis.",
+    "marcas": [
+      "NovoMix 30"
+    ],
+    "mecanismo": "Ambos componentes activan el receptor de insulina, aumentando captación periférica de glucosa y reduciendo producción hepática. La fracción asociada a protamina retrasa la absorción subcutánea.",
+    "reacciones": [
+      "Hipoglicemia: sudoración, temblor, hambre, palpitaciones, confusión; cuadros graves requieren atención urgente.",
+      "Lipohipertrofia y reacciones locales: la inyección repetida en una misma zona puede alterar la absorción.",
+      "Aumento de peso y edema periférico pueden ocurrir durante el tratamiento con insulina; evaluar en contexto clínico.",
+      "Hipopotasemia: precaución farmacológica en situaciones de riesgo."
+    ],
+    "renal": "La alteración renal o hepática puede modificar necesidades de insulina y riesgo de hipoglicemia; cualquier ajuste corresponde al equipo tratante.",
+    "interacciones": [
+      "Sulfonilureas: pueden incrementar riesgo de hipoglicemia al combinarse con insulina.",
+      "Betabloqueadores: pueden enmascarar signos adrenérgicos de hipoglicemia.",
+      "Glucocorticoides y ciertos simpaticomiméticos: pueden reducir el efecto hipoglicemiante aparente; no ajustar dosis en mesón.",
+      "Pioglitazona con insulina: vigilar edema y síntomas de insuficiencia cardíaca; evaluación clínica."
+    ],
+    "alertas": [
+      {
+        "nivel": "Atención urgente",
+        "titulo": "Hipoglicemia grave",
+        "detalle": "Pérdida de conciencia, convulsiones o imposibilidad de tragar: activar atención urgente; no administrar nada por vía oral."
+      },
+      {
+        "nivel": "Revisión farmacéutica",
+        "titulo": "Error de insulina o concentración",
+        "detalle": "Comprobar principio activo, concentración y dispositivo con receta y envase; no sustituir automáticamente."
+      }
+    ],
+    "fuentes": [
+      {
+        "nombre": "Ficha técnica oficial NovoMix 30 (AEMPS/EMA).",
+        "url": "https://www.ema.europa.eu/en/documents/product-information/novomix-epar-product-information_en.pdf"
+      },
+      {
+        "nombre": "ISP Chile. Consulta de registro y folleto local vigente.",
+        "url": "https://registrosanitario.ispch.gob.cl/"
+      }
+    ],
+    "revision": "Ficha documental de apoyo; la existencia de registro no garantiza disponibilidad comercial. Verificar presentación, conservación y resuspensión exactas en prospecto local.",
+    "validacion": "Borrador educativo de apoyo a la dispensación; no indica ajustes posológicos.",
+    "dispensacion_rapida": {
+      "primera": {
+        "consejo": "Identifique con la persona la proporción de la mezcla y el dispositivo. Demuestre la resuspensión indicada por el fabricante, técnica, rotación y relación con las comidas. Según ficha EMA, administrar muy próxima a la comida (0–10 min antes); seguir prescripción y prospecto específico.",
+        "pregunta": "¿Sabe cómo homogeneizar esta insulina y en qué momento respecto de la comida se la indicaron?",
+        "almacenamiento": "Sin abrir, revisar conservación en frío según prospecto. Una vez en uso, temperatura y plazo dependen de la presentación; registrar fecha de apertura.",
+        "accion": "Verificar proporción, dispositivo, resuspensión y horario prescrito. Derivar al QF ante dudas sobre el dispositivo, la pauta prescrita o la técnica de administración."
+      },
+      "habitual": {
+        "consejo": "Confirmar que reconoce la mezcla correcta, mantiene técnica de resuspensión y no presenta problemas con la relación inyección-comida, sitios de aplicación o conservación.",
+        "pregunta": "¿Ha tenido dificultades para homogeneizar la suspensión o coordinar la administración con las comidas?",
+        "almacenamiento": "Revisar fecha de primer uso, aspecto de la suspensión y condiciones específicas del envase.",
+        "accion": "Revisar adherencia, identificación de mezcla, resuspensión y conservación. Derivar al QF ante dudas sobre el dispositivo, la pauta prescrita o la técnica de administración."
+      }
+    },
+    "guia_meson": {
+      "preguntas": "¿Cuál es el nombre y concentración de su insulina? ¿A qué hora se la indicaron? ¿Sabe cómo preparar y utilizar su pluma? ¿Rota los sitios de inyección?",
+      "explicacion": "«Esta insulina proporciona una cobertura basal de glucosa durante el día y/o la noche. No reemplaza automáticamente a la insulina utilizada para las comidas. Respete el horario y dosis prescritos, revise la etiqueta antes de usarla y rote los sitios de inyección».",
+      "alertas": "Ante confusión de producto o concentración, detener la aclaración de la dispensación y solicitar evaluación del QF. Ante signos graves de hipoglicemia, activar atención urgente; no administrar alimentos ni líquidos por boca."
+    },
+    "posicionamiento": "Opción de insulinoterapia bifásica prescrita para aportar componentes prandial e intermedio en proporción fija; no permite modificar independientemente ambas fracciones.",
+    "ampliada_qf": {
+      "titulo_foco": "Farmacología de premezcla bifásica NovoMix 30",
+      "farmacocinetica_y_seleccion": "Absorción: fracción soluble más temprana y fracción con protamina de absorción retardada; la curva global no es la suma aritmética de rangos individuales.",
+      "fundamento": "Distribución: la insulina absorbida alcanza tejidos sensibles y se une a receptores; Metabolismo: degradación proteolítica con metabolitos inactivos; Excreción/eliminación: la depuración depende de función orgánica y no equivale a duración farmacodinámica de la suspensión.",
+      "interacciones_especificas": "Sulfonilureas y otras terapias hipoglicemiantes aumentan riesgo de hipoglicemia; betabloqueadores pueden ocultar síntomas; glucocorticoides pueden elevar glucemia.",
+      "evidencia_y_limitaciones": "Los tiempos corresponden a la formulación completa solo cuando la ficha técnica lo especifica; no utilizar Tmax plasmático como pico de efecto. Según ficha EMA, administrar muy próxima a la comida (0–10 min antes); seguir prescripción y prospecto específico.",
+      "detalle_regulatorio": "Confirmar registro, presentación y folleto autorizado vigente ISP; autorización en otra jurisdicción no prueba disponibilidad en Chile.",
+      "perfil_accion_teorico": {
+        "inicio": "10–20 min",
+        "maximo": "1–4 h",
+        "duracion": "Hasta 24 h",
+        "nota": "Rangos de referencia documental. En Humalog Mix25 y Bioinsugen 30/70 no se asigna un máximo/duración universal sin evidencia específica de la mezcla.",
+        "fuente": "https://www.ema.europa.eu/en/documents/product-information/novomix-epar-product-information_en.pdf"
+      }
+    },
+    "consejos_practicos": [
+      {
+        "tipo": "Técnica",
+        "titulo": "Resuspensión obligatoria",
+        "texto": "La mezcla es una suspensión; seguir el número de movimientos e instrucciones del producto específico hasta lograr apariencia homogénea. No agitar violentamente ni extrapolar técnica entre marcas."
+      },
+      {
+        "tipo": "Identificación",
+        "titulo": "Proporción fija",
+        "texto": "Confirmar nombre y fracciones Insulina asparta soluble 30 % + asparta protamina cristalizada 70 %; no sustituir por otra proporción ni por componentes individuales sin nueva indicación."
+      },
+      {
+        "tipo": "Comidas",
+        "titulo": "Coordinación con alimentación",
+        "texto": "Según ficha EMA, administrar muy próxima a la comida (0–10 min antes); seguir prescripción y prospecto específico."
+      },
+      {
+        "tipo": "Conservación",
+        "titulo": "Presentación específica",
+        "texto": "Confirmar temperatura, período tras apertura y compatibilidad de agujas o jeringas en folleto del producto dispensado."
       }
     ]
   }
