@@ -159,7 +159,7 @@
     "nombre": "Empagliflozina",
     "familia": "Inhibidor del cotransportador sodio-glucosa tipo 2 (iSGLT2)",
     "via": "Oral",
-    "estado": "Ficha ampliada · revisión profesional pendiente",
+    "estado": "Ficha ampliada · revisión documental y regulatoria pendiente",
     "descripcion": "Favorece la eliminación urinaria de glucosa al inhibir SGLT2 en el riñón.",
     "seguridad": [
       "Reconocer signos de deshidratación y posibles infecciones genitales.",
@@ -292,10 +292,10 @@
     ],
     "ampliada_qf": {
       "titulo_foco": "Eliminación renal de glucosa y beneficios cardiorrenales",
-      "farmacocinetica_y_seleccion": "La indicación, dosis y umbrales de función renal deben evaluarse por producto y objetivo terapéutico (control glucémico, insuficiencia cardíaca o enfermedad renal). La eficacia hipoglucemiante disminuye con menor filtración renal, pero ello no equivale a ausencia de beneficio cardiorrenal.",
+      "farmacocinetica_y_seleccion": "Absorción: Administración oral; concentración máxima habitualmente alrededor de 1,5 horas; los alimentos no requieren un ajuste general de la administración. Distribución: Unión a proteínas plasmáticas cercana al 86 %. Metabolismo: Glucuronidación por enzimas UGT, sin metabolito circulante principal con actividad farmacológica dominante. Excreción y eliminación: Excreción urinaria y fecal de fármaco y metabolitos; semivida terminal aproximada de 12 horas. La glucosuria inducida es un efecto farmacodinámico, no la vía de eliminación del medicamento.",
       "fundamento": "La inhibición de SGLT2 en el túbulo proximal disminuye la reabsorción de glucosa y sodio. La glucosuria contribuye al descenso de glucemia; los beneficios en insuficiencia cardíaca y enfermedad renal no se explican exclusivamente por la reducción de HbA1c.",
       "interacciones_especificas": "Diuréticos: posible depleción de volumen e hipotensión. Insulina o sulfonilureas: mayor riesgo de hipoglucemia; la evaluación de dosis corresponde al prescriptor.",
-      "evidencia_y_limitaciones": "Los resultados de EMPA-REG OUTCOME y estudios posteriores son específicos de población, desenlace e indicación; evitar extrapolarlos automáticamente a toda la clase.",
+      "evidencia_y_limitaciones": "Los resultados de EMPA-REG OUTCOME y estudios posteriores son específicos de población, desenlace e indicación; evitar extrapolarlos automáticamente a toda la clase.\nSeguridad y seguimiento: vigilar función renal según indicación, presión arterial, hidratación, síntomas de infección genital y signos compatibles con cetoacidosis incluso sin hiperglucemia marcada. Consideraciones para la dispensación: identificar ayuno prolongado, cirugía o enfermedad aguda para evaluación del plan de suspensión temporal por el equipo tratante; no fijar un umbral único de TFGe para todas las indicaciones.",
       "detalle_regulatorio": "Verificar dosis, contraindicaciones, almacenamiento, condiciones de inicio y ajuste con el folleto ISP vigente de la presentación específica; los antecedentes de esta ficha no sustituyen dicha verificación."
     },
     "guia_meson": {
@@ -309,7 +309,7 @@
     "nombre": "Semaglutida (Ozempic) — DM2",
     "familia": "Agonista receptor GLP-1",
     "via": "Subcutánea semanal",
-    "estado": "Ficha documental ampliada · pendiente de auditoría farmacoterapéutica integral",
+    "estado": "Ficha ampliada · revisión documental y regulatoria pendiente",
     "descripcion": "Semaglutida subcutánea para control glicémico de DM2 según folleto ISP Ozempic.",
     "seguridad": [
       "Verificar antecedentes de pancreatitis y síntomas abdominales persistentes.",
@@ -428,10 +428,10 @@
     ],
     "ampliada_qf": {
       "titulo_foco": "Semaglutida subcutánea: farmacología y evidencia por formulación",
-      "farmacocinetica_y_seleccion": "Distinguir la titulación inicial de la dosis de mantenimiento y verificar el dispositivo exacto. La elección clínica considera control glucémico, peso, tolerabilidad, comorbilidades y evidencia específica de formulación.",
+      "farmacocinetica_y_seleccion": "Absorción: Tras administración subcutánea, absorción lenta y exposición sostenida compatible con dosificación semanal. Distribución: Elevada unión a albúmina plasmática. Metabolismo: Degradación proteolítica y beta-oxidación de la cadena lateral, sin una única enzima CYP dominante. Excreción y eliminación: Eliminación de metabolitos por orina y heces; semivida aproximada de una semana. Los datos no sustituyen instrucciones del dispositivo Ozempic.",
       "fundamento": "Agonista del receptor GLP-1 con acción prolongada; potencia la secreción de insulina dependiente de glucosa, reduce el glucagón inapropiado y modula vaciamiento gástrico y saciedad. La exposición sostenida permite administración semanal.",
       "interacciones_especificas": "Insulina o sulfonilureas: hipoglucemia más probable. El retraso del vaciamiento gástrico puede influir en la absorción de algunos fármacos orales; evaluar casos específicos, sin recomendar separación horaria universal.",
-      "evidencia_y_limitaciones": "SUSTAIN-6 estudió resultados cardiovasculares en una población de alto riesgo. No trasladar automáticamente datos de presentaciones para obesidad a la indicación DM2.",
+      "evidencia_y_limitaciones": "SUSTAIN-6 estudió resultados cardiovasculares en una población de alto riesgo. No trasladar automáticamente datos de presentaciones para obesidad a la indicación DM2.\nSeguridad y seguimiento: náuseas, vómitos, diarrea, deshidratación y síntomas abdominales persistentes; revisar riesgo de hipoglucemia con insulina o sulfonilureas. Consideraciones para la dispensación: identificar dispositivo, dosis prescrita y día semanal; no confundir Ozempic con Wegovy.",
       "detalle_regulatorio": "Verificar dosis, contraindicaciones, almacenamiento, condiciones de inicio y ajuste con el folleto ISP vigente de la presentación específica; los antecedentes de esta ficha no sustituyen dicha verificación."
     },
     "guia_meson": {
@@ -539,7 +539,7 @@
     "nombre": "Tirzepatida",
     "familia": "Agonista dual GIP/GLP-1",
     "via": "Subcutánea semanal",
-    "estado": "Revisión editorial basada en folletos ISP y nota de farmacovigilancia 2026; verificación final pendiente",
+    "estado": "Ficha ampliada · revisión documental y regulatoria pendiente",
     "descripcion": "Agonista dual de receptores GIP y GLP-1 utilizado en adultos con diabetes mellitus tipo 2; administración subcutánea semanal.",
     "seguridad": [
       "Pancreatitis aguda: reconocer dolor abdominal intenso persistente y derivar.",
@@ -658,9 +658,9 @@
     "ampliada_qf": {
       "titulo_foco": "Agonismo dual GIP/GLP-1, seguridad nutricional y diferencias entre dispositivos",
       "fundamento": "Agonismo prolongado de receptores GIP y GLP-1. Aumenta la secreción de insulina de manera dependiente de glucosa, reduce glucagón, retrasa el vaciamiento gástrico y regula el apetito. El efecto sobre vaciamiento gástrico es más marcado tras la primera dosis y disminuye con el tiempo.",
-      "farmacocinetica_y_seleccion": "Administración subcutánea semanal; semivida aproximada de 5 días. Los folletos ISP describen ausencia de ajuste posológico por insuficiencia renal, pero recomiendan vigilancia ante deshidratación por efectos gastrointestinales. El vial de dosis única y el dispositivo KwikPen multidosis requieren instrucciones específicas de preparación, administración y conservación.",
+      "farmacocinetica_y_seleccion": "Absorción: Absorción subcutánea lenta, compatible con administración semanal. Distribución: Unión a albúmina mediada por su cadena lateral lipídica. Metabolismo: Proteólisis de la cadena peptídica, beta-oxidación de la cadena lateral y procesos de hidrólisis. Excreción y eliminación: Metabolitos eliminados por orina y heces; semivida aproximada de cinco días. Distinguir vial monodosis y KwikPen multidosis en la dispensación.",
       "interacciones_especificas": "Insulina o sulfonilureas: mayor riesgo de hipoglucemia y posible necesidad de reevaluar dosis por prescriptor. El retraso del vaciamiento gástrico puede modificar absorción de fármacos orales; los folletos ISP recomiendan método anticonceptivo no oral o barrera adicional durante 4 semanas tras el inicio y tras cada aumento de dosis cuando se usan anticonceptivos hormonales orales. Evaluar medicamentos orales de margen terapéutico estrecho.",
-      "evidencia_y_limitaciones": "Los ensayos SURPASS documentan reducciones importantes de HbA1c y peso; SURPASS-2 comparó tirzepatida con semaglutida 1 mg semanal, no con todas sus dosis o indicaciones. NICE TA924 analiza una población y criterios de financiación del NHS que no constituyen criterios regulatorios chilenos. La nota ISP de septiembre de 2026 advierte sobre malnutrición, incluidas deficiencias nutricionales y pérdida ponderal acelerada.",
+      "evidencia_y_limitaciones": "Los ensayos SURPASS documentan reducciones importantes de HbA1c y peso; SURPASS-2 comparó tirzepatida con semaglutida 1 mg semanal, no con todas sus dosis o indicaciones. NICE TA924 analiza una población y criterios de financiación del NHS que no constituyen criterios regulatorios chilenos. La nota ISP de septiembre de 2026 advierte sobre malnutrición, incluidas deficiencias nutricionales y pérdida ponderal acelerada.\nSeguridad y seguimiento: efectos gastrointestinales, deshidratación, estado nutricional y síntomas de alarma; riesgo de hipoglucemia con insulina o sulfonilureas. Consideraciones para la dispensación: diferenciar presentación vial y KwikPen; verificar la precaución sobre anticonceptivos orales tras inicio o aumento de dosis conforme a ficha técnica aplicable.",
       "detalle_regulatorio": "Folletos ISP: vial F-28426/24 y KwikPen F-29345/25 (presentaciones específicas). En pancreatitis sospechada, suspender y evaluar; si se confirma, no reiniciar según folleto. Vigilar síntomas de deshidratación, colecistopatía y tolerancia gastrointestinal. ISP, nota de farmacovigilancia 01-09-2026: evaluar estado nutricional antes y durante el tratamiento y considerar suspensión por profesional ante malnutrición grave o persistente."
     },
     "consejos_practicos": []
@@ -825,7 +825,7 @@
     "nombre": "Dapagliflozina",
     "familia": "Inhibidor del cotransportador sodio-glucosa tipo 2 (iSGLT2)",
     "via": "Oral",
-    "estado": "Ficha ampliada · revisión profesional pendiente",
+    "estado": "Ficha ampliada · revisión documental y regulatoria pendiente",
     "descripcion": "Favorece la eliminación urinaria de glucosa al inhibir SGLT2 en el riñón.",
     "seguridad": [
       "Reconocer signos de deshidratación y posibles infecciones genitales.",
@@ -969,10 +969,10 @@
     ],
     "ampliada_qf": {
       "titulo_foco": "Glucosuria, función renal y selección según indicación",
-      "farmacocinetica_y_seleccion": "Distinguir los criterios de uso para DM2, insuficiencia cardíaca y enfermedad renal crónica. No extrapolar dosis, umbrales renales ni criterios de inicio entre indicaciones o presentaciones.",
+      "farmacocinetica_y_seleccion": "Absorción: Administración oral; Tmax cercano a 2 horas en ayunas; puede tomarse con o sin alimentos. Distribución: Unión a proteínas plasmáticas cercana al 91 %. Metabolismo: Glucuronidación principalmente por UGT1A9 a dapagliflozina 3-O-glucurónido, inactivo. Excreción y eliminación: Eliminación principalmente urinaria en forma de metabolitos; semivida terminal cercana a 13 horas. No confundir la glucosuria inducida con la eliminación renal del principio activo.",
       "fundamento": "El bloqueo del cotransportador SGLT2 reduce la reabsorción tubular de glucosa y sodio. Su efecto glucémico depende de la filtración de glucosa; las indicaciones cardiorrenales requieren una valoración independiente del efecto sobre HbA1c.",
       "interacciones_especificas": "Diuréticos: vigilar síntomas de depleción de volumen. Insulina o sulfonilureas: riesgo adicional de hipoglucemia.",
-      "evidencia_y_limitaciones": "Interpretar DECLARE–TIMI 58 y ensayos cardiorrenales en sus respectivas poblaciones; no confundir reducción de hospitalización por insuficiencia cardíaca con reducción demostrada de todos los eventos cardiovasculares.",
+      "evidencia_y_limitaciones": "Interpretar DECLARE–TIMI 58 y ensayos cardiorrenales en sus respectivas poblaciones; no confundir reducción de hospitalización por insuficiencia cardíaca con reducción demostrada de todos los eventos cardiovasculares.\nSeguridad y seguimiento: vigilar función renal, volemia y síntomas de cetoacidosis; considerar mayor riesgo de hipotensión con diuréticos. Consideraciones para la dispensación: explicar higiene y síntomas genitourinarios, reconocer enfermedad aguda y procedimientos; los criterios de inicio/continuidad varían según indicación de DM2, insuficiencia cardíaca o enfermedad renal.",
       "detalle_regulatorio": "Verificar dosis, contraindicaciones, almacenamiento, condiciones de inicio y ajuste con el folleto ISP vigente de la presentación específica; los antecedentes de esta ficha no sustituyen dicha verificación."
     },
     "guia_meson": {
@@ -986,7 +986,7 @@
     "nombre": "Canagliflozina",
     "familia": "Inhibidor del cotransportador sodio-glucosa tipo 2 (iSGLT2)",
     "via": "Oral",
-    "estado": "Ficha ampliada · revisión profesional pendiente",
+    "estado": "Ficha ampliada · revisión documental y regulatoria pendiente",
     "descripcion": "Favorece la eliminación urinaria de glucosa al inhibir SGLT2 en el riñón.",
     "seguridad": [
       "Reconocer signos de deshidratación y posibles infecciones genitales.",
@@ -1124,10 +1124,10 @@
     ],
     "ampliada_qf": {
       "titulo_foco": "Selección terapéutica y perfil de seguridad propio",
-      "farmacocinetica_y_seleccion": "La selección requiere considerar función renal, indicación y riesgos individuales, especialmente antecedentes de lesiones en pies, enfermedad vascular periférica y factores de depleción de volumen.",
+      "farmacocinetica_y_seleccion": "Absorción: Administración oral; Tmax habitualmente de 1–2 horas; la ficha de Invokana indica administración antes de la primera comida. Distribución: Unión a proteínas plasmáticas elevada, aproximadamente 99 %. Metabolismo: Glucuronidación principalmente mediante UGT1A9 y UGT2B4; el metabolismo oxidativo por CYP3A4 es minoritario. Excreción y eliminación: Excreción fecal y urinaria de fármaco y metabolitos; semivida terminal aproximadamente 11–13 horas según dosis.",
       "fundamento": "Inhibe SGLT2 y reduce la reabsorción renal de glucosa; la pérdida urinaria de glucosa genera un efecto antihiperglucemiante dependiente de la función renal.",
       "interacciones_especificas": "Diuréticos: posible hipotensión por pérdida de volumen. Insulina y sulfonilureas: mayor riesgo de hipoglucemia. Revisar otros medicamentos según producto.",
-      "evidencia_y_limitaciones": "En CANVAS se observó una señal de amputaciones que requiere contextualización; CREDENCE evaluó resultados renales en una población específica. No presentar la magnitud del riesgo como idéntica en todos los ensayos.",
+      "evidencia_y_limitaciones": "En CANVAS se observó una señal de amputaciones que requiere contextualización; CREDENCE evaluó resultados renales en una población específica. No presentar la magnitud del riesgo como idéntica en todos los ensayos.\nSeguridad y seguimiento: vigilar volemia, función renal, salud de los pies, úlceras e infecciones; contextualizar la señal de amputaciones observada en CANVAS sin atribuir idéntico riesgo a toda la clase. Consideraciones para la dispensación: confirmar la administración antes de la primera comida conforme al producto y consultar ante lesiones del pie o síntomas de cetoacidosis.",
       "detalle_regulatorio": "Verificar dosis, contraindicaciones, almacenamiento, condiciones de inicio y ajuste con el folleto ISP vigente de la presentación específica; los antecedentes de esta ficha no sustituyen dicha verificación."
     },
     "guia_meson": {
@@ -1597,7 +1597,7 @@
     "nombre": "Semaglutida oral (Rybelsus) — DM2",
     "familia": "Agonista receptor GLP-1",
     "via": "Oral diaria",
-    "estado": "Ficha documental ampliada · pendiente de auditoría farmacoterapéutica integral",
+    "estado": "Ficha ampliada · revisión documental y regulatoria pendiente",
     "descripcion": "Semaglutida oral para DM2; instrucciones de absorción estrictas.",
     "seguridad": [
       "Verificar antecedentes de pancreatitis y síntomas abdominales persistentes.",
@@ -1727,10 +1727,10 @@
     ],
     "ampliada_qf": {
       "titulo_foco": "Semaglutida oral: absorción y administración crítica",
-      "farmacocinetica_y_seleccion": "La toma en ayunas con poca agua y la espera antes de ingerir alimentos, bebidas u otros medicamentos son requisitos farmacotécnicos, no simples preferencias de horario. No intercambiar dosis de formulaciones oral y subcutánea.",
+      "farmacocinetica_y_seleccion": "Absorción: Biodisponibilidad oral baja y variable, facilitada por el potenciador de absorción SNAC; las instrucciones de ayuno, agua y espera antes de ingerir alimentos u otros fármacos son críticas y específicas de Rybelsus. Distribución: Elevada unión a albúmina. Metabolismo: Proteólisis y beta-oxidación de la cadena lateral. Excreción y eliminación: Eliminación de metabolitos por orina y heces; semivida aproximada de una semana. No trasladar pautas de la formulación inyectable a la oral.",
       "fundamento": "La semaglutida es un péptido agonista GLP-1. Su formulación oral incorpora un promotor de absorción gástrica (SNAC); la biodisponibilidad es baja y depende de condiciones estrictas de administración.",
       "interacciones_especificas": "Levotiroxina: se ha observado aumento de exposición a tiroxina con semaglutida oral; considerar seguimiento clínico y analítico según situación. Insulina o sulfonilureas: riesgo de hipoglucemia.",
-      "evidencia_y_limitaciones": "Los ensayos PIONEER corresponden a semaglutida oral. No extrapolar de manera directa equivalencias de dosis ni desenlaces desde semaglutida inyectable.",
+      "evidencia_y_limitaciones": "Los ensayos PIONEER corresponden a semaglutida oral. No extrapolar de manera directa equivalencias de dosis ni desenlaces desde semaglutida inyectable.\nSeguridad y seguimiento: efectos gastrointestinales, deshidratación y posible interacción de absorción con medicamentos orales. Consideraciones para la dispensación: explicar cuidadosamente las instrucciones de ayuno, cantidad de agua y espera antes de comidas y otros medicamentos, según folleto vigente; no usar la pauta de la semaglutida subcutánea.",
       "detalle_regulatorio": "Verificar dosis, contraindicaciones, almacenamiento, condiciones de inicio y ajuste con el folleto ISP vigente de la presentación específica; los antecedentes de esta ficha no sustituyen dicha verificación."
     },
     "guia_meson": {
@@ -1744,7 +1744,7 @@
     "nombre": "Dulaglutida (Trulicity) — DM2",
     "familia": "Agonista receptor GLP-1",
     "via": "Subcutánea semanal",
-    "estado": "Ficha documental ampliada · requiere validación profesional y verificación de registro vigente",
+    "estado": "Ficha ampliada · revisión documental y regulatoria pendiente",
     "descripcion": "Agonista GLP-1 de administración subcutánea semanal para DM2; inyector prellenado de una sola dosis. Referencia regulatoria disponible: folleto ISP 2016.",
     "seguridad": [
       "Verificar antecedentes de pancreatitis y síntomas abdominales persistentes.",
@@ -1887,10 +1887,10 @@
     ],
     "ampliada_qf": {
       "titulo_foco": "Dulaglutida semanal: estructura y selección",
-      "farmacocinetica_y_seleccion": "Considerar dispositivo de administración semanal, tolerabilidad gastrointestinal y beneficios evaluados en poblaciones específicas. Verificar presentación disponible antes de describir pasos del dispositivo.",
+      "farmacocinetica_y_seleccion": "Absorción: Absorción subcutánea lenta, compatible con administración semanal. Distribución: Molécula de fusión de gran tamaño; no aplicar modelos de distribución de fármacos orales pequeños. Metabolismo: Catabolismo proteico a aminoácidos por vías generales de degradación de proteínas. Excreción y eliminación: No depende de una vía única de excreción renal de molécula intacta; semivida aproximada de cinco días. Considerar pérdida de volumen por vómitos o diarrea.",
       "fundamento": "Agonista GLP-1 de acción prolongada unido a una estructura tipo Fc que prolonga su permanencia sistémica. Favorece insulina dependiente de glucosa, reduce glucagón y enlentece vaciamiento gástrico.",
       "interacciones_especificas": "Insulina y sulfonilureas: posible aumento de hipoglucemia. El vaciamiento gástrico puede afectar la absorción de ciertos fármacos orales; valorar según medicamento.",
-      "evidencia_y_limitaciones": "REWIND incluyó una proporción importante de pacientes sin evento cardiovascular previo; interpretar resultados según desenlaces y población del ensayo.",
+      "evidencia_y_limitaciones": "REWIND incluyó una proporción importante de pacientes sin evento cardiovascular previo; interpretar resultados según desenlaces y población del ensayo.\nSeguridad y seguimiento: efectos gastrointestinales, deshidratación y riesgo de hipoglucemia en combinación con secretagogos o insulina. Consideraciones para la dispensación: comprobar la pluma de dosis prescrita y la técnica de uso semanal; no asumir intercambiabilidad entre dispositivos.",
       "detalle_regulatorio": "Verificar dosis, contraindicaciones, almacenamiento, condiciones de inicio y ajuste con el folleto ISP vigente de la presentación específica; los antecedentes de esta ficha no sustituyen dicha verificación."
     },
     "guia_meson": {
@@ -1904,7 +1904,7 @@
     "nombre": "Liraglutida (Victoza) — DM2",
     "familia": "Agonista receptor GLP-1",
     "via": "Subcutánea diaria",
-    "estado": "Ficha farmacoterapéutica ampliada · cotejo ISP 2017/2021 · revisión profesional pendiente",
+    "estado": "Ficha ampliada · revisión documental y regulatoria pendiente",
     "descripcion": "Victoza (liraglutida 6 mg/mL, dispositivo prellenado de 3 mL) es un agonista del receptor GLP-1 para control glicémico en DM2. No confundir con Saxenda 3 mg/día, destinado al control del peso. La ficha pública ISP B-2249/22 señala registro vigente con suspensión voluntaria de distribución; verificar disponibilidad.",
     "seguridad": [
       "Pancreatitis: dolor abdominal intenso persistente, con o sin vómitos; derivación inmediata. Si se confirma pancreatitis, no reiniciar sin evaluación médica.",
@@ -2035,10 +2035,10 @@
     ],
     "ampliada_qf": {
       "titulo_foco": "Liraglutida diaria: exposición y evidencia",
-      "farmacocinetica_y_seleccion": "La formulación para DM2 y la indicada para control de peso no deben tratarse como intercambiables; tienen objetivos y pautas diferentes. Revisar técnica y titulación del producto dispensado.",
+      "farmacocinetica_y_seleccion": "Absorción: Absorción subcutánea lenta; administración diaria. Distribución: Unión elevada a albúmina plasmática. Metabolismo: Degradación endógena similar a proteínas de gran tamaño, sin órgano único de eliminación ni metabolismo CYP dominante. Excreción y eliminación: Los metabolitos se eliminan por varias vías; semivida cercana a 13 horas. Verificar instrucciones del dispositivo Victoza.",
       "fundamento": "Análogo de GLP-1 acilado con unión a albúmina y resistencia relativa a degradación, lo que permite administración subcutánea diaria. Sus acciones son glucosa-dependientes sobre insulina y glucagón.",
       "interacciones_especificas": "Insulina o sulfonilureas: riesgo adicional de hipoglucemia. La intolerancia digestiva persistente puede ocasionar deshidratación.",
-      "evidencia_y_limitaciones": "LEADER evaluó desenlaces cardiovasculares con liraglutida en personas con DM2 de alto riesgo; no extrapolar su efecto cuantitativo a todos los agonistas GLP-1.",
+      "evidencia_y_limitaciones": "LEADER evaluó desenlaces cardiovasculares con liraglutida en personas con DM2 de alto riesgo; no extrapolar su efecto cuantitativo a todos los agonistas GLP-1.\nSeguridad y seguimiento: tolerancia gastrointestinal, hidratación y síntomas de alarma abdominal; riesgo de hipoglucemia con insulina o sulfonilureas. Consideraciones para la dispensación: comprobar pauta diaria y dispositivo Victoza, sin confundir con Saxenda.",
       "detalle_regulatorio": "Verificar dosis, contraindicaciones, almacenamiento, condiciones de inicio y ajuste con el folleto ISP vigente de la presentación específica; los antecedentes de esta ficha no sustituyen dicha verificación."
     },
     "guia_meson": {
@@ -2052,7 +2052,7 @@
     "nombre": "Semaglutida (Wegovy) — control de peso",
     "familia": "Agonista receptor GLP-1",
     "via": "Subcutánea semanal",
-    "estado": "Ficha documental ampliada · pendiente de auditoría farmacoterapéutica integral",
+    "estado": "Ficha ampliada · revisión documental y regulatoria pendiente",
     "descripcion": "Presentación de semaglutida con indicación de control crónico del peso según folleto ISP aportado; no intercambiar con Ozempic.",
     "seguridad": [
       "Verificar antecedentes de pancreatitis y síntomas abdominales persistentes.",
@@ -2167,10 +2167,10 @@
     ],
     "ampliada_qf": {
       "titulo_foco": "Semaglutida para manejo de peso: indicación diferenciada",
-      "farmacocinetica_y_seleccion": "Ficha fuera del núcleo de farmacoterapia DM2: conservar diferenciación de indicación, titulación y dispositivo. Confirmar registro local y folleto vigente antes de cualquier recomendación de dispensación.",
+      "farmacocinetica_y_seleccion": "Absorción: Semaglutida subcutánea de exposición prolongada, con administración semanal según formulación autorizada. Distribución: Elevada unión a albúmina. Metabolismo: Proteólisis y beta-oxidación. Excreción y eliminación: Metabolitos eliminados por orina y heces; semivida aproximada de una semana. La ficha de Wegovy corresponde a control de peso y no debe confundirse con la indicación de Ozempic para DM2.",
       "fundamento": "Comparte agonismo GLP-1 con las presentaciones para DM2, pero la evaluación clínica y las dosis de mantenimiento dependen de la indicación y producto autorizados.",
       "interacciones_especificas": "Revisar medicamentos que causan hipoglucemia si existe DM2 concomitante; no combinar de forma automática productos con el mismo principio activo.",
-      "evidencia_y_limitaciones": "Los ensayos STEP de control de peso no deben presentarse como equivalentes a SUSTAIN o PIONEER para DM2.",
+      "evidencia_y_limitaciones": "Los ensayos STEP de control de peso no deben presentarse como equivalentes a SUSTAIN o PIONEER para DM2.\nSeguridad y seguimiento: efectos gastrointestinales, hidratación, evolución nutricional y síntomas de alarma. Consideraciones para la dispensación: identificar explícitamente Wegovy como formulación para control de peso; no atribuirle automáticamente la indicación de DM2 ni sustituirla por Ozempic.",
       "detalle_regulatorio": "Verificar dosis, contraindicaciones, almacenamiento, condiciones de inicio y ajuste con el folleto ISP vigente de la presentación específica; los antecedentes de esta ficha no sustituyen dicha verificación."
     },
     "guia_meson": {
@@ -2184,7 +2184,7 @@
     "nombre": "Liraglutida (Saxenda) — control de peso",
     "familia": "Agonista receptor GLP-1",
     "via": "Subcutánea diaria",
-    "estado": "Ficha documental ampliada · requiere validación profesional y verificación de registro vigente",
+    "estado": "Ficha ampliada · revisión documental y regulatoria pendiente",
     "descripcion": "Presentación de liraglutida para control de peso según folleto ISP aportado; no extrapolar pauta a DM2.",
     "seguridad": [
       "Verificar antecedentes de pancreatitis y síntomas abdominales persistentes.",
@@ -2272,10 +2272,10 @@
     "evidencia_clinica": [],
     "ampliada_qf": {
       "titulo_foco": "Liraglutida para manejo de peso: indicación diferenciada",
-      "farmacocinetica_y_seleccion": "Diferenciar claramente indicación, dosis y dispositivo respecto de liraglutida para DM2. Confirmar documentación regulatoria local antes de incorporar instrucciones específicas.",
+      "farmacocinetica_y_seleccion": "Absorción: Absorción subcutánea lenta; formulación de administración diaria. Distribución: Unión elevada a albúmina. Metabolismo: Catabolismo endógeno, sin una vía CYP principal. Excreción y eliminación: Eliminación de metabolitos por diversas vías; semivida cercana a 13 horas. Saxenda posee indicación y esquema de titulación distintos de Victoza: no intercambiar pautas.",
       "fundamento": "Agonista GLP-1 de administración diaria; los efectos sobre saciedad y apetito participan en el control de peso, además de sus acciones metabólicas.",
       "interacciones_especificas": "Revisar coexistencia de otros agonistas GLP-1 y tratamientos hipoglucemiantes; no indicar cambios autónomos.",
-      "evidencia_y_limitaciones": "Los ensayos de manejo de peso no sustituyen la evidencia específica de resultados clínicos en DM2.",
+      "evidencia_y_limitaciones": "Los ensayos de manejo de peso no sustituyen la evidencia específica de resultados clínicos en DM2.\nSeguridad y seguimiento: tolerancia gastrointestinal, hidratación y estado nutricional. Consideraciones para la dispensación: verificar dispositivo y pauta de Saxenda, orientada al control de peso; no aplicar la titulación de Victoza.",
       "detalle_regulatorio": "Verificar dosis, contraindicaciones, almacenamiento, condiciones de inicio y ajuste con el folleto ISP vigente de la presentación específica; los antecedentes de esta ficha no sustituyen dicha verificación."
     },
     "guia_meson": {
@@ -2287,7 +2287,7 @@
   {
     "familia": "Sulfonilurea",
     "via": "Oral",
-    "estado": "Borrador editorial · pendiente cotejo con presentación ISP",
+    "estado": "Ficha ampliada · revisión documental y regulatoria pendiente",
     "marcas": [],
     "revision": "2026-10-28",
     "validacion": "Ficha educativa para adultos con DM2 no gestantes. Excluye embarazo, lactancia, diabetes gestacional y población pediátrica. Verificar la presentación y la receta; no sustituye decisiones del profesional tratante.",
@@ -2396,9 +2396,9 @@
     "ampliada_qf": {
       "titulo_foco": "Seguridad y diferencias de glibenclamida",
       "fundamento": "Su acción secretagoga no es dependiente de glucosa, lo que contribuye al riesgo de hipoglucemia, incluso prolongada.",
-      "farmacocinetica_y_seleccion": "Revisar especialmente riesgo de hipoglucemia prolongada y función renal/hepática.",
+      "farmacocinetica_y_seleccion": "Absorción: Absorción gastrointestinal tras administración oral; la relación con las comidas y la presentación debe verificarse en el folleto específico. Distribución: Elevada unión a proteínas plasmáticas. Metabolismo: Biotransformación hepática a metabolitos con posible actividad hipoglucemiante. Excreción y eliminación: Eliminación por vías renal y biliar; la alteración renal o hepática puede prolongar el efecto y favorecer hipoglucemias graves. No extrapolar tiempos o dosis entre presentaciones.",
       "interacciones_especificas": "El folleto chileno de glibenclamida 5 mg menciona AINE, IECA, quinolonas, corticosteroides, rifampicina y otros; el efecto puede variar. Revisar fármaco, dosis y contexto antes de aconsejar.",
-      "evidencia_y_limitaciones": "El metaanálisis de Volke et al. (2022) aporta evidencia comparativa de riesgo de hipoglucemia a nivel de clase; no justifica ajustes individuales.",
+      "evidencia_y_limitaciones": "El metaanálisis de Volke et al. (2022) aporta evidencia comparativa de riesgo de hipoglucemia a nivel de clase; no justifica ajustes individuales.\nSeguridad y seguimiento: riesgo relevante de hipoglucemia prolongada, especialmente en personas mayores, con comidas irregulares o deterioro renal/hepático. Consideraciones para la dispensación: revisar interacciones, disponibilidad y transición en APS conforme al Ord. MINSAL C51 N.º 2191 de 2025; no recomendar suspender ni sustituir por iniciativa propia.",
       "detalle_regulatorio": "MINSAL, Ord. C51 N.º 2191 (16-12-2025): en la red APS se instruye no programar ni comprar glibenclamida desde 2026, disminuir progresivamente su indicación y no iniciar nuevos tratamientos desde 2026. Para quienes ya la utilizan, la indicación del cambio debe quedar realizada a más tardar el 30-06-2027, durante la atención médica habitual. El oficio no acredita por sí solo implementación local ni cancelación del registro sanitario."
     },
     "pasos_meson": [
@@ -2411,7 +2411,7 @@
   {
     "familia": "Sulfonilurea",
     "via": "Oral",
-    "estado": "Borrador editorial · pendiente cotejo con presentación ISP",
+    "estado": "Ficha ampliada · revisión documental y regulatoria pendiente",
     "marcas": [],
     "revision": "2026-10-28",
     "validacion": "Ficha educativa para adultos con DM2 no gestantes. Excluye embarazo, lactancia, diabetes gestacional y población pediátrica. Verificar la presentación y la receta; no sustituye decisiones del profesional tratante.",
@@ -2520,9 +2520,9 @@
     "ampliada_qf": {
       "titulo_foco": "Seguridad y diferencias de gliclazida",
       "fundamento": "Las formulaciones de liberación modificada permiten perfiles de administración diferentes de las convencionales; no deben intercambiarse instrucciones.",
-      "farmacocinetica_y_seleccion": "GLIKEM 60 mg es una presentación de liberación prolongada documentada para Chile. Confirmar siempre el tipo de formulación en la caja y la receta; no extrapolar horarios ni equivalencias de dosis desde formulaciones convencionales.",
+      "farmacocinetica_y_seleccion": "Absorción: Absorción oral; la liberación modificada cambia el perfil de exposición respecto de la formulación convencional. Distribución: Unión elevada a proteínas plasmáticas. Metabolismo: Metabolismo hepático, principalmente por CYP2C9, con participación de otras vías; metabolitos sin efecto hipoglucemiante clínicamente relevante predominante. Excreción y eliminación: Excreción principalmente urinaria de metabolitos. La semivida y el esquema dependen de la formulación; no intercambiar liberación inmediata y modificada sin verificar equivalencia.",
       "interacciones_especificas": "La información farmacológica consultada advierte interacciones que aumentan el riesgo de hipoglucemia, entre ellas miconazol; confirmar vía de administración y ficha del producto antes de orientar.",
-      "evidencia_y_limitaciones": "Pan et al. (2024) aporta contexto sobre riesgo de hipoglucemia en adultos mayores, no recomendaciones de cambio terapéutico.",
+      "evidencia_y_limitaciones": "Pan et al. (2024) aporta contexto sobre riesgo de hipoglucemia en adultos mayores, no recomendaciones de cambio terapéutico.\nSeguridad y seguimiento: reconocer hipoglucemia ante ingesta reducida, ejercicio no habitual o interacciones. Consideraciones para la dispensación: comprobar si es liberación inmediata o modificada y verificar instrucciones sobre alimentos, integridad del comprimido y horario de la presentación.",
       "detalle_regulatorio": "Las instrucciones de gliclazida LM 30 mg españolas no se extrapolan a todas las formulaciones chilenas."
     },
     "pasos_meson": [
@@ -2535,7 +2535,7 @@
   {
     "familia": "Sulfonilurea",
     "via": "Oral",
-    "estado": "Borrador editorial · pendiente cotejo con presentación ISP",
+    "estado": "Ficha ampliada · revisión documental y regulatoria pendiente",
     "marcas": [],
     "revision": "2026-10-28",
     "validacion": "Ficha educativa para adultos con DM2 no gestantes. Excluye embarazo, lactancia, diabetes gestacional y población pediátrica. Verificar la presentación y la receta; no sustituye decisiones del profesional tratante.",
@@ -2640,9 +2640,9 @@
     "ampliada_qf": {
       "titulo_foco": "Seguridad y diferencias de glimepirida",
       "fundamento": "La glimepirida es secretagoga de insulina y su efecto puede persistir aunque se reduzca la ingesta alimentaria.",
-      "farmacocinetica_y_seleccion": "Revisar susceptibilidad a hipoglucemia en personas mayores y ante alteración renal o hepática.",
+      "farmacocinetica_y_seleccion": "Absorción: Buena absorción oral; las comidas pueden modificar la velocidad, sin justificar cambios autónomos de pauta. Distribución: Unión a proteínas plasmáticas muy elevada. Metabolismo: Metabolismo hepático principalmente por CYP2C9 a metabolitos hidroxilados y carboxilados. Excreción y eliminación: Eliminación de metabolitos por orina y heces; la función renal y hepática y la ingesta irregular influyen en la seguridad. Diferenciar semivida plasmática de duración del efecto hipoglucemiante.",
       "interacciones_especificas": "Revisar especialmente medicamentos nuevos capaces de potenciar o disminuir el efecto hipoglucemiante; confirmar interacciones específicas en la ficha del producto antes de orientar.",
-      "evidencia_y_limitaciones": "La evidencia comparativa de clase no determina por sí sola que glimepirida sea apropiada para una persona concreta.",
+      "evidencia_y_limitaciones": "La evidencia comparativa de clase no determina por sí sola que glimepirida sea apropiada para una persona concreta.\nSeguridad y seguimiento: hipoglucemia, especialmente con ayuno, enfermedad renal/hepática o interacciones. Consideraciones para la dispensación: confirmar relación con la primera comida principal según producto y educar sobre reconocimiento de hipoglucemia; derivar dudas de pauta.",
       "detalle_regulatorio": "Confirmar las condiciones de administración y posibilidad de fraccionamiento del comprimido según fabricante."
     },
     "pasos_meson": [

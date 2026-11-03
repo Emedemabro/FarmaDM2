@@ -1,0 +1,6 @@
+FarmaDM2 v47.12 - Consolidación preliminar de información ampliada no insulínica
+Base: v47.11 aprobada visualmente por el usuario.
+Se amplió ADME individual y seguridad/seguimiento/dispensación en 13 fichas: 3 iSGLT2, 3 sulfonilureas y 7 incretínicos.
+Se preservaron index.html, app.js, style.css, sw.js y manifest.webmanifest sin cambios.
+Se conservaron 30 fichas y referencias previas. Los nuevos contenidos son borradores de trabajo que requieren cotejo documental y regulatorio específico por producto antes de cierre científico.
+No se realizaron pruebas visuales ni de instalación/offline en navegador. No representa validación clínica.
