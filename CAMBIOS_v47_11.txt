@@ -1,0 +1,4 @@
+FarmaDM2 v47.11 - homologación parcial
+Se añade ampliada_qf de metformina y se reorganiza ADME en cinco iDPP-4.
+Se conserva el código y la interfaz v47.10 sin modificaciones.
+Pendiente: contraste regulatorio final, homologación iSGLT2 y demás familias, auditoría de insulinas y pruebas visuales/PWA.

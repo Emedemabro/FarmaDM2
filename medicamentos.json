@@ -67,10 +67,14 @@
       {
         "nombre": "ISP Chile, recomendaciones generales de almacenamiento y adquisición de medicamentos",
         "url": "https://www.ispch.gob.cl/noticia/isp-entrega-recomendaciones-sobre-el-correcto-almacenamiento-y-adquisicion-de-los-medicamentos/"
+      },
+      {
+        "nombre": "DailyMed · información regulatoria de metformina (consulta por principio activo)",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?query=metformin"
       }
     ],
-    "revision": "2026-10-08",
-    "validacion": "Borrador académico: instrucciones generales cotejadas con fuentes regulatorias de referencia; falta verificación producto a producto en ISP y revisión profesional antes de uso asistencial.",
+    "revision": "2026-11-03 · apartado ampliado QF incorporado; verificación regulatoria chilena pendiente",
+    "validacion": "Contenido editorial basado en revisión farmacológica; no constituye validación clínica.",
     "marcas": [],
     "consejos_practicos": [
       {
@@ -140,7 +144,15 @@
         "nombre": "NHS — Metformin",
         "url": "https://www.nhs.uk/medicines/metformin/"
       }
-    ]
+    ],
+    "ampliada_qf": {
+      "titulo_foco": "Biguanida: mecanismo multifactorial y eliminación renal",
+      "farmacocinetica_y_seleccion": "Absorción: La absorción oral es incompleta; las formulaciones de liberación inmediata y prolongada presentan perfiles diferentes. La biodisponibilidad oral de la formulación convencional se ha descrito aproximadamente en 50–60 % en condiciones estudiadas; no extrapolar parámetros a todas las presentaciones.\nDistribución: Unión a proteínas plasmáticas prácticamente despreciable; distribución a tejidos y eritrocitos.\nMetabolismo: No presenta metabolismo hepático significativo y se elimina fundamentalmente sin modificar.\nExcreción y eliminación: Eliminación renal mediante filtración glomerular y secreción tubular. La disminución de la función renal puede aumentar la exposición; semivida plasmática aproximada de 6,2 horas en personas con función renal conservada.",
+      "fundamento": "La metformina disminuye principalmente la producción hepática de glucosa y mejora la utilización periférica; sus mecanismos metabólicos son multifactoriales y no se reducen a una única diana. No estimula directamente la secreción pancreática de insulina, por lo que en monoterapia tiene bajo riesgo de hipoglucemia.",
+      "interacciones_especificas": "El consumo excesivo de alcohol y situaciones de hipoxia o deterioro renal pueden aumentar el riesgo de acidosis láctica. Medicamentos que alteren la función renal o el transporte renal de metformina requieren revisión de interacciones. Con insulina o sulfonilureas aumenta el riesgo de hipoglucemia por los agentes asociados. Ante contraste yodado, verificar las condiciones de la ficha técnica específica y la indicación del equipo tratante.",
+      "evidencia_y_limitaciones": "Seguridad y seguimiento: vigilar tolerancia gastrointestinal, función renal, control glucémico y posible déficit de vitamina B12 en tratamiento prolongado, especialmente ante anemia o neuropatía. La acidosis láctica es infrecuente pero potencialmente grave; requiere evaluar factores predisponentes. Precauciones: enfermedad aguda con deshidratación, hipoxia y deterioro renal requieren evaluación clínica de continuidad.",
+      "detalle_regulatorio": "Dispensación: diferenciar liberación inmediata y prolongada; verificar administración con alimentos, integridad del comprimido y condiciones particulares del producto. No triturar ni fraccionar formulaciones prolongadas sin comprobar la ficha específica. Los umbrales de TFGe, las instrucciones ante contraste y la conservación deben verificarse con el producto chileno vigente; no recomendar suspensión o ajuste autónomo desde el mesón."
+    }
   },
   {
     "id": "empagliflozina",
@@ -745,8 +757,8 @@
         "url": "https://www.ispch.gob.cl/noticia/isp-entrega-recomendaciones-sobre-el-correcto-almacenamiento-y-adquisicion-de-los-medicamentos/"
       }
     ],
-    "revision": "2026-10-28 · revisión editorial por principio activo; comprobación regulatoria final pendiente",
-    "validacion": "Revisión editorial para claridad y dispensación; no constituye validación clínica. Posología, interacciones y conservación por producto pendientes de contraste final.",
+    "revision": "2026-11-03 · homologación estructural ADME iDPP-4; verificación farmacocinética cuantitativa y regulatoria pendiente",
+    "validacion": "Revisión editorial y estructural; no constituye validación clínica. Contraste documental final pendiente.",
     "dispensacion_rapida": {
       "primera": {
         "consejo": "Puede tomarse con o sin alimentos, siguiendo la pauta prescrita. Si utiliza insulina o sulfonilureas, conviene reconocer los síntomas de glucosa baja.",
@@ -801,11 +813,11 @@
     },
     "ampliada_qf": {
       "titulo_foco": "Eliminación renal y ajuste individualizado",
+      "farmacocinetica_y_seleccion": "Absorción: La absorción oral permite su administración con o sin alimentos; la exposición sistémica depende de la formulación y de la función renal.\nDistribución: La distribución y unión a proteínas deben contrastarse con la ficha técnica de monoterapia antes de incorporar parámetros numéricos.\nMetabolismo: El metabolismo es una vía minoritaria de eliminación; no atribuir a este proceso la principal depuración del fármaco.\nExcreción y eliminación: La eliminación renal del fármaco sin modificar es relevante. La disminución de TFGe aumenta la exposición y exige comprobar que la pauta prescrita corresponda a la función renal.",
       "fundamento": "Inhibición de la dipeptidil peptidasa-4 (DPP-4), enzima que degrada las incretinas endógenas GLP-1 y GIP. La mayor disponibilidad de incretinas activas favorece la secreción de insulina dependiente de glucosa y reduce la secreción inapropiada de glucagón. El efecto sobre HbA1c y la elección del fármaco dependen del contexto clínico.",
-      "farmacocinetica_y_seleccion": "La eliminación renal tiene importancia clínica: la exposición aumenta cuando disminuye la función renal. La ficha existente distingue dosis de monoterapia según TFGe y advierte que las combinaciones fijas con metformina tienen restricciones adicionales.",
       "interacciones_especificas": "Interacción con digoxina: se ha descrito un aumento pequeño de su exposición; la vigilancia se individualiza. La combinación con insulina o sulfonilureas aumenta el riesgo de hipoglucemia.",
-      "evidencia_y_limitaciones": "TECOS evaluó desenlaces cardiovasculares de sitagliptina; sus resultados no deben extrapolarse automáticamente a toda la clase.",
-      "detalle_regulatorio": "La sitagliptina requiere ajuste de dosis según TFGe. Según la monografía UpToDate aportada: TFGe ≥45 mL/min/1,73 m²: 100 mg una vez al día; TFGe ≥30 y <45: 50 mg una vez al día; TFGe <30, incluida enfermedad renal terminal con diálisis: 25 mg una vez al día. Estos valores son referencia clínica para comprobar la prescripción, no instrucciones para que el personal de mesón modifique dosis. El folleto ISP Januvia F-21957/15 confirma los intervalos TFGe ≥45: 100 mg/día; 30–44: 50 mg/día; <30, incluso diálisis: 25 mg/día. Sitagliptina sola puede administrarse independientemente de las sesiones de diálisis. El folleto ISP de sitagliptina/metformina (Reg. F-26606/22) confirma para el componente sitagliptina un máximo de 100 mg/día con TFG ≥45, 50 mg/día con TFG 30–44 y 25 mg/día con TFG <30; sin embargo, la combinación fija contiene metformina y está contraindicada con TFG <30. En TFG 30–44 la dosis fija disponible puede no permitir el ajuste requerido de sitagliptina, por lo que el folleto indica recurrir a los monocomponentes si no se dispone de una dosis apropiada. No extrapolar estas restricciones de la combinación a la sitagliptina sola."
+      "evidencia_y_limitaciones": "TECOS evaluó desenlaces cardiovasculares de sitagliptina; sus resultados no deben extrapolarse automáticamente a toda la clase. Seguimiento: verificar función renal y tolerancia según molécula; vigilar síntomas compatibles con pancreatitis, hipersensibilidad o penfigoide ampolloso, cuando corresponda. La hipoglucemia adquiere relevancia con insulina o sulfonilureas.",
+      "detalle_regulatorio": "La sitagliptina requiere ajuste de dosis según TFGe. Según la monografía UpToDate aportada: TFGe ≥45 mL/min/1,73 m²: 100 mg una vez al día; TFGe ≥30 y <45: 50 mg una vez al día; TFGe <30, incluida enfermedad renal terminal con diálisis: 25 mg una vez al día. Estos valores son referencia clínica para comprobar la prescripción, no instrucciones para que el personal de mesón modifique dosis. El folleto ISP Januvia F-21957/15 confirma los intervalos TFGe ≥45: 100 mg/día; 30–44: 50 mg/día; <30, incluso diálisis: 25 mg/día. Sitagliptina sola puede administrarse independientemente de las sesiones de diálisis. El folleto ISP de sitagliptina/metformina (Reg. F-26606/22) confirma para el componente sitagliptina un máximo de 100 mg/día con TFG ≥45, 50 mg/día con TFG 30–44 y 25 mg/día con TFG <30; sin embargo, la combinación fija contiene metformina y está contraindicada con TFG <30. En TFG 30–44 la dosis fija disponible puede no permitir el ajuste requerido de sitagliptina, por lo que el folleto indica recurrir a los monocomponentes si no se dispone de una dosis apropiada. No extrapolar estas restricciones de la combinación a la sitagliptina sola. Consideraciones para dispensación: comprobar principio activo, formulación, pauta prescrita y presencia de combinaciones fijas; no modificar dosis desde el mesón. Los valores farmacocinéticos cuantitativos pendientes de contraste no se incorporan."
     }
   },
   {
@@ -1181,8 +1193,8 @@
         "url": "https://www.ispch.gob.cl/noticia/isp-entrega-recomendaciones-sobre-el-correcto-almacenamiento-y-adquisicion-de-los-medicamentos/"
       }
     ],
-    "revision": "2026-10-28 · revisión editorial por principio activo; comprobación regulatoria final pendiente",
-    "validacion": "Revisión editorial para claridad y dispensación; no constituye validación clínica. Posología, interacciones y conservación por producto pendientes de contraste final.",
+    "revision": "2026-11-03 · homologación estructural ADME iDPP-4; verificación farmacocinética cuantitativa y regulatoria pendiente",
+    "validacion": "Revisión editorial y estructural; no constituye validación clínica. Contraste documental final pendiente.",
     "dispensacion_rapida": {
       "primera": {
         "consejo": "Puede administrarse con o sin alimentos. Mantenga la pauta indicada y consulte si aparecen molestias persistentes, especialmente dolor abdominal o síntomas compatibles con alteración hepática.",
@@ -1229,11 +1241,11 @@
     },
     "ampliada_qf": {
       "titulo_foco": "Metabolismo, función hepática y renal",
+      "farmacocinetica_y_seleccion": "Absorción: Tras administración oral presenta absorción sistémica; verificar parámetros y efecto de alimentos en la ficha técnica específica.\nDistribución: No se incorporan cifras de distribución hasta comprobar la monografía del producto.\nMetabolismo: Se transforma principalmente por hidrólisis a metabolitos sin actividad farmacológica significativa; verificar la descripción regulatoria exacta.\nExcreción y eliminación: La eliminación incluye metabolitos por vía renal. El deterioro renal modifica la selección de pauta; considerar además las restricciones hepáticas de la ficha técnica.",
       "fundamento": "Inhibición de la dipeptidil peptidasa-4 (DPP-4), enzima que degrada las incretinas endógenas GLP-1 y GIP. La mayor disponibilidad de incretinas activas favorece la secreción de insulina dependiente de glucosa y reduce la secreción inapropiada de glucagón. El efecto sobre HbA1c y la elección del fármaco dependen del contexto clínico.",
-      "farmacocinetica_y_seleccion": "El seguimiento hepático y la selección de dosis en deterioro renal son particularidades relevantes. El documento regulatorio citado en la ficha distingue disfunción renal leve de moderada o grave y recoge restricciones por alteración hepática.",
       "interacciones_especificas": "Con insulina o sulfonilureas puede aumentar la hipoglucemia. En combinaciones fijas con metformina deben evaluarse también las precauciones propias de esta última.",
-      "evidencia_y_limitaciones": "La decisión de utilizarla requiere considerar las características del paciente y la ficha técnica del producto; no se deben generalizar sus precauciones a todos los DPP-4.",
-      "detalle_regulatorio": "en disfunción renal moderada o grave, 50 mg una vez al día; en leve no requiere ajuste. No se recomienda en disfunción hepática, incluidos valores basales de ALT o AST >2,5 veces el límite superior normal."
+      "evidencia_y_limitaciones": "La decisión de utilizarla requiere considerar las características del paciente y la ficha técnica del producto; no se deben generalizar sus precauciones a todos los DPP-4. Seguimiento: verificar función renal y tolerancia según molécula; vigilar síntomas compatibles con pancreatitis, hipersensibilidad o penfigoide ampolloso, cuando corresponda. La hipoglucemia adquiere relevancia con insulina o sulfonilureas.",
+      "detalle_regulatorio": "en disfunción renal moderada o grave, 50 mg una vez al día; en leve no requiere ajuste. No se recomienda en disfunción hepática, incluidos valores basales de ALT o AST >2,5 veces el límite superior normal. Consideraciones para dispensación: comprobar principio activo, formulación, pauta prescrita y presencia de combinaciones fijas; no modificar dosis desde el mesón. Los valores farmacocinéticos cuantitativos pendientes de contraste no se incorporan."
     }
   },
   {
@@ -1288,8 +1300,8 @@
         "url": "https://www.ispch.gob.cl/noticia/isp-entrega-recomendaciones-sobre-el-correcto-almacenamiento-y-adquisicion-de-los-medicamentos/"
       }
     ],
-    "revision": "2026-10-28 · revisión editorial por principio activo; comprobación regulatoria final pendiente",
-    "validacion": "Revisión editorial para claridad y dispensación; no constituye validación clínica. Posología, interacciones y conservación por producto pendientes de contraste final.",
+    "revision": "2026-11-03 · homologación estructural ADME iDPP-4; verificación farmacocinética cuantitativa y regulatoria pendiente",
+    "validacion": "Revisión editorial y estructural; no constituye validación clínica. Contraste documental final pendiente.",
     "dispensacion_rapida": {
       "primera": {
         "consejo": "Mantenga la toma diaria según su receta. No duplique dosis olvidadas y consulte si presenta dolor abdominal intenso o síntomas de alergia.",
@@ -1344,11 +1356,11 @@
     },
     "ampliada_qf": {
       "titulo_foco": "Metabolismo e interacciones específicas",
+      "farmacocinetica_y_seleccion": "Absorción: Se administra por vía oral; los valores de biodisponibilidad y Tmax quedan pendientes de cotejo con el folleto ISP de Suganon.\nDistribución: La distribución y unión a proteínas requieren verificación documental específica; no extrapolar valores de otros iDPP-4.\nMetabolismo: Participa CYP3A4 en su metabolismo, lo que fundamenta revisar posibles interacciones con moduladores de esta vía.\nExcreción y eliminación: La exposición puede modificarse en disfunción renal. Verificar indicaciones específicas, especialmente en enfermedad renal terminal y diálisis, con el folleto chileno.",
       "fundamento": "Inhibición de la dipeptidil peptidasa-4 (DPP-4), enzima que degrada las incretinas endógenas GLP-1 y GIP. La mayor disponibilidad de incretinas activas favorece la secreción de insulina dependiente de glucosa y reduce la secreción inapropiada de glucagón. El efecto sobre HbA1c y la elección del fármaco dependen del contexto clínico.",
-      "farmacocinetica_y_seleccion": "Su exposición puede cambiar por medicamentos que modifican el metabolismo mediado por CYP3A4. La documentación recogida en la ficha señala diferencias entre insuficiencia renal y enfermedad renal terminal en diálisis.",
       "interacciones_especificas": "Claritromicina puede aumentar la exposición a evogliptina; rifampicina puede disminuirla. Estas interacciones no se solucionan necesariamente separando horarios.",
-      "evidencia_y_limitaciones": "La evidencia clínica y las condiciones de autorización deben comprobarse específicamente para evogliptina; no extrapolar resultados de otros inhibidores DPP-4.",
-      "detalle_regulatorio": "Suganon ISP F-27650/23: no requiere ajuste de 5 mg/día en insuficiencia renal leve, moderada o grave, pero requiere precaución y vigilancia estrecha en moderada-grave. No recomendado en enfermedad renal terminal con diálisis."
+      "evidencia_y_limitaciones": "La evidencia clínica y las condiciones de autorización deben comprobarse específicamente para evogliptina; no extrapolar resultados de otros inhibidores DPP-4. Seguimiento: verificar función renal y tolerancia según molécula; vigilar síntomas compatibles con pancreatitis, hipersensibilidad o penfigoide ampolloso, cuando corresponda. La hipoglucemia adquiere relevancia con insulina o sulfonilureas.",
+      "detalle_regulatorio": "Suganon ISP F-27650/23: no requiere ajuste de 5 mg/día en insuficiencia renal leve, moderada o grave, pero requiere precaución y vigilancia estrecha en moderada-grave. No recomendado en enfermedad renal terminal con diálisis. Consideraciones para dispensación: comprobar principio activo, formulación, pauta prescrita y presencia de combinaciones fijas; no modificar dosis desde el mesón. Los valores farmacocinéticos cuantitativos pendientes de contraste no se incorporan."
     }
   },
   {
@@ -1406,8 +1418,8 @@
         "url": "https://www.ispch.gob.cl/noticia/isp-entrega-recomendaciones-sobre-el-correcto-almacenamiento-y-adquisicion-de-los-medicamentos/"
       }
     ],
-    "revision": "2026-10-28 · revisión editorial por principio activo; comprobación regulatoria final pendiente",
-    "validacion": "Revisión editorial para claridad y dispensación; no constituye validación clínica. Posología, interacciones y conservación por producto pendientes de contraste final.",
+    "revision": "2026-11-03 · homologación estructural ADME iDPP-4; verificación farmacocinética cuantitativa y regulatoria pendiente",
+    "validacion": "Revisión editorial y estructural; no constituye validación clínica. Contraste documental final pendiente.",
     "dispensacion_rapida": {
       "primera": {
         "consejo": "Puede tomarse con o sin alimentos. Si también utiliza insulina o sulfonilureas, esté atento a síntomas de hipoglucemia.",
@@ -1454,11 +1466,11 @@
     },
     "ampliada_qf": {
       "titulo_foco": "Eliminación predominantemente no renal",
+      "farmacocinetica_y_seleccion": "Absorción: Se administra por vía oral; las variaciones de absorción no deben confundirse con cambios en el efecto de las incretinas.\nDistribución: Presenta unión elevada y dependiente de concentración a proteínas plasmáticas, incluida DPP-4; evitar extrapolar parámetros de otras gliptinas.\nMetabolismo: El metabolismo no constituye su principal vía de eliminación; pueden intervenir CYP3A4 y transportadores en interacciones relevantes.\nExcreción y eliminación: Predomina la eliminación no renal, principalmente por vía biliar/intestinal; en general no requiere ajuste por insuficiencia renal, a diferencia de otras gliptinas.",
       "fundamento": "Inhibición de la dipeptidil peptidasa-4 (DPP-4), enzima que degrada las incretinas endógenas GLP-1 y GIP. La mayor disponibilidad de incretinas activas favorece la secreción de insulina dependiente de glucosa y reduce la secreción inapropiada de glucagón. El efecto sobre HbA1c y la elección del fármaco dependen del contexto clínico.",
-      "farmacocinetica_y_seleccion": "A diferencia de otros DPP-4, su eliminación es predominantemente no renal, por lo que habitualmente no necesita ajuste de dosis por función renal. Esta propiedad es relevante al comparar alternativas, pero no sustituye la evaluación del tratamiento completo.",
       "interacciones_especificas": "Rifampicina y otros inductores potentes de P-gp/CYP3A4 pueden reducir la exposición a linagliptina. Con insulina o sulfonilureas aumenta el riesgo de hipoglucemia.",
-      "evidencia_y_limitaciones": "Si el paciente utiliza una combinación fija con empagliflozina, deben considerarse adicionalmente las precauciones del inhibidor SGLT2.",
-      "detalle_regulatorio": "La linagliptina habitualmente no requiere ajuste de dosis por deterioro de la función renal. Confirmar ficha técnica chilena de monoterapia antes de cerrar la validación."
+      "evidencia_y_limitaciones": "Si el paciente utiliza una combinación fija con empagliflozina, deben considerarse adicionalmente las precauciones del inhibidor SGLT2. Seguimiento: verificar función renal y tolerancia según molécula; vigilar síntomas compatibles con pancreatitis, hipersensibilidad o penfigoide ampolloso, cuando corresponda. La hipoglucemia adquiere relevancia con insulina o sulfonilureas.",
+      "detalle_regulatorio": "La linagliptina habitualmente no requiere ajuste de dosis por deterioro de la función renal. Confirmar ficha técnica chilena de monoterapia antes de cerrar la validación. Consideraciones para dispensación: comprobar principio activo, formulación, pauta prescrita y presencia de combinaciones fijas; no modificar dosis desde el mesón. Los valores farmacocinéticos cuantitativos pendientes de contraste no se incorporan."
     }
   },
   {
@@ -1517,8 +1529,8 @@
         "url": "https://www.ispch.gob.cl/noticia/isp-entrega-recomendaciones-sobre-el-correcto-almacenamiento-y-adquisicion-de-los-medicamentos/"
       }
     ],
-    "revision": "2026-10-28 · revisión editorial por principio activo; comprobación regulatoria final pendiente",
-    "validacion": "Revisión editorial para claridad y dispensación; no constituye validación clínica. Posología, interacciones y conservación por producto pendientes de contraste final.",
+    "revision": "2026-11-03 · homologación estructural ADME iDPP-4; verificación farmacocinética cuantitativa y regulatoria pendiente",
+    "validacion": "Revisión editorial y estructural; no constituye validación clínica. Contraste documental final pendiente.",
     "dispensacion_rapida": {
       "primera": {
         "consejo": "Siga la pauta prescrita y confirme si toma saxagliptina sola o combinada con otro principio activo. Consulte si aparecen falta de aire, hinchazón de piernas o aumento rápido de peso.",
@@ -1573,11 +1585,11 @@
     },
     "ampliada_qf": {
       "titulo_foco": "Metabolismo, función renal y seguridad cardiovascular",
+      "farmacocinetica_y_seleccion": "Absorción: Se absorbe tras administración oral; comprobar en ficha técnica los parámetros de Tmax y las diferencias por formulación.\nDistribución: Los parámetros de distribución se mantienen pendientes de contraste con monografía del producto.\nMetabolismo: Es metabolizada por CYP3A4/5 a un metabolito farmacológicamente activo; los inhibidores potentes de esta vía pueden aumentar su exposición.\nExcreción y eliminación: Se elimina por vías renal y no renal; la insuficiencia renal puede requerir una pauta diferente. No extrapolar reglas de combinaciones fijas con metformina.",
       "fundamento": "Inhibición de la dipeptidil peptidasa-4 (DPP-4), enzima que degrada las incretinas endógenas GLP-1 y GIP. La mayor disponibilidad de incretinas activas favorece la secreción de insulina dependiente de glucosa y reduce la secreción inapropiada de glucagón. El efecto sobre HbA1c y la elección del fármaco dependen del contexto clínico.",
-      "farmacocinetica_y_seleccion": "Su metabolismo por CYP3A4/5 genera interacciones farmacocinéticas relevantes. La función renal puede exigir una dosis distinta; las combinaciones con metformina XR tienen restricciones propias de ambos componentes.",
       "interacciones_especificas": "Los inhibidores potentes de CYP3A4/5 pueden elevar la exposición a saxagliptina. Con insulina o sulfonilureas aumenta el riesgo de hipoglucemia.",
-      "evidencia_y_limitaciones": "La señal de hospitalización por insuficiencia cardíaca descrita para saxagliptina debe valorarse en la selección y seguimiento, sin asumir que todo paciente que la recibe está incorrectamente tratado.",
-      "detalle_regulatorio": "La saxagliptina requiere revisión de dosis según función renal y uso de inhibidores potentes de CYP3A4/5. Si se dispensa saxagliptina/metformina XR, aplicar además las restricciones renales de metformina y de la presentación fija. Dosis exacta pendiente de cotejo con folleto ISP."
+      "evidencia_y_limitaciones": "La señal de hospitalización por insuficiencia cardíaca descrita para saxagliptina debe valorarse en la selección y seguimiento, sin asumir que todo paciente que la recibe está incorrectamente tratado. Seguimiento: verificar función renal y tolerancia según molécula; vigilar síntomas compatibles con pancreatitis, hipersensibilidad o penfigoide ampolloso, cuando corresponda. La hipoglucemia adquiere relevancia con insulina o sulfonilureas.",
+      "detalle_regulatorio": "La saxagliptina requiere revisión de dosis según función renal y uso de inhibidores potentes de CYP3A4/5. Si se dispensa saxagliptina/metformina XR, aplicar además las restricciones renales de metformina y de la presentación fija. Dosis exacta pendiente de cotejo con folleto ISP. Consideraciones para dispensación: comprobar principio activo, formulación, pauta prescrita y presencia de combinaciones fijas; no modificar dosis desde el mesón. Los valores farmacocinéticos cuantitativos pendientes de contraste no se incorporan."
     }
   },
   {
