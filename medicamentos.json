@@ -3121,7 +3121,8 @@
       "No confundir insulina basal con insulina prandial: no se utiliza como corrección improvisada de una comida.",
       "Rotar los sitios de inyección; evitar zonas con lipohipertrofia o endurecimientos, que alteran la absorción.",
       "Reconocer síntomas de hipoglicemia; ante compromiso de conciencia o imposibilidad de tragar, solicitar atención urgente y no dar nada por boca.",
-      "Verificar apariencia, integridad, fecha de vencimiento y conservación según prospecto de la presentación dispensada."
+      "Verificar apariencia, integridad, fecha de vencimiento y conservación según prospecto de la presentación dispensada.",
+      "Glargina U-100 y U-300 no son presentaciones intercambiables de manera automática: confirmar concentración y dispositivo en la prescripción. No calcular conversiones de volumen ni cambiar la pauta durante la dispensación; solicitar evaluación del QF ante discrepancias."
     ],
     "dispensacion": "Verificar prescripción, principio activo, concentración y dispositivo. Reforzar horario indicado, técnica, rotación, conservación y adherencia, sin modificar dosis.",
     "marcas": [],
@@ -3220,6 +3221,11 @@
         "tipo": "Conservación",
         "titulo": "Prospecto específico",
         "texto": "Comprobar fecha de apertura, temperatura y plazo de uso de la presentación efectivamente dispensada."
+      },
+      {
+        "tipo": "Prevención de errores",
+        "titulo": "Glargina U-100 frente a U-300",
+        "texto": "Glargina U-100 y U-300 no son presentaciones intercambiables de manera automática: confirmar concentración y dispositivo en la prescripción. No calcular conversiones de volumen ni cambiar la pauta durante la dispensación; solicitar evaluación del QF ante discrepancias."
       }
     ]
   },
@@ -3235,7 +3241,8 @@
       "No confundir insulina basal con insulina prandial: no se utiliza como corrección improvisada de una comida.",
       "Rotar los sitios de inyección; evitar zonas con lipohipertrofia o endurecimientos, que alteran la absorción.",
       "Reconocer síntomas de hipoglicemia; ante compromiso de conciencia o imposibilidad de tragar, solicitar atención urgente y no dar nada por boca.",
-      "Verificar apariencia, integridad, fecha de vencimiento y conservación según prospecto de la presentación dispensada."
+      "Verificar apariencia, integridad, fecha de vencimiento y conservación según prospecto de la presentación dispensada.",
+      "En Tresiba FlexTouch U-200 el contador de dosis indica directamente las unidades de insulina; no convertir manualmente unidades a volumen ni extraer insulina de la pluma con jeringa. La presentación U-200 permite seleccionar dosis en incrementos de 2 unidades. Confirmar el dispositivo y la concentración antes de dispensar."
     ],
     "dispensacion": "Verificar prescripción, principio activo, concentración y dispositivo. Reforzar horario indicado, técnica, rotación, conservación y adherencia, sin modificar dosis.",
     "marcas": [],
@@ -3334,6 +3341,11 @@
         "tipo": "Conservación",
         "titulo": "Prospecto específico",
         "texto": "Comprobar fecha de apertura, temperatura y plazo de uso de la presentación efectivamente dispensada."
+      },
+      {
+        "tipo": "Prevención de errores",
+        "titulo": "Degludec U-200: contador de unidades",
+        "texto": "En Tresiba FlexTouch U-200 el contador de dosis indica directamente las unidades de insulina; no convertir manualmente unidades a volumen ni extraer insulina de la pluma con jeringa. La presentación U-200 permite seleccionar dosis en incrementos de 2 unidades. Confirmar el dispositivo y la concentración antes de dispensar."
       }
     ]
   },
@@ -3395,7 +3407,7 @@
         "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/levemir"
       }
     ],
-    "revision": "Ficha de trabajo basada en revisión documental; pendiente de cotejo de prospectos vigentes para cada concentración y dispositivo.",
+    "revision": "Ficha de trabajo basada en revisión documental; pendiente de cotejo de prospectos vigentes para cada concentración y dispositivo. Nota de actualización (noviembre de 2026): existen comunicaciones de retiro comercial de Levemir en mercados europeos; esto no acredita retiro ni disponibilidad en Chile. Confirmar estado del registro ISP y comercialización local antes de informar disponibilidad.",
     "validacion": "Borrador educativo de apoyo a la dispensación; no indica ajustes posológicos.",
     "dispensacion_rapida": {
       "primera": {
@@ -3547,7 +3559,7 @@
       "fundamento": "Distribución: la insulina absorbida alcanza tejidos sensibles y se une a receptores; Metabolismo: degradación proteolítica con metabolitos inactivos; Excreción/eliminación: la depuración depende de función orgánica y no equivale a duración farmacodinámica de la suspensión.",
       "interacciones_especificas": "Sulfonilureas y otras terapias hipoglicemiantes aumentan riesgo de hipoglicemia; betabloqueadores pueden ocultar síntomas; glucocorticoides pueden elevar glucemia.",
       "evidencia_y_limitaciones": "Los tiempos corresponden a la formulación completa solo cuando la ficha técnica lo especifica; no utilizar Tmax plasmático como pico de efecto. Confirmar intervalo previo a la comida según folleto autorizado del producto; no extrapolar la pauta de análogos rápidos.",
-      "detalle_regulatorio": "Confirmar registro, presentación y folleto autorizado vigente ISP; autorización en otra jurisdicción no prueba disponibilidad en Chile.",
+      "detalle_regulatorio": "Confirmar registro, presentación y folleto autorizado vigente ISP; autorización en otra jurisdicción no prueba disponibilidad en Chile.\n\nNota específica de producto: La insulina humana premezclada regular/NPH se coordina con la comida: según el folleto de Bioinsugen 30/70, ingerir alimentos con carbohidratos dentro de los 30 minutos posteriores a la inyección. Confirmar pauta individual y presentación. Bioinsugen 30/70: comprobar que la suspensión esté homogénea mediante rotación suave conforme al folleto del vial; no agitar vigorosamente. La conservación del vial en uso indicada en el folleto consultado es hasta 4 semanas a temperatura no superior a 25 °C; verificar el envase efectivamente dispensado.",
       "perfil_accion_teorico": {
         "inicio": "Componente regular de inicio aproximadamente 30–60 min; perfil exacto de la mezcla pendiente de validación",
         "maximo": "No se establece un máximo único validado para esta formulación",
@@ -3576,6 +3588,16 @@
         "tipo": "Conservación",
         "titulo": "Presentación específica",
         "texto": "Confirmar temperatura, período tras apertura y compatibilidad de agujas o jeringas en folleto del producto dispensado."
+      },
+      {
+        "tipo": "Comidas y seguridad",
+        "titulo": "Momento respecto de la comida",
+        "texto": "La insulina humana premezclada regular/NPH se coordina con la comida: según el folleto de Bioinsugen 30/70, ingerir alimentos con carbohidratos dentro de los 30 minutos posteriores a la inyección. Confirmar pauta individual y presentación."
+      },
+      {
+        "tipo": "Conservación y técnica",
+        "titulo": "Resuspensión y conservación por presentación",
+        "texto": "Bioinsugen 30/70: comprobar que la suspensión esté homogénea mediante rotación suave conforme al folleto del vial; no agitar vigorosamente. La conservación del vial en uso indicada en el folleto consultado es hasta 4 semanas a temperatura no superior a 25 °C; verificar el envase efectivamente dispensado."
       }
     ]
   },
@@ -3661,7 +3683,7 @@
       "fundamento": "Distribución: la insulina absorbida alcanza tejidos sensibles y se une a receptores; Metabolismo: degradación proteolítica con metabolitos inactivos; Excreción/eliminación: la depuración depende de función orgánica y no equivale a duración farmacodinámica de la suspensión.",
       "interacciones_especificas": "Sulfonilureas y otras terapias hipoglicemiantes aumentan riesgo de hipoglicemia; betabloqueadores pueden ocultar síntomas; glucocorticoides pueden elevar glucemia.",
       "evidencia_y_limitaciones": "Los tiempos corresponden a la formulación completa solo cuando la ficha técnica lo especifica; no utilizar Tmax plasmático como pico de efecto. La ficha permite administración poco antes de las comidas y, cuando sea necesario, poco después; confirmar pauta individual.",
-      "detalle_regulatorio": "Confirmar registro, presentación y folleto autorizado vigente ISP; autorización en otra jurisdicción no prueba disponibilidad en Chile.",
+      "detalle_regulatorio": "Confirmar registro, presentación y folleto autorizado vigente ISP; autorización en otra jurisdicción no prueba disponibilidad en Chile.\n\nNota específica de producto: Humalog Mix25 se administra habitualmente poco antes de la comida y, cuando sea necesario, poco después, según su ficha técnica. Respetar la pauta prescrita y no extrapolar el horario de las premezclas humanas. Humalog Mix25: resuspender conforme a las instrucciones del cartucho o pluma hasta apariencia uniformemente turbia; no agitar vigorosamente. La conservación en uso depende de la presentación: comprobar el folleto de vial, cartucho o KwikPen; plazo habitual descrito de 28 días.",
       "perfil_accion_teorico": {
         "inicio": "Inicio rápido por componente lispro, aproximadamente 15 min; valor orientativo, no del conjunto",
         "maximo": "Pico temprano por lispro; no hay valor numérico universal de la mezcla en ficha consultada",
@@ -3690,6 +3712,16 @@
         "tipo": "Conservación",
         "titulo": "Presentación específica",
         "texto": "Confirmar temperatura, período tras apertura y compatibilidad de agujas o jeringas en folleto del producto dispensado."
+      },
+      {
+        "tipo": "Comidas y seguridad",
+        "titulo": "Momento respecto de la comida",
+        "texto": "Humalog Mix25 se administra habitualmente poco antes de la comida y, cuando sea necesario, poco después, según su ficha técnica. Respetar la pauta prescrita y no extrapolar el horario de las premezclas humanas."
+      },
+      {
+        "tipo": "Conservación y técnica",
+        "titulo": "Resuspensión y conservación por presentación",
+        "texto": "Humalog Mix25: resuspender conforme a las instrucciones del cartucho o pluma hasta apariencia uniformemente turbia; no agitar vigorosamente. La conservación en uso depende de la presentación: comprobar el folleto de vial, cartucho o KwikPen; plazo habitual descrito de 28 días."
       }
     ]
   },
@@ -3775,7 +3807,7 @@
       "fundamento": "Distribución: la insulina absorbida alcanza tejidos sensibles y se une a receptores; Metabolismo: degradación proteolítica con metabolitos inactivos; Excreción/eliminación: la depuración depende de función orgánica y no equivale a duración farmacodinámica de la suspensión.",
       "interacciones_especificas": "Sulfonilureas y otras terapias hipoglicemiantes aumentan riesgo de hipoglicemia; betabloqueadores pueden ocultar síntomas; glucocorticoides pueden elevar glucemia.",
       "evidencia_y_limitaciones": "Los tiempos corresponden a la formulación completa solo cuando la ficha técnica lo especifica; no utilizar Tmax plasmático como pico de efecto. Según ficha EMA, administrar muy próxima a la comida (0–10 min antes); seguir prescripción y prospecto específico.",
-      "detalle_regulatorio": "Confirmar registro, presentación y folleto autorizado vigente ISP; autorización en otra jurisdicción no prueba disponibilidad en Chile.",
+      "detalle_regulatorio": "Confirmar registro, presentación y folleto autorizado vigente ISP; autorización en otra jurisdicción no prueba disponibilidad en Chile.\n\nNota específica de producto: NovoMix 30 se administra generalmente inmediatamente antes de comer; la ficha técnica indica ingerir alimentos dentro de los 10 minutos posteriores. Seguir pauta prescrita y prospecto de la presentación. NovoMix 30: resuspender conforme a las instrucciones específicas de Penfill o dispositivo antes de cada administración hasta apariencia homogénea. Penfill en uso: hasta 4 semanas por debajo de 30 °C, sin refrigerar, según ficha EMA; verificar la presentación dispensada.",
       "perfil_accion_teorico": {
         "inicio": "10–20 min",
         "maximo": "1–4 h",
@@ -3804,6 +3836,16 @@
         "tipo": "Conservación",
         "titulo": "Presentación específica",
         "texto": "Confirmar temperatura, período tras apertura y compatibilidad de agujas o jeringas en folleto del producto dispensado."
+      },
+      {
+        "tipo": "Comidas y seguridad",
+        "titulo": "Momento respecto de la comida",
+        "texto": "NovoMix 30 se administra generalmente inmediatamente antes de comer; la ficha técnica indica ingerir alimentos dentro de los 10 minutos posteriores. Seguir pauta prescrita y prospecto de la presentación."
+      },
+      {
+        "tipo": "Conservación y técnica",
+        "titulo": "Resuspensión y conservación por presentación",
+        "texto": "NovoMix 30: resuspender conforme a las instrucciones específicas de Penfill o dispositivo antes de cada administración hasta apariencia homogénea. Penfill en uso: hasta 4 semanas por debajo de 30 °C, sin refrigerar, según ficha EMA; verificar la presentación dispensada."
       }
     ]
   }

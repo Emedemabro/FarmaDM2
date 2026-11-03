@@ -1,0 +1,11 @@
+FarmaDM2 v47.13 — correcciones prioritarias de seguridad
+Base: v47.12 aprobada visualmente por el usuario.
+Se conservan HTML, CSS, app.js y estructura de fichas.
+- Tres premezclas: notas diferenciadas de comidas, resuspensión y conservación según presentación.
+- Glargina: alerta de no intercambiabilidad automática U-100/U-300.
+- Degludec: instrucciones del contador de unidades de U-200.
+- Detemir: nota sobre situación europea sin extrapolar a Chile.
+- sw.js: nombre de caché actualizado para favorecer renovación de recursos.
+Fuentes preexistentes en las fichas: ficha técnica Sanitas Bioinsugen 30/70, AEMPS Humalog Mix25, EMA NovoMix30, ISP. Las instrucciones deben cotejarse con el folleto local vigente de la presentación dispensada.
+Verificaciones: JSON válido, 30 fichas, IDs únicos, ZIP íntegro; sin prueba de navegador, instalación ni validación clínica externa.
+Pendiente: cotejo completo de las 11 insulinas, referencias y prueba PWA en navegador.
