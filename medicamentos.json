@@ -3533,6 +3533,10 @@
       {
         "nombre": "Instituto Sanitas / Biocon Biologics. Folleto de información al paciente Bioinsugen®-30/70, suspensión inyectable 100 UI/mL (Reg. ISP N.º B-1958; versión V6/112024).",
         "url": ""
+      },
+      {
+        "nombre": "UpToDate. Insulin NPH and insulin regular: Drug information (monografía de la combinación regular/NPH; fecha de actualización no verificada).",
+        "url": "https://www.uptodate.com/contents/insulin-nph-and-insulin-regular-drug-information"
       }
     ],
     "revision": "Ficha documental de apoyo; la existencia de registro no garantiza disponibilidad comercial. Verificar presentación, conservación y resuspensión exactas en prospecto local.",
@@ -3565,11 +3569,11 @@
       "evidencia_y_limitaciones": "Los tiempos corresponden a la formulación completa solo cuando la ficha técnica lo especifica; no utilizar Tmax plasmático como pico de efecto. Confirmar intervalo previo a la comida según folleto autorizado del producto; no extrapolar la pauta de análogos rápidos.",
       "detalle_regulatorio": "Confirmar registro, presentación y folleto autorizado vigente ISP; autorización en otra jurisdicción no prueba disponibilidad en Chile.\n\nNota específica de producto: La insulina humana premezclada regular/NPH se coordina con la comida: según el folleto de Bioinsugen 30/70, ingerir alimentos con carbohidratos dentro de los 30 minutos posteriores a la inyección. Confirmar pauta individual y presentación. Bioinsugen 30/70: comprobar que la suspensión esté homogénea mediante rotación suave conforme al folleto del vial; no agitar vigorosamente. La conservación del vial en uso indicada en el folleto consultado es hasta 4 semanas a temperatura no superior a 25 °C; verificar el envase efectivamente dispensado.",
       "perfil_accion_teorico": {
-        "inicio": "Componente regular de inicio aproximadamente 30–60 min; perfil exacto de la mezcla pendiente de validación",
-        "maximo": "No se establece un máximo único validado para esta formulación",
-        "duracion": "Componente NPH de acción intermedia; duración total específica pendiente de cotejo",
-        "nota": "Rangos de referencia documental. En Humalog Mix25 y Bioinsugen 30/70 no se asigna un máximo/duración universal sin evidencia específica de la mezcla.",
-        "fuente": "https://sanitas.cl/wp-content/uploads/2024/09/Ficha-Tecnica-Bioinsugen-3070-V02.pdf"
+        "inicio": "Aprox. 30 min",
+        "maximo": "2–12 h",
+        "duracion": "18–24 h",
+        "nota": "Rangos bibliográficos orientativos de efecto hipoglicemiante para la combinación insulina regular/NPH por vía subcutánea. No son parámetros determinados específicamente para Bioinsugen 30/70 ni predicen la respuesta individual. Pueden variar con la formulación, dosis, lugar de inyección y otros factores. No confundir máximo efecto con Tmax plasmático ni duración con semivida de eliminación; no utilizar para ajustar dosis.",
+        "fuente": "UpToDate. Insulin NPH and insulin regular: Drug information (monografía de la combinación regular/NPH; fecha de actualización no verificada)."
       }
     },
     "consejos_practicos": [
@@ -3657,6 +3661,10 @@
       {
         "nombre": "ISP Chile. Consulta de registro y folleto local vigente.",
         "url": "https://registrosanitario.ispch.gob.cl/"
+      },
+      {
+        "nombre": "UpToDate. Insulin lispro protamine and insulin lispro: Drug information (máximo referido a Humalog Mix 75/25; fecha de actualización no verificada).",
+        "url": "https://www.uptodate.com/contents/insulin-lispro-protamine-and-insulin-lispro-drug-information"
       }
     ],
     "revision": "Ficha documental de apoyo; la existencia de registro no garantiza disponibilidad comercial. Verificar presentación, conservación y resuspensión exactas en prospecto local.",
@@ -3689,11 +3697,11 @@
       "evidencia_y_limitaciones": "Los tiempos corresponden a la formulación completa solo cuando la ficha técnica lo especifica; no utilizar Tmax plasmático como pico de efecto. La ficha permite administración poco antes de las comidas y, cuando sea necesario, poco después; confirmar pauta individual.",
       "detalle_regulatorio": "Confirmar registro, presentación y folleto autorizado vigente ISP; autorización en otra jurisdicción no prueba disponibilidad en Chile.\n\nNota específica de producto: Humalog Mix25 se administra habitualmente poco antes de la comida y, cuando sea necesario, poco después, según su ficha técnica. Respetar la pauta prescrita y no extrapolar el horario de las premezclas humanas. Humalog Mix25: resuspender conforme a las instrucciones del cartucho o pluma hasta apariencia uniformemente turbia; no agitar vigorosamente. La conservación en uso depende de la presentación: comprobar el folleto de vial, cartucho o KwikPen; plazo habitual descrito de 28 días.",
       "perfil_accion_teorico": {
-        "inicio": "Inicio rápido por componente lispro, aproximadamente 15 min; valor orientativo, no del conjunto",
-        "maximo": "Pico temprano por lispro; no hay valor numérico universal de la mezcla en ficha consultada",
-        "duracion": "Componente lispro protamina con perfil similar a NPH; duración exacta de la mezcla no establecida",
-        "nota": "Rangos de referencia documental. En Humalog Mix25 y Bioinsugen 30/70 no se asigna un máximo/duración universal sin evidencia específica de la mezcla.",
-        "fuente": "https://cima.aemps.es/cima/dochtml/ft/96007033/FT_96007033.html"
+        "inicio": "15–30 min",
+        "maximo": "1–6,5 h",
+        "duracion": "14–24 h",
+        "nota": "Rangos bibliográficos orientativos de efecto hipoglicemiante para la combinación lispro/lispro protamina por vía subcutánea. UpToDate informa el máximo efecto para Humalog Mix 75/25 (75 % lispro protamina y 25 % lispro), composición correspondiente a la proporción de Humalog Mix25; ello no demuestra identidad de parámetros de la presentación chilena. Los tiempos pueden variar con formulación, dosis, zona de inyección y factores individuales. No confundir máximo efecto con Tmax ni duración con semivida; no utilizar para ajustar dosis.",
+        "fuente": "UpToDate. Insulin lispro protamine and insulin lispro: Drug information (máximo referido a Humalog Mix 75/25; fecha de actualización no verificada)."
       }
     },
     "consejos_practicos": [
@@ -3781,6 +3789,10 @@
       {
         "nombre": "ISP Chile. Consulta de registro y folleto local vigente.",
         "url": "https://registrosanitario.ispch.gob.cl/"
+      },
+      {
+        "nombre": "UpToDate. Insulin aspart protamine and insulin aspart: Drug information (duración referida a NovoLog Mix 70/30; fecha de actualización no verificada).",
+        "url": "https://www.uptodate.com/contents/insulin-aspart-protamine-and-insulin-aspart-drug-information"
       }
     ],
     "revision": "Ficha documental de apoyo; la existencia de registro no garantiza disponibilidad comercial. Verificar presentación, conservación y resuspensión exactas en prospecto local.",
@@ -3815,9 +3827,9 @@
       "perfil_accion_teorico": {
         "inicio": "10–20 min",
         "maximo": "1–4 h",
-        "duracion": "Hasta 24 h",
-        "nota": "Rangos de referencia documental. En Humalog Mix25 y Bioinsugen 30/70 no se asigna un máximo/duración universal sin evidencia específica de la mezcla.",
-        "fuente": "https://www.ema.europa.eu/en/documents/product-information/novomix-epar-product-information_en.pdf"
+        "duracion": "18–24 h",
+        "nota": "Rangos bibliográficos orientativos de efecto hipoglicemiante para la combinación asparta/asparta protamina por vía subcutánea. UpToDate identifica la duración de NovoLog Mix 70/30, de composición 30 % asparta y 70 % asparta protamina; no se consideran valores determinados específicamente para NovoMix 30 comercializado en Chile. Varían con formulación, dosis, zona de inyección y factores individuales. No confundir máximo efecto con Tmax ni duración con semivida; no utilizar para ajustar dosis.",
+        "fuente": "UpToDate. Insulin aspart protamine and insulin aspart: Drug information (duración referida a NovoLog Mix 70/30; fecha de actualización no verificada)."
       }
     },
     "consejos_practicos": [
