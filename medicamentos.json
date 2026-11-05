@@ -3529,6 +3529,10 @@
       {
         "nombre": "ISP Chile. Consulta de registro y folleto local vigente.",
         "url": "https://registrosanitario.ispch.gob.cl/"
+      },
+      {
+        "nombre": "Instituto Sanitas / Biocon Biologics. Folleto de información al paciente Bioinsugen®-30/70, suspensión inyectable 100 UI/mL (Reg. ISP N.º B-1958; versión V6/112024).",
+        "url": ""
       }
     ],
     "revision": "Ficha documental de apoyo; la existencia de registro no garantiza disponibilidad comercial. Verificar presentación, conservación y resuspensión exactas en prospecto local.",
@@ -3537,7 +3541,7 @@
       "primera": {
         "consejo": "Identifique con la persona la proporción de la mezcla y el dispositivo. Demuestre la resuspensión indicada por el fabricante, técnica, rotación y relación con las comidas. Confirmar intervalo previo a la comida según folleto autorizado del producto; no extrapolar la pauta de análogos rápidos.",
         "pregunta": "¿Sabe cómo homogeneizar esta insulina y en qué momento respecto de la comida se la indicaron?",
-        "almacenamiento": "Sin abrir, revisar conservación en frío según prospecto. Una vez en uso, temperatura y plazo dependen de la presentación; registrar fecha de apertura.",
+        "almacenamiento": "Sin abrir: conservar refrigerada entre 2 y 8 °C, en su envase original y protegida de la luz; no congelar. Vial en uso: hasta 4 semanas a temperatura no superior a 25 °C. Cartucho en uso: hasta 6 semanas a temperatura no superior a 25 °C, dentro de su caja para protegerlo de la luz. Confirmar la presentación dispensada y registrar la fecha de primer uso.",
         "accion": "Verificar proporción, dispositivo, resuspensión y horario prescrito. Derivar al QF ante dudas sobre el dispositivo, la pauta prescrita o la técnica de administración."
       },
       "habitual": {
@@ -3549,7 +3553,7 @@
     },
     "guia_meson": {
       "preguntas": "¿Cuál es el nombre y concentración de su insulina? ¿A qué hora se la indicaron? ¿Sabe cómo preparar y utilizar su pluma? ¿Rota los sitios de inyección?",
-      "explicacion": "«Esta insulina proporciona una cobertura basal de glucosa durante el día y/o la noche. No reemplaza automáticamente a la insulina utilizada para las comidas. Respete el horario y dosis prescritos, revise la etiqueta antes de usarla y rote los sitios de inyección».",
+      "explicacion": "Esta insulina contiene una mezcla de dos componentes: uno que ayuda a controlar la glicemia relacionada con las comidas y otro cuyo efecto se mantiene por más tiempo. Antes de administrarla, es importante preparar la suspensión siguiendo las instrucciones del producto y respetar el horario indicado por el médico. La alimentación debe coordinarse con la inyección para disminuir el riesgo de hipoglicemia. No cambie la dosis ni sustituya esta insulina por otra sin indicación profesional.",
       "alertas": "Ante confusión de producto o concentración, detener la aclaración de la dispensación y solicitar evaluación del QF. Ante signos graves de hipoglicemia, activar atención urgente; no administrar alimentos ni líquidos por boca."
     },
     "posicionamiento": "Opción de insulinoterapia bifásica prescrita para aportar componentes prandial e intermedio en proporción fija; no permite modificar independientemente ambas fracciones.",
