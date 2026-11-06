@@ -2763,7 +2763,8 @@
       "Rotar los puntos de inyección dentro de las zonas indicadas y evitar áreas con bultos o endurecimientos.",
       "Comprobar que el paciente conoce signos de hipoglicemia y dispone de un plan de actuación.",
       "Conservación habitual de presentaciones sin abrir: refrigeración entre 2 y 8 °C, sin congelar; las condiciones tras apertura deben verificarse en el prospecto.",
-      "Verificar integridad del envase, aspecto de la solución y fecha de vencimiento; no utilizar si presenta alteraciones incompatibles con el prospecto."
+      "Verificar integridad del envase, aspecto de la solución y fecha de vencimiento; no utilizar si presenta alteraciones incompatibles con el prospecto.",
+      "Las formulaciones comerciales con insulina asparta pueden diferir en rapidez de absorción y momento de administración con las comidas (p. ej., la formulación de acción más rápida Fiasp frente a NovoRapid, según fichas europeas). No trasladar automáticamente instrucciones entre presentaciones; comprobar la etiqueta, prescripción y folleto del producto dispensado."
     ],
     "dispensacion": "Verificar principio activo, concentración, dispositivo y pauta prescrita. Reforzar la coordinación con las comidas conforme al prospecto de la formulación dispensada, la rotación de sitios y el reconocimiento de hipoglicemia.",
     "marcas": [],
@@ -2807,6 +2808,10 @@
       },
       {
         "nombre": "ISP Chile, Rapilog / Rapilog One: folleto de insulina asparta (documento aportado)"
+      },
+      {
+        "nombre": "AEMPS/CIMA (España). Fiasp 100 U/mL, ficha técnica: diferencias de absorción y administración frente a NovoRapid; referencia internacional, no acreditación de disponibilidad en Chile.",
+        "url": "https://cima.aemps.es/cima/dochtml/ft/1161160007/FT_1161160007.html"
       }
     ],
     "revision": "Borrador v47.5: análogos rápidos por principio activo; revisión profesional pendiente. Rangos numéricos de Tsai et al. solo para asparta y lispro.",
@@ -2836,7 +2841,7 @@
       "farmacocinetica_y_seleccion": "Absorción: modificaciones en la secuencia de aminoácidos que disminuyen la autoasociación y favorecen una absorción subcutánea más rápida. Tras inyección subcutánea, la velocidad de absorción también depende del sitio, perfusión, dosis y técnica.",
       "fundamento": "Distribución: una vez absorbida, la insulina llega a la circulación y actúa sobre receptores en tejidos diana, promoviendo utilización de glucosa y reduciendo producción hepática. Metabolismo: degradación proteolítica, con participación hepática y renal; no depende del CYP450. Excreción y eliminación: la depuración renal participa en la eliminación y su deterioro puede modificar requerimientos y riesgo de hipoglicemia. La semivida plasmática no equivale a la duración del efecto desde el depósito subcutáneo.",
       "interacciones_especificas": "Sulfonilureas (por ejemplo, gliclazida o glibenclamida) pueden aumentar el riesgo de hipoglicemia con insulina. Betabloqueadores (por ejemplo, propranolol o metoprolol) pueden atenuar manifestaciones adrenérgicas, especialmente taquicardia; la sudoración puede persistir. Revisar además comidas omitidas, alcohol, actividad física y función renal.",
-      "evidencia_y_limitaciones": "Los perfiles de acción son orientativos y no sustituyen las especificaciones de cada formulación. El documento de Tsai et al. (2024) incluye rangos para asparta y lispro, pero no para glulisina. SOCHIDIAB y MINSAL aportan contexto de atención chilena; las indicaciones comerciales se cotejan con prospectos.",
+      "evidencia_y_limitaciones": "Los perfiles de acción son orientativos y no sustituyen las especificaciones de cada formulación. El documento de Tsai et al. (2024) incluye rangos para asparta y lispro, pero no para glulisina. SOCHIDIAB y MINSAL aportan contexto de atención chilena; las indicaciones comerciales se cotejan con prospectos. La formulación de acción más rápida con asparta puede presentar una absorción inicial distinta a la de asparta convencional; los intervalos generales de Tsai (2024) no deben asignarse automáticamente a cada formulación comercial.",
       "detalle_regulatorio": "Verificar rotulado, concentración, dispositivo, integridad y conservación de la presentación dispensada. No asumir equivalencia de horario entre formulaciones del mismo principio activo. FarmaDM2 es un apoyo educativo, no una herramienta autónoma de decisión clínica ni de ajuste de dosis.",
       "perfil_accion_teorico": {
         "inicio": "5–15 minutos",
@@ -2866,6 +2871,11 @@
         "tipo": "Conservación",
         "titulo": "Cadena de frío y primer uso",
         "texto": "Antes de abrir, comprobar refrigeración según el producto, sin congelar. Registrar fecha de primer uso y verificar duración y temperatura permitidas en el prospecto de la presentación."
+      },
+      {
+        "tipo": "Prevención de errores",
+        "titulo": "Asparta: distinguir formulaciones",
+        "texto": "El nombre del principio activo no basta para definir el intervalo respecto de las comidas. Identificar la formulación y aplicar las instrucciones específicas del producto prescrito; no sustituir ni cambiar horarios desde la dispensación. Los ejemplos europeos no acreditan por sí solos disponibilidad en Chile."
       }
     ]
   },
@@ -2882,7 +2892,8 @@
       "Rotar los puntos de inyección dentro de las zonas indicadas y evitar áreas con bultos o endurecimientos.",
       "Comprobar que el paciente conoce signos de hipoglicemia y dispone de un plan de actuación.",
       "Conservación habitual de presentaciones sin abrir: refrigeración entre 2 y 8 °C, sin congelar; las condiciones tras apertura deben verificarse en el prospecto.",
-      "Verificar integridad del envase, aspecto de la solución y fecha de vencimiento; no utilizar si presenta alteraciones incompatibles con el prospecto."
+      "Verificar integridad del envase, aspecto de la solución y fecha de vencimiento; no utilizar si presenta alteraciones incompatibles con el prospecto.",
+      "En dispositivos Humalog KwikPen de insulina lispro U-200, el contador muestra unidades y no requiere conversión de dosis; nunca extraer la insulina de la pluma con una jeringa ni transferirla a otros dispositivos, por riesgo de sobredosis grave. Confirmar disponibilidad y prospecto de la presentación en Chile; no generalizar esta indicación de U-200 a todas las formulaciones."
     ],
     "dispensacion": "Verificar principio activo, concentración, dispositivo y pauta prescrita. Reforzar la coordinación con las comidas conforme al prospecto de la formulación dispensada, la rotación de sitios y el reconocimiento de hipoglicemia.",
     "marcas": [],
@@ -2923,6 +2934,10 @@
       {
         "nombre": "Tsai Y-Y, Gu Y-S, Jiang Y-D. An update of contemporary insulin therapy. J Diabetes Investig. 2024;15:1000–1002. doi:10.1111/jdi.14212. Tabla 1; los rangos solo se utilizan cuando la insulina está incluida.",
         "url": "https://doi.org/10.1111/jdi.14212"
+      },
+      {
+        "nombre": "AEMPS/CIMA (España). Humalog KwikPen insulina lispro 200 U/mL, ficha técnica, prevención de errores con jeringas; referencia internacional.",
+        "url": "https://cima.aemps.es/cima/dochtml/ft/196007041/FT_196007041.html"
       }
     ],
     "revision": "Borrador v47.5: análogos rápidos por principio activo; revisión profesional pendiente. Rangos numéricos de Tsai et al. solo para asparta y lispro.",
@@ -2953,7 +2968,7 @@
       "fundamento": "Distribución: una vez absorbida, la insulina llega a la circulación y actúa sobre receptores en tejidos diana, promoviendo utilización de glucosa y reduciendo producción hepática. Metabolismo: degradación proteolítica, con participación hepática y renal; no depende del CYP450. Excreción y eliminación: la depuración renal participa en la eliminación y su deterioro puede modificar requerimientos y riesgo de hipoglicemia. La semivida plasmática no equivale a la duración del efecto desde el depósito subcutáneo.",
       "interacciones_especificas": "Sulfonilureas (por ejemplo, gliclazida o glibenclamida) pueden aumentar el riesgo de hipoglicemia con insulina. Betabloqueadores (por ejemplo, propranolol o metoprolol) pueden atenuar manifestaciones adrenérgicas, especialmente taquicardia; la sudoración puede persistir. Revisar además comidas omitidas, alcohol, actividad física y función renal.",
       "evidencia_y_limitaciones": "Los perfiles de acción son orientativos y no sustituyen las especificaciones de cada formulación. El documento de Tsai et al. (2024) incluye rangos para asparta y lispro, pero no para glulisina. SOCHIDIAB y MINSAL aportan contexto de atención chilena; las indicaciones comerciales se cotejan con prospectos.",
-      "detalle_regulatorio": "Verificar rotulado, concentración, dispositivo, integridad y conservación de la presentación dispensada. No asumir equivalencia de horario entre formulaciones del mismo principio activo. FarmaDM2 es un apoyo educativo, no una herramienta autónoma de decisión clínica ni de ajuste de dosis.",
+      "detalle_regulatorio": "Verificar rotulado, concentración, dispositivo, integridad y conservación de la presentación dispensada. No asumir equivalencia de horario entre formulaciones del mismo principio activo. FarmaDM2 es un apoyo educativo, no una herramienta autónoma de decisión clínica ni de ajuste de dosis. La ficha técnica española de Humalog KwikPen U-200 advierte sobre sobredosificación grave si se extrae el contenido con jeringa: la ventana de dosis indica unidades sin conversión. Esta advertencia se refiere a ese dispositivo y no confirma su registro o disponibilidad actual en Chile.",
       "perfil_accion_teorico": {
         "inicio": "5–15 minutos",
         "maximo": "30–90 minutos",
@@ -2982,6 +2997,11 @@
         "tipo": "Conservación",
         "titulo": "Cadena de frío y primer uso",
         "texto": "Antes de abrir, comprobar refrigeración según el producto, sin congelar. Registrar fecha de primer uso y verificar duración y temperatura permitidas en el prospecto de la presentación."
+      },
+      {
+        "tipo": "Prevención de errores",
+        "titulo": "Lispro U-200: no extraer con jeringa",
+        "texto": "En Humalog KwikPen 200 U/mL, utilizar exclusivamente la pluma indicada; no transferir el contenido a jeringas u otros dispositivos ni calcular una conversión de unidades. Comprobar concentración y prescripción antes de dispensar; fuente europea, sin suponer comercialización chilena."
       }
     ]
   },
@@ -3042,7 +3062,7 @@
         "url": "https://doi.org/10.1111/jdi.14212"
       },
       {
-        "nombre": "EMA, Apidra (insulina glulisina), ficha técnica, secciones 4.2, 4.4, 4.8, 5.1, 5.2 y 6.3–6.4 (documento aportado).",
+        "nombre": "EMA. Apidra (insulina glulisina): información de producto, actualización publicada el 05-03-2026; las condiciones corresponden a este producto europeo y no se extrapolan a Chile.",
         "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/apidra"
       },
       {
@@ -3122,7 +3142,8 @@
       "Rotar los sitios de inyección; evitar zonas con lipohipertrofia o endurecimientos, que alteran la absorción.",
       "Reconocer síntomas de hipoglicemia; ante compromiso de conciencia o imposibilidad de tragar, solicitar atención urgente y no dar nada por boca.",
       "Verificar apariencia, integridad, fecha de vencimiento y conservación según prospecto de la presentación dispensada.",
-      "Glargina U-100 y U-300 no son presentaciones intercambiables de manera automática: confirmar concentración y dispositivo en la prescripción. No calcular conversiones de volumen ni cambiar la pauta durante la dispensación; solicitar evaluación del QF ante discrepancias."
+      "Glargina U-100 y U-300 no son presentaciones intercambiables de manera automática: confirmar concentración y dispositivo en la prescripción. No calcular conversiones de volumen ni cambiar la pauta durante la dispensación; solicitar evaluación del QF ante discrepancias.",
+      "En Toujeo (glargina U-300) SoloStar o DoubleStar no se debe extraer insulina de la pluma con una jeringa: existe riesgo de sobredosis grave. Verificar siempre el dispositivo y la concentración; esta instrucción específica no implica que todas las presentaciones de glargina sean iguales."
     ],
     "dispensacion": "Verificar prescripción, principio activo, concentración y dispositivo. Reforzar horario indicado, técnica, rotación, conservación y adherencia, sin modificar dosis.",
     "marcas": [],
@@ -3162,6 +3183,14 @@
       {
         "nombre": "Información de producto y registro sanitario ISP: verificar presentación y prospecto vigente.",
         "url": "https://registrosanitario.ispch.gob.cl/"
+      },
+      {
+        "nombre": "ISP Chile. Toujeo solución inyectable 300 U/mL, ficha de registro B-2526/25; registro vigente no equivale a disponibilidad comercial.",
+        "url": "https://registrosanitario.ispch.gob.cl/Ficha.aspx?RegistroISP=B-2526%2F25"
+      },
+      {
+        "nombre": "AEMPS/CIMA (España). Toujeo 300 U/mL SoloStar, ficha técnica: no bioequivalencia U-100/U-300 y prevención de errores de extracción a jeringa.",
+        "url": "https://cima.aemps.es/cima/dochtml/ft/100133034/FT_100133034.html"
       }
     ],
     "revision": "Ficha de trabajo basada en revisión documental; pendiente de cotejo de prospectos vigentes para cada concentración y dispositivo.",
@@ -3192,7 +3221,7 @@
       "fundamento": "Distribución: tras la absorción sistémica, la insulina se distribuye a tejidos diana y se une al receptor de insulina. Metabolismo: degradación proteolítica, principalmente hepática y renal, sin participación relevante de CYP450. Excreción/eliminación: la depuración de insulina depende, entre otros factores, de la función renal y hepática; el deterioro renal puede disminuir requerimientos y aumentar el riesgo de hipoglicemia.",
       "interacciones_especificas": "Las sulfonilureas pueden incrementar el riesgo de hipoglicemia; los betabloqueadores pueden atenuar signos adrenérgicos de aviso; los corticoides y ciertos simpaticomiméticos pueden elevar la glucemia. La PWA orienta la identificación de riesgos, no la modificación de dosis.",
       "evidencia_y_limitaciones": "Los rangos son orientativos y no sustituyen los datos de cada formulación. No interpretar el rango general de Tsai como duración específica de U-300. La información debe contrastarse con rotulado vigente del ISP y la prescripción.",
-      "detalle_regulatorio": "Glargina U-100 (p. ej., Lantus) y U-300 (p. ej., Toujeo) requieren verificar instrucciones y dispositivo específicos. No son intercambiables unidad por unidad de forma automática; cualquier cambio requiere supervisión médica.",
+      "detalle_regulatorio": "Glargina U-100 (p. ej., Lantus) y U-300 (p. ej., Toujeo) requieren verificar instrucciones y dispositivo específicos. No son intercambiables unidad por unidad de forma automática; cualquier cambio requiere supervisión médica. El ISP de Chile presenta un registro vigente para Toujeo 300 U/mL, B-2526/25 (consulta de 06-11-2026); su vigencia no acredita existencia de stock o disponibilidad comercial. La ficha española advierte no transferir Toujeo U-300 desde la pluma a una jeringa.",
       "perfil_accion_teorico": {
         "inicio": "U-100: aprox. 30–60 minutos (rango general orientativo)",
         "maximo": "Sin pico pronunciado",
@@ -3226,6 +3255,11 @@
         "tipo": "Prevención de errores",
         "titulo": "Glargina U-100 frente a U-300",
         "texto": "Glargina U-100 y U-300 no son presentaciones intercambiables de manera automática: confirmar concentración y dispositivo en la prescripción. No calcular conversiones de volumen ni cambiar la pauta durante la dispensación; solicitar evaluación del QF ante discrepancias."
+      },
+      {
+        "tipo": "Prevención de errores",
+        "titulo": "Toujeo U-300: no usar jeringa para extraer",
+        "texto": "Las plumas Toujeo SoloStar y DoubleStar muestran las unidades en su contador. No extraer insulina U-300 desde sus cartuchos con jeringa. Si la prescripción y el dispositivo no coinciden, solicitar revisión del QF; no efectuar conversiones de volumen ni cambios de pauta."
       }
     ]
   },
@@ -3282,6 +3316,14 @@
       {
         "nombre": "Información de producto y registro sanitario ISP: verificar presentación y prospecto vigente.",
         "url": "https://registrosanitario.ispch.gob.cl/"
+      },
+      {
+        "nombre": "EMA. Tresiba, información de producto: contador de unidades FlexTouch U-100/U-200 y prevención de errores de concentración (referencia europea).",
+        "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tresiba"
+      },
+      {
+        "nombre": "ISP Chile. Tresiba 100 U/mL, registro B-2933/22, ficha de producto; el registro no demuestra disponibilidad comercial.",
+        "url": "https://registrosanitario.ispch.gob.cl/Ficha.aspx?RegistroISP=B-2933%2F22"
       }
     ],
     "revision": "Ficha de trabajo basada en revisión documental; pendiente de cotejo de prospectos vigentes para cada concentración y dispositivo.",
@@ -3405,9 +3447,13 @@
       {
         "nombre": "EMA. Levemir, información de producto en español (documento aportado).",
         "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/levemir"
+      },
+      {
+        "nombre": "EMA. Desabastecimiento/discontinuación de ciertas insulinas Novo Nordisk, incluida Levemir, en mercados europeos antes de fines de 2026; no informa disponibilidad chilena.",
+        "url": "https://www.ema.europa.eu/en/medicines/human/shortages/novonordisk-insulin-human-insulin-various-short-rapid-intermediate-mixed-long-acting-forms"
       }
     ],
-    "revision": "Ficha de trabajo basada en revisión documental; pendiente de cotejo de prospectos vigentes para cada concentración y dispositivo. Nota de actualización (noviembre de 2026): existen comunicaciones de retiro comercial de Levemir en mercados europeos; esto no acredita retiro ni disponibilidad en Chile. Confirmar estado del registro ISP y comercialización local antes de informar disponibilidad.",
+    "revision": "Revisión documental de seguridad (06-11-2026): la EMA informa la discontinuación comercial de determinadas presentaciones de Levemir en los mercados europeos afectados antes de finalizar 2026 por razones comerciales. Esto no permite concluir retiro, falta de registro ni indisponibilidad en Chile; se debe consultar ISP y fuentes locales para cada presentación. No sustituir insulinas desde la PWA.",
     "validacion": "Borrador educativo de apoyo a la dispensación; no indica ajustes posológicos.",
     "dispensacion_rapida": {
       "primera": {
