@@ -2892,8 +2892,7 @@
       "Rotar los puntos de inyección dentro de las zonas indicadas y evitar áreas con bultos o endurecimientos.",
       "Comprobar que el paciente conoce signos de hipoglicemia y dispone de un plan de actuación.",
       "Conservación habitual de presentaciones sin abrir: refrigeración entre 2 y 8 °C, sin congelar; las condiciones tras apertura deben verificarse en el prospecto.",
-      "Verificar integridad del envase, aspecto de la solución y fecha de vencimiento; no utilizar si presenta alteraciones incompatibles con el prospecto.",
-      "En dispositivos Humalog KwikPen de insulina lispro U-200, el contador muestra unidades y no requiere conversión de dosis; nunca extraer la insulina de la pluma con una jeringa ni transferirla a otros dispositivos, por riesgo de sobredosis grave. Confirmar disponibilidad y prospecto de la presentación en Chile; no generalizar esta indicación de U-200 a todas las formulaciones."
+      "Verificar integridad del envase, aspecto de la solución y fecha de vencimiento; no utilizar si presenta alteraciones incompatibles con el prospecto."
     ],
     "dispensacion": "Verificar principio activo, concentración, dispositivo y pauta prescrita. Reforzar la coordinación con las comidas conforme al prospecto de la formulación dispensada, la rotación de sitios y el reconocimiento de hipoglicemia.",
     "marcas": [],
@@ -2934,10 +2933,6 @@
       {
         "nombre": "Tsai Y-Y, Gu Y-S, Jiang Y-D. An update of contemporary insulin therapy. J Diabetes Investig. 2024;15:1000–1002. doi:10.1111/jdi.14212. Tabla 1; los rangos solo se utilizan cuando la insulina está incluida.",
         "url": "https://doi.org/10.1111/jdi.14212"
-      },
-      {
-        "nombre": "AEMPS/CIMA (España). Humalog KwikPen insulina lispro 200 U/mL, ficha técnica, prevención de errores con jeringas; referencia internacional.",
-        "url": "https://cima.aemps.es/cima/dochtml/ft/196007041/FT_196007041.html"
       }
     ],
     "revision": "Borrador v47.5: análogos rápidos por principio activo; revisión profesional pendiente. Rangos numéricos de Tsai et al. solo para asparta y lispro.",
@@ -2968,7 +2963,7 @@
       "fundamento": "Distribución: una vez absorbida, la insulina llega a la circulación y actúa sobre receptores en tejidos diana, promoviendo utilización de glucosa y reduciendo producción hepática. Metabolismo: degradación proteolítica, con participación hepática y renal; no depende del CYP450. Excreción y eliminación: la depuración renal participa en la eliminación y su deterioro puede modificar requerimientos y riesgo de hipoglicemia. La semivida plasmática no equivale a la duración del efecto desde el depósito subcutáneo.",
       "interacciones_especificas": "Sulfonilureas (por ejemplo, gliclazida o glibenclamida) pueden aumentar el riesgo de hipoglicemia con insulina. Betabloqueadores (por ejemplo, propranolol o metoprolol) pueden atenuar manifestaciones adrenérgicas, especialmente taquicardia; la sudoración puede persistir. Revisar además comidas omitidas, alcohol, actividad física y función renal.",
       "evidencia_y_limitaciones": "Los perfiles de acción son orientativos y no sustituyen las especificaciones de cada formulación. El documento de Tsai et al. (2024) incluye rangos para asparta y lispro, pero no para glulisina. SOCHIDIAB y MINSAL aportan contexto de atención chilena; las indicaciones comerciales se cotejan con prospectos.",
-      "detalle_regulatorio": "Verificar rotulado, concentración, dispositivo, integridad y conservación de la presentación dispensada. No asumir equivalencia de horario entre formulaciones del mismo principio activo. FarmaDM2 es un apoyo educativo, no una herramienta autónoma de decisión clínica ni de ajuste de dosis. La ficha técnica española de Humalog KwikPen U-200 advierte sobre sobredosificación grave si se extrae el contenido con jeringa: la ventana de dosis indica unidades sin conversión. Esta advertencia se refiere a ese dispositivo y no confirma su registro o disponibilidad actual en Chile.",
+      "detalle_regulatorio": "Verificar rotulado, concentración, dispositivo, integridad y conservación de la presentación efectivamente dispensada en Chile. No asumir equivalencia de horario entre formulaciones del mismo principio activo. FarmaDM2 es un apoyo educativo, no una herramienta autónoma de decisión clínica ni de ajuste de dosis.",
       "perfil_accion_teorico": {
         "inicio": "5–15 minutos",
         "maximo": "30–90 minutos",
@@ -2997,11 +2992,6 @@
         "tipo": "Conservación",
         "titulo": "Cadena de frío y primer uso",
         "texto": "Antes de abrir, comprobar refrigeración según el producto, sin congelar. Registrar fecha de primer uso y verificar duración y temperatura permitidas en el prospecto de la presentación."
-      },
-      {
-        "tipo": "Prevención de errores",
-        "titulo": "Lispro U-200: no extraer con jeringa",
-        "texto": "En Humalog KwikPen 200 U/mL, utilizar exclusivamente la pluma indicada; no transferir el contenido a jeringas u otros dispositivos ni calcular una conversión de unidades. Comprobar concentración y prescripción antes de dispensar; fuente europea, sin suponer comercialización chilena."
       }
     ]
   },
@@ -3014,7 +3004,7 @@
     "descripcion": "Análogo de insulina prandial de acción rápida utilizado para controlar el incremento de glucosa asociado a las comidas. La información describe el principio activo; el horario específico depende de la formulación y la pauta prescrita.",
     "seguridad": [
       "Confirmar que se trata de un análogo prandial rápido; no confundir con insulinas basales ni sustituir automáticamente entre insulinas o formulaciones.",
-      "Reforzar el momento de administración respecto de la comida según prescripción y prospecto: puede variar entre formulaciones.",
+      "Reforzar el horario prescrito respecto de la comida. Para Apidra, el folleto profesional chileno indica administración subcutánea dentro de los 15 minutos anteriores al inicio de la comida o inmediatamente después de que esta comienza; no interpretarlo como cualquier momento después de comer.",
       "Rotar los puntos de inyección dentro de las zonas indicadas y evitar áreas con bultos o endurecimientos.",
       "Comprobar que el paciente conoce signos de hipoglicemia y dispone de un plan de actuación.",
       "Conservación habitual de presentaciones sin abrir: refrigeración entre 2 y 8 °C, sin congelar; las condiciones tras apertura deben verificarse en el prospecto.",
@@ -3066,14 +3056,15 @@
         "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/apidra"
       },
       {
-        "nombre": "ISP Chile. Apidra 100 UI/mL (insulina glulisina), folleto de información al profesional aprobado en 2013, registro B-1825/09, referencia MT420193/13. Documento histórico aportado; comprobar rotulado vigente."
+        "nombre": "ISP Chile. Apidra 100 UI/mL (insulina glulisina), folleto de información al profesional aprobado en 2013; Reg. B-1825/09, Ref. MT420193/13. Horario respecto al inicio de las comidas; confirmar prospecto vigente.",
+        "url": "https://www.ispch.cl/sites/default/files/apidra_100ui_ml.pdf"
       }
     ],
     "revision": "Cotejo documental EMA + folleto ISP Chile 2013. Borrador sujeto a verificación del rotulado chileno vigente y validación farmacoterapéutica.",
     "validacion": "Ficha educativa en revisión; los horarios exactos, las condiciones tras apertura y los dispositivos requieren cotejo del prospecto.",
     "dispensacion_rapida": {
       "primera": {
-        "consejo": "Confirme el dispositivo, la concentración y la pauta prescrita. Explique que esta insulina se utiliza para cubrir las comidas; verifique con el prospecto el momento de administración de la formulación entregada. Enseñe rotación de puntos, monitoreo indicado y signos de hipoglicemia. En Apidra, la ficha técnica EMA describe administración subcutánea dentro de los 0–15 minutos antes o poco después de comer; no extrapolar este intervalo a otras formulaciones y confirmar siempre la indicación prescrita.",
+        "consejo": "Confirme dispositivo, concentración y horario prescritos. Explique que esta insulina se relaciona con las comidas. Para Apidra, el folleto profesional chileno describe la administración subcutánea dentro de los 15 minutos antes de comenzar a comer o inmediatamente después del inicio de la comida. Antes de orientar sobre una inyección previa a la comida, compruebe que la ingesta está efectivamente próxima. Si la comida se retrasa o existe incertidumbre, reforzar el plan indicado por el equipo tratante o consultar; no improvisar cambios. Reforzar rotación de puntos, monitoreo indicado y signos de hipoglicemia.",
         "pregunta": "¿Le explicaron cuándo aplicarla en relación con la comida y qué hacer si se retrasa o no puede comer?",
         "almacenamiento": "Sin abrir, refrigeración habitual entre 2 y 8 °C, sin congelar; verificar instrucciones del producto.",
         "accion": "Confirmar medicamento, concentración, dispositivo y pauta prescrita; demostrar la técnica de administración con material apropiado y verificar comprensión del horario respecto de las comidas. Derivar al QF ante dudas sobre el dispositivo, la pauta prescrita o la técnica de administración."
@@ -3087,7 +3078,7 @@
     },
     "guia_meson": {
       "preguntas": "¿En qué momento respecto de las comidas le indicaron inyectarse? ¿Qué hace si se retrasa la comida? ¿Ha tenido temblores, sudor frío, hambre intensa o confusión? ¿Rota los puntos de inyección?",
-      "explicacion": "«Esta insulina está destinada a cubrir la subida de glucosa relacionada con las comidas. Respete el horario y la dosis indicados; el momento exacto de inyección debe confirmarse para su presentación. Si no puede comer como estaba previsto, siga el plan indicado por su equipo de salud y consulte si tiene dudas. Rote los puntos de inyección para prevenir bultos que pueden alterar la absorción. Sudoración, temblor, palpitaciones, hambre repentina o confusión pueden ser signos de hipoglicemia».",
+      "explicacion": "«Esta insulina ayuda a controlar la glucosa asociada a las comidas. Respete el horario y la dosis indicados por su médico. Para Apidra, el folleto chileno describe su uso dentro de los 15 minutos anteriores al inicio de una comida o inmediatamente después de comenzar a comer; no significa que pueda aplicarse en cualquier momento después de terminar. Antes de administrarla, confirme que la comida está próxima según su pauta. Si se retrasa o no puede comer como estaba previsto, siga el plan indicado por su equipo de salud y consulte si tiene dudas. Rote los puntos de inyección y esté atento a los síntomas de hipoglicemia».",
       "alertas": "Si la persona está consciente y puede tragar, seguir el protocolo de hipoglicemia indicado por su equipo: MINSAL describe 15 g de carbohidratos de absorción rápida y nueva medición a los 15 minutos, repitiendo si persiste la baja. Si no puede tragar, convulsiona o pierde la conciencia: urgencia; no administrar alimentos ni líquidos por boca. Derivar al QF ante dudas sobre el dispositivo, la pauta prescrita o la técnica de administración."
     },
     "posicionamiento": "En DM2, la insulina prandial puede incorporarse cuando se requiere controlar la hiperglicemia asociada a las comidas, según evaluación individual y esquema basal existente. Los análogos rápidos presentan un comienzo de acción más próximo a la ingesta que la insulina humana regular; esto puede facilitar la coordinación con las comidas, pero no elimina el riesgo de hipoglicemia ni permite modificar por cuenta propia el horario.",
@@ -3097,7 +3088,7 @@
       "fundamento": "Distribución: unión baja a proteínas plasmáticas; tras administración intravenosa se describe un volumen de distribución de 13 L para glulisina en comparación con 22 L para regular. Metabolismo: degradación proteolítica de insulina, con participación hepática y renal; no depende de CYP450. Excreción y eliminación: tras administración intravenosa se informó una semivida de 13 minutos y, tras administración subcutánea, una semivida aparente de 42 minutos; ninguna de ellas equivale a la duración del efecto hipoglicemiante. La función renal alterada puede disminuir los requerimientos de insulina.",
       "interacciones_especificas": "Sulfonilureas (por ejemplo, gliclazida o glibenclamida) pueden aumentar el riesgo de hipoglicemia con insulina. Betabloqueadores (por ejemplo, propranolol o metoprolol) pueden atenuar manifestaciones adrenérgicas, especialmente taquicardia; la sudoración puede persistir. Revisar además comidas omitidas, alcohol, actividad física y función renal. La ficha técnica EMA también advierte que corticoides pueden reducir el efecto hipoglicemiante y que la combinación con pioglitazona exige atención a edema y síntomas de insuficiencia cardíaca. El folleto ISP chileno de 2013 también menciona corticoides, salbutamol y olanzapina como ejemplos que pueden reducir el efecto hipoglicemiante; el efecto neto requiere evaluación y seguimiento glucémico, no ajustes autónomos desde la PWA.",
       "evidencia_y_limitaciones": "El inicio de 10–20 minutos proviene de la ficha técnica europea de un producto con glulisina; no es una especificación universal para todas las presentaciones. El artículo de Tsai et al. (2024) no incluye glulisina en su tabla de perfiles. La EMA describe absorción más rápida y menor duración que regular, pero no fija rangos generales de pico y duración. Los horarios, estabilidad y dispositivos se cotejan con el prospecto del producto dispensado. El folleto ISP de 2013 es concordante en absorción y advertencias generales, pero se utiliza como contraste histórico chileno y no como única fuente para instrucciones actuales.",
-      "detalle_regulatorio": "Como información específica de Apidra en la ficha técnica EMA, los envases sin abrir se conservan a 2–8 °C, sin congelar; después del primer uso se indica un máximo de 4 semanas por debajo de 25 °C. Estos valores NO deben extrapolarse automáticamente a otros productos de glulisina. Verificar rotulado, concentración, dispositivo, fecha de apertura y prospecto. La PWA no sustituye evaluación clínica ni autoriza ajustes de dosis. El folleto de información al profesional aprobado por ISP en 2013 constituye un antecedente regulatorio nacional, pero no confirma por sí solo las condiciones vigentes de comercialización ni reemplaza el prospecto actualizado de la presentación entregada.",
+      "detalle_regulatorio": "Horario de Apidra: el folleto profesional aprobado por ISP en 2013 (Reg. B-1825/09, Ref. MT420193/13) describe administración subcutánea dentro de los 15 minutos anteriores al inicio de una comida o inmediatamente después de que esta comienza, siempre según pauta individual. No extrapolar el horario a otras insulinas ni indicar ajustes desde la PWA. Como referencia internacional específica de Apidra, la ficha técnica EMA indica conservación de envases sin abrir a 2–8 °C, sin congelar, y tras el primer uso un máximo de 4 semanas por debajo de 25 °C. Comprobar siempre el rotulado, concentración, dispositivo, conservación y prospecto chileno vigentes de la presentación entregada; el folleto ISP 2013 es un antecedente nacional histórico, no prueba por sí solo vigencia o comercialización.",
       "perfil_accion_teorico": {
         "inicio": "10–20 minutos (referencia del producto estudiado)",
         "maximo": "No establecido como rango general en esta ficha técnica",
@@ -3115,7 +3106,7 @@
       {
         "tipo": "Adherencia",
         "titulo": "Coordinación con comidas",
-        "texto": "Confirmar que la persona conoce el horario prescrito respecto de las comidas y dispone de un plan indicado para retrasos u omisiones. No modificar dosis ni horarios desde la PWA."
+        "texto": "Confirmar que la persona comprende el horario prescrito respecto del inicio de las comidas y el plan para retrasos u omisiones. En Apidra, el folleto profesional ISP indica administración dentro de los 15 minutos previos al comienzo de la comida o inmediatamente después del inicio. No se debe interpretar como administración a cualquier hora después de comer ni modificar dosis u horarios desde la PWA."
       },
       {
         "tipo": "Dispositivo",
@@ -3197,7 +3188,7 @@
     "validacion": "Borrador educativo de apoyo a la dispensación; no indica ajustes posológicos.",
     "dispensacion_rapida": {
       "primera": {
-        "consejo": "Explique la función basal de esta insulina, confirme horario y pauta prescritos y compruebe que el paciente identifica correctamente el dispositivo y la concentración. Demuestre técnica y rotación de sitios, y revise conservación y signos de hipoglicemia.",
+        "consejo": "Explique la función basal de esta insulina, confirme horario y pauta prescritos y compruebe que el paciente identifica correctamente el dispositivo y la concentración. Refuerce la técnica de administración y la rotación de sitios indicadas por su equipo de salud, y revise conservación y signos de hipoglicemia.",
         "pregunta": "¿Le mostraron cómo utilizar este dispositivo y en qué horario debe administrarlo?",
         "almacenamiento": "Antes de abrir, habitualmente entre 2 y 8 °C y sin congelar; verificar el prospecto. Tras apertura, el plazo y la temperatura dependen de la presentación.",
         "accion": "Comprobar medicamento, concentración, dispositivo y pauta prescrita; reforzar técnica, horario y adherencia. Derivar al QF ante dudas sobre el dispositivo, la pauta prescrita o la técnica de administración."
@@ -3269,14 +3260,13 @@
     "familia": "Análogo de insulina basal de acción ultralarga",
     "via": "Subcutánea",
     "estado": "Borrador documental · requiere cotejo de fichas técnicas vigentes",
-    "descripcion": "Análogo basal ultralargo. Existen presentaciones U-100 y U-200; la concentración y el dispositivo deben verificarse sin convertir manualmente unidades de la pluma.",
+    "descripcion": "Análogo basal ultralargo. Para la dispensación en Chile se debe identificar la concentración, el dispositivo y el rotulado de la presentación prescrita; la ficha ISP citada corresponde a Tresiba 100 U/mL.",
     "seguridad": [
       "Confirmar principio activo, concentración, dispositivo y pauta prescrita; las concentraciones no deben intercambiarse automáticamente.",
       "No confundir insulina basal con insulina prandial: no se utiliza como corrección improvisada de una comida.",
       "Rotar los sitios de inyección; evitar zonas con lipohipertrofia o endurecimientos, que alteran la absorción.",
       "Reconocer síntomas de hipoglicemia; ante compromiso de conciencia o imposibilidad de tragar, solicitar atención urgente y no dar nada por boca.",
-      "Verificar apariencia, integridad, fecha de vencimiento y conservación según prospecto de la presentación dispensada.",
-      "En Tresiba FlexTouch U-200 el contador de dosis indica directamente las unidades de insulina; no convertir manualmente unidades a volumen ni extraer insulina de la pluma con jeringa. La presentación U-200 permite seleccionar dosis en incrementos de 2 unidades. Confirmar el dispositivo y la concentración antes de dispensar."
+      "Verificar apariencia, integridad, fecha de vencimiento y conservación según prospecto de la presentación dispensada."
     ],
     "dispensacion": "Verificar prescripción, principio activo, concentración y dispositivo. Reforzar horario indicado, técnica, rotación, conservación y adherencia, sin modificar dosis.",
     "marcas": [],
@@ -3318,7 +3308,7 @@
         "url": "https://registrosanitario.ispch.gob.cl/"
       },
       {
-        "nombre": "EMA. Tresiba, información de producto: contador de unidades FlexTouch U-100/U-200 y prevención de errores de concentración (referencia europea).",
+        "nombre": "EMA. Tresiba (insulina degludec), información farmacoterapéutica general, referencia internacional; para dispensación local priorizar prospecto y registro ISP de la presentación U-100.",
         "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tresiba"
       },
       {
@@ -3354,7 +3344,7 @@
       "fundamento": "Distribución: tras la absorción sistémica, la insulina se distribuye a tejidos diana y se une al receptor de insulina. Metabolismo: degradación proteolítica, principalmente hepática y renal, sin participación relevante de CYP450. Excreción/eliminación: la depuración de insulina depende, entre otros factores, de la función renal y hepática; el deterioro renal puede disminuir requerimientos y aumentar el riesgo de hipoglicemia.",
       "interacciones_especificas": "Las sulfonilureas pueden incrementar el riesgo de hipoglicemia; los betabloqueadores pueden atenuar signos adrenérgicos de aviso; los corticoides y ciertos simpaticomiméticos pueden elevar la glucemia. La PWA orienta la identificación de riesgos, no la modificación de dosis.",
       "evidencia_y_limitaciones": "Los rangos son orientativos y no sustituyen los datos de cada formulación. Los datos farmacodinámicos son orientativos y no constituyen instrucciones de titulación. La información debe contrastarse con rotulado vigente del ISP y la prescripción.",
-      "detalle_regulatorio": "Las presentaciones U-100 y U-200 (p. ej., Tresiba) tienen dispositivos específicos; la pluma muestra unidades de dosis y no deben realizarse conversiones manuales sin indicación del fabricante. Comprobar prospecto vigente.",
+      "detalle_regulatorio": "La ficha de registro ISP citada para Chile corresponde a Tresiba solución inyectable 100 U/mL (B-2933/22). Verificar que el nombre, concentración y dispositivo coincidan con la prescripción y el rotulado vigente de la presentación entregada. No realizar conversiones manuales de unidades ni modificar dosis desde FarmaDM2; ante discrepancias, consultar al QF y al equipo tratante.",
       "perfil_accion_teorico": {
         "inicio": "Aproximadamente 30–90 minutos (orientativo)",
         "maximo": "Sin pico pronunciado",
@@ -3383,11 +3373,6 @@
         "tipo": "Conservación",
         "titulo": "Prospecto específico",
         "texto": "Comprobar fecha de apertura, temperatura y plazo de uso de la presentación efectivamente dispensada."
-      },
-      {
-        "tipo": "Prevención de errores",
-        "titulo": "Degludec U-200: contador de unidades",
-        "texto": "En Tresiba FlexTouch U-200 el contador de dosis indica directamente las unidades de insulina; no convertir manualmente unidades a volumen ni extraer insulina de la pluma con jeringa. La presentación U-200 permite seleccionar dosis en incrementos de 2 unidades. Confirmar el dispositivo y la concentración antes de dispensar."
       }
     ]
   },
@@ -3447,13 +3432,9 @@
       {
         "nombre": "EMA. Levemir, información de producto en español (documento aportado).",
         "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/levemir"
-      },
-      {
-        "nombre": "EMA. Desabastecimiento/discontinuación de ciertas insulinas Novo Nordisk, incluida Levemir, en mercados europeos antes de fines de 2026; no informa disponibilidad chilena.",
-        "url": "https://www.ema.europa.eu/en/medicines/human/shortages/novonordisk-insulin-human-insulin-various-short-rapid-intermediate-mixed-long-acting-forms"
       }
     ],
-    "revision": "Revisión documental de seguridad (06-11-2026): la EMA informa la discontinuación comercial de determinadas presentaciones de Levemir en los mercados europeos afectados antes de finalizar 2026 por razones comerciales. Esto no permite concluir retiro, falta de registro ni indisponibilidad en Chile; se debe consultar ISP y fuentes locales para cada presentación. No sustituir insulinas desde la PWA.",
+    "revision": "Revisión documental de seguridad (06-11-2026): se conservan las precauciones de identificación, técnica, hipoglicemia y conservación de detemir; pendiente cotejo con el prospecto chileno vigente y validación farmacoterapéutica. No sustituir insulinas desde la PWA.",
     "validacion": "Borrador educativo de apoyo a la dispensación; no indica ajustes posológicos.",
     "dispensacion_rapida": {
       "primera": {
