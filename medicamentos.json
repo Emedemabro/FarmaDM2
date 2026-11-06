@@ -454,7 +454,7 @@
       "El período de uso y la temperatura permitida después de la primera utilización no son universales: cotejar el prospecto del fabricante.",
       "Si el paciente refiere bultos, zonas endurecidas o variaciones inexplicadas de glicemia, revisar rotación y técnica de inyección; evitar inyectar en áreas alteradas y derivar para evaluación."
     ],
-    "dispensacion": "Confirmar nombre, concentración, suspensión y dispositivo. Demostrar o verificar la resuspensión conforme al folleto del producto. Comprobar conservación y capacidad del paciente para reconocer hipoglicemia.",
+    "dispensacion": "Confirmar nombre, concentración, suspensión y dispositivo. Verificar la comprensión de la resuspensión según el folleto y reforzar la técnica; si la persona no ha recibido capacitación o tiene dudas, derivar al QF o a personal capacitado para instrucción inicial. Comprobar conservación y capacidad para reconocer hipoglicemia.",
     "marcas": [],
     "mecanismo": "Insulina exógena que favorece la captación periférica de glucosa y disminuye la producción hepática. La protamina retrasa su absorción subcutánea.",
     "reacciones": [
@@ -482,10 +482,12 @@
     ],
     "fuentes": [
       {
-        "nombre": "MINSAL Chile, Protocolo de insulinización para personas con diabetes mellitus tipo 2 (documento aportado)"
+        "nombre": "Ministerio de Salud de Chile. Protocolo de insulinización para personas con diabetes mellitus tipo 2 (2021; protocolo orientativo, no certifica disponibilidad de productos).",
+        "url": "https://redcronicas.minsal.cl/wp-content/uploads/2021/04/PROTOCOLO-INSULINIZACION-final.pdf"
       },
       {
-        "nombre": "SOCHIDIAB, Consenso chileno sobre manejo de diabetes mellitus tipo 2 (documento aportado)"
+        "nombre": "SOCHIDIAB. Consenso de la Sociedad Chilena de Diabetología para el enfrentamiento integral del paciente con diabetes mellitus tipo 2 (agosto de 2022).",
+        "url": "https://sochidiab.cl/wp-content/uploads/2022/08/consenso-ok.pdf"
       },
       {
         "nombre": "UpToDate, Insulin NPH: Drug information (monografía aportada)"
@@ -495,7 +497,8 @@
         "url": "https://doi.org/10.1111/jdi.14212"
       },
       {
-        "nombre": "MINSAL Chile, Protocolo de insulinización para personas con DM2, secciones 3.10.2 (manejo de hipoglicemias) y 3.10.3 (lipodistrofia); documento aportado."
+        "nombre": "Ministerio de Salud de Chile. Protocolo de insulinización para personas con diabetes mellitus tipo 2 (2021; protocolo orientativo, no certifica disponibilidad de productos). Secciones 3.10.2 y 3.10.3.",
+        "url": "https://redcronicas.minsal.cl/wp-content/uploads/2021/04/PROTOCOLO-INSULINIZACION-final.pdf"
       }
     ],
     "revision": "Revisión editorial y documental v47.4: perfil de acción respaldado por Tsai et al. (2024), educación de hipoglicemia cotejada con protocolo MINSAL y precauciones específicas por producto pendientes de prospecto. Revisión profesional final recomendada antes de publicación clínica.",
@@ -2695,10 +2698,12 @@
     ],
     "fuentes": [
       {
-        "nombre": "MINSAL Chile, Protocolo de insulinización para personas con diabetes mellitus tipo 2 (documento aportado)"
+        "nombre": "Ministerio de Salud de Chile. Protocolo de insulinización para personas con diabetes mellitus tipo 2 (2021; protocolo orientativo, no certifica disponibilidad de productos).",
+        "url": "https://redcronicas.minsal.cl/wp-content/uploads/2021/04/PROTOCOLO-INSULINIZACION-final.pdf"
       },
       {
-        "nombre": "SOCHIDIAB, Consenso chileno sobre manejo de diabetes mellitus tipo 2 (documento aportado)"
+        "nombre": "SOCHIDIAB. Consenso de la Sociedad Chilena de Diabetología para el enfrentamiento integral del paciente con diabetes mellitus tipo 2 (agosto de 2022).",
+        "url": "https://sochidiab.cl/wp-content/uploads/2022/08/consenso-ok.pdf"
       },
       {
         "nombre": "UpToDate, Insulin regular: Drug information (monografía aportada)"
@@ -2711,7 +2716,8 @@
         "url": "https://doi.org/10.1111/jdi.14212"
       },
       {
-        "nombre": "MINSAL Chile, Protocolo de insulinización para personas con DM2, secciones 3.10.2 (manejo de hipoglicemias) y 3.10.3 (lipodistrofia); documento aportado."
+        "nombre": "Ministerio de Salud de Chile. Protocolo de insulinización para personas con diabetes mellitus tipo 2 (2021; protocolo orientativo, no certifica disponibilidad de productos). Secciones 3.10.2 y 3.10.3.",
+        "url": "https://redcronicas.minsal.cl/wp-content/uploads/2021/04/PROTOCOLO-INSULINIZACION-final.pdf"
       }
     ],
     "revision": "Revisión editorial y documental v47.4: perfil de acción respaldado por Tsai et al. (2024), educación de hipoglicemia cotejada con protocolo MINSAL y precauciones específicas por producto pendientes de prospecto. Revisión profesional final recomendada antes de publicación clínica.",
@@ -2797,10 +2803,12 @@
         "nombre": "UpToDate, Insulin aspart: Drug information (documento aportado)"
       },
       {
-        "nombre": "MINSAL Chile, Protocolo de insulinización para personas con DM2 (documento aportado)"
+        "nombre": "Ministerio de Salud de Chile. Protocolo de insulinización para personas con diabetes mellitus tipo 2 (2021; protocolo orientativo, no certifica disponibilidad de productos).",
+        "url": "https://redcronicas.minsal.cl/wp-content/uploads/2021/04/PROTOCOLO-INSULINIZACION-final.pdf"
       },
       {
-        "nombre": "SOCHIDIAB, Consenso chileno de manejo de DM2 (documento aportado)"
+        "nombre": "SOCHIDIAB. Consenso de la Sociedad Chilena de Diabetología para el enfrentamiento integral del paciente con diabetes mellitus tipo 2 (agosto de 2022).",
+        "url": "https://sochidiab.cl/wp-content/uploads/2022/08/consenso-ok.pdf"
       },
       {
         "nombre": "Tsai Y-Y, Gu Y-S, Jiang Y-D. An update of contemporary insulin therapy. J Diabetes Investig. 2024;15:1000–1002. doi:10.1111/jdi.14212. Tabla 1; los rangos solo se utilizan cuando la insulina está incluida.",
@@ -2818,10 +2826,10 @@
     "validacion": "Ficha educativa en revisión; los horarios exactos, las condiciones tras apertura y los dispositivos requieren cotejo del prospecto.",
     "dispensacion_rapida": {
       "primera": {
-        "consejo": "Confirme el dispositivo, la concentración y la pauta prescrita. Explique que esta insulina se utiliza para cubrir las comidas; verifique con el prospecto el momento de administración de la formulación entregada. Enseñe rotación de puntos, monitoreo indicado y signos de hipoglicemia.",
+        "consejo": "Confirme el dispositivo, la concentración y la pauta prescrita. Explique que esta insulina se utiliza para cubrir las comidas; verifique con el prospecto el momento de administración de la formulación entregada. Refuerce la rotación de sitios de inyección, el monitoreo indicado y el reconocimiento de hipoglicemia; si falta entrenamiento inicial, derivar a personal capacitado.",
         "pregunta": "¿Le explicaron cuándo aplicarla en relación con la comida y qué hacer si se retrasa o no puede comer?",
         "almacenamiento": "Sin abrir, refrigeración habitual entre 2 y 8 °C, sin congelar; verificar instrucciones del producto.",
-        "accion": "Confirmar medicamento, concentración, dispositivo y pauta prescrita; demostrar la técnica de administración con material apropiado y verificar comprensión del horario respecto de las comidas. Derivar al QF ante dudas sobre el dispositivo, la pauta prescrita o la técnica de administración."
+        "accion": "Confirmar medicamento, concentración, dispositivo y pauta prescrita. Verificar la comprensión de la técnica de administración y del horario respecto de las comidas; reforzar las instrucciones del dispositivo. Si no recibió entrenamiento o hay dudas, derivar al QF o personal capacitado para instrucción inicial."
       },
       "habitual": {
         "consejo": "Pregunte por horarios, comidas omitidas o retrasadas, episodios de hipoglicemia, dificultades con el dispositivo y bultos en sitios de inyección. Verifique fecha de apertura y conservación conforme al prospecto.",
@@ -2925,10 +2933,12 @@
         "nombre": "UpToDate, Insulin lispro: Drug information (documento aportado)"
       },
       {
-        "nombre": "MINSAL Chile, Protocolo de insulinización para personas con DM2 (documento aportado)"
+        "nombre": "Ministerio de Salud de Chile. Protocolo de insulinización para personas con diabetes mellitus tipo 2 (2021; protocolo orientativo, no certifica disponibilidad de productos).",
+        "url": "https://redcronicas.minsal.cl/wp-content/uploads/2021/04/PROTOCOLO-INSULINIZACION-final.pdf"
       },
       {
-        "nombre": "SOCHIDIAB, Consenso chileno de manejo de DM2 (documento aportado)"
+        "nombre": "SOCHIDIAB. Consenso de la Sociedad Chilena de Diabetología para el enfrentamiento integral del paciente con diabetes mellitus tipo 2 (agosto de 2022).",
+        "url": "https://sochidiab.cl/wp-content/uploads/2022/08/consenso-ok.pdf"
       },
       {
         "nombre": "Tsai Y-Y, Gu Y-S, Jiang Y-D. An update of contemporary insulin therapy. J Diabetes Investig. 2024;15:1000–1002. doi:10.1111/jdi.14212. Tabla 1; los rangos solo se utilizan cuando la insulina está incluida.",
@@ -2939,10 +2949,10 @@
     "validacion": "Ficha educativa en revisión; los horarios exactos, las condiciones tras apertura y los dispositivos requieren cotejo del prospecto.",
     "dispensacion_rapida": {
       "primera": {
-        "consejo": "Confirme el dispositivo, la concentración y la pauta prescrita. Explique que esta insulina se utiliza para cubrir las comidas; verifique con el prospecto el momento de administración de la formulación entregada. Enseñe rotación de puntos, monitoreo indicado y signos de hipoglicemia.",
+        "consejo": "Confirme el dispositivo, la concentración y la pauta prescrita. Explique que esta insulina se utiliza para cubrir las comidas; verifique con el prospecto el momento de administración de la formulación entregada. Refuerce la rotación de sitios de inyección, el monitoreo indicado y el reconocimiento de hipoglicemia; si falta entrenamiento inicial, derivar a personal capacitado.",
         "pregunta": "¿Le explicaron cuándo aplicarla en relación con la comida y qué hacer si se retrasa o no puede comer?",
         "almacenamiento": "Sin abrir, refrigeración habitual entre 2 y 8 °C, sin congelar; verificar instrucciones del producto.",
-        "accion": "Confirmar medicamento, concentración, dispositivo y pauta prescrita; demostrar la técnica de administración con material apropiado y verificar comprensión del horario respecto de las comidas. Derivar al QF ante dudas sobre el dispositivo, la pauta prescrita o la técnica de administración."
+        "accion": "Confirmar medicamento, concentración, dispositivo y pauta prescrita. Verificar la comprensión de la técnica de administración y del horario respecto de las comidas; reforzar las instrucciones del dispositivo. Si no recibió entrenamiento o hay dudas, derivar al QF o personal capacitado para instrucción inicial."
       },
       "habitual": {
         "consejo": "Pregunte por horarios, comidas omitidas o retrasadas, episodios de hipoglicemia, dificultades con el dispositivo y bultos en sitios de inyección. Verifique fecha de apertura y conservación conforme al prospecto.",
@@ -3042,10 +3052,12 @@
         "nombre": "UpToDate, Insulin glulisine: Drug information (documento aportado)"
       },
       {
-        "nombre": "MINSAL Chile, Protocolo de insulinización para personas con DM2 (documento aportado)"
+        "nombre": "Ministerio de Salud de Chile. Protocolo de insulinización para personas con diabetes mellitus tipo 2 (2021; protocolo orientativo, no certifica disponibilidad de productos).",
+        "url": "https://redcronicas.minsal.cl/wp-content/uploads/2021/04/PROTOCOLO-INSULINIZACION-final.pdf"
       },
       {
-        "nombre": "SOCHIDIAB, Consenso chileno de manejo de DM2 (documento aportado)"
+        "nombre": "SOCHIDIAB. Consenso de la Sociedad Chilena de Diabetología para el enfrentamiento integral del paciente con diabetes mellitus tipo 2 (agosto de 2022).",
+        "url": "https://sochidiab.cl/wp-content/uploads/2022/08/consenso-ok.pdf"
       },
       {
         "nombre": "Tsai Y-Y, Gu Y-S, Jiang Y-D. An update of contemporary insulin therapy. J Diabetes Investig. 2024;15:1000–1002. doi:10.1111/jdi.14212. Tabla 1; los rangos solo se utilizan cuando la insulina está incluida.",
@@ -3067,7 +3079,7 @@
         "consejo": "Confirme dispositivo, concentración y horario prescritos. Explique que esta insulina se relaciona con las comidas. Para Apidra, el folleto profesional chileno describe la administración subcutánea dentro de los 15 minutos antes de comenzar a comer o inmediatamente después del inicio de la comida. Antes de orientar sobre una inyección previa a la comida, compruebe que la ingesta está efectivamente próxima. Si la comida se retrasa o existe incertidumbre, reforzar el plan indicado por el equipo tratante o consultar; no improvisar cambios. Reforzar rotación de puntos, monitoreo indicado y signos de hipoglicemia.",
         "pregunta": "¿Le explicaron cuándo aplicarla en relación con la comida y qué hacer si se retrasa o no puede comer?",
         "almacenamiento": "Sin abrir, refrigeración habitual entre 2 y 8 °C, sin congelar; verificar instrucciones del producto.",
-        "accion": "Confirmar medicamento, concentración, dispositivo y pauta prescrita; demostrar la técnica de administración con material apropiado y verificar comprensión del horario respecto de las comidas. Derivar al QF ante dudas sobre el dispositivo, la pauta prescrita o la técnica de administración."
+        "accion": "Confirmar medicamento, concentración, dispositivo y pauta prescrita. Verificar la comprensión de la técnica de administración y del horario respecto de las comidas; reforzar las instrucciones del dispositivo. Si no recibió entrenamiento o hay dudas, derivar al QF o personal capacitado para instrucción inicial."
       },
       "habitual": {
         "consejo": "Pregunte por horarios, comidas omitidas o retrasadas, episodios de hipoglicemia, dificultades con el dispositivo y bultos en sitios de inyección. Verifique fecha de apertura y conservación conforme al prospecto.",
@@ -3169,7 +3181,8 @@
         "url": "https://doi.org/10.1111/jdi.14212"
       },
       {
-        "nombre": "MINSAL Chile. Protocolo de insulinización para personas con DM2 (documento aportado)."
+        "nombre": "Ministerio de Salud de Chile. Protocolo de insulinización para personas con diabetes mellitus tipo 2 (2021; protocolo orientativo, no certifica disponibilidad de productos).",
+        "url": "https://redcronicas.minsal.cl/wp-content/uploads/2021/04/PROTOCOLO-INSULINIZACION-final.pdf"
       },
       {
         "nombre": "Información de producto y registro sanitario ISP: verificar presentación y prospecto vigente.",
@@ -3203,7 +3216,7 @@
     "guia_meson": {
       "preguntas": "¿Cuál es el nombre y concentración de su insulina? ¿A qué hora se la indicaron? ¿Sabe cómo preparar y utilizar su pluma? ¿Rota los sitios de inyección?",
       "explicacion": "«Esta insulina proporciona una cobertura basal de glucosa durante el día y/o la noche. No reemplaza automáticamente a la insulina utilizada para las comidas. Respete el horario y dosis prescritos, revise la etiqueta antes de usarla y rote los sitios de inyección».",
-      "alertas": "Ante confusión de producto o concentración, detener la aclaración de la dispensación y solicitar evaluación del QF. Ante signos graves de hipoglicemia, activar atención urgente; no administrar alimentos ni líquidos por boca."
+      "alertas": "Si existe una discrepancia entre la prescripción y el nombre, la concentración, el dispositivo o la pauta, no completar la entrega de la insulina involucrada hasta aclararla con el químico farmacéutico. No sustituir insulinas ni modificar la dosis por cuenta propia. Ante convulsiones, pérdida de conciencia o incapacidad para tragar, solicitar atención urgente y no administrar alimentos ni líquidos por boca."
     },
     "posicionamiento": "En DM2, la insulina basal se utiliza para cubrir necesidades de insulina entre comidas y durante la noche, principalmente sobre la producción hepática de glucosa. Su incorporación o elección depende de evaluación médica individual, objetivos glucémicos y esquema farmacoterapéutico.",
     "ampliada_qf": {
@@ -3301,7 +3314,8 @@
         "url": "https://doi.org/10.1111/jdi.14212"
       },
       {
-        "nombre": "MINSAL Chile. Protocolo de insulinización para personas con DM2 (documento aportado)."
+        "nombre": "Ministerio de Salud de Chile. Protocolo de insulinización para personas con diabetes mellitus tipo 2 (2021; protocolo orientativo, no certifica disponibilidad de productos).",
+        "url": "https://redcronicas.minsal.cl/wp-content/uploads/2021/04/PROTOCOLO-INSULINIZACION-final.pdf"
       },
       {
         "nombre": "Información de producto y registro sanitario ISP: verificar presentación y prospecto vigente.",
@@ -3320,7 +3334,7 @@
     "validacion": "Borrador educativo de apoyo a la dispensación; no indica ajustes posológicos.",
     "dispensacion_rapida": {
       "primera": {
-        "consejo": "Explique la función basal de esta insulina, confirme horario y pauta prescritos y compruebe que el paciente identifica correctamente el dispositivo y la concentración. Demuestre técnica y rotación de sitios, y revise conservación y signos de hipoglicemia.",
+        "consejo": "Explique la función basal de esta insulina, confirme horario y pauta prescritos y compruebe que el paciente identifica correctamente el dispositivo y la concentración. Verifique y refuerce la técnica y la rotación de sitios conforme al entrenamiento recibido; si no hay instrucción inicial, gestione apoyo del QF o personal capacitado, y revise conservación y signos de hipoglicemia.",
         "pregunta": "¿Le mostraron cómo utilizar este dispositivo y en qué horario debe administrarlo?",
         "almacenamiento": "Antes de abrir, habitualmente entre 2 y 8 °C y sin congelar; verificar el prospecto. Tras apertura, el plazo y la temperatura dependen de la presentación.",
         "accion": "Comprobar medicamento, concentración, dispositivo y pauta prescrita; reforzar técnica, horario y adherencia. Derivar al QF ante dudas sobre el dispositivo, la pauta prescrita o la técnica de administración."
@@ -3335,7 +3349,7 @@
     "guia_meson": {
       "preguntas": "¿Cuál es el nombre y concentración de su insulina? ¿A qué hora se la indicaron? ¿Sabe cómo preparar y utilizar su pluma? ¿Rota los sitios de inyección?",
       "explicacion": "«Esta insulina proporciona una cobertura basal de glucosa durante el día y/o la noche. No reemplaza automáticamente a la insulina utilizada para las comidas. Respete el horario y dosis prescritos, revise la etiqueta antes de usarla y rote los sitios de inyección».",
-      "alertas": "Ante confusión de producto o concentración, detener la aclaración de la dispensación y solicitar evaluación del QF. Ante signos graves de hipoglicemia, activar atención urgente; no administrar alimentos ni líquidos por boca."
+      "alertas": "Si existe una discrepancia entre la prescripción y el nombre, la concentración, el dispositivo o la pauta, no completar la entrega de la insulina involucrada hasta aclararla con el químico farmacéutico. No sustituir insulinas ni modificar la dosis por cuenta propia. Ante convulsiones, pérdida de conciencia o incapacidad para tragar, solicitar atención urgente y no administrar alimentos ni líquidos por boca."
     },
     "posicionamiento": "En DM2, la insulina basal se utiliza para cubrir necesidades de insulina entre comidas y durante la noche, principalmente sobre la producción hepática de glucosa. Su incorporación o elección depende de evaluación médica individual, objetivos glucémicos y esquema farmacoterapéutico.",
     "ampliada_qf": {
@@ -3423,22 +3437,23 @@
         "url": "https://doi.org/10.1111/jdi.14212"
       },
       {
-        "nombre": "MINSAL Chile. Protocolo de insulinización para personas con DM2 (documento aportado)."
+        "nombre": "Ministerio de Salud de Chile. Protocolo de insulinización para personas con diabetes mellitus tipo 2 (2021; protocolo orientativo, no certifica disponibilidad de productos).",
+        "url": "https://redcronicas.minsal.cl/wp-content/uploads/2021/04/PROTOCOLO-INSULINIZACION-final.pdf"
       },
       {
         "nombre": "Información de producto y registro sanitario ISP: verificar presentación y prospecto vigente.",
         "url": "https://registrosanitario.ispch.gob.cl/"
       },
       {
-        "nombre": "EMA. Levemir, información de producto en español (documento aportado).",
-        "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/levemir"
+        "nombre": "ISP Chile. Levemir 100 U/mL, folleto profesional histórico para FlexPen y Penfill (archivo ISP consultado; vigencia y comercialización actual no verificadas).",
+        "url": "https://www.ispch.gob.cl/sites/default/files/levemir_100u.pdf"
       }
     ],
     "revision": "Revisión documental de seguridad (06-11-2026): se conservan las precauciones de identificación, técnica, hipoglicemia y conservación de detemir; pendiente cotejo con el prospecto chileno vigente y validación farmacoterapéutica. No sustituir insulinas desde la PWA.",
     "validacion": "Borrador educativo de apoyo a la dispensación; no indica ajustes posológicos.",
     "dispensacion_rapida": {
       "primera": {
-        "consejo": "Explique la función basal de esta insulina, confirme horario y pauta prescritos y compruebe que el paciente identifica correctamente el dispositivo y la concentración. Demuestre técnica y rotación de sitios, y revise conservación y signos de hipoglicemia.",
+        "consejo": "Explique la función basal de esta insulina, confirme horario y pauta prescritos y compruebe que el paciente identifica correctamente el dispositivo y la concentración. Verifique y refuerce la técnica y la rotación de sitios conforme al entrenamiento recibido; si no hay instrucción inicial, gestione apoyo del QF o personal capacitado, y revise conservación y signos de hipoglicemia.",
         "pregunta": "¿Le mostraron cómo utilizar este dispositivo y en qué horario debe administrarlo?",
         "almacenamiento": "Antes de abrir, habitualmente entre 2 y 8 °C y sin congelar; verificar el prospecto. Tras apertura, el plazo y la temperatura dependen de la presentación.",
         "accion": "Comprobar medicamento, concentración, dispositivo y pauta prescrita; reforzar técnica, horario y adherencia. Derivar al QF ante dudas sobre el dispositivo, la pauta prescrita o la técnica de administración."
@@ -3453,7 +3468,7 @@
     "guia_meson": {
       "preguntas": "¿Cuál es el nombre y concentración de su insulina? ¿A qué hora se la indicaron? ¿Sabe cómo preparar y utilizar su pluma? ¿Rota los sitios de inyección?",
       "explicacion": "«Esta insulina proporciona una cobertura basal de glucosa durante el día y/o la noche. No reemplaza automáticamente a la insulina utilizada para las comidas. Respete el horario y dosis prescritos, revise la etiqueta antes de usarla y rote los sitios de inyección».",
-      "alertas": "Ante confusión de producto o concentración, detener la aclaración de la dispensación y solicitar evaluación del QF. Ante signos graves de hipoglicemia, activar atención urgente; no administrar alimentos ni líquidos por boca."
+      "alertas": "Si existe una discrepancia entre la prescripción y el nombre, la concentración, el dispositivo o la pauta, no completar la entrega de la insulina involucrada hasta aclararla con el químico farmacéutico. No sustituir insulinas ni modificar la dosis por cuenta propia. Ante convulsiones, pérdida de conciencia o incapacidad para tragar, solicitar atención urgente y no administrar alimentos ni líquidos por boca."
     },
     "posicionamiento": "En DM2, la insulina basal se utiliza para cubrir necesidades de insulina entre comidas y durante la noche, principalmente sobre la producción hepática de glucosa. Su incorporación o elección depende de evaluación médica individual, objetivos glucémicos y esquema farmacoterapéutico.",
     "ampliada_qf": {
@@ -3462,7 +3477,7 @@
       "fundamento": "Distribución: elevada unión a albúmina y volumen de distribución aparente de aproximadamente 0,1 L/kg. Metabolismo: degradación similar a insulina humana, metabolitos inactivos. Excreción/eliminación: semivida terminal tras administración subcutánea de 5–7 horas, dependiente de absorción; no equivale a duración del efecto.",
       "interacciones_especificas": "Las sulfonilureas pueden incrementar el riesgo de hipoglicemia; los betabloqueadores pueden atenuar signos adrenérgicos de aviso; los corticoides y ciertos simpaticomiméticos pueden elevar la glucemia. La PWA orienta la identificación de riesgos, no la modificación de dosis.",
       "evidencia_y_limitaciones": "Los rangos son orientativos y no sustituyen los datos de cada formulación. Puede requerir distinta frecuencia de administración según pauta médica; no deducirla de la tabla de rangos. La información debe contrastarse con rotulado vigente del ISP y la prescripción.",
-      "detalle_regulatorio": "Verificar presentación y disponibilidad actual de detemir en Chile; la existencia de antecedentes de registro no confirma comercialización. No sustituir por otra insulina basal sin evaluación médica.",
+      "detalle_regulatorio": "Verificar presentación y disponibilidad actual de detemir en Chile; la existencia de antecedentes de registro no confirma comercialización. No sustituir por otra insulina basal sin evaluación médica. El folleto histórico del ISP para Levemir 100 U/mL describe FlexPen/Penfill; las instrucciones específicas de FlexPen no demuestran disponibilidad comercial vigente y no deben extrapolarse a otros dispositivos.",
       "perfil_accion_teorico": {
         "inicio": "Aproximadamente 30–60 minutos",
         "maximo": "Sin pico pronunciado",
@@ -3494,13 +3509,13 @@
       },
       {
         "tipo": "Dispositivo",
-        "titulo": "Levemir FlexPen (según folleto aportado)",
-        "texto": "Verificar etiqueta y prueba de flujo conforme a instrucciones; el folleto de FlexPen indica mantener la aguja bajo la piel al menos 6 segundos. No extrapolar a otras plumas."
+        "titulo": "Levemir FlexPen (folleto histórico ISP Chile)",
+        "texto": "Según un folleto histórico del ISP para Levemir FlexPen, verificar etiqueta y prueba de flujo conforme al manual, y mantener la aguja bajo la piel al menos 6 segundos. Instrucción exclusiva de ese dispositivo; comprobar el folleto de la presentación efectivamente dispensada. No asumir disponibilidad comercial actual."
       },
       {
         "tipo": "Conservación",
-        "titulo": "Levemir FlexPen (según folleto aportado)",
-        "texto": "El folleto aportado indica para el dispositivo abierto hasta 6 semanas por debajo de 30 °C, sin refrigerar. Comprobar versión vigente y dispositivo concreto."
+        "titulo": "Levemir FlexPen (folleto histórico ISP Chile)",
+        "texto": "El folleto histórico del ISP para Levemir FlexPen indica hasta 6 semanas después de abrir, sin refrigerar y por debajo de 30 °C. Verificar el prospecto de la presentación efectivamente dispensada y su vigencia; no extrapolar este dato a otros productos."
       }
     ]
   },
@@ -3515,10 +3530,10 @@
       "Identificar expresamente la proporción de la premezcla: no sustituir por otra mezcla, insulina basal o prandial.",
       "La formulación es suspensión: comprobar instrucciones de resuspensión del dispositivo o vial y aspecto homogéneo; no usar si hay grumos o partículas persistentes.",
       "Confirmar horario de comida y pauta prescrita; omisión o retraso de alimentos puede incrementar el riesgo de hipoglicemia.",
-      "Uso subcutáneo según presentación; no administrar por vía intravenosa ni en bomba de infusión salvo indicación expresamente autorizada (no contemplada para estas fichas).",
+      "Bioinsugen 30/70: comprobar la vía prescrita y la presentación; el folleto consultado contempla administración subcutánea para vial y cartucho. No administrar por vía intravenosa. El folleto del vial menciona además la vía intramuscular, que no debe extrapolarse al cartucho ni indicarse desde FarmaDM2; cualquier duda sobre la vía debe aclararse con el QF y el prescriptor. No asumir compatibilidad con bombas de infusión.",
       "Rotar sitios de inyección; no compartir agujas ni plumas. Hipoglicemia grave con alteración de conciencia: urgencia, no administrar nada por boca."
     ],
-    "dispensacion": "Comprobar nombre completo y proporción de la mezcla, presentación, concentración, pauta y relación con las comidas. Enseñar resuspensión conforme al folleto específico y verificar que la suspensión sea uniforme antes de administrar. No ajustar dosis.",
+    "dispensacion": "Comprobar nombre completo y proporción de la mezcla, presentación, concentración, pauta y relación con las comidas. Verificar y reforzar la resuspensión conforme al folleto específico, comprobando que la suspensión quede uniforme; si no ha recibido instrucción inicial, derivar a personal capacitado. No ajustar dosis.",
     "marcas": [
       "Bioinsugen 30/70"
     ],
@@ -3570,7 +3585,7 @@
     "validacion": "Borrador educativo de apoyo a la dispensación; no indica ajustes posológicos.",
     "dispensacion_rapida": {
       "primera": {
-        "consejo": "Identifique con la persona la proporción de la mezcla y el dispositivo. Demuestre la resuspensión indicada por el fabricante, técnica, rotación y relación con las comidas. Confirmar intervalo previo a la comida según folleto autorizado del producto; no extrapolar la pauta de análogos rápidos.",
+        "consejo": "Identifique con la persona la proporción de la mezcla y el dispositivo. Verifique la comprensión y refuerce la resuspensión indicada por el fabricante, la técnica, la rotación y la relación con las comidas; si falta entrenamiento inicial, derivar al QF o personal capacitado. Confirmar intervalo previo a la comida según folleto autorizado del producto; no extrapolar la pauta de análogos rápidos.",
         "pregunta": "¿Sabe cómo homogeneizar esta insulina y en qué momento respecto de la comida se la indicaron?",
         "almacenamiento": "Sin abrir: conservar refrigerada entre 2 y 8 °C, en su envase original y protegida de la luz; no congelar. Vial en uso: hasta 4 semanas a temperatura no superior a 25 °C. Cartucho en uso: hasta 6 semanas a temperatura no superior a 25 °C, dentro de su caja para protegerlo de la luz. Confirmar la presentación dispensada y registrar la fecha de primer uso.",
         "accion": "Verificar proporción, dispositivo, resuspensión y horario prescrito. Derivar al QF ante dudas sobre el dispositivo, la pauta prescrita o la técnica de administración."
@@ -3583,9 +3598,9 @@
       }
     },
     "guia_meson": {
-      "preguntas": "¿Cuál es el nombre y concentración de su insulina? ¿A qué hora se la indicaron? ¿Sabe cómo preparar y utilizar su pluma? ¿Rota los sitios de inyección?",
+      "preguntas": "¿Cuál es el nombre y concentración de su insulina? ¿A qué hora se la indicaron? ¿Utiliza vial o cartucho y sabe cómo preparar y administrar su presentación según las instrucciones correspondientes? ¿Rota los sitios de inyección?",
       "explicacion": "Esta insulina contiene una mezcla de dos componentes: uno que ayuda a controlar la glicemia relacionada con las comidas y otro cuyo efecto se mantiene por más tiempo. Antes de administrarla, es importante preparar la suspensión siguiendo las instrucciones del producto y respetar el horario indicado por el médico. La alimentación debe coordinarse con la inyección para disminuir el riesgo de hipoglicemia. No cambie la dosis ni sustituya esta insulina por otra sin indicación profesional.",
-      "alertas": "Ante confusión de producto o concentración, detener la aclaración de la dispensación y solicitar evaluación del QF. Ante signos graves de hipoglicemia, activar atención urgente; no administrar alimentos ni líquidos por boca."
+      "alertas": "Si existe una discrepancia entre la prescripción y el nombre, la concentración, el dispositivo o la pauta, no completar la entrega de la insulina involucrada hasta aclararla con el químico farmacéutico. No sustituir insulinas ni modificar la dosis por cuenta propia. Ante convulsiones, pérdida de conciencia o incapacidad para tragar, solicitar atención urgente y no administrar alimentos ni líquidos por boca."
     },
     "posicionamiento": "Opción de insulinoterapia bifásica prescrita para aportar componentes prandial e intermedio en proporción fija; no permite modificar independientemente ambas fracciones.",
     "ampliada_qf": {
@@ -3594,7 +3609,7 @@
       "fundamento": "Distribución: la insulina absorbida alcanza tejidos sensibles y se une a receptores; Metabolismo: degradación proteolítica con metabolitos inactivos; Excreción/eliminación: la depuración depende de función orgánica y no equivale a duración farmacodinámica de la suspensión.",
       "interacciones_especificas": "Sulfonilureas y otras terapias hipoglicemiantes aumentan riesgo de hipoglicemia; betabloqueadores pueden ocultar síntomas; glucocorticoides pueden elevar glucemia.",
       "evidencia_y_limitaciones": "Los tiempos corresponden a la formulación completa solo cuando la ficha técnica lo especifica; no utilizar Tmax plasmático como pico de efecto. Confirmar intervalo previo a la comida según folleto autorizado del producto; no extrapolar la pauta de análogos rápidos.",
-      "detalle_regulatorio": "Confirmar registro, presentación y folleto autorizado vigente ISP; autorización en otra jurisdicción no prueba disponibilidad en Chile.\n\nNota específica de producto: La insulina humana premezclada regular/NPH se coordina con la comida: según el folleto de Bioinsugen 30/70, ingerir alimentos con carbohidratos dentro de los 30 minutos posteriores a la inyección. Confirmar pauta individual y presentación. Bioinsugen 30/70: comprobar que la suspensión esté homogénea mediante rotación suave conforme al folleto del vial; no agitar vigorosamente. La conservación del vial en uso indicada en el folleto consultado es hasta 4 semanas a temperatura no superior a 25 °C; verificar el envase efectivamente dispensado.",
+      "detalle_regulatorio": "Confirmar registro, presentación y folleto autorizado vigente ISP; autorización en otra jurisdicción no prueba disponibilidad en Chile.\n\nNota específica de producto: La insulina humana premezclada regular/NPH se coordina con la comida: según el folleto de Bioinsugen 30/70, ingerir alimentos con carbohidratos dentro de los 30 minutos posteriores a la inyección. Confirmar pauta individual y presentación. Bioinsugen 30/70: comprobar que la suspensión esté homogénea mediante rotación suave conforme al folleto del vial; no agitar vigorosamente. La conservación del vial en uso indicada en el folleto consultado es hasta 4 semanas a temperatura no superior a 25 °C; verificar el envase efectivamente dispensado.\n\nPrecisión de vía (folleto chileno Bioinsugen 30/70, Reg. ISP B-1958, versión V6/112024): vial: se mencionan vías subcutánea e intramuscular; cartucho: subcutánea. El folleto indica que las suspensiones no deben administrarse por vía intravenosa. FarmaDM2 no recomienda la vía intramuscular; cualquier prescripción de una vía distinta de la subcutánea requiere aclaración clínica y no debe extrapolarse entre envases.",
       "perfil_accion_teorico": {
         "inicio": "Aprox. 30 min",
         "maximo": "2–12 h",
@@ -3647,10 +3662,10 @@
       "Identificar expresamente la proporción de la premezcla: no sustituir por otra mezcla, insulina basal o prandial.",
       "La formulación es suspensión: comprobar instrucciones de resuspensión del dispositivo o vial y aspecto homogéneo; no usar si hay grumos o partículas persistentes.",
       "Confirmar horario de comida y pauta prescrita; omisión o retraso de alimentos puede incrementar el riesgo de hipoglicemia.",
-      "Uso subcutáneo según presentación; no administrar por vía intravenosa ni en bomba de infusión salvo indicación expresamente autorizada (no contemplada para estas fichas).",
+      "Humalog Mix25: el folleto profesional chileno indica únicamente administración subcutánea; nunca administrar por vía intravenosa. No asumir uso en bomba de infusión para esta suspensión ni extrapolar instrucciones de otras formulaciones.",
       "Rotar sitios de inyección; no compartir agujas ni plumas. Hipoglicemia grave con alteración de conciencia: urgencia, no administrar nada por boca."
     ],
-    "dispensacion": "Comprobar nombre completo y proporción de la mezcla, presentación, concentración, pauta y relación con las comidas. Enseñar resuspensión conforme al folleto específico y verificar que la suspensión sea uniforme antes de administrar. No ajustar dosis.",
+    "dispensacion": "Comprobar nombre completo y proporción de la mezcla, presentación, concentración, pauta y relación con las comidas. Verificar y reforzar la resuspensión conforme al folleto específico, comprobando que la suspensión quede uniforme; si no ha recibido instrucción inicial, derivar a personal capacitado. No ajustar dosis.",
     "marcas": [
       "Humalog Mix25"
     ],
@@ -3702,7 +3717,7 @@
     "validacion": "Borrador educativo de apoyo a la dispensación; no indica ajustes posológicos.",
     "dispensacion_rapida": {
       "primera": {
-        "consejo": "Confirmar que se dispensa Humalog Mix25 25/75, concentración 100 U/mL y dispositivo correcto. Para KwikPen, enseñar resuspensión suave: rodar 10 veces entre las palmas e invertir 180° otras 10 veces hasta aspecto lechoso uniforme; no agitar con fuerza. Coordinar la inyección con las comidas según la pauta prescrita y verificar técnica y rotación de sitios.",
+        "consejo": "Confirmar que se dispensa Humalog Mix25 25/75, concentración 100 U/mL y dispositivo correcto. Para KwikPen, verificar y reforzar la resuspensión suave indicada para la pluma: rodar 10 veces entre las palmas e invertir 180° otras 10 veces hasta aspecto lechoso uniforme; no agitar con fuerza. Coordinar la inyección con las comidas según la pauta prescrita y verificar técnica y rotación de sitios. Si la persona no recibió entrenamiento inicial, derivar al QF o personal capacitado.",
         "pregunta": "¿Sabe cómo homogeneizar esta insulina y en qué momento respecto de la comida se la indicaron?",
         "almacenamiento": "Humalog Mix25 KwikPen: sin usar, conservar refrigerada entre 2 y 8 °C, sin congelar. En uso, mantener sin refrigerar a temperatura no superior a 30 °C hasta 28 días, sin aguja conectada y protegida de calor y luz directa. Registrar fecha de primer uso. Para vial o cartucho, verificar el folleto de esa presentación.",
         "accion": "Verificar proporción, dispositivo, resuspensión y horario prescrito. Derivar al QF ante dudas sobre el dispositivo, la pauta prescrita o la técnica de administración."
@@ -3717,7 +3732,7 @@
     "guia_meson": {
       "preguntas": "¿Cuál es el nombre y concentración de su insulina? ¿A qué hora se la indicaron? ¿Sabe cómo preparar y utilizar su pluma? ¿Rota los sitios de inyección?",
       "explicacion": "Esta insulina contiene dos componentes: uno de acción rápida, que ayuda a controlar la glicemia relacionada con las comidas, y otro de acción más prolongada. Debe administrarse de acuerdo con el horario indicado por el médico y prepararse correctamente antes de cada aplicación. Es importante no omitir las comidas relacionadas con su administración y verificar siempre el dispositivo y la dosis prescrita.",
-      "alertas": "Ante confusión de producto o concentración, detener la aclaración de la dispensación y solicitar evaluación del QF. Ante signos graves de hipoglicemia, activar atención urgente; no administrar alimentos ni líquidos por boca."
+      "alertas": "Si existe una discrepancia entre la prescripción y el nombre, la concentración, el dispositivo o la pauta, no completar la entrega de la insulina involucrada hasta aclararla con el químico farmacéutico. No sustituir insulinas ni modificar la dosis por cuenta propia. Ante convulsiones, pérdida de conciencia o incapacidad para tragar, solicitar atención urgente y no administrar alimentos ni líquidos por boca."
     },
     "posicionamiento": "Opción de insulinoterapia bifásica prescrita para aportar componentes prandial e intermedio en proporción fija; no permite modificar independientemente ambas fracciones.",
     "ampliada_qf": {
@@ -3779,10 +3794,10 @@
       "Identificar expresamente la proporción de la premezcla: no sustituir por otra mezcla, insulina basal o prandial.",
       "La formulación es suspensión: comprobar instrucciones de resuspensión del dispositivo o vial y aspecto homogéneo; no usar si hay grumos o partículas persistentes.",
       "Confirmar horario de comida y pauta prescrita; omisión o retraso de alimentos puede incrementar el riesgo de hipoglicemia.",
-      "Uso subcutáneo según presentación; no administrar por vía intravenosa ni en bomba de infusión salvo indicación expresamente autorizada (no contemplada para estas fichas).",
+      "NovoMix 30 Penfill/FlexPen: administrar exclusivamente por vía subcutánea. El folleto profesional chileno indica no administrarla por vía intravenosa ni utilizarla en bombas de infusión; evitar la administración intramuscular.",
       "Rotar sitios de inyección; no compartir agujas ni plumas. Hipoglicemia grave con alteración de conciencia: urgencia, no administrar nada por boca."
     ],
-    "dispensacion": "Comprobar nombre completo y proporción de la mezcla, presentación, concentración, pauta y relación con las comidas. Enseñar resuspensión conforme al folleto específico y verificar que la suspensión sea uniforme antes de administrar. No ajustar dosis.",
+    "dispensacion": "Comprobar nombre completo y proporción de la mezcla, presentación, concentración, pauta y relación con las comidas. Verificar y reforzar la resuspensión conforme al folleto específico, comprobando que la suspensión quede uniforme; si no ha recibido instrucción inicial, derivar a personal capacitado. No ajustar dosis.",
     "marcas": [
       "NovoMix 30"
     ],
@@ -3849,7 +3864,7 @@
     "guia_meson": {
       "preguntas": "¿Cuál es el nombre y concentración de su insulina? ¿A qué hora se la indicaron? ¿Sabe cómo preparar y utilizar su pluma? ¿Rota los sitios de inyección?",
       "explicacion": "Esta insulina combina un componente de acción rápida con otro de acción más prolongada, permitiendo controlar la glicemia relacionada con las comidas y durante las horas posteriores. Debe administrarse según la pauta prescrita, en coordinación con las comidas. Antes de cada aplicación es necesario homogeneizar la suspensión siguiendo las instrucciones del dispositivo y verificar que corresponda a la insulina indicada.",
-      "alertas": "Ante confusión de producto o concentración, detener la aclaración de la dispensación y solicitar evaluación del QF. Ante signos graves de hipoglicemia, activar atención urgente; no administrar alimentos ni líquidos por boca."
+      "alertas": "Si existe una discrepancia entre la prescripción y el nombre, la concentración, el dispositivo o la pauta, no completar la entrega de la insulina involucrada hasta aclararla con el químico farmacéutico. No sustituir insulinas ni modificar la dosis por cuenta propia. Ante convulsiones, pérdida de conciencia o incapacidad para tragar, solicitar atención urgente y no administrar alimentos ni líquidos por boca."
     },
     "posicionamiento": "Opción de insulinoterapia bifásica prescrita para aportar componentes prandial e intermedio en proporción fija; no permite modificar independientemente ambas fracciones.",
     "ampliada_qf": {
