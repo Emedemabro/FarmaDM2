@@ -3685,7 +3685,7 @@
     },
     "guia_meson": {
       "preguntas": "¿Cuál es el nombre y concentración de su insulina? ¿A qué hora se la indicaron? ¿Sabe cómo preparar y utilizar su pluma? ¿Rota los sitios de inyección?",
-      "explicacion": "«Esta insulina proporciona una cobertura basal de glucosa durante el día y/o la noche. No reemplaza automáticamente a la insulina utilizada para las comidas. Respete el horario y dosis prescritos, revise la etiqueta antes de usarla y rote los sitios de inyección».",
+      "explicacion": "Esta insulina contiene dos componentes: uno de acción rápida, que ayuda a controlar la glicemia relacionada con las comidas, y otro de acción más prolongada. Debe administrarse de acuerdo con el horario indicado por el médico y prepararse correctamente antes de cada aplicación. Es importante no omitir las comidas relacionadas con su administración y verificar siempre el dispositivo y la dosis prescrita.",
       "alertas": "Ante confusión de producto o concentración, detener la aclaración de la dispensación y solicitar evaluación del QF. Ante signos graves de hipoglicemia, activar atención urgente; no administrar alimentos ni líquidos por boca."
     },
     "posicionamiento": "Opción de insulinoterapia bifásica prescrita para aportar componentes prandial e intermedio en proporción fija; no permite modificar independientemente ambas fracciones.",
@@ -3813,7 +3813,7 @@
     },
     "guia_meson": {
       "preguntas": "¿Cuál es el nombre y concentración de su insulina? ¿A qué hora se la indicaron? ¿Sabe cómo preparar y utilizar su pluma? ¿Rota los sitios de inyección?",
-      "explicacion": "«Esta insulina proporciona una cobertura basal de glucosa durante el día y/o la noche. No reemplaza automáticamente a la insulina utilizada para las comidas. Respete el horario y dosis prescritos, revise la etiqueta antes de usarla y rote los sitios de inyección».",
+      "explicacion": "Esta insulina combina un componente de acción rápida con otro de acción más prolongada, permitiendo controlar la glicemia relacionada con las comidas y durante las horas posteriores. Debe administrarse según la pauta prescrita, en coordinación con las comidas. Antes de cada aplicación es necesario homogeneizar la suspensión siguiendo las instrucciones del dispositivo y verificar que corresponda a la insulina indicada.",
       "alertas": "Ante confusión de producto o concentración, detener la aclaración de la dispensación y solicitar evaluación del QF. Ante signos graves de hipoglicemia, activar atención urgente; no administrar alimentos ni líquidos por boca."
     },
     "posicionamiento": "Opción de insulinoterapia bifásica prescrita para aportar componentes prandial e intermedio en proporción fija; no permite modificar independientemente ambas fracciones.",
