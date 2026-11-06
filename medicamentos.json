@@ -3665,21 +3665,25 @@
       {
         "nombre": "UpToDate. Insulin lispro protamine and insulin lispro: Drug information (máximo referido a Humalog Mix 75/25; fecha de actualización no verificada).",
         "url": "https://www.uptodate.com/contents/insulin-lispro-protamine-and-insulin-lispro-drug-information"
+      },
+      {
+        "nombre": "Chile: Tecnofarma / Eli Lilly. Folleto de información al profesional Humalog Mix25 100 U/mL KwikPen, preparado según registro ISP B-1024/21 y Resolución Exenta RW N.º 25780/19 (documento aportado; comprobar versión vigente).",
+        "url": ""
       }
     ],
     "revision": "Ficha documental de apoyo; la existencia de registro no garantiza disponibilidad comercial. Verificar presentación, conservación y resuspensión exactas en prospecto local.",
     "validacion": "Borrador educativo de apoyo a la dispensación; no indica ajustes posológicos.",
     "dispensacion_rapida": {
       "primera": {
-        "consejo": "Identifique con la persona la proporción de la mezcla y el dispositivo. Demuestre la resuspensión indicada por el fabricante, técnica, rotación y relación con las comidas. La ficha permite administración poco antes de las comidas y, cuando sea necesario, poco después; confirmar pauta individual.",
+        "consejo": "Confirmar que se dispensa Humalog Mix25 25/75, concentración 100 U/mL y dispositivo correcto. Para KwikPen, enseñar resuspensión suave: rodar 10 veces entre las palmas e invertir 180° otras 10 veces hasta aspecto lechoso uniforme; no agitar con fuerza. Coordinar la inyección con las comidas según la pauta prescrita y verificar técnica y rotación de sitios.",
         "pregunta": "¿Sabe cómo homogeneizar esta insulina y en qué momento respecto de la comida se la indicaron?",
-        "almacenamiento": "Sin abrir, revisar conservación en frío según prospecto. Una vez en uso, temperatura y plazo dependen de la presentación; registrar fecha de apertura.",
+        "almacenamiento": "Humalog Mix25 KwikPen: sin usar, conservar refrigerada entre 2 y 8 °C, sin congelar. En uso, mantener sin refrigerar a temperatura no superior a 30 °C hasta 28 días, sin aguja conectada y protegida de calor y luz directa. Registrar fecha de primer uso. Para vial o cartucho, verificar el folleto de esa presentación.",
         "accion": "Verificar proporción, dispositivo, resuspensión y horario prescrito. Derivar al QF ante dudas sobre el dispositivo, la pauta prescrita o la técnica de administración."
       },
       "habitual": {
-        "consejo": "Confirmar que reconoce la mezcla correcta, mantiene técnica de resuspensión y no presenta problemas con la relación inyección-comida, sitios de aplicación o conservación.",
+        "consejo": "Verificar que identifica Humalog Mix25 25/75, realiza la resuspensión suave antes de cada uso, respeta la relación con las comidas y rota los sitios de inyección. Comprobar que no existan grumos persistentes ni dificultades con el dispositivo.",
         "pregunta": "¿Ha tenido dificultades para homogeneizar la suspensión o coordinar la administración con las comidas?",
-        "almacenamiento": "Revisar fecha de primer uso, aspecto de la suspensión y condiciones específicas del envase.",
+        "almacenamiento": "En KwikPen en uso, comprobar fecha de primer uso (máximo 28 días), temperatura no superior a 30 °C, ausencia de refrigeración y almacenamiento sin aguja conectada. Revisar el folleto si utiliza otra presentación.",
         "accion": "Revisar adherencia, identificación de mezcla, resuspensión y conservación. Derivar al QF ante dudas sobre el dispositivo, la pauta prescrita o la técnica de administración."
       }
     },
@@ -3694,8 +3698,8 @@
       "farmacocinetica_y_seleccion": "Absorción: fracción soluble más temprana y fracción con protamina de absorción retardada; la curva global no es la suma aritmética de rangos individuales.",
       "fundamento": "Distribución: la insulina absorbida alcanza tejidos sensibles y se une a receptores; Metabolismo: degradación proteolítica con metabolitos inactivos; Excreción/eliminación: la depuración depende de función orgánica y no equivale a duración farmacodinámica de la suspensión.",
       "interacciones_especificas": "Sulfonilureas y otras terapias hipoglicemiantes aumentan riesgo de hipoglicemia; betabloqueadores pueden ocultar síntomas; glucocorticoides pueden elevar glucemia.",
-      "evidencia_y_limitaciones": "Los tiempos corresponden a la formulación completa solo cuando la ficha técnica lo especifica; no utilizar Tmax plasmático como pico de efecto. La ficha permite administración poco antes de las comidas y, cuando sea necesario, poco después; confirmar pauta individual.",
-      "detalle_regulatorio": "Confirmar registro, presentación y folleto autorizado vigente ISP; autorización en otra jurisdicción no prueba disponibilidad en Chile.\n\nNota específica de producto: Humalog Mix25 se administra habitualmente poco antes de la comida y, cuando sea necesario, poco después, según su ficha técnica. Respetar la pauta prescrita y no extrapolar el horario de las premezclas humanas. Humalog Mix25: resuspender conforme a las instrucciones del cartucho o pluma hasta apariencia uniformemente turbia; no agitar vigorosamente. La conservación en uso depende de la presentación: comprobar el folleto de vial, cartucho o KwikPen; plazo habitual descrito de 28 días.",
+      "evidencia_y_limitaciones": "Los rangos de inicio, máximo efecto y duración se presentan como referencias bibliográficas de la mezcla lispro/lispro protamina, no como mediciones específicas del producto comercial chileno. No confundir el máximo efecto con Tmax plasmático ni utilizar estos rangos para ajustar dosis. Para administración, resuspensión y conservación de Humalog Mix25 KwikPen se prioriza el folleto profesional chileno aportado; confirmar su vigencia y la presentación efectivamente dispensada.",
+      "detalle_regulatorio": "Confirmar registro, presentación y folleto ISP vigente; el registro o folleto de otra jurisdicción no demuestra disponibilidad comercial en Chile.\n\nHumalog Mix25 KwikPen (folleto profesional chileno, Reg. ISP B-1024/21): suspensión 25 % lispro y 75 % lispro protamina. Administración subcutánea poco antes de las comidas o, cuando sea necesario, poco después, siguiendo la prescripción. Antes de cada uso, rodar la pluma 10 veces entre las palmas e invertirla 180° otras 10 veces; repetir suavemente hasta obtener aspecto uniformemente turbio o lechoso y no utilizar si persisten grumos. No agitar vigorosamente. Sin abrir: 2–8 °C, no congelar. KwikPen en uso: hasta 28 días a temperatura no superior a 30 °C, sin refrigerar ni conservar con la aguja conectada. Estos detalles corresponden a KwikPen y no deben extrapolarse automáticamente a viales o cartuchos.",
       "perfil_accion_teorico": {
         "inicio": "15–30 min",
         "maximo": "1–6,5 h",
@@ -3708,7 +3712,7 @@
       {
         "tipo": "Técnica",
         "titulo": "Resuspensión obligatoria",
-        "texto": "La mezcla es una suspensión; seguir el número de movimientos e instrucciones del producto específico hasta lograr apariencia homogénea. No agitar violentamente ni extrapolar técnica entre marcas."
+        "texto": "Para Humalog Mix25 KwikPen: rodar suavemente 10 veces entre las palmas e invertir 180° otras 10 veces antes de cada inyección; repetir si no se logra una suspensión uniforme. Evitar agitar con fuerza. No utilizar si persisten grumos o partículas adheridas."
       },
       {
         "tipo": "Identificación",
@@ -3718,22 +3722,22 @@
       {
         "tipo": "Comidas",
         "titulo": "Coordinación con alimentación",
-        "texto": "La ficha permite administración poco antes de las comidas y, cuando sea necesario, poco después; confirmar pauta individual."
+        "texto": "Según el folleto chileno, administrar poco antes de las comidas o, cuando sea necesario, poco después. Mantener el horario y la pauta individual prescritos; no extrapolar los tiempos de otras premezclas."
       },
       {
         "tipo": "Conservación",
         "titulo": "Presentación específica",
-        "texto": "Confirmar temperatura, período tras apertura y compatibilidad de agujas o jeringas en folleto del producto dispensado."
+        "texto": "KwikPen sin usar: 2–8 °C, no congelar. KwikPen en uso: hasta 28 días a ≤30 °C, sin refrigerar ni dejar la aguja colocada. Para otros envases, consultar su propio folleto."
       },
       {
         "tipo": "Comidas y seguridad",
         "titulo": "Momento respecto de la comida",
-        "texto": "Humalog Mix25 se administra habitualmente poco antes de la comida y, cuando sea necesario, poco después, según su ficha técnica. Respetar la pauta prescrita y no extrapolar el horario de las premezclas humanas."
+        "texto": "Confirmar que la persona dispone de la comida relacionada con la inyección, reconoce los síntomas de hipoglicemia y no cambia por cuenta propia el tipo de insulina, el horario ni la dosis prescrita."
       },
       {
         "tipo": "Conservación y técnica",
-        "titulo": "Resuspensión y conservación por presentación",
-        "texto": "Humalog Mix25: resuspender conforme a las instrucciones del cartucho o pluma hasta apariencia uniformemente turbia; no agitar vigorosamente. La conservación en uso depende de la presentación: comprobar el folleto de vial, cartucho o KwikPen; plazo habitual descrito de 28 días."
+        "titulo": "Identificación y manejo de KwikPen",
+        "texto": "Verificar en cada uso nombre, proporción 25/75, concentración, apariencia lechosa homogénea y dosis indicada en la ventana. La pluma es de uso individual; retirar la aguja después de inyectar."
       }
     ]
   },
@@ -3793,21 +3797,25 @@
       {
         "nombre": "UpToDate. Insulin aspart protamine and insulin aspart: Drug information (duración referida a NovoLog Mix 70/30; fecha de actualización no verificada).",
         "url": "https://www.uptodate.com/contents/insulin-aspart-protamine-and-insulin-aspart-drug-information"
+      },
+      {
+        "nombre": "ISP Chile. Folleto de información al profesional NovoMix 30 recombinante 100 U/mL (REF. MT1326594/20; Reg. ISP B-2643/16; contiene instrucciones para Penfill y FlexPen; verificar vigencia).",
+        "url": "https://www.ispch.cl/folleto/novomix-30-recombinante-suspension-inyectable-100-u-ml/"
       }
     ],
     "revision": "Ficha documental de apoyo; la existencia de registro no garantiza disponibilidad comercial. Verificar presentación, conservación y resuspensión exactas en prospecto local.",
     "validacion": "Borrador educativo de apoyo a la dispensación; no indica ajustes posológicos.",
     "dispensacion_rapida": {
       "primera": {
-        "consejo": "Identifique con la persona la proporción de la mezcla y el dispositivo. Demuestre la resuspensión indicada por el fabricante, técnica, rotación y relación con las comidas. Según ficha EMA, administrar muy próxima a la comida (0–10 min antes); seguir prescripción y prospecto específico.",
+        "consejo": "Confirmar NovoMix 30 (30 % asparta / 70 % asparta protamina), concentración 100 U/mL y presentación Penfill o FlexPen. Explicar la resuspensión obligatoria antes de cada uso según el manual del dispositivo, hasta aspecto blanco y turbio uniforme. La ficha chilena indica administración normalmente inmediatamente antes de comer y, cuando sea necesario, poco después; respetar pauta prescrita.",
         "pregunta": "¿Sabe cómo homogeneizar esta insulina y en qué momento respecto de la comida se la indicaron?",
-        "almacenamiento": "Sin abrir, revisar conservación en frío según prospecto. Una vez en uso, temperatura y plazo dependen de la presentación; registrar fecha de apertura.",
+        "almacenamiento": "NovoMix 30 Penfill o FlexPen: sin usar, conservar entre 2 y 8 °C, sin congelar. En uso o como repuesto, mantener fuera del refrigerador a menos de 30 °C hasta 4 semanas. Proteger de la luz (Penfill dentro de su caja; FlexPen con su tapa). Registrar fecha de inicio y comprobar presentación.",
         "accion": "Verificar proporción, dispositivo, resuspensión y horario prescrito. Derivar al QF ante dudas sobre el dispositivo, la pauta prescrita o la técnica de administración."
       },
       "habitual": {
-        "consejo": "Confirmar que reconoce la mezcla correcta, mantiene técnica de resuspensión y no presenta problemas con la relación inyección-comida, sitios de aplicación o conservación.",
+        "consejo": "Confirmar identidad de NovoMix 30, disponibilidad suficiente para resuspender, aspecto homogéneo después de la preparación, técnica de inyección, relación con comidas y rotación de sitios. Verificar el procedimiento del dispositivo Penfill o FlexPen utilizado.",
         "pregunta": "¿Ha tenido dificultades para homogeneizar la suspensión o coordinar la administración con las comidas?",
-        "almacenamiento": "Revisar fecha de primer uso, aspecto de la suspensión y condiciones específicas del envase.",
+        "almacenamiento": "Penfill o FlexPen en uso o de repuesto: comprobar máximo de 4 semanas a menos de 30 °C, sin refrigerar ni congelar; revisar protección de la luz y fecha de inicio. Confirmar folleto de la presentación.",
         "accion": "Revisar adherencia, identificación de mezcla, resuspensión y conservación. Derivar al QF ante dudas sobre el dispositivo, la pauta prescrita o la técnica de administración."
       }
     },
@@ -3822,8 +3830,8 @@
       "farmacocinetica_y_seleccion": "Absorción: fracción soluble más temprana y fracción con protamina de absorción retardada; la curva global no es la suma aritmética de rangos individuales.",
       "fundamento": "Distribución: la insulina absorbida alcanza tejidos sensibles y se une a receptores; Metabolismo: degradación proteolítica con metabolitos inactivos; Excreción/eliminación: la depuración depende de función orgánica y no equivale a duración farmacodinámica de la suspensión.",
       "interacciones_especificas": "Sulfonilureas y otras terapias hipoglicemiantes aumentan riesgo de hipoglicemia; betabloqueadores pueden ocultar síntomas; glucocorticoides pueden elevar glucemia.",
-      "evidencia_y_limitaciones": "Los tiempos corresponden a la formulación completa solo cuando la ficha técnica lo especifica; no utilizar Tmax plasmático como pico de efecto. Según ficha EMA, administrar muy próxima a la comida (0–10 min antes); seguir prescripción y prospecto específico.",
-      "detalle_regulatorio": "Confirmar registro, presentación y folleto autorizado vigente ISP; autorización en otra jurisdicción no prueba disponibilidad en Chile.\n\nNota específica de producto: NovoMix 30 se administra generalmente inmediatamente antes de comer; la ficha técnica indica ingerir alimentos dentro de los 10 minutos posteriores. Seguir pauta prescrita y prospecto de la presentación. NovoMix 30: resuspender conforme a las instrucciones específicas de Penfill o dispositivo antes de cada administración hasta apariencia homogénea. Penfill en uso: hasta 4 semanas por debajo de 30 °C, sin refrigerar, según ficha EMA; verificar la presentación dispensada.",
+      "evidencia_y_limitaciones": "Los rangos de inicio, máximo efecto y duración proceden de referencias bibliográficas para asparta/asparta protamina y no constituyen mediciones específicas de NovoMix 30 comercializado en Chile. No usar máximo efecto como sinónimo de Tmax ni los rangos para ajustar dosis. Para horarios, resuspensión y conservación, priorizar la ficha profesional chilena según presentación (Penfill/FlexPen).",
+      "detalle_regulatorio": "Confirmar registro, presentación y folleto ISP vigente; no inferir disponibilidad comercial a partir de la autorización.\n\nNovoMix 30 Penfill y FlexPen (folleto profesional chileno, REF. MT1326594/20, Reg. ISP B-2643/16): mezcla 30 % asparta soluble y 70 % asparta cristalizada con protamina. Uso subcutáneo habitualmente inmediatamente antes de comer; cuando sea necesario, puede administrarse poco después bajo la pauta prescrita. Es suspensión y requiere resuspensión antes de cada administración: al estrenar un cartucho o pluma, rodar 10 veces en horizontal y mover arriba-abajo otras 10 veces; repetir hasta un aspecto blanco/turbio uniforme. En usos siguientes, mover arriba-abajo al menos 10 veces. El folleto indica que deben quedar al menos 12 unidades para permitir la resuspensión, y cambiar el cartucho o dispositivo si quedan menos. Conservar sin abrir a 2–8 °C, sin congelar. Penfill/FlexPen en uso o como repuesto: hasta 4 semanas a menos de 30 °C, sin refrigerar; proteger de luz (caja para Penfill; tapa para FlexPen). Verificar instrucciones particulares de cada dispositivo.",
       "perfil_accion_teorico": {
         "inicio": "10–20 min",
         "maximo": "1–4 h",
@@ -3836,7 +3844,7 @@
       {
         "tipo": "Técnica",
         "titulo": "Resuspensión obligatoria",
-        "texto": "La mezcla es una suspensión; seguir el número de movimientos e instrucciones del producto específico hasta lograr apariencia homogénea. No agitar violentamente ni extrapolar técnica entre marcas."
+        "texto": "Penfill o FlexPen: al estrenar, rodar horizontalmente 10 veces y mover arriba-abajo otras 10; en usos posteriores, mover arriba-abajo al menos 10 veces. Repetir hasta aspecto blanco/turbio homogéneo; no usar si persisten grumos. Respetar el manual específico."
       },
       {
         "tipo": "Identificación",
@@ -3846,22 +3854,22 @@
       {
         "tipo": "Comidas",
         "titulo": "Coordinación con alimentación",
-        "texto": "Según ficha EMA, administrar muy próxima a la comida (0–10 min antes); seguir prescripción y prospecto específico."
+        "texto": "Según el folleto profesional chileno, administrar habitualmente inmediatamente antes de una comida; cuando sea necesario, puede ser poco después. Respetar siempre la pauta individual prescrita."
       },
       {
         "tipo": "Conservación",
         "titulo": "Presentación específica",
-        "texto": "Confirmar temperatura, período tras apertura y compatibilidad de agujas o jeringas en folleto del producto dispensado."
+        "texto": "Penfill y FlexPen sin usar: 2–8 °C, no congelar. En uso o repuesto: hasta 4 semanas por debajo de 30 °C, sin refrigerar. Proteger de la luz según el envase."
       },
       {
         "tipo": "Comidas y seguridad",
         "titulo": "Momento respecto de la comida",
-        "texto": "NovoMix 30 se administra generalmente inmediatamente antes de comer; la ficha técnica indica ingerir alimentos dentro de los 10 minutos posteriores. Seguir pauta prescrita y prospecto de la presentación."
+        "texto": "Verificar el horario prescrito con las comidas y la disponibilidad de alimentos. El folleto chileno advierte que omitir comidas puede favorecer hipoglicemia; no modificar dosis o esquema en mesón."
       },
       {
         "tipo": "Conservación y técnica",
-        "titulo": "Resuspensión y conservación por presentación",
-        "texto": "NovoMix 30: resuspender conforme a las instrucciones específicas de Penfill o dispositivo antes de cada administración hasta apariencia homogénea. Penfill en uso: hasta 4 semanas por debajo de 30 °C, sin refrigerar, según ficha EMA; verificar la presentación dispensada."
+        "titulo": "Resuspensión y remanente mínimo",
+        "texto": "Para resuspender correctamente deben quedar al menos 12 unidades en Penfill/FlexPen; si hay menos, utilizar cartucho o pluma nuevos según manual. No compartir dispositivos ni agujas y retirar la aguja después de cada inyección."
       }
     ]
   }
