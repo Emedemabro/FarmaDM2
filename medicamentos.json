@@ -13,7 +13,7 @@
     ],
     "dispensacion": "Confirmar formulación prescrita, tolerancia gastrointestinal, función renal conocida, consumo excesivo de alcohol y presencia de enfermedad aguda. Orientar la toma con alimentos según el producto. No modificar dosis ni suspender el tratamiento sin la evaluación clínica correspondiente.",
     "mecanismo": "Disminuye la producción hepática de glucosa y favorece su utilización periférica. Intervienen múltiples vías celulares; no se atribuye a una única diana.",
-    "posicionamiento": "Alternativa fundamental para el control glicémico de la DM2. La elección del tratamiento debe individualizarse según comorbilidades y objetivos clínicos.",
+    "posicionamiento": "La metformina se utiliza frecuentemente como una de las primeras alternativas para controlar la glicemia en personas con diabetes mellitus tipo 2, debido a su eficacia y al bajo riesgo de hipoglicemia cuando se utiliza sola. Su elección depende de las características y necesidades de cada persona, por lo que puede indicarse sola o en combinación con otros medicamentos.",
     "reacciones": [
       "Frecuentes: diarrea, náuseas y molestias abdominales.",
       "Puede asociarse a disminución de vitamina B12 con el uso prolongado.",
@@ -167,7 +167,7 @@
       "Considerar situaciones de enfermedad aguda y cirugía con orientación del equipo tratante."
     ],
     "dispensacion": "Confirmar pauta prescrita: una vez al día, con o sin alimentos. Reforzar síntomas de alarma, higiene y consultas oportunas; no indicar cambios autónomos de dosis ni suspensión.",
-    "posicionamiento": "La empagliflozina ha adquirido un papel importante en el tratamiento de la DM2, especialmente cuando coexisten enfermedad cardiovascular, insuficiencia cardíaca o enfermedad renal crónica. Su utilidad va más allá de reducir la glucosa: en personas con DM2 y enfermedad cardiovascular establecida, EMPA-REG OUTCOME mostró una reducción de muerte cardiovascular y hospitalización por insuficiencia cardíaca; EMPA-KIDNEY, por su parte, respaldó su beneficio en determinados pacientes con enfermedad renal crónica, incluso sin diabetes. Esto ayuda a comprender por qué puede elegirse por objetivos cardiorrenales y no solo por la HbA1c. La decisión debe considerar la indicación autorizada, la función renal y las características individuales; los resultados de cada ensayo no se extrapolan automáticamente a todos los pacientes.",
+    "posicionamiento": "Se utiliza en la DM2 para ayudar a eliminar parte del exceso de glucosa por la orina. Además, ha demostrado beneficios cardiovasculares y renales en determinados grupos de pacientes; por eso, su utilidad no se limita al control de la glicemia. Su elección depende de las características de la persona, la indicación autorizada y la evaluación del equipo tratante.",
     "mecanismo": "Actúa en los riñones, donde normalmente se recupera parte de la glucosa filtrada. Al bloquear ese proceso, una mayor cantidad de glucosa sale del cuerpo a través de la orina. Algunos medicamentos de esta familia también tienen beneficios demostrados para el corazón o los riñones en situaciones específicas.",
     "reacciones": [
       "Puede aumentar la frecuencia urinaria y favorecer infecciones genitales por hongos. Consulte si presenta picazón, irritación, flujo anormal o molestias al orinar. La pérdida de líquidos puede provocar sed o mareos; los eventos graves son infrecuentes, pero deben reconocerse."
@@ -176,7 +176,7 @@
     "interacciones": [
       "Diuréticos: La combinación puede aumentar el riesgo de deshidratación, mareos y presión arterial baja; evaluar individualmente.",
       "Insulina o sulfonilureas: Puede aumentar el riesgo de hipoglucemia; la modificación de dosis corresponde al equipo tratante.",
-      "Interacciones específicas: Litio: puede disminuir sus concentraciones séricas; requiere vigilancia profesional. Diuréticos: pueden aumentar mareos, hipotensión y deshidratación.",
+      "Litio: los iSGLT2 pueden disminuir su concentración sérica; requiere revisión y seguimiento por el equipo tratante.",
       "Antiinflamatorios no esteroidales: En presencia de deshidratación, enfermedad renal u otros factores predisponentes, la automedicación con ibuprofeno o naproxeno puede añadir riesgo renal. Consultar al profesional; no constituye prohibición universal."
     ],
     "alertas": [
@@ -226,7 +226,7 @@
         "almacenamiento": "Mantener en su envase original, en lugar seco y protegido de la luz solar directa y fuentes de calor; evitar el baño y otros lugares húmedos. Respetar siempre la temperatura y las condiciones particulares indicadas en el envase y folleto de la presentación dispensada."
       },
       "habitual": {
-        "consejo": "Mantenga la pauta indicada. Si presenta mareos, debilidad o mucha sed, acuda a un servicio de salud. Ante vómitos o diarrea intensos, imposibilidad de comer o beber, o una cirugía programada, contacte al equipo tratante para recibir indicaciones sobre el manejo temporal y reinicio del medicamento.",
+        "consejo": "Mantenga el tratamiento según la pauta prescrita y refuerce las indicaciones de hidratación de su equipo de salud. Ante enfermedad aguda, dificultad para comer o beber, ayuno o cirugía, consulte cómo manejar el medicamento, sin suspenderlo ni reiniciarlo por cuenta propia. Ante vómitos persistentes acompañados de dolor abdominal, respiración anormal o deterioro importante, acuda a urgencias por posible cetoacidosis, incluso si la glicemia no está muy elevada.",
         "pregunta": "¿Ha presentado molestias genitales, mareos o dificultades para alimentarse o hidratarse?",
         "accion": "Reforzar adherencia, evaluar dudas y derivar signos de alarma. Confirmar indicaciones del equipo tratante ante enfermedad aguda o cirugía.",
         "efectos": "Puede aumentar la frecuencia urinaria y favorecer infecciones genitales por hongos. Consulte si presenta picazón, irritación, flujo anormal o molestias al orinar. ",
@@ -836,7 +836,7 @@
       "Considerar situaciones de enfermedad aguda y cirugía con orientación del equipo tratante."
     ],
     "dispensacion": "Confirmar pauta prescrita: una vez al día, con o sin alimentos. Reforzar síntomas de alarma, higiene y consultas oportunas; no indicar cambios autónomos de dosis ni suspensión.",
-    "posicionamiento": "La dapagliflozina ocupa un lugar relevante en la DM2 cuando también es necesario considerar el riesgo de insuficiencia cardíaca o progresión de enfermedad renal. Además de favorecer la eliminación urinaria de glucosa, ha demostrado beneficios cardiorrenales en poblaciones específicas: DECLARE–TIMI 58 observó menos hospitalizaciones por insuficiencia cardíaca, mientras que DAPA-HF y DAPA-CKD mostraron beneficios en insuficiencia cardíaca con fracción de eyección reducida y enfermedad renal crónica albuminúrica, respectivamente, incluyendo personas sin diabetes. Por ello, su elección puede responder a objetivos distintos del control glucémico. Es importante recordar que su efecto sobre la glucosa disminuye con la reducción de la función renal, sin que esto signifique necesariamente la pérdida de sus beneficios cardiorrenales; la indicación y los umbrales de uso deben evaluarse según el contexto clínico y la información autorizada.",
+    "posicionamiento": "Ayuda a reducir la glicemia al favorecer la eliminación de glucosa por la orina. También ha demostrado beneficios en determinadas personas con insuficiencia cardíaca o enfermedad renal, por lo que puede utilizarse por objetivos adicionales al control glicémico. La elección debe considerar la indicación autorizada y la evaluación del equipo tratante.",
     "mecanismo": "Actúa en los riñones, donde normalmente se recupera parte de la glucosa filtrada. Al bloquear ese proceso, una mayor cantidad de glucosa sale del cuerpo a través de la orina. Algunos medicamentos de esta familia también tienen beneficios demostrados para el corazón o los riñones en situaciones específicas.",
     "reacciones": [
       "Puede aumentar la frecuencia urinaria y favorecer infecciones genitales por hongos. Consulte si presenta picazón, irritación, flujo anormal o molestias al orinar. La pérdida de líquidos puede provocar sed o mareos; los eventos graves son infrecuentes, pero deben reconocerse."
@@ -845,7 +845,7 @@
     "interacciones": [
       "Diuréticos: La combinación puede aumentar el riesgo de deshidratación, mareos y presión arterial baja; evaluar individualmente.",
       "Insulina o sulfonilureas: Puede aumentar el riesgo de hipoglucemia; la modificación de dosis corresponde al equipo tratante.",
-      "Interacciones específicas: Litio: puede disminuir sus concentraciones séricas; requiere vigilancia profesional. Diuréticos: pueden aumentar mareos, hipotensión y deshidratación.",
+      "Litio: los iSGLT2 pueden disminuir su concentración sérica; requiere revisión y seguimiento por el equipo tratante.",
       "Antiinflamatorios no esteroidales: En presencia de deshidratación, enfermedad renal u otros factores predisponentes, la automedicación con ibuprofeno o naproxeno puede añadir riesgo renal. Consultar al profesional; no constituye prohibición universal."
     ],
     "alertas": [
@@ -899,7 +899,7 @@
         "almacenamiento": "Mantener en su envase original, en lugar seco y protegido de la luz solar directa y fuentes de calor; evitar el baño y otros lugares húmedos. Respetar siempre la temperatura y las condiciones particulares indicadas en el envase y folleto de la presentación dispensada."
       },
       "habitual": {
-        "consejo": "Mantenga la pauta indicada. Si presenta mareos, debilidad o mucha sed, acuda a un servicio de salud. Ante vómitos o diarrea intensos, imposibilidad de comer o beber, o una cirugía programada, contacte al equipo tratante para recibir indicaciones sobre el manejo temporal y reinicio del medicamento.",
+        "consejo": "Mantenga el tratamiento según la pauta prescrita y refuerce las indicaciones de hidratación de su equipo de salud. Ante enfermedad aguda, dificultad para comer o beber, ayuno o cirugía, consulte cómo manejar el medicamento, sin suspenderlo ni reiniciarlo por cuenta propia. Ante vómitos persistentes acompañados de dolor abdominal, respiración anormal o deterioro importante, acuda a urgencias por posible cetoacidosis, incluso si la glicemia no está muy elevada.",
         "pregunta": "¿Ha presentado molestias genitales, mareos o dificultades para alimentarse o hidratarse?",
         "accion": "Reforzar adherencia, evaluar dudas y derivar signos de alarma. Confirmar indicaciones del equipo tratante ante enfermedad aguda o cirugía.",
         "efectos": "Puede aumentar la frecuencia urinaria y favorecer infecciones genitales por hongos. Consulte si presenta picazón, irritación, flujo anormal o molestias al orinar. ",
@@ -994,19 +994,20 @@
     "seguridad": [
       "Reconocer signos de deshidratación y posibles infecciones genitales.",
       "Reconocer síntomas de cetoacidosis incluso sin hiperglucemia marcada.",
-      "Considerar situaciones de enfermedad aguda y cirugía con orientación del equipo tratante."
+      "Considerar situaciones de enfermedad aguda y cirugía con orientación del equipo tratante.",
+      "Reforzar el cuidado de los pies y solicitar evaluación ante heridas, úlceras, dolor nuevo o signos de infección; contextualizar la señal de amputaciones observada en estudios de canagliflozina."
     ],
     "dispensacion": "Confirmar pauta prescrita: una vez al día, preferentemente antes de la primera comida del día. Reforzar síntomas de alarma, higiene y consultas oportunas; no indicar cambios autónomos de dosis ni suspensión.",
-    "posicionamiento": "La canagliflozina representa una alternativa en la DM2 cuyo interés no se limita a disminuir la glucosa sanguínea. En personas con DM2 y riesgo cardiovascular elevado, el programa CANVAS demostró una reducción de eventos cardiovasculares mayores; en pacientes con DM2 y enfermedad renal crónica albuminúrica, CREDENCE mostró una menor progresión de desenlaces renales importantes. Estos hallazgos permiten comprender su posicionamiento cuando el tratamiento busca abordar tanto el control metabólico como el riesgo cardiovascular y renal. Sin embargo, la elección requiere valorar las características del paciente, especialmente la salud de los pies y antecedentes vasculares, debido a la señal de amputaciones observada en CANVAS. Esta advertencia exige precaución individualizada, no constituye por sí sola una contraindicación general.",
+    "posicionamiento": "Se utiliza en la DM2 para ayudar a disminuir la glicemia mediante la eliminación de glucosa por la orina. En ciertos grupos de pacientes también ha demostrado beneficios cardiovasculares y renales. Su elección exige considerar precauciones individuales, especialmente antecedentes de lesiones o problemas circulatorios en los pies, y corresponde al equipo tratante.",
     "mecanismo": "Actúa en los riñones, donde normalmente se recupera parte de la glucosa filtrada. Al bloquear ese proceso, una mayor cantidad de glucosa sale del cuerpo a través de la orina. Algunos medicamentos de esta familia también tienen beneficios demostrados para el corazón o los riñones en situaciones específicas.",
     "reacciones": [
       "Puede aumentar la frecuencia urinaria y favorecer infecciones genitales por hongos. Consulte si presenta picazón, irritación, flujo anormal o molestias al orinar. La pérdida de líquidos puede provocar sed o mareos; los eventos graves son infrecuentes, pero deben reconocerse."
     ],
-    "renal": "Atender especialmente antecedentes de úlceras, infección o problemas circulatorios en pies; no afirmar que todos los pacientes presentan el mismo riesgo de amputación.",
+    "renal": "Cuando disminuye la función renal, la capacidad de canagliflozina para reducir la glicemia también disminuye. Los criterios de inicio o continuidad pueden diferir según la indicación clínica y el producto autorizado; el QF o equipo tratante debe revisar función renal, hidratación y ficha de la presentación. No aplicar un único umbral de TFGe a todos los usos.",
     "interacciones": [
       "Diuréticos: La combinación puede aumentar el riesgo de deshidratación, mareos y presión arterial baja; evaluar individualmente.",
       "Insulina o sulfonilureas: Puede aumentar el riesgo de hipoglucemia; la modificación de dosis corresponde al equipo tratante.",
-      "Interacciones específicas: Inductores de UGT pueden reducir la exposición a canagliflozina y requieren revisión profesional. Diuréticos pueden favorecer pérdida de volumen.",
+      "Inductores de UGT: pueden reducir la exposición a canagliflozina; solicitar revisión farmacoterapéutica del QF ante su uso concomitante.",
       "Antiinflamatorios no esteroidales: En presencia de deshidratación, enfermedad renal u otros factores predisponentes, la automedicación con ibuprofeno o naproxeno puede añadir riesgo renal. Consultar al profesional; no constituye prohibición universal."
     ],
     "alertas": [
@@ -1056,7 +1057,7 @@
         "almacenamiento": "Mantener en su envase original, en lugar seco y protegido de la luz solar directa y fuentes de calor; evitar el baño y otros lugares húmedos. Respetar siempre la temperatura y las condiciones particulares indicadas en el envase y folleto de la presentación dispensada."
       },
       "habitual": {
-        "consejo": "Mantenga la pauta indicada. Si presenta mareos, debilidad o mucha sed, acuda a un servicio de salud. Ante vómitos o diarrea intensos, imposibilidad de comer o beber, o una cirugía programada, contacte al equipo tratante para recibir indicaciones sobre el manejo temporal y reinicio del medicamento.",
+        "consejo": "Mantenga el tratamiento según la pauta prescrita y refuerce las indicaciones de hidratación de su equipo de salud. Ante enfermedad aguda, dificultad para comer o beber, ayuno o cirugía, consulte cómo manejar el medicamento, sin suspenderlo ni reiniciarlo por cuenta propia. Ante vómitos persistentes acompañados de dolor abdominal, respiración anormal o deterioro importante, acuda a urgencias por posible cetoacidosis, incluso si la glicemia no está muy elevada.",
         "pregunta": "¿Ha presentado molestias genitales, mareos o dificultades para alimentarse o hidratarse?",
         "accion": "Reforzar adherencia, evaluar dudas y derivar signos de alarma. Confirmar indicaciones del equipo tratante ante enfermedad aguda o cirugía.",
         "efectos": "Puede aumentar la frecuencia urinaria y favorecer infecciones genitales por hongos. Consulte si presenta picazón, irritación, flujo anormal o molestias al orinar. Revise sus pies y consulte oportunamente por heridas, dolor nuevo, cambios de color o signos de infección.",
@@ -2299,12 +2300,12 @@
     "descripcion": "Sulfonilurea que estimula la secreción de insulina; destaca el riesgo de hipoglucemia prolongada.",
     "seguridad": [
       "1. Hipoglucemia: temblores, sudor frío, palpitaciones, hambre intensa o confusión.",
-      "2. Hipoglucemia grave, prolongada o recurrente: solicitar atención urgente.",
+      "2. Hipoglicemia con pérdida de conciencia, convulsiones, incapacidad para tragar o que no mejora: activar atención de urgencia. Si se repite, solicitar evaluación oportuna del QF y del equipo tratante.",
       "3. Saltarse comidas, alcohol o ingesta insuficiente: aumentan el riesgo.",
       "4. Personas mayores o con deterioro renal/hepático: especial precaución."
     ],
     "dispensacion": "¿Mantiene horarios regulares de comida? ¿Ha tenido temblores, sudor frío o confusión? ¿Presenta enfermedad renal o hepática conocida? Puede bajar la glucosa incluso cuando no se ha comido lo suficiente. Es importante mantener la alimentación regular y reconocer los síntomas de hipoglucemia.",
-    "posicionamiento": "La glibenclamida reduce eficazmente la glucemia y ha tenido un uso histórico por su bajo costo. Sin embargo, presenta especial preocupación por la hipoglucemia, que puede ser intensa o prolongada, en particular en personas mayores o con alteración renal. Por ello, su bajo costo no equivale a una preferencia terapéutica general. En Chile, el MINSAL ha comunicado un retiro programado de glibenclamida en la red de Atención Primaria de Salud (APS); consulte la sección «Actualización» para conocer el contexto. La evaluación de alternativas corresponde al equipo tratante.",
+    "posicionamiento": "Se utiliza para disminuir la glicemia al estimular la liberación de insulina. Aunque puede ser una alternativa de bajo costo, presenta un riesgo importante de hipoglicemia, especialmente en personas mayores o con problemas renales. En la APS chilena existe una transición programada hacia otras opciones; cualquier cambio debe indicarlo el equipo tratante.",
     "mecanismo": "Las sulfonilureas ayudan a disminuir la glucosa en sangre al estimular al páncreas para que libere más insulina. Esta hormona permite que la glucosa sea utilizada por las células del organismo. Como pueden estimular la liberación de insulina incluso cuando la glucosa está baja, existe riesgo de hipoglucemia, especialmente si la persona omite comidas o ingiere menos alimentos de lo habitual.",
     "reacciones": [
       "Hipoglucemia, que puede ser grave.",
@@ -2346,8 +2347,8 @@
         "url": "https://doi.org/10.2337/dc26-S009"
       },
       {
-        "nombre": "MINSAL, Ord. C51 N.º 2191 (16 diciembre 2025), documento oficial aportado al proyecto",
-        "url": ""
+        "nombre": "MINSAL Chile, Ord. C51 N.º 2191 (16-12-2025): retiro programado de glibenclamida en APS (documento oficial)",
+        "url": "https://redcronicas.minsal.cl/wp-content/uploads/2026/03/ORD-2191-INFORMA-SOBRE-RETIRO-PROGRAMADO-DE-GLIBENCLAMIDA-PARA-EL-TRATAMIENTO-DE-LA-DM2.pdf"
       },
       {
         "nombre": "Laboratorio Chile, Glibenclamida comprimidos 5 mg, folleto informativo aportado",
@@ -2374,7 +2375,7 @@
       "habitual": {
         "pregunta": "¿Ha presentado episodios de hipoglucemia, cambios de alimentación o medicamentos nuevos?",
         "consejo": "No omita comidas y siga la pauta indicada. Si olvida una dosis, no duplique la siguiente; consulte el folleto de su presentación.",
-        "efectos": "Consultar por hipoglucemias repetidas o graves.",
+        "efectos": "Si presenta episodios repetidos de hipoglicemia, informar oportunamente al QF y al equipo tratante. Ante pérdida de conciencia, convulsiones o incapacidad para tragar, solicitar atención urgente.",
         "almacenamiento": "Mantener en su envase original, en lugar seco y protegido de la luz solar directa y fuentes de calor; evitar el baño y otros lugares húmedos. Respetar siempre la temperatura y las condiciones particulares indicadas en el envase y folleto de la presentación dispensada.",
         "accion": "Reforzar educación y derivar alertas al QF."
       }
@@ -2425,10 +2426,10 @@
       "1. Hipoglucemia: reconocer temblores, sudoración, hambre intensa o confusión.",
       "2. Ayuno o comidas insuficientes: pueden precipitar hipoglucemia.",
       "3. Liberación inmediata frente a modificada: verificar la presentación antes de orientar.",
-      "4. Miconazol sistémico: interacción relevante descrita en fichas técnicas; solicitar revisión QF."
+      "4. Miconazol, tanto sistémico como gel oral: interacción potencialmente grave descrita en fichas técnicas; solicitar revisión del QF antes de completar la dispensación."
     ],
     "dispensacion": "¿El envase indica liberación modificada? ¿Desayuna regularmente? ¿Ha tenido episodios de glucosa baja? Ayuda a reducir la glucosa al estimular la liberación de insulina. Las instrucciones de administración dependen de la formulación dispensada.",
-    "posicionamiento": "La gliclazida conserva utilidad para reducir la glucemia cuando se considera apropiada una sulfonilurea. Su disponibilidad y costo pueden favorecer el acceso al tratamiento, pero mantiene riesgo de hipoglucemia y posible aumento de peso. Su selección requiere considerar el riesgo individual y distinguir las presentaciones convencionales de las de liberación modificada. Las guías actuales también consideran otras familias con beneficios cardiovasculares o renales demostrados según las comorbilidades; la elección corresponde al equipo tratante.",
+    "posicionamiento": "Ayuda a reducir la glicemia al estimular la liberación de insulina. Puede ser una opción cuando el equipo tratante considera adecuado utilizar una sulfonilurea, pero requiere prevenir y reconocer la hipoglicemia, especialmente si se omiten comidas. Es importante distinguir la presentación convencional de la de liberación modificada.",
     "mecanismo": "Las sulfonilureas ayudan a disminuir la glucosa en sangre al estimular al páncreas para que libere más insulina. Esta hormona permite que la glucosa sea utilizada por las células del organismo. Como pueden estimular la liberación de insulina incluso cuando la glucosa está baja, existe riesgo de hipoglucemia, especialmente si la persona omite comidas o ingiere menos alimentos de lo habitual.",
     "reacciones": [
       "Hipoglucemia, que puede ser grave.",
@@ -2485,7 +2486,7 @@
     "guia_meson": {
       "preguntas": "¿El envase indica liberación modificada? ¿Desayuna regularmente? ¿Ha tenido episodios de glucosa baja?",
       "explicacion": "Ayuda a reducir la glucosa al estimular la liberación de insulina. Las instrucciones de administración dependen de la formulación dispensada.",
-      "alertas": "1. Hipoglucemia: reconocer temblores, sudoración, hambre intensa o confusión.\n2. Ayuno o comidas insuficientes: pueden precipitar hipoglucemia.\n3. Liberación inmediata frente a modificada: verificar la presentación antes de orientar.\n4. Miconazol sistémico: interacción relevante descrita en fichas técnicas; solicitar revisión QF."
+      "alertas": "1. Hipoglucemia: reconocer temblores, sudoración, hambre intensa o confusión.\n2. Ayuno o comidas insuficientes: pueden precipitar hipoglucemia.\n3. Liberación inmediata frente a modificada: verificar la presentación antes de orientar.\n4. Miconazol sistémico o gel oral: interacción potencialmente grave descrita en fichas técnicas; consultar al QF antes de completar la dispensación."
     },
     "dispensacion_rapida": {
       "primera": {
@@ -2498,7 +2499,7 @@
       "habitual": {
         "pregunta": "¿Ha presentado episodios de hipoglucemia, cambios de alimentación o medicamentos nuevos?",
         "consejo": "Compruebe si su medicamento es de liberación modificada y siga la indicación de su presentación; no duplique dosis olvidadas.",
-        "efectos": "Consultar por hipoglucemias repetidas o graves.",
+        "efectos": "Si presenta episodios repetidos de hipoglicemia, informar oportunamente al QF y al equipo tratante. Ante pérdida de conciencia, convulsiones o incapacidad para tragar, solicitar atención urgente.",
         "almacenamiento": "Mantener en su envase original, en lugar seco y protegido de la luz solar directa y fuentes de calor; evitar el baño y otros lugares húmedos. Respetar siempre la temperatura y las condiciones particulares indicadas en el envase y folleto de la presentación dispensada.",
         "accion": "Reforzar educación y derivar alertas al QF."
       }
@@ -2524,7 +2525,7 @@
       "titulo_foco": "Seguridad y diferencias de gliclazida",
       "fundamento": "Las formulaciones de liberación modificada permiten perfiles de administración diferentes de las convencionales; no deben intercambiarse instrucciones.",
       "farmacocinetica_y_seleccion": "Absorción: Absorción oral; la liberación modificada cambia el perfil de exposición respecto de la formulación convencional. Distribución: Unión elevada a proteínas plasmáticas. Metabolismo: Metabolismo hepático, principalmente por CYP2C9, con participación de otras vías; metabolitos sin efecto hipoglucemiante clínicamente relevante predominante. Excreción y eliminación: Excreción principalmente urinaria de metabolitos. La semivida y el esquema dependen de la formulación; no intercambiar liberación inmediata y modificada sin verificar equivalencia.",
-      "interacciones_especificas": "La información farmacológica consultada advierte interacciones que aumentan el riesgo de hipoglucemia, entre ellas miconazol; confirmar vía de administración y ficha del producto antes de orientar.",
+      "interacciones_especificas": "En una ficha técnica española de gliclazida de liberación modificada, miconazol sistémico y en gel oral figura como combinación contraindicada por aumento del riesgo de hipoglicemia. Verificar la formulación y el folleto chileno específico antes de atribuirle ese mismo estatus regulatorio; consultar al QF ante la combinación.",
       "evidencia_y_limitaciones": "Pan et al. (2024) aporta contexto sobre riesgo de hipoglucemia en adultos mayores, no recomendaciones de cambio terapéutico.\nSeguridad y seguimiento: reconocer hipoglucemia ante ingesta reducida, ejercicio no habitual o interacciones. Consideraciones para la dispensación: comprobar si es liberación inmediata o modificada y verificar instrucciones sobre alimentos, integridad del comprimido y horario de la presentación.",
       "detalle_regulatorio": "Las instrucciones de gliclazida LM 30 mg españolas no se extrapolan a todas las formulaciones chilenas."
     },
@@ -2548,11 +2549,11 @@
     "seguridad": [
       "1. Hipoglucemia: sudor frío, temblores, hambre, palpitaciones o confusión.",
       "2. Saltarse la primera comida principal: aumenta el riesgo de hipoglucemia.",
-      "3. Episodios recurrentes o graves: solicitar evaluación urgente.",
+      "3. Hipoglicemia con compromiso de conciencia, convulsiones, incapacidad para tragar o que no mejora: activar urgencias. Ante episodios repetidos, solicitar evaluación oportuna del QF y equipo tratante.",
       "4. Nuevos medicamentos y enfermedad renal/hepática: revisar con QF."
     ],
     "dispensacion": "¿La toma con el desayuno o primera comida principal? ¿Se salta comidas? ¿Ha notado síntomas de glucosa baja? Estimula la liberación de insulina y puede causar hipoglucemia si se omiten comidas o existe mayor susceptibilidad.",
-    "posicionamiento": "La glimepirida es una opción oral eficaz para reducir la glucemia y puede resultar accesible en contextos de restricciones económicas. Continúa utilizándose cuando sus beneficios y riesgos son adecuados para la persona, pero requiere precaución por hipoglucemia y aumento de peso. Existe evidencia de seguridad cardiovascular para glimepirida, lo que no significa que proporcione los beneficios cardiovasculares o renales demostrados para determinados medicamentos de otras familias. La selección debe individualizarse por el equipo tratante.",
+    "posicionamiento": "Ayuda a disminuir la glicemia al estimular la liberación de insulina. Puede utilizarse cuando el equipo tratante considera apropiada una sulfonilurea. Es importante reconocer el riesgo de hipoglicemia, especialmente cuando se omiten comidas, y seguir la pauta prescrita.",
     "mecanismo": "Las sulfonilureas ayudan a disminuir la glucosa en sangre al estimular al páncreas para que libere más insulina. Esta hormona permite que la glucosa sea utilizada por las células del organismo. Como pueden estimular la liberación de insulina incluso cuando la glucosa está baja, existe riesgo de hipoglucemia, especialmente si la persona omite comidas o ingiere menos alimentos de lo habitual.",
     "reacciones": [
       "Hipoglucemia, que puede ser grave.",
@@ -2618,7 +2619,7 @@
       "habitual": {
         "pregunta": "¿Ha presentado episodios de hipoglucemia, cambios de alimentación o medicamentos nuevos?",
         "consejo": "Mantenga la administración vinculada a la comida indicada en su receta y no duplique dosis olvidadas.",
-        "efectos": "Consultar por hipoglucemias repetidas o graves.",
+        "efectos": "Si presenta episodios repetidos de hipoglicemia, informar oportunamente al QF y al equipo tratante. Ante pérdida de conciencia, convulsiones o incapacidad para tragar, solicitar atención urgente.",
         "almacenamiento": "Mantener en su envase original, en lugar seco y protegido de la luz solar directa y fuentes de calor; evitar el baño y otros lugares húmedos. Respetar siempre la temperatura y las condiciones particulares indicadas en el envase y folleto de la presentación dispensada.",
         "accion": "Reforzar educación y derivar alertas al QF."
       }
@@ -2645,7 +2646,7 @@
       "fundamento": "La glimepirida es secretagoga de insulina y su efecto puede persistir aunque se reduzca la ingesta alimentaria.",
       "farmacocinetica_y_seleccion": "Absorción: Buena absorción oral; las comidas pueden modificar la velocidad, sin justificar cambios autónomos de pauta. Distribución: Unión a proteínas plasmáticas muy elevada. Metabolismo: Metabolismo hepático principalmente por CYP2C9 a metabolitos hidroxilados y carboxilados. Excreción y eliminación: Eliminación de metabolitos por orina y heces; la función renal y hepática y la ingesta irregular influyen en la seguridad. Diferenciar semivida plasmática de duración del efecto hipoglucemiante.",
       "interacciones_especificas": "Revisar especialmente medicamentos nuevos capaces de potenciar o disminuir el efecto hipoglucemiante; confirmar interacciones específicas en la ficha del producto antes de orientar.",
-      "evidencia_y_limitaciones": "La evidencia comparativa de clase no determina por sí sola que glimepirida sea apropiada para una persona concreta.\nSeguridad y seguimiento: hipoglucemia, especialmente con ayuno, enfermedad renal/hepática o interacciones. Consideraciones para la dispensación: confirmar relación con la primera comida principal según producto y educar sobre reconocimiento de hipoglucemia; derivar dudas de pauta.",
+      "evidencia_y_limitaciones": "La evidencia sobre seguridad cardiovascular de glimepirida no equivale a demostrar el mismo beneficio cardiovascular o renal de medicamentos con ensayos específicos de protección de órganos. La evidencia comparativa de clase tampoco determina por sí sola que sea apropiada para una persona concreta.\nSeguridad y seguimiento: hipoglucemia, especialmente con ayuno, enfermedad renal/hepática o interacciones. Consideraciones para la dispensación: confirmar relación con la primera comida principal según producto y educar sobre reconocimiento de hipoglucemia; derivar dudas de pauta.",
       "detalle_regulatorio": "Confirmar las condiciones de administración y posibilidad de fraccionamiento del comprimido según fabricante."
     },
     "pasos_meson": [

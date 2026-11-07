@@ -1,5 +1,5 @@
 /* FarmaDM2: caché de recursos propios. Red primero, respaldo offline. */
-const CACHE = 'farmadm2-v47-13-alertas-integradas-20261106';
+const CACHE = 'farmadm2-v47-13-lote-seguridad-posicionamiento-metformina-20261107';
 const CACHE_PREFIX = 'farmadm2-';
 const ASSETS = ['./', './index.html', './style.css', './app.js', './medicamentos.json', './marcas_isp.json', './manifest.webmanifest', './icon.svg'];
 const assetUrls = new Set(ASSETS.map(path => new URL(path, self.registration.scope).href));
