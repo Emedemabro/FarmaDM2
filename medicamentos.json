@@ -174,10 +174,10 @@
     ],
     "renal": "No extrapolar los umbrales de filtración renal entre indicaciones; considerar función renal, situación clínica y ficha vigente.",
     "interacciones": [
-      "Diuréticos: La combinación puede aumentar el riesgo de deshidratación, mareos y presión arterial baja; evaluar individualmente.",
+      "Diuréticos (p. ej., furosemida o hidroclorotiazida): la combinación puede aumentar el riesgo de deshidratación, mareos y presión arterial baja; evaluar individualmente.",
       "Insulina o sulfonilureas: Puede aumentar el riesgo de hipoglucemia; la modificación de dosis corresponde al equipo tratante.",
       "Litio: los iSGLT2 pueden disminuir su concentración sérica; requiere revisión y seguimiento por el equipo tratante.",
-      "Antiinflamatorios no esteroidales: En presencia de deshidratación, enfermedad renal u otros factores predisponentes, la automedicación con ibuprofeno o naproxeno puede añadir riesgo renal. Consultar al profesional; no constituye prohibición universal."
+      "Antiinflamatorios no esteroidales (AINEs; p. ej., ibuprofeno, ketoprofeno, ketorolaco o naproxeno): en presencia de deshidratación, enfermedad renal u otros factores predisponentes, su uso puede aumentar el riesgo renal. Consultar al QF, especialmente ante automedicación; no constituye prohibición universal."
     ],
     "alertas": [
       {
@@ -693,7 +693,7 @@
     "interacciones": [
       "Insulina o sulfonilureas: puede aumentar el riesgo de hipoglucemia; el equipo prescriptor puede requerir reevaluación de estas terapias.",
       "Agonistas del receptor GLP-1 (p. ej., semaglutida) y tratamientos basados en ese receptor: combinación generalmente no recomendada por escaso beneficio glucémico adicional.",
-      "Inhibidores de la ECA y otros medicamentos asociados con angioedema: vigilar antecedentes o síntomas de hipersensibilidad; la relevancia clínica depende del contexto y de la combinación.",
+      "Inhibidores de la ECA (IECA; p. ej., enalapril o lisinopril) y otros medicamentos asociados con angioedema: vigilar antecedentes o síntomas de hipersensibilidad; la relevancia clínica depende del contexto y de la combinación.",
       "Revisar siempre el listado completo de medicamentos: la monografía remite a una base de interacciones específica y no considera exhaustiva su lista resumida.",
       "Combinación fija sitagliptina/metformina: el folleto ISP advierte riesgo de acidosis láctica con intoxicación alcohólica y situaciones de deterioro renal; exige precauciones específicas ante contraste yodado, deshidratación y medicamentos que afecten la función renal. Estas advertencias corresponden al componente metformina y no deben atribuirse a sitagliptina en monoterapia.",
       "Ciclosporina: aumentó la exposición a sitagliptina (AUC aproximadamente 29 % y Cmáx 68 %) en un estudio de dosis única, sin considerarse clínicamente significativo; no constituye por sí solo indicación de ajuste."
@@ -843,10 +843,10 @@
     ],
     "renal": "La eficacia hipoglucemiante disminuye con filtración renal reducida. La decisión de inicio y continuidad depende de la indicación; verificar información vigente.",
     "interacciones": [
-      "Diuréticos: La combinación puede aumentar el riesgo de deshidratación, mareos y presión arterial baja; evaluar individualmente.",
+      "Diuréticos (p. ej., furosemida o hidroclorotiazida): la combinación puede aumentar el riesgo de deshidratación, mareos y presión arterial baja; evaluar individualmente.",
       "Insulina o sulfonilureas: Puede aumentar el riesgo de hipoglucemia; la modificación de dosis corresponde al equipo tratante.",
       "Litio: los iSGLT2 pueden disminuir su concentración sérica; requiere revisión y seguimiento por el equipo tratante.",
-      "Antiinflamatorios no esteroidales: En presencia de deshidratación, enfermedad renal u otros factores predisponentes, la automedicación con ibuprofeno o naproxeno puede añadir riesgo renal. Consultar al profesional; no constituye prohibición universal."
+      "Antiinflamatorios no esteroidales (AINEs; p. ej., ibuprofeno, ketoprofeno, ketorolaco o naproxeno): en presencia de deshidratación, enfermedad renal u otros factores predisponentes, su uso puede aumentar el riesgo renal. Consultar al QF, especialmente ante automedicación; no constituye prohibición universal."
     ],
     "alertas": [
       {
@@ -1005,10 +1005,10 @@
     ],
     "renal": "Cuando disminuye la función renal, la capacidad de canagliflozina para reducir la glicemia también disminuye. Los criterios de inicio o continuidad pueden diferir según la indicación clínica y el producto autorizado; el QF o equipo tratante debe revisar función renal, hidratación y ficha de la presentación. No aplicar un único umbral de TFGe a todos los usos.",
     "interacciones": [
-      "Diuréticos: La combinación puede aumentar el riesgo de deshidratación, mareos y presión arterial baja; evaluar individualmente.",
+      "Diuréticos (p. ej., furosemida o hidroclorotiazida): la combinación puede aumentar el riesgo de deshidratación, mareos y presión arterial baja; evaluar individualmente.",
       "Insulina o sulfonilureas: Puede aumentar el riesgo de hipoglucemia; la modificación de dosis corresponde al equipo tratante.",
-      "Inductores de UGT: pueden reducir la exposición a canagliflozina; solicitar revisión farmacoterapéutica del QF ante su uso concomitante.",
-      "Antiinflamatorios no esteroidales: En presencia de deshidratación, enfermedad renal u otros factores predisponentes, la automedicación con ibuprofeno o naproxeno puede añadir riesgo renal. Consultar al profesional; no constituye prohibición universal."
+      "Inductores de UGT (p. ej., rifampicina, fenitoína o fenobarbital): pueden reducir la exposición a canagliflozina; solicitar revisión farmacoterapéutica del QF ante su uso concomitante.",
+      "Antiinflamatorios no esteroidales (AINEs; p. ej., ibuprofeno, ketoprofeno, ketorolaco o naproxeno): en presencia de deshidratación, enfermedad renal u otros factores predisponentes, su uso puede aumentar el riesgo renal. Consultar al QF, especialmente ante automedicación; no constituye prohibición universal."
     ],
     "alertas": [
       {
@@ -1043,6 +1043,10 @@
       {
         "nombre": "CREDENCE — publicación original",
         "url": "https://doi.org/10.1056/NEJMoa1811744"
+      },
+      {
+        "nombre": "DailyMed/FDA, INVOKANA (canagliflozina), interacciones con inductores UGT, ficha estadounidense (referencia complementaria, 2026)",
+        "url": "https://www.dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=b9057d3b-b104-4f09-8a61-c61ef9d4a3f3&type=display"
       }
     ],
     "revision": "2026-10-10",
@@ -1499,7 +1503,7 @@
     ],
     "renal": "La saxagliptina requiere revisión de dosis según función renal y uso de inhibidores potentes de CYP3A4/5. Si se dispensa saxagliptina/metformina XR, aplicar además las restricciones renales de metformina y de la presentación fija. Dosis exacta pendiente de cotejo con folleto ISP.",
     "interacciones": [
-      "Inhibidores potentes CYP3A4/5 pueden aumentar exposición a saxagliptina; verificar ajustes con folleto profesional.",
+      "Inhibidores potentes de CYP3A4/5 (p. ej., claritromicina o itraconazol sistémicos): pueden aumentar la exposición a saxagliptina; solicitar revisión del QF y verificar la conducta con el folleto profesional.",
       "Sulfonilureas e insulina: mayor riesgo de hipoglucemia.",
       "Combinación con metformina XR: verificar interacciones, función renal, contrastes y riesgos propios de metformina."
     ],
@@ -1531,6 +1535,10 @@
       {
         "nombre": "ISP Chile, recomendaciones generales de almacenamiento y adquisición de medicamentos",
         "url": "https://www.ispch.gob.cl/noticia/isp-entrega-recomendaciones-sobre-el-correcto-almacenamiento-y-adquisicion-de-los-medicamentos/"
+      },
+      {
+        "nombre": "DailyMed/FDA, Saxagliptin tablets, interacciones CYP3A4/5, ficha estadounidense (referencia complementaria, octubre 2026)",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=f3ea58bb-0002-4a5d-9213-7e9066e3dc9c&type=display"
       }
     ],
     "revision": "2026-11-03 · homologación estructural ADME iDPP-4; verificación farmacocinética cuantitativa y regulatoria pendiente",
@@ -1591,7 +1599,7 @@
       "titulo_foco": "Metabolismo, función renal y seguridad cardiovascular",
       "farmacocinetica_y_seleccion": "Absorción: Se absorbe tras administración oral; comprobar en ficha técnica los parámetros de Tmax y las diferencias por formulación.\nDistribución: Los parámetros de distribución se mantienen pendientes de contraste con monografía del producto.\nMetabolismo: Es metabolizada por CYP3A4/5 a un metabolito farmacológicamente activo; los inhibidores potentes de esta vía pueden aumentar su exposición.\nExcreción y eliminación: Se elimina por vías renal y no renal; la insuficiencia renal puede requerir una pauta diferente. No extrapolar reglas de combinaciones fijas con metformina.",
       "fundamento": "Inhibición de la dipeptidil peptidasa-4 (DPP-4), enzima que degrada las incretinas endógenas GLP-1 y GIP. La mayor disponibilidad de incretinas activas favorece la secreción de insulina dependiente de glucosa y reduce la secreción inapropiada de glucagón. El efecto sobre HbA1c y la elección del fármaco dependen del contexto clínico.",
-      "interacciones_especificas": "Los inhibidores potentes de CYP3A4/5 pueden elevar la exposición a saxagliptina. Con insulina o sulfonilureas aumenta el riesgo de hipoglucemia.",
+      "interacciones_especificas": "Los inhibidores potentes de CYP3A4/5, como claritromicina e itraconazol sistémicos, pueden elevar la exposición a saxagliptina. Con insulina o sulfonilureas aumenta el riesgo de hipoglucemia. Cotejar la formulación y la ficha autorizada antes de recomendar cualquier ajuste.",
       "evidencia_y_limitaciones": "La señal de hospitalización por insuficiencia cardíaca descrita para saxagliptina debe valorarse en la selección y seguimiento, sin asumir que todo paciente que la recibe está incorrectamente tratado. Seguimiento: verificar función renal y tolerancia según molécula; vigilar síntomas compatibles con pancreatitis, hipersensibilidad o penfigoide ampolloso, cuando corresponda. La hipoglucemia adquiere relevancia con insulina o sulfonilureas.",
       "detalle_regulatorio": "La saxagliptina requiere revisión de dosis según función renal y uso de inhibidores potentes de CYP3A4/5. Si se dispensa saxagliptina/metformina XR, aplicar además las restricciones renales de metformina y de la presentación fija. Dosis exacta pendiente de cotejo con folleto ISP. Consideraciones para dispensación: comprobar principio activo, formulación, pauta prescrita y presencia de combinaciones fijas; no modificar dosis desde el mesón. Los valores farmacocinéticos cuantitativos pendientes de contraste no se incorporan."
     }
@@ -2314,8 +2322,8 @@
     "renal": "La alteración renal puede aumentar la susceptibilidad a hipoglucemia; revisar ficha técnica de la presentación y derivar dudas al QF.",
     "interacciones": [
       "Mayor riesgo de hipoglucemia: revisar especialmente nuevos tratamientos con cotrimoxazol (trimetoprima/sulfametoxazol), azoles antifúngicos como fluconazol, otros antidiabéticos y consumo de alcohol. La magnitud de la interacción depende del fármaco y del contexto clínico; el QF debe cotejar el principio activo y la ficha autorizada.",
-      "Betabloqueadores: pueden atenuar señales adrenérgicas de hipoglucemia (por ejemplo, palpitaciones y temblor), dificultando su reconocimiento; no implica que todos produzcan el mismo efecto sobre la glucosa.",
-      "Corticoides sistémicos y otros medicamentos hiperglucemiantes pueden reducir el control glicémico; ante inicio, suspensión o cambio de dosis, derivar al QF para revisión del tratamiento.",
+      "Betabloqueadores (p. ej., metoprolol o propranolol): pueden atenuar señales adrenérgicas de hipoglucemia (por ejemplo, palpitaciones y temblor), dificultando su reconocimiento; no implica que todos produzcan el mismo efecto sobre la glucosa.",
+      "Corticoides sistémicos (p. ej., prednisona o dexametasona) y otros medicamentos hiperglucemiantes pueden reducir el control glicémico; ante inicio, suspensión o cambio de dosis, derivar al QF para revisión del tratamiento.",
       "Fundamento para el QF: glibenclamida estimula la liberación de insulina incluso cuando disminuye la ingesta; las interacciones que potencian su efecto o disminuyen el aporte de glucosa elevan el riesgo de hipoglucemia prolongada. Priorizar episodios previos, comidas omitidas y función renal/hepática. No modificar tratamientos desde la PWA."
     ],
     "alertas": [
@@ -2401,7 +2409,7 @@
       "titulo_foco": "Seguridad y diferencias de glibenclamida",
       "fundamento": "Su acción secretagoga no es dependiente de glucosa, lo que contribuye al riesgo de hipoglucemia, incluso prolongada.",
       "farmacocinetica_y_seleccion": "Absorción: Absorción gastrointestinal tras administración oral; la relación con las comidas y la presentación debe verificarse en el folleto específico. Distribución: Elevada unión a proteínas plasmáticas. Metabolismo: Biotransformación hepática a metabolitos con posible actividad hipoglucemiante. Excreción y eliminación: Eliminación por vías renal y biliar; la alteración renal o hepática puede prolongar el efecto y favorecer hipoglucemias graves. No extrapolar tiempos o dosis entre presentaciones.",
-      "interacciones_especificas": "El folleto chileno de glibenclamida 5 mg menciona AINE, IECA, quinolonas, corticosteroides, rifampicina y otros; el efecto puede variar. Revisar fármaco, dosis y contexto antes de aconsejar.",
+      "interacciones_especificas": "El folleto chileno de glibenclamida 5 mg menciona AINEs, IECA, quinolonas, corticosteroides, rifampicina y otros. Para reconocer esas familias, algunos ejemplos son ibuprofeno (AINE), enalapril (IECA), ciprofloxacino (quinolona) y prednisona (corticoide). No tienen efectos equivalentes: revisar el medicamento, la dosis y el contexto antes de aconsejar.",
       "evidencia_y_limitaciones": "El metaanálisis de Volke et al. (2022) aporta evidencia comparativa de riesgo de hipoglucemia a nivel de clase; no justifica ajustes individuales.\nSeguridad y seguimiento: riesgo relevante de hipoglucemia prolongada, especialmente en personas mayores, con comidas irregulares o deterioro renal/hepático. Consideraciones para la dispensación: revisar interacciones, disponibilidad y transición en APS conforme al Ord. MINSAL C51 N.º 2191 de 2025; no recomendar suspender ni sustituir por iniciativa propia.",
       "detalle_regulatorio": "MINSAL, Ord. C51 N.º 2191 (16-12-2025): en la red APS se instruye no programar ni comprar glibenclamida desde 2026, disminuir progresivamente su indicación y no iniciar nuevos tratamientos desde 2026. Para quienes ya la utilizan, la indicación del cambio debe quedar realizada a más tardar el 30-06-2027, durante la atención médica habitual. El oficio no acredita por sí solo implementación local ni cancelación del registro sanitario."
     },
@@ -2439,7 +2447,7 @@
     "interacciones": [
       "Miconazol, especialmente por vía sistémica o gel oral: interacción clínicamente importante por potenciación del efecto hipoglucemiante; verificar la contraindicación o restricción aplicable en la ficha técnica de la presentación.",
       "Otros fármacos que pueden aumentar el riesgo de hipoglucemia incluyen algunos azoles, otros antidiabéticos y alcohol; confirmar el principio activo, la vía y la relevancia concreta con el QF.",
-      "Betabloqueadores pueden enmascarar síntomas adrenérgicos de hipoglucemia; los corticoides sistémicos pueden dificultar el control glicémico. Indagar por medicamentos iniciados recientemente.",
+      "Betabloqueadores (p. ej., metoprolol o propranolol) pueden enmascarar síntomas adrenérgicos de hipoglucemia; corticoides sistémicos (p. ej., prednisona o dexametasona) pueden dificultar el control glicémico. Indagar por medicamentos iniciados recientemente.",
       "Fundamento para el QF: la potenciación del efecto secretagogo puede producir hipoglucemia; la relevancia de una interacción no se extrapola automáticamente entre formulaciones de gliclazida convencional y de liberación modificada. Cotejar ficha autorizada y tratamiento completo."
     ],
     "alertas": [
@@ -2562,9 +2570,9 @@
     "renal": "La alteración renal puede aumentar la susceptibilidad a hipoglucemia; revisar ficha técnica de la presentación y derivar dudas al QF.",
     "interacciones": [
       "Mayor riesgo de hipoglucemia con medicamentos que potencian el efecto hipoglucemiante, entre ellos algunos antifúngicos azólicos (por ejemplo, fluconazol), otros antidiabéticos y alcohol. Consultar al QF ante incorporación de estos tratamientos.",
-      "Betabloqueadores pueden atenuar señales de alarma adrenérgicas de hipoglucemia; verificar antecedentes de episodios y educación del paciente.",
-      "Corticoides sistémicos y otros fármacos hiperglucemiantes pueden disminuir el control glicémico. No sugerir ajustes de dosis desde el mesón.",
-      "Fundamento para el QF: glimepirida es metabolizada principalmente por CYP2C9; inhibidores o inductores pueden modificar su exposición, pero la conducta depende del fármaco específico, comorbilidades y ficha autorizada. Distinguir alteraciones de glicemia del enmascaramiento de síntomas."
+      "Betabloqueadores (p. ej., metoprolol o propranolol) pueden atenuar señales de alarma adrenérgicas de hipoglucemia; verificar antecedentes de episodios y educación del paciente.",
+      "Corticoides sistémicos (p. ej., prednisona o dexametasona) y otros fármacos hiperglucemiantes pueden disminuir el control glicémico. No sugerir ajustes de dosis desde el mesón.",
+      "Fundamento para el QF: glimepirida es metabolizada principalmente por CYP2C9; inhibidores (p. ej., fluconazol) o inductores (p. ej., rifampicina) pueden modificar su exposición, pero la conducta depende del medicamento específico, las comorbilidades y la ficha autorizada. Distinguir alteraciones de glicemia del enmascaramiento de síntomas."
     ],
     "alertas": [
       {
@@ -2601,6 +2609,10 @@
       {
         "nombre": "ISP Chile, recomendaciones generales de almacenamiento y adquisición de medicamentos",
         "url": "https://www.ispch.gob.cl/noticia/isp-entrega-recomendaciones-sobre-el-correcto-almacenamiento-y-adquisicion-de-los-medicamentos/"
+      },
+      {
+        "nombre": "DailyMed/FDA, Glimepiride tablets, interacciones CYP2C9 (fluconazol/rifampicina), ficha estadounidense (referencia complementaria)",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=86acdd9e-8637-43e4-8bf7-b3a123b871b8"
       }
     ],
     "guia_meson": {
@@ -3547,9 +3559,9 @@
     ],
     "renal": "La alteración renal o hepática puede modificar necesidades de insulina y riesgo de hipoglicemia; cualquier ajuste corresponde al equipo tratante.",
     "interacciones": [
-      "Sulfonilureas: pueden incrementar riesgo de hipoglicemia al combinarse con insulina.",
-      "Betabloqueadores: pueden enmascarar signos adrenérgicos de hipoglicemia.",
-      "Glucocorticoides y ciertos simpaticomiméticos: pueden reducir el efecto hipoglicemiante aparente; no ajustar dosis en mesón.",
+      "Sulfonilureas (p. ej., gliclazida o glimepirida): pueden incrementar el riesgo de hipoglicemia al combinarse con insulina.",
+      "Betabloqueadores (p. ej., metoprolol o propranolol): pueden enmascarar signos adrenérgicos de hipoglicemia.",
+      "Glucocorticoides sistémicos (p. ej., prednisona) y ciertos simpaticomiméticos (p. ej., salbutamol): pueden disminuir el efecto hipoglicemiante según el contexto; no ajustar dosis en el mesón.",
       "Pioglitazona con insulina: vigilar edema y síntomas de insuficiencia cardíaca; evaluación clínica."
     ],
     "alertas": [
@@ -3679,9 +3691,9 @@
     ],
     "renal": "La alteración renal o hepática puede modificar necesidades de insulina y riesgo de hipoglicemia; cualquier ajuste corresponde al equipo tratante.",
     "interacciones": [
-      "Sulfonilureas: pueden incrementar riesgo de hipoglicemia al combinarse con insulina.",
-      "Betabloqueadores: pueden enmascarar signos adrenérgicos de hipoglicemia.",
-      "Glucocorticoides y ciertos simpaticomiméticos: pueden reducir el efecto hipoglicemiante aparente; no ajustar dosis en mesón.",
+      "Sulfonilureas (p. ej., gliclazida o glimepirida): pueden incrementar el riesgo de hipoglicemia al combinarse con insulina.",
+      "Betabloqueadores (p. ej., metoprolol o propranolol): pueden enmascarar signos adrenérgicos de hipoglicemia.",
+      "Glucocorticoides sistémicos (p. ej., prednisona) y ciertos simpaticomiméticos (p. ej., salbutamol): pueden disminuir el efecto hipoglicemiante según el contexto; no ajustar dosis en el mesón.",
       "Pioglitazona con insulina: vigilar edema y síntomas de insuficiencia cardíaca; evaluación clínica."
     ],
     "alertas": [
@@ -3811,9 +3823,9 @@
     ],
     "renal": "La alteración renal o hepática puede modificar necesidades de insulina y riesgo de hipoglicemia; cualquier ajuste corresponde al equipo tratante.",
     "interacciones": [
-      "Sulfonilureas: pueden incrementar riesgo de hipoglicemia al combinarse con insulina.",
-      "Betabloqueadores: pueden enmascarar signos adrenérgicos de hipoglicemia.",
-      "Glucocorticoides y ciertos simpaticomiméticos: pueden reducir el efecto hipoglicemiante aparente; no ajustar dosis en mesón.",
+      "Sulfonilureas (p. ej., gliclazida o glimepirida): pueden incrementar el riesgo de hipoglicemia al combinarse con insulina.",
+      "Betabloqueadores (p. ej., metoprolol o propranolol): pueden enmascarar signos adrenérgicos de hipoglicemia.",
+      "Glucocorticoides sistémicos (p. ej., prednisona) y ciertos simpaticomiméticos (p. ej., salbutamol): pueden disminuir el efecto hipoglicemiante según el contexto; no ajustar dosis en el mesón.",
       "Pioglitazona con insulina: vigilar edema y síntomas de insuficiencia cardíaca; evaluación clínica."
     ],
     "alertas": [
