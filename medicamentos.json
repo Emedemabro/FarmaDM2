@@ -319,7 +319,7 @@
     ],
     "dispensacion": "Verificar presentación, indicación de receta, titulación, técnica de administración y tolerancia; no modificar dosis sin prescriptor.",
     "marcas": [],
-    "posicionamiento": "Indicación del producto: DM2. Los beneficios de ensayos clínicos se interpretan por molécula, formulación y población, no como efecto uniforme de clase.",
+    "posicionamiento": "La semaglutida inyectable ayuda a controlar la glicemia en personas con DM2 y puede favorecer la reducción de peso. Se puede indicar cuando se necesita mejorar el control de la diabetes, considerando también las condiciones de salud de cada persona.",
     "mecanismo": "Imita la acción de una hormona intestinal (GLP-1): ayuda a liberar insulina cuando la glucosa está elevada, reduce una señal que aumenta la producción de glucosa por el hígado y puede favorecer la sensación de saciedad.",
     "reacciones": [
       "Náuseas, vómitos, diarrea o estreñimiento, especialmente durante la titulación.",
@@ -553,7 +553,7 @@
     "dispensacion": "Confirmar pauta semanal, concentración, tipo de dispositivo y comprensión de su uso. Preguntar por insulina o sulfonilureas, anticonceptivos orales y síntomas gastrointestinales persistentes. Explicar señales de pancreatitis y malnutrición.",
     "marcas": [],
     "mecanismo": "Activa receptores GIP y GLP-1: favorece la secreción de insulina dependiente de glucosa, modula el glucagón, retrasa el vaciamiento gástrico y contribuye a regular apetito y saciedad.",
-    "posicionamiento": "Alternativa de elevada eficacia para reducir HbA1c y peso corporal en adultos con DM2 cuando resulta pertinente según evaluación individual. No equivale a un agonista exclusivo GLP-1; la elección considera tolerancia, comorbilidades y tratamiento concomitante.",
+    "posicionamiento": "La tirzepatida ayuda a reducir la glicemia en adultos con DM2 y puede favorecer una reducción importante del peso. Puede considerarse cuando se necesita mejorar el control de la diabetes, teniendo en cuenta la tolerancia, otros medicamentos y las condiciones de salud de cada persona.",
     "renal": "Folleto ISP 2024: sin ajuste de dosis por insuficiencia renal, incluso terminal, según farmacocinética. Monitorizar función renal si hay reacciones gastrointestinales graves/deshidratación al iniciar o titular.",
     "interacciones": [
       "Anticonceptivos hormonales orales: según folleto ISP, cambiar a método no oral o añadir barrera 4 semanas tras iniciar y 4 semanas tras cada incremento de dosis.",
@@ -1270,7 +1270,7 @@
     ],
     "dispensacion": "Confirmar que el medicamento y la presentación coincidan con la receta. Explicar cómo tomarlo y preguntar si es la primera vez que lo utiliza, si ha olvidado dosis o si ha notado molestias. Preguntar por otros medicamentos, incluidos los que se hayan iniciado recientemente, para identificar interacciones relevantes. Evitar cambios de dosis u horarios sin indicación profesional.",
     "marcas": [],
-    "posicionamiento": "La evogliptina es una alternativa oral para reducir la glucosa mediante inhibición de DPP-4. Su selección depende de la disponibilidad local, la respuesta individual y las precauciones propias del principio activo.",
+    "posicionamiento": "La evogliptina ayuda a controlar la glicemia en personas con DM2. Cuando se utiliza sola presenta un bajo riesgo de hipoglicemia; su elección depende de las necesidades de tratamiento y las condiciones de salud de cada persona.",
     "mecanismo": "Los inhibidores DPP-4 prolongan la acción de las hormonas intestinales GLP-1 y GIP, que participan en el control de la glucosa después de comer. Cuando la glucosa aumenta, ayudan al páncreas a liberar insulina y disminuyen la señal de glucagón que favorece la producción hepática de glucosa. Por sí solos presentan bajo riesgo de hipoglucemia.",
     "reacciones": [
       "Artralgia, mareos, cefalea, insomnio, gastritis, urticaria, nasofaringitis y fatiga descritos en folleto.",
@@ -1385,7 +1385,7 @@
     ],
     "dispensacion": "Confirmar que el medicamento y la presentación coincidan con la receta. Explicar cómo tomarlo y preguntar si es la primera vez que lo utiliza, si ha olvidado dosis o si ha notado molestias. Preguntar por otros medicamentos, incluidos los que se hayan iniciado recientemente, para identificar interacciones relevantes. Evitar cambios de dosis u horarios sin indicación profesional.",
     "marcas": [],
-    "posicionamiento": "La linagliptina es una alternativa oral para el control glucémico, generalmente neutra sobre el peso y con bajo riesgo de hipoglucemia en monoterapia. Su eliminación predominantemente no renal puede facilitar su uso en personas con deterioro renal, según evaluación clínica.",
+    "posicionamiento": "La linagliptina ayuda a controlar la glicemia en personas con DM2 y tiene un bajo riesgo de hipoglicemia cuando se utiliza sola. Puede considerarse en personas con función renal disminuida porque su eliminación depende poco del riñón; la elección corresponde al equipo tratante.",
     "mecanismo": "Los inhibidores DPP-4 prolongan la acción de las hormonas intestinales GLP-1 y GIP, que participan en el control de la glucosa después de comer. Cuando la glucosa aumenta, ayudan al páncreas a liberar insulina y disminuyen la señal de glucagón que favorece la producción hepática de glucosa. Por sí solos presentan bajo riesgo de hipoglucemia.",
     "reacciones": [
       "Nasofaringitis, tos y reacciones de hipersensibilidad descritas para linagliptina; riesgo de hipoglucemia aumenta con insulina/sulfonilureas.",
@@ -1620,7 +1620,7 @@
     ],
     "dispensacion": "Verificar presentación, indicación de receta, titulación, técnica de administración y tolerancia; no modificar dosis sin prescriptor.",
     "marcas": [],
-    "posicionamiento": "Indicación del producto: DM2. Los beneficios de ensayos clínicos se interpretan por molécula, formulación y población, no como efecto uniforme de clase.",
+    "posicionamiento": "La semaglutida oral ayuda a controlar la glicemia en personas con DM2 y puede favorecer la reducción de peso. Es una alternativa para quienes necesitan mejorar su control glicémico mediante un medicamento oral; su forma de administración requiere instrucciones especiales.",
     "mecanismo": "Imita la acción de una hormona intestinal (GLP-1): ayuda a liberar insulina cuando la glucosa está elevada, reduce una señal que aumenta la producción de glucosa por el hígado y puede favorecer la sensación de saciedad.",
     "reacciones": [
       "Náuseas, vómitos, diarrea o estreñimiento, especialmente durante la titulación.",
@@ -1766,7 +1766,7 @@
     ],
     "dispensacion": "Verificar presentación, indicación de receta, titulación, técnica de administración y tolerancia; no modificar dosis sin prescriptor.",
     "marcas": [],
-    "posicionamiento": "Indicación del producto: DM2. Los beneficios de ensayos clínicos se interpretan por molécula, formulación y población, no como efecto uniforme de clase. El folleto ISP consultado es de 2016; verificar vigencia y modificaciones regulatorias en auditoría final.",
+    "posicionamiento": "La dulaglutida se utiliza para mejorar el control de la glicemia en personas con DM2. También ha demostrado beneficios cardiovasculares en determinadas personas estudiadas, por lo que su elección considera el control de la diabetes y otros antecedentes de salud.",
     "mecanismo": "Imita la acción de una hormona intestinal (GLP-1): ayuda a liberar insulina cuando la glucosa está elevada, reduce una señal que aumenta la producción de glucosa por el hígado y puede favorecer la sensación de saciedad.",
     "reacciones": [
       "Náuseas, vómitos, diarrea o estreñimiento, especialmente durante la titulación.",
@@ -1903,7 +1903,7 @@
       "fundamento": "Agonista GLP-1 de acción prolongada unido a una estructura tipo Fc que prolonga su permanencia sistémica. Favorece insulina dependiente de glucosa, reduce glucagón y enlentece vaciamiento gástrico.",
       "interacciones_especificas": "Insulina y sulfonilureas: posible aumento de hipoglucemia. El vaciamiento gástrico puede afectar la absorción de ciertos fármacos orales; valorar según medicamento.",
       "evidencia_y_limitaciones": "REWIND incluyó una proporción importante de pacientes sin evento cardiovascular previo; interpretar resultados según desenlaces y población del ensayo.\nSeguridad y seguimiento: efectos gastrointestinales, deshidratación y riesgo de hipoglucemia en combinación con secretagogos o insulina. Consideraciones para la dispensación: comprobar la pluma de dosis prescrita y la técnica de uso semanal; no asumir intercambiabilidad entre dispositivos.",
-      "detalle_regulatorio": "Verificar dosis, contraindicaciones, almacenamiento, condiciones de inicio y ajuste con el folleto ISP vigente de la presentación específica; los antecedentes de esta ficha no sustituyen dicha verificación."
+      "detalle_regulatorio": "Verificar dosis, contraindicaciones, almacenamiento, condiciones de inicio y ajuste con el folleto ISP vigente de la presentación específica; los antecedentes de esta ficha no sustituyen dicha verificación. El folleto ISP consultado durante la elaboración de esta ficha corresponde a 2016; su vigencia y eventuales modificaciones regulatorias requieren verificación documental final."
     },
     "guia_meson": {
       "preguntas": "¿Es primera vez que utiliza esta presentación? ¿Le mostraron cómo administrarla? ¿Ha tenido náuseas o vómitos que le dificulten comer o beber? ¿Usa insulina u otro medicamento que pueda bajar la glucosa?",
@@ -1931,7 +1931,7 @@
     "marcas": [
       "Victoza (DM2, ISP B-2249/22; distribución voluntariamente suspendida según ficha pública consultada)"
     ],
-    "posicionamiento": "Indicación del producto: DM2. Los beneficios de ensayos clínicos se interpretan por molécula, formulación y población, no como efecto uniforme de clase.",
+    "posicionamiento": "La liraglutida ayuda a controlar la glicemia en personas con DM2 y puede favorecer la reducción de peso. También ha demostrado beneficios cardiovasculares en personas con DM2 de alto riesgo, por lo que su elección depende de las necesidades y antecedentes de cada persona.",
     "mecanismo": "Imita la acción de una hormona intestinal (GLP-1): ayuda a liberar insulina cuando la glucosa está elevada, reduce una señal que aumenta la producción de glucosa por el hígado y puede favorecer la sensación de saciedad.",
     "reacciones": [
       "Náuseas, vómitos, diarrea o estreñimiento, especialmente durante la titulación.",
@@ -2074,7 +2074,7 @@
     ],
     "dispensacion": "Verificar presentación, indicación de receta, titulación, técnica de administración y tolerancia; no modificar dosis sin prescriptor.",
     "marcas": [],
-    "posicionamiento": "Indicación del producto: Control crónico del peso (no ficha de tratamiento glucémico de DM2). Los beneficios de ensayos clínicos se interpretan por molécula, formulación y población, no como efecto uniforme de clase.",
+    "posicionamiento": "Esta presentación de semaglutida se utiliza para el manejo del peso en personas que cumplen los criterios clínicos correspondientes, junto con medidas de alimentación y actividad física. Aunque comparte principio activo con Ozempic, no debe confundirse con la presentación destinada al control glicémico de la DM2 ni sustituirse automáticamente.",
     "mecanismo": "Imita la acción de una hormona intestinal (GLP-1): ayuda a liberar insulina cuando la glucosa está elevada, reduce una señal que aumenta la producción de glucosa por el hígado y puede favorecer la sensación de saciedad.",
     "reacciones": [
       "Náuseas, vómitos, diarrea o estreñimiento, especialmente durante la titulación.",
@@ -2207,7 +2207,7 @@
     ],
     "dispensacion": "Verificar presentación, indicación de receta, titulación, técnica de administración y tolerancia; no modificar dosis sin prescriptor.",
     "marcas": [],
-    "posicionamiento": "Indicación del producto: Control de peso (no ficha posológica para DM2). Los beneficios de ensayos clínicos se interpretan por molécula, formulación y población, no como efecto uniforme de clase.",
+    "posicionamiento": "Esta presentación de liraglutida se utiliza para el manejo del peso en personas que cumplen los criterios clínicos correspondientes, junto con medidas de alimentación y actividad física. Aunque comparte principio activo con Victoza, no debe confundirse con la presentación destinada al control glicémico de la DM2 ni sustituirse automáticamente.",
     "mecanismo": "Imita la acción de una hormona intestinal (GLP-1): ayuda a liberar insulina cuando la glucosa está elevada, reduce una señal que aumenta la producción de glucosa por el hígado y puede favorecer la sensación de saciedad.",
     "reacciones": [
       "Náuseas, vómitos, diarrea o estreñimiento, especialmente durante la titulación.",
