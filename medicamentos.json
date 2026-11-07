@@ -19,7 +19,7 @@
       "Puede asociarse a disminución de vitamina B12 con el uso prolongado.",
       "Acidosis láctica: infrecuente, pero grave; requiere especial atención a factores predisponentes."
     ],
-    "renal": "La función renal debe evaluarse para determinar si el tratamiento es apropiado. Como referencia general, está contraindicada con TFGe inferior a 30 mL/min/1,73 m²; el inicio y los ajustes en otros rangos requieren revisar el producto y la indicación clínica.",
+    "renal": "La metformina se elimina principalmente por los riñones. Por eso, mantener los controles renales indicados por el equipo tratante ayuda a comprobar que el medicamento siga siendo adecuado y seguro, incluso cuando la persona se siente bien. Durante la dispensación, preguntar si conoce antecedentes de enfermedad renal o si presenta vómitos, diarrea intensa o dificultad para beber líquidos. En esas situaciones, solicitar orientación del QF y evaluación del equipo tratante según la gravedad; no cambiar el tratamiento por cuenta propia.",
     "interacciones": [
       "Consumo excesivo de alcohol: puede aumentar el riesgo de acidosis láctica.",
       "Contraste yodado, procedimientos y enfermedades agudas: pueden requerir evaluación de interrupción temporal según la situación clínica.",
@@ -34,7 +34,7 @@
       {
         "nivel": "Precaución",
         "titulo": "Función renal alterada",
-        "detalle": "No interpretar una cifra aislada como autorización para dispensar sin revisar antecedentes, indicación y ficha del producto."
+        "detalle": "Reforzar la importancia de los controles renales indicados. Si la persona refiere enfermedad renal conocida, problemas para hidratarse o dudas sobre su tratamiento, solicitar evaluación del QF o equipo tratante. No es necesario que conozca su valor de filtración renal durante la atención."
       },
       {
         "nivel": "Consulta",
@@ -151,7 +151,7 @@
       "fundamento": "La metformina disminuye principalmente la producción hepática de glucosa y mejora la utilización periférica; sus mecanismos metabólicos son multifactoriales y no se reducen a una única diana. No estimula directamente la secreción pancreática de insulina, por lo que en monoterapia tiene bajo riesgo de hipoglucemia.",
       "interacciones_especificas": "El consumo excesivo de alcohol y situaciones de hipoxia o deterioro renal pueden aumentar el riesgo de acidosis láctica. Medicamentos que alteren la función renal o el transporte renal de metformina requieren revisión de interacciones. Con insulina o sulfonilureas aumenta el riesgo de hipoglucemia por los agentes asociados. Ante contraste yodado, verificar las condiciones de la ficha técnica específica y la indicación del equipo tratante.",
       "evidencia_y_limitaciones": "Seguridad y seguimiento: vigilar tolerancia gastrointestinal, función renal, control glucémico y posible déficit de vitamina B12 en tratamiento prolongado, especialmente ante anemia o neuropatía. La acidosis láctica es infrecuente pero potencialmente grave; requiere evaluar factores predisponentes. Precauciones: enfermedad aguda con deshidratación, hipoxia y deterioro renal requieren evaluación clínica de continuidad.",
-      "detalle_regulatorio": "Dispensación: diferenciar liberación inmediata y prolongada; verificar administración con alimentos, integridad del comprimido y condiciones particulares del producto. No triturar ni fraccionar formulaciones prolongadas sin comprobar la ficha específica. Los umbrales de TFGe, las instrucciones ante contraste y la conservación deben verificarse con el producto chileno vigente; no recomendar suspensión o ajuste autónomo desde el mesón."
+      "detalle_regulatorio": "Dispensación: diferenciar liberación inmediata y prolongada; verificar administración con alimentos, integridad del comprimido y condiciones particulares del producto. No triturar ni fraccionar formulaciones prolongadas sin comprobar la ficha específica. Los umbrales de TFGe, las instrucciones ante contraste y la conservación deben verificarse con el producto chileno vigente; no recomendar suspensión o ajuste autónomo desde el mesón. Nota técnica de revisión 07-11-2026: El dato clínico conservado del campo renal original: como referencia general, metformina está contraindicada con TFGe inferior a 30 mL/min/1,73 m²; inicio, ajustes, contrastes y factores de riesgo deben comprobarse con la ficha del producto y la evaluación clínica. Este umbral no es una pauta de mesón."
     }
   },
   {
@@ -340,7 +340,7 @@
       "Náuseas, vómitos, diarrea o estreñimiento, especialmente durante la titulación.",
       "Hipoglucemia más probable en combinación con insulina o sulfonilureas."
     ],
-    "renal": "La semaglutida inyectable habitualmente no necesita ajuste de dosis solo por disminución de la función renal, según su ficha estadounidense. La precaución principal en la dispensación es reconocer náuseas, vómitos o diarrea persistentes que dificultan la hidratación: pueden empeorar la función renal. Si hay muy poca orina, mareos importantes o imposibilidad de beber, solicitar evaluación profesional. Confirmar el folleto de la presentación chilena.",
+    "renal": "Ozempic se utiliza con seguimiento indicado por el equipo tratante. Si provoca vómitos o diarrea persistentes, la pérdida de líquidos puede afectar el funcionamiento de los riñones, especialmente cuando ya existe enfermedad renal. Durante la dispensación, reforzar la hidratación según las indicaciones del equipo de salud y los controles programados. Si no puede beber líquidos, presenta mareos importantes u orina mucho menos de lo habitual, orientar una evaluación médica pronta. No modificar las dosis por cuenta propia.",
     "interacciones": [
       "Insulina y sulfonilureas: aumento del riesgo de hipoglucemia; cualquier ajuste corresponde al equipo tratante.",
       "Retraso del vaciamiento gástrico: revisar fármacos orales concomitantes según ficha específica.",
@@ -377,6 +377,10 @@
       {
         "nombre": "DailyMed/FDA (EE. UU.) · Ozempic inyectable, ficha consultada 2026; función renal y deshidratación (no acredita registro chileno)",
         "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=42bdd912-2393-44c4-b7e0-47672ca28991"
+      },
+      {
+        "nombre": "ISP Chile · Ozempic 4 mg/3 mL · folleto profesional B-2775/19, versión publicada 2021 (revisar vigencia por presentación)",
+        "url": "https://www.ispch.gob.cl/wp-content/uploads/2021/08/B-2775.pdf"
       }
     ],
     "revision": "2026-10-12 · ampliación semaglutida con folletos ISP aportados y evidencia primaria; auditoría final pendiente",
@@ -451,7 +455,7 @@
       "fundamento": "Agonista del receptor GLP-1 con acción prolongada; potencia la secreción de insulina dependiente de glucosa, reduce el glucagón inapropiado y modula vaciamiento gástrico y saciedad. La exposición sostenida permite administración semanal.",
       "interacciones_especificas": "Insulina o sulfonilureas: hipoglucemia más probable. El retraso del vaciamiento gástrico puede influir en la absorción de algunos fármacos orales; evaluar casos específicos, sin recomendar separación horaria universal.",
       "evidencia_y_limitaciones": "SUSTAIN-6 estudió resultados cardiovasculares en una población de alto riesgo. No trasladar automáticamente datos de presentaciones para obesidad a la indicación DM2.\nSeguridad y seguimiento: náuseas, vómitos, diarrea, deshidratación y síntomas abdominales persistentes; revisar riesgo de hipoglucemia con insulina o sulfonilureas. Consideraciones para la dispensación: identificar dispositivo, dosis prescrita y día semanal; no confundir Ozempic con Wegovy.",
-      "detalle_regulatorio": "Verificar dosis, contraindicaciones, almacenamiento, condiciones de inicio y ajuste con el folleto ISP vigente de la presentación específica; los antecedentes de esta ficha no sustituyen dicha verificación."
+      "detalle_regulatorio": "Verificar dosis, contraindicaciones, almacenamiento, condiciones de inicio y ajuste con el folleto ISP vigente de la presentación específica; los antecedentes de esta ficha no sustituyen dicha verificación. Nota técnica de revisión 07-11-2026: Según folleto profesional ISP Ozempic B-2775/19, versión publicada en 2021, no se requiere ajuste de dosis por insuficiencia renal leve, moderada o grave; la experiencia en insuficiencia severa es limitada y ese folleto no recomienda uso en enfermedad renal terminal. No generalizar sin comprobar presentación o actualizaciones del ISP. Fuente: https://www.ispch.gob.cl/wp-content/uploads/2021/08/B-2775.pdf"
     },
     "guia_meson": {
       "preguntas": "¿Es primera vez que utiliza esta presentación? ¿Le mostraron cómo administrarla? ¿Ha tenido náuseas o vómitos que le dificulten comer o beber? ¿Usa insulina u otro medicamento que pueda bajar la glucosa?",
@@ -573,7 +577,7 @@
     "marcas": [],
     "mecanismo": "Activa receptores GIP y GLP-1: favorece la secreción de insulina dependiente de glucosa, modula el glucagón, retrasa el vaciamiento gástrico y contribuye a regular apetito y saciedad.",
     "posicionamiento": "La tirzepatida ayuda a reducir la glicemia en adultos con DM2 y puede favorecer una reducción importante del peso. Puede considerarse cuando se necesita mejorar el control de la diabetes, teniendo en cuenta la tolerancia, otros medicamentos y las condiciones de salud de cada persona.",
-    "renal": "Folleto ISP 2024: sin ajuste de dosis por insuficiencia renal, incluso terminal, según farmacocinética. Monitorizar función renal si hay reacciones gastrointestinales graves/deshidratación al iniciar o titular.",
+    "renal": "Con tirzepatida pueden aparecer náuseas, vómitos o diarrea. Si estas molestias son persistentes, la pérdida de líquidos puede afectar los riñones. Es importante mantener los controles indicados por el equipo tratante, especialmente si la persona tiene enfermedad renal conocida. Durante la dispensación, preguntar si está logrando beber líquidos y reconocer señales como mareos importantes o una disminución marcada de la orina. Si no puede hidratarse o presenta signos de deshidratación, orientar una evaluación médica pronta; no cambiar el tratamiento por cuenta propia.",
     "interacciones": [
       "Anticonceptivos hormonales orales: según folleto ISP, cambiar a método no oral o añadir barrera 4 semanas tras iniciar y 4 semanas tras cada incremento de dosis.",
       "Fármacos orales de índice terapéutico estrecho, p. ej. warfarina: vigilancia por retraso del vaciamiento gástrico.",
@@ -668,6 +672,10 @@
       {
         "nombre": "SURPASS-2 · ensayo comparativo",
         "url": "https://doi.org/10.1056/NEJMoa2107519"
+      },
+      {
+        "nombre": "ISP Chile · Mounjaro vial 10 mg/0,5 mL, folleto profesional F-28425/24, consultado 2026 (no extrapolar a KwikPen)",
+        "url": "https://www.ispch.gob.cl/wp-content/uploads/2026/03/MOUNJARO-SOLUCION-INYECTABLE-10-mg-05-mL-F-28425-24.pdf"
       }
     ],
     "revision": "2026-10-27 · revisión editorial de tirzepatida basada en documentación aportada",
@@ -683,7 +691,7 @@
       "farmacocinetica_y_seleccion": "Absorción: Absorción subcutánea lenta, compatible con administración semanal. Distribución: Unión a albúmina mediada por su cadena lateral lipídica. Metabolismo: Proteólisis de la cadena peptídica, beta-oxidación de la cadena lateral y procesos de hidrólisis. Excreción y eliminación: Metabolitos eliminados por orina y heces; semivida aproximada de cinco días. Distinguir vial monodosis y KwikPen multidosis en la dispensación.",
       "interacciones_especificas": "Insulina o sulfonilureas: mayor riesgo de hipoglucemia y posible necesidad de reevaluar dosis por prescriptor. El retraso del vaciamiento gástrico puede modificar absorción de fármacos orales; los folletos ISP recomiendan método anticonceptivo no oral o barrera adicional durante 4 semanas tras el inicio y tras cada aumento de dosis cuando se usan anticonceptivos hormonales orales. Evaluar medicamentos orales de margen terapéutico estrecho.",
       "evidencia_y_limitaciones": "Los ensayos SURPASS documentan reducciones importantes de HbA1c y peso; SURPASS-2 comparó tirzepatida con semaglutida 1 mg semanal, no con todas sus dosis o indicaciones. NICE TA924 analiza una población y criterios de financiación del NHS que no constituyen criterios regulatorios chilenos. La nota ISP de septiembre de 2026 advierte sobre malnutrición, incluidas deficiencias nutricionales y pérdida ponderal acelerada.\nSeguridad y seguimiento: efectos gastrointestinales, deshidratación, estado nutricional y síntomas de alarma; riesgo de hipoglucemia con insulina o sulfonilureas. Consideraciones para la dispensación: diferenciar presentación vial y KwikPen; verificar la precaución sobre anticonceptivos orales tras inicio o aumento de dosis conforme a ficha técnica aplicable.",
-      "detalle_regulatorio": "Folletos ISP: vial F-28426/24 y KwikPen F-29345/25 (presentaciones específicas). En pancreatitis sospechada, suspender y evaluar; si se confirma, no reiniciar según folleto. Vigilar síntomas de deshidratación, colecistopatía y tolerancia gastrointestinal. ISP, nota de farmacovigilancia 01-09-2026: evaluar estado nutricional antes y durante el tratamiento y considerar suspensión por profesional ante malnutrición grave o persistente."
+      "detalle_regulatorio": "Folletos ISP: vial F-28426/24 y KwikPen F-29345/25 (presentaciones específicas). En pancreatitis sospechada, suspender y evaluar; si se confirma, no reiniciar según folleto. Vigilar síntomas de deshidratación, colecistopatía y tolerancia gastrointestinal. ISP, nota de farmacovigilancia 01-09-2026: evaluar estado nutricional antes y durante el tratamiento y considerar suspensión por profesional ante malnutrición grave o persistente. Nota técnica de revisión 07-11-2026: Folleto ISP Mounjaro vial F-28425/24: no requiere ajuste de dosis por deterioro renal, incluida enfermedad renal terminal, basado en farmacocinética; la experiencia con deterioro grave/terminal es limitada y se requiere precaución. Los efectos gastrointestinales pueden producir deshidratación y deterioro renal. La recomendación debe verificarse por producto y dispositivo. Fuente: https://www.ispch.gob.cl/wp-content/uploads/2026/03/MOUNJARO-SOLUCION-INYECTABLE-10-mg-05-mL-F-28425-24.pdf"
     },
     "consejos_practicos": []
   },
@@ -736,17 +744,17 @@
       {
         "nivel": "Verificar pauta",
         "titulo": "Función renal e hipoglucemia",
-        "detalle": "Comprobar si existe evaluación renal y si utiliza insulina o sulfonilureas; ante discrepancias, consultar al químico farmacéutico."
+        "detalle": "Si la persona sabe que tiene enfermedad renal, recordar la importancia de sus controles y solicitar revisión del QF ante dudas sobre la pauta prescrita. Preguntar además si utiliza insulina o sulfonilureas, por el riesgo de hipoglicemia. No es necesario solicitar un valor de filtración renal en el mesón."
       },
       {
         "nivel": "Verificar formulación",
         "titulo": "Combinación con metformina",
-        "detalle": "La asociación sitagliptina/metformina tiene restricciones adicionales: está contraindicada con TFG <30 mL/min y requiere especial atención a deshidratación, acidosis láctica y contraste yodado. Derivar al químico farmacéutico ante dudas; no modificar dosis desde el mesón."
+        "detalle": "Confirmar si la receta corresponde a sitagliptina sola o asociada a metformina, porque no tienen las mismas precauciones renales. Si refiere enfermedad renal, deshidratación o dudas sobre la presentación prescrita, pedir revisión del QF o equipo tratante. Las restricciones y ajustes específicos corresponden al nivel profesional."
       },
       {
         "nivel": "Verificar combinación",
         "titulo": "Procedimiento con contraste yodado",
-        "detalle": "Si utiliza sitagliptina/metformina y tiene estudio con contraste yodado, comprobar si el equipo tratante indicó medidas especiales, particularmente con TFGe 30–59 mL/min/1,73 m² o factores de riesgo. No suspender ni reiniciar desde el mesón."
+        "detalle": "Si utiliza una combinación con metformina y tiene programado un examen con contraste yodado, preguntar si recibió instrucciones específicas del equipo tratante. Ante dudas, solicitar evaluación del QF o prescriptor; no indicar suspender ni reiniciar medicamentos desde el mesón."
       }
     ],
     "fuentes": [
@@ -862,7 +870,7 @@
     "reacciones": [
       "Puede aumentar la frecuencia urinaria y favorecer infecciones genitales por hongos. Consulte si presenta picazón, irritación, flujo anormal o molestias al orinar. La pérdida de líquidos puede provocar sed o mareos; los eventos graves son infrecuentes, pero deben reconocerse."
     ],
-    "renal": "La dapagliflozina elimina glucosa por la orina; si disminuye la función renal, su efecto para bajar la glicemia se reduce. Aun así, puede ofrecer beneficios cardíacos o renales en personas con indicaciones específicas. El QF debe diferenciar el motivo de tratamiento y revisar la TFGe y la ficha del producto antes de interpretar límites renales. No recomendar cambios o suspensión automática por una cifra aislada; considerar el riesgo de deshidratación.",
+    "renal": "Cuando los riñones filtran menos glucosa, la dapagliflozina puede tener menor efecto para reducir la glicemia. Sin embargo, en personas seleccionadas puede seguir aportando beneficios para el corazón o los riñones, según la indicación clínica. Mantener los controles renales solicitados ayuda al equipo tratante a evaluar la evolución de la enfermedad y la seguridad del tratamiento. En la farmacia, reforzar esos controles y preguntar por enfermedad renal conocida, mareos importantes, vómitos, diarrea o dificultad para beber líquidos. Orientar una consulta cuando corresponda, sin recomendar cambios por cuenta propia.",
     "interacciones": [
       "Diuréticos (p. ej., furosemida o hidroclorotiazida): la combinación puede aumentar el riesgo de deshidratación, mareos y presión arterial baja; evaluar individualmente.",
       "Insulina o sulfonilureas: Puede aumentar el riesgo de hipoglucemia; la modificación de dosis corresponde al equipo tratante.",
@@ -1010,7 +1018,7 @@
       "fundamento": "El bloqueo del cotransportador SGLT2 reduce la reabsorción tubular de glucosa y sodio. Su efecto glucémico depende de la filtración de glucosa; las indicaciones cardiorrenales requieren una valoración independiente del efecto sobre HbA1c.",
       "interacciones_especificas": "Diuréticos: vigilar síntomas de depleción de volumen. Insulina o sulfonilureas: riesgo adicional de hipoglucemia.",
       "evidencia_y_limitaciones": "Interpretar DECLARE–TIMI 58 y ensayos cardiorrenales en sus respectivas poblaciones; no confundir reducción de hospitalización por insuficiencia cardíaca con reducción demostrada de todos los eventos cardiovasculares.\nSeguridad y seguimiento: vigilar función renal, volemia y síntomas de cetoacidosis; considerar mayor riesgo de hipotensión con diuréticos. Consideraciones para la dispensación: explicar higiene y síntomas genitourinarios, reconocer enfermedad aguda y procedimientos; los criterios de inicio/continuidad varían según indicación de DM2, insuficiencia cardíaca o enfermedad renal.",
-      "detalle_regulatorio": "Verificar dosis, contraindicaciones, almacenamiento, condiciones de inicio y ajuste con el folleto ISP vigente de la presentación específica; los antecedentes de esta ficha no sustituyen dicha verificación. Referencia internacional: en la ficha estadounidense de FARXIGA (2026) no se recomienda dapagliflozina para mejorar el control glicémico con TFGe <45 mL/min/1,73 m²; para indicaciones cardiorrenales existen criterios diferentes, incluidos los relativos al inicio y continuidad. No extrapolar estos umbrales a todas las indicaciones ni atribuirles carácter regulatorio chileno; comprobar el folleto ISP de la presentación y el motivo de prescripción."
+      "detalle_regulatorio": "Verificar dosis, contraindicaciones, almacenamiento, condiciones de inicio y ajuste con el folleto ISP vigente de la presentación específica; los antecedentes de esta ficha no sustituyen dicha verificación. Referencia internacional: en la ficha estadounidense de FARXIGA (2026) no se recomienda dapagliflozina para mejorar el control glicémico con TFGe <45 mL/min/1,73 m²; para indicaciones cardiorrenales existen criterios diferentes, incluidos los relativos al inicio y continuidad. No extrapolar estos umbrales a todas las indicaciones ni atribuirles carácter regulatorio chileno; comprobar el folleto ISP de la presentación y el motivo de prescripción. Nota técnica de revisión 07-11-2026: Los criterios de TFGe dependen de la indicación (control glicémico frente a indicaciones cardiorrenales), producto y regulación local. El equipo tratante interpreta resultados y determina inicio o continuidad; no trasladar umbrales de la ficha estadounidense a la dispensación como si fueran universales en Chile."
     },
     "guia_meson": {
       "preguntas": "¿Es primera vez que lo toma? ¿Ha notado mareos, sed intensa o molestias genitales? ¿Ha tenido vómitos o dificultad para beber líquidos? ¿Usa otros medicamentos para la diabetes?",
@@ -1038,7 +1046,7 @@
     "reacciones": [
       "Puede aumentar la frecuencia urinaria y favorecer infecciones genitales por hongos. Consulte si presenta picazón, irritación, flujo anormal o molestias al orinar. La pérdida de líquidos puede provocar sed o mareos; los eventos graves son infrecuentes, pero deben reconocerse."
     ],
-    "renal": "Cuando disminuye la función renal, la capacidad de canagliflozina para reducir la glicemia también disminuye. Los criterios de inicio o continuidad pueden diferir según la indicación clínica y el producto autorizado; el QF o equipo tratante debe revisar función renal, hidratación y ficha de la presentación. No aplicar un único umbral de TFGe a todos los usos.",
+    "renal": "Cuando disminuye la función renal, canagliflozina puede reducir menos la glicemia. En determinadas personas con DM2 y enfermedad renal estudiada también puede aportar beneficios renales o cardiovasculares; esto no significa que sea adecuada para cualquier paciente. Los controles renales indicados permiten al equipo tratante evaluar la evolución de la enfermedad y la seguridad del tratamiento. Durante la dispensación, reforzar la asistencia a controles y consultar por enfermedad renal conocida, mareos, vómitos, diarrea o dificultad para hidratarse. Ante estas situaciones, orientar una evaluación profesional sin modificar el tratamiento.",
     "interacciones": [
       "Diuréticos (p. ej., furosemida o hidroclorotiazida): la combinación puede aumentar el riesgo de deshidratación, mareos y presión arterial baja; evaluar individualmente.",
       "Insulina o sulfonilureas: Puede aumentar el riesgo de hipoglucemia; la modificación de dosis corresponde al equipo tratante.",
@@ -1176,7 +1184,7 @@
       "fundamento": "Inhibe SGLT2 y reduce la reabsorción renal de glucosa; la pérdida urinaria de glucosa genera un efecto antihiperglucemiante dependiente de la función renal.",
       "interacciones_especificas": "Diuréticos: posible hipotensión por pérdida de volumen. Insulina y sulfonilureas: mayor riesgo de hipoglucemia. Revisar otros medicamentos según producto.",
       "evidencia_y_limitaciones": "En CANVAS se observó una señal de amputaciones que requiere contextualización; CREDENCE evaluó resultados renales en una población específica. No presentar la magnitud del riesgo como idéntica en todos los ensayos.\nSeguridad y seguimiento: vigilar volemia, función renal, salud de los pies, úlceras e infecciones; contextualizar la señal de amputaciones observada en CANVAS sin atribuir idéntico riesgo a toda la clase. Consideraciones para la dispensación: confirmar la administración antes de la primera comida conforme al producto y consultar ante lesiones del pie o síntomas de cetoacidosis.",
-      "detalle_regulatorio": "Verificar dosis, contraindicaciones, almacenamiento, condiciones de inicio y ajuste con el folleto ISP vigente de la presentación específica; los antecedentes de esta ficha no sustituyen dicha verificación."
+      "detalle_regulatorio": "Verificar dosis, contraindicaciones, almacenamiento, condiciones de inicio y ajuste con el folleto ISP vigente de la presentación específica; los antecedentes de esta ficha no sustituyen dicha verificación. Nota técnica de revisión 07-11-2026: La información renal depende de la indicación y presentación autorizada; no utilizar un único umbral de TFGe para todos los objetivos terapéuticos. Revisar los criterios de inicio y continuidad del producto chileno y el antecedente de enfermedad renal. Los beneficios cardiorrenales proceden de poblaciones estudiadas y no implican una indicación universal."
     },
     "guia_meson": {
       "preguntas": "¿Es primera vez que lo toma? ¿Ha notado mareos, sed intensa o molestias genitales? ¿Ha tenido vómitos o dificultad para beber líquidos? ¿Usa otros medicamentos para la diabetes?",
@@ -1213,7 +1221,7 @@
       {
         "nivel": "Evaluación pronta",
         "titulo": "Hepatotoxicidad",
-        "detalle": "Ictericia, coluria, anorexia o malestar persistente: evaluación médica. Control de transaminasas antes de iniciar, cada 3 meses el primer año y luego periódicamente según folleto."
+        "detalle": "Si aparecen piel u ojos amarillos, orina oscura, pérdida de apetito o malestar persistente, orientar una evaluación médica pronta. Reforzar la asistencia a los controles de función hepática indicados, aunque no tenga síntomas; la interpretación de transaminasas y los cambios de tratamiento corresponden al equipo tratante."
       },
       {
         "nivel": "Urgencia",
@@ -1239,6 +1247,10 @@
       {
         "nombre": "ISP Chile, recomendaciones generales de almacenamiento y adquisición de medicamentos",
         "url": "https://www.ispch.gob.cl/noticia/isp-entrega-recomendaciones-sobre-el-correcto-almacenamiento-y-adquisicion-de-los-medicamentos/"
+      },
+      {
+        "nombre": "ISP Chile · Galvus 50 mg, folleto profesional F-21478/19 (autorizado 31-01-2023), umbrales hepáticos",
+        "url": "https://www.ispch.gob.cl/wp-content/uploads/2023/02/GALVUS-COMPRIMIDOS-50-mg-F-21478_19.pdf"
       }
     ],
     "revision": "2026-11-03 · homologación estructural ADME iDPP-4; verificación farmacocinética cuantitativa y regulatoria pendiente",
@@ -1293,7 +1305,7 @@
       "fundamento": "Inhibición de la dipeptidil peptidasa-4 (DPP-4), enzima que degrada las incretinas endógenas GLP-1 y GIP. La mayor disponibilidad de incretinas activas favorece la secreción de insulina dependiente de glucosa y reduce la secreción inapropiada de glucagón. El efecto sobre HbA1c y la elección del fármaco dependen del contexto clínico.",
       "interacciones_especificas": "Con insulina o sulfonilureas puede aumentar la hipoglucemia. En combinaciones fijas con metformina deben evaluarse también las precauciones propias de esta última.",
       "evidencia_y_limitaciones": "La decisión de utilizarla requiere considerar las características del paciente y la ficha técnica del producto; no se deben generalizar sus precauciones a todos los DPP-4. Seguimiento: verificar función renal y tolerancia según molécula; vigilar síntomas compatibles con pancreatitis, hipersensibilidad o penfigoide ampolloso, cuando corresponda. La hipoglucemia adquiere relevancia con insulina o sulfonilureas.",
-      "detalle_regulatorio": "en disfunción renal moderada o grave, 50 mg una vez al día; en leve no requiere ajuste. No se recomienda en disfunción hepática, incluidos valores basales de ALT o AST >2,5 veces el límite superior normal. Consideraciones para dispensación: comprobar principio activo, formulación, pauta prescrita y presencia de combinaciones fijas; no modificar dosis desde el mesón. Los valores farmacocinéticos cuantitativos pendientes de contraste no se incorporan."
+      "detalle_regulatorio": "en disfunción renal moderada o grave, 50 mg una vez al día; en leve no requiere ajuste. No se recomienda en disfunción hepática, incluidos valores basales de ALT o AST >2,5 veces el límite superior normal. Consideraciones para dispensación: comprobar principio activo, formulación, pauta prescrita y presencia de combinaciones fijas; no modificar dosis desde el mesón. Los valores farmacocinéticos cuantitativos pendientes de contraste no se incorporan. Nota técnica de revisión 07-11-2026: Folleto ISP Galvus F-21478/19 (autorización enero 2023): valores ALT/AST PREVIOS al tratamiento >2,5 × LSN: no recomendado; elevación PERSISTENTE de ALT/AST ≥3 × LSN DURANTE tratamiento: el folleto recomienda retirada por el prescriptor. No son umbrales intercambiables. Refiere pruebas hepáticas antes del inicio, trimestrales el primer año y luego periódicas. Fuente: https://www.ispch.gob.cl/wp-content/uploads/2023/02/GALVUS-COMPRIMIDOS-50-mg-F-21478_19.pdf"
     }
   },
   {
