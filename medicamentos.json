@@ -2361,7 +2361,7 @@
     "guia_meson": {
       "preguntas": "¿Mantiene horarios regulares de comida? ¿Ha tenido temblores, sudor frío o confusión? ¿Presenta enfermedad renal o hepática conocida?",
       "explicacion": "Puede bajar la glucosa incluso cuando no se ha comido lo suficiente. Es importante mantener la alimentación regular y reconocer los síntomas de hipoglucemia.",
-      "alertas": "1. Hipoglucemia: temblores, sudor frío, palpitaciones, hambre intensa o confusión.\n2. Hipoglucemia grave, prolongada o recurrente: solicitar atención urgente.\n3. Saltarse comidas, alcohol o ingesta insuficiente: aumentan el riesgo.\n4. Personas mayores o con deterioro renal/hepático: especial precaución."
+      "alertas": "1. Hipoglucemia: temblores, sudor frío, palpitaciones, hambre intensa o confusión.\n2. Hipoglicemia severa: activar urgencias; los episodios repetidos requieren evaluación por el equipo tratante.\n3. Saltarse comidas, alcohol o ingesta insuficiente: aumentan el riesgo.\n4. Personas mayores o con deterioro renal/hepático: especial precaución."
     },
     "dispensacion_rapida": {
       "primera": {
@@ -2382,7 +2382,7 @@
     "consejos_practicos": [
       {
         "titulo": "Hipoglucemia: orientación educativa 15/15",
-        "texto": "Si la persona está consciente, puede tragar y confirma glucosa ≤70 mg/dL, orientar sobre la regla 15/15: 15 g de carbohidratos de absorción rápida, esperar 15 minutos y volver a medir; repetir si continúa baja. Si pierde la conciencia, convulsiona o no puede tragar, no administrar nada por boca y solicitar urgencias. Las sulfonilureas pueden causar recurrencia: informar al equipo de salud.",
+        "texto": "Reforzar el plan individual del equipo tratante. Como orientación educativa general para un adulto consciente, alerta y capaz de tragar, ante glicemia <70 mg/dL puede aplicarse la regla de los 15-15: consumir 15 g de carbohidratos de absorción rápida, volver a medir a los 15 minutos y repetir si persiste baja. Ante síntomas compatibles sin medición disponible, seguir el plan previamente indicado y solicitar apoyo sin retrasar la atención. Si hay pérdida de conciencia, convulsiones o incapacidad para tragar, activar urgencias y no dar nada por boca. Las sulfonilureas pueden causar hipoglicemia recurrente: comunicar los episodios al equipo de salud, sin modificar dosis por cuenta propia.",
         "tipo": "Seguridad"
       },
       {
@@ -2506,7 +2506,7 @@
     "consejos_practicos": [
       {
         "titulo": "Hipoglucemia: orientación educativa 15/15",
-        "texto": "Si la persona está consciente, puede tragar y confirma glucosa ≤70 mg/dL, orientar sobre la regla 15/15: 15 g de carbohidratos de absorción rápida, esperar 15 minutos y volver a medir; repetir si continúa baja. Si pierde la conciencia, convulsiona o no puede tragar, no administrar nada por boca y solicitar urgencias. Las sulfonilureas pueden causar recurrencia: informar al equipo de salud.",
+        "texto": "Reforzar el plan individual del equipo tratante. Como orientación educativa general para un adulto consciente, alerta y capaz de tragar, ante glicemia <70 mg/dL puede aplicarse la regla de los 15-15: consumir 15 g de carbohidratos de absorción rápida, volver a medir a los 15 minutos y repetir si persiste baja. Ante síntomas compatibles sin medición disponible, seguir el plan previamente indicado y solicitar apoyo sin retrasar la atención. Si hay pérdida de conciencia, convulsiones o incapacidad para tragar, activar urgencias y no dar nada por boca. Las sulfonilureas pueden causar hipoglicemia recurrente: comunicar los episodios al equipo de salud, sin modificar dosis por cuenta propia.",
         "tipo": "Seguridad"
       },
       {
@@ -2605,7 +2605,7 @@
     "guia_meson": {
       "preguntas": "¿La toma con el desayuno o primera comida principal? ¿Se salta comidas? ¿Ha notado síntomas de glucosa baja?",
       "explicacion": "Estimula la liberación de insulina y puede causar hipoglucemia si se omiten comidas o existe mayor susceptibilidad.",
-      "alertas": "1. Hipoglucemia: sudor frío, temblores, hambre, palpitaciones o confusión.\n2. Saltarse la primera comida principal: aumenta el riesgo de hipoglucemia.\n3. Episodios recurrentes o graves: solicitar evaluación urgente.\n4. Nuevos medicamentos y enfermedad renal/hepática: revisar con QF."
+      "alertas": "1. Hipoglucemia: sudor frío, temblores, hambre, palpitaciones o confusión.\n2. Saltarse la primera comida principal: aumenta el riesgo de hipoglucemia.\n3. Episodios repetidos: informar al equipo tratante; ante compromiso de conciencia, convulsiones o imposibilidad de tragar, activar urgencias.\n4. Nuevos medicamentos y enfermedad renal/hepática: revisar con QF."
     },
     "dispensacion_rapida": {
       "primera": {
@@ -2626,7 +2626,7 @@
     "consejos_practicos": [
       {
         "titulo": "Hipoglucemia: orientación educativa 15/15",
-        "texto": "Si la persona está consciente, puede tragar y confirma glucosa ≤70 mg/dL, orientar sobre la regla 15/15: 15 g de carbohidratos de absorción rápida, esperar 15 minutos y volver a medir; repetir si continúa baja. Si pierde la conciencia, convulsiona o no puede tragar, no administrar nada por boca y solicitar urgencias. Las sulfonilureas pueden causar recurrencia: informar al equipo de salud.",
+        "texto": "Reforzar el plan individual del equipo tratante. Como orientación educativa general para un adulto consciente, alerta y capaz de tragar, ante glicemia <70 mg/dL puede aplicarse la regla de los 15-15: consumir 15 g de carbohidratos de absorción rápida, volver a medir a los 15 minutos y repetir si persiste baja. Ante síntomas compatibles sin medición disponible, seguir el plan previamente indicado y solicitar apoyo sin retrasar la atención. Si hay pérdida de conciencia, convulsiones o incapacidad para tragar, activar urgencias y no dar nada por boca. Las sulfonilureas pueden causar hipoglicemia recurrente: comunicar los episodios al equipo de salud, sin modificar dosis por cuenta propia.",
         "tipo": "Seguridad"
       },
       {
