@@ -162,9 +162,11 @@
     "estado": "Ficha ampliada · revisión documental y regulatoria pendiente",
     "descripcion": "Favorece la eliminación urinaria de glucosa al inhibir SGLT2 en el riñón.",
     "seguridad": [
-      "Reconocer signos de deshidratación y posibles infecciones genitales.",
-      "Reconocer síntomas de cetoacidosis incluso sin hiperglucemia marcada.",
-      "Considerar situaciones de enfermedad aguda y cirugía con orientación del equipo tratante."
+      "Pérdida de líquidos: consultar por sed intensa, mareos al ponerse de pie, vómitos o diarrea. Mayor precaución en adultos mayores, personas con enfermedad renal y quienes usan diuréticos (p. ej., furosemida).",
+      "Infecciones genitales o urinarias: picazón o flujo genital, ardor al orinar o fiebre requieren evaluación. Dolor intenso, inflamación o enrojecimiento del periné, sobre todo con fiebre, requiere atención urgente.",
+      "Posible cetoacidosis: vómitos persistentes, dolor abdominal, respiración anormal o somnolencia requieren urgencias, incluso si la glicemia no está muy elevada.",
+      "Ayuno prolongado, cirugía o enfermedad que dificulta comer o beber: verificar si existe un plan del equipo tratante para estas situaciones. No modificar ni suspender el tratamiento por cuenta propia.",
+      "Si se combina con insulina o una sulfonilurea, reforzar el reconocimiento de hipoglicemia y consultar al QF ante episodios."
     ],
     "dispensacion": "Confirmar pauta prescrita: una vez al día, con o sin alimentos. Reforzar síntomas de alarma, higiene y consultas oportunas; no indicar cambios autónomos de dosis ni suspensión.",
     "posicionamiento": "Se utiliza en la DM2 para ayudar a eliminar parte del exceso de glucosa por la orina. Además, ha demostrado beneficios cardiovasculares y renales en determinados grupos de pacientes; por eso, su utilidad no se limita al control de la glicemia. Su elección depende de las características de la persona, la indicación autorizada y la evaluación del equipo tratante.",
@@ -172,7 +174,7 @@
     "reacciones": [
       "Puede aumentar la frecuencia urinaria y favorecer infecciones genitales por hongos. Consulte si presenta picazón, irritación, flujo anormal o molestias al orinar. La pérdida de líquidos puede provocar sed o mareos; los eventos graves son infrecuentes, pero deben reconocerse."
     ],
-    "renal": "No extrapolar los umbrales de filtración renal entre indicaciones; considerar función renal, situación clínica y ficha vigente.",
+    "renal": "Cuando la función renal disminuye, la empagliflozina suele tener menos efecto para bajar la glicemia. Sin embargo, puede mantener beneficios para el corazón o los riñones en personas con indicaciones específicas. Por eso, una TFGe baja no significa automáticamente que el medicamento deba suspenderse ni que pueda iniciarse sin revisión: ante dudas, el QF debe comprobar la función renal, el motivo de uso y las condiciones de la presentación prescrita. La deshidratación puede agravar los problemas renales.",
     "interacciones": [
       "Diuréticos (p. ej., furosemida o hidroclorotiazida): la combinación puede aumentar el riesgo de deshidratación, mareos y presión arterial baja; evaluar individualmente.",
       "Insulina o sulfonilureas: Puede aumentar el riesgo de hipoglucemia; la modificación de dosis corresponde al equipo tratante.",
@@ -194,6 +196,11 @@
         "nivel": "Consulta",
         "titulo": "Infección genital o urinaria",
         "detalle": "Consultar si presenta picazón genital, secreción anormal, dolor o ardor al orinar; urgencias ante fiebre con compromiso general o dolor perineal intenso."
+      },
+      {
+        "nivel": "Precaución",
+        "titulo": "Pérdida de líquidos y función renal",
+        "detalle": "Mareos al ponerse de pie, sed intensa, vómitos o diarrea justifican revisar hidratación y tratamiento con el QF, especialmente en adultos mayores, personas con enfermedad renal o quienes reciben diuréticos como furosemida. Ante poca orina o deterioro importante, solicitar evaluación médica."
       }
     ],
     "fuentes": [
@@ -212,6 +219,14 @@
       {
         "nombre": "EMPA-KIDNEY — publicación original",
         "url": "https://doi.org/10.1056/NEJMoa2204233"
+      },
+      {
+        "nombre": "DailyMed/FDA (EE. UU.) · Jardiance, ficha revisada 01/2026 (referencia regulatoria internacional; no acredita vigencia chilena)",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5777b8a8-ada6-4950-8548-43a1de11f075"
+      },
+      {
+        "nombre": "ADA · Enfermedad renal y riesgo cardiovascular en DM2, Standards of Care 2026, sección 11",
+        "url": "https://doi.org/10.2337/dc26-S011"
       }
     ],
     "revision": "2026-10-10",
@@ -296,7 +311,7 @@
       "fundamento": "La inhibición de SGLT2 en el túbulo proximal disminuye la reabsorción de glucosa y sodio. La glucosuria contribuye al descenso de glucemia; los beneficios en insuficiencia cardíaca y enfermedad renal no se explican exclusivamente por la reducción de HbA1c.",
       "interacciones_especificas": "Diuréticos: posible depleción de volumen e hipotensión. Insulina o sulfonilureas: mayor riesgo de hipoglucemia; la evaluación de dosis corresponde al prescriptor.",
       "evidencia_y_limitaciones": "Los resultados de EMPA-REG OUTCOME y estudios posteriores son específicos de población, desenlace e indicación; evitar extrapolarlos automáticamente a toda la clase.\nSeguridad y seguimiento: vigilar función renal según indicación, presión arterial, hidratación, síntomas de infección genital y signos compatibles con cetoacidosis incluso sin hiperglucemia marcada. Consideraciones para la dispensación: identificar ayuno prolongado, cirugía o enfermedad aguda para evaluación del plan de suspensión temporal por el equipo tratante; no fijar un umbral único de TFGe para todas las indicaciones.",
-      "detalle_regulatorio": "Verificar dosis, contraindicaciones, almacenamiento, condiciones de inicio y ajuste con el folleto ISP vigente de la presentación específica; los antecedentes de esta ficha no sustituyen dicha verificación."
+      "detalle_regulatorio": "Verificar dosis, contraindicaciones, almacenamiento, condiciones de inicio y ajuste con el folleto ISP vigente de la presentación específica; los antecedentes de esta ficha no sustituyen dicha verificación. Referencia internacional: la ficha estadounidense de JARDIANCE revisada en enero de 2026 no recomienda su uso para mejorar exclusivamente el control glicémico cuando TFGe <30 mL/min/1,73 m²; esto no equivale a una contraindicación universal ni define su uso cardiorrenal. ADA 2026 recomienda iSGLT2 con beneficio demostrado para adultos con DM2 y enfermedad renal crónica desde TFGe ≥20 mL/min/1,73 m², según evaluación clínica. Estos criterios NO acreditan indicación, autorización o presentación en Chile: contrastar con el folleto ISP vigente y la indicación prescrita."
     },
     "guia_meson": {
       "preguntas": "¿Es primera vez que lo toma? ¿Ha notado mareos, sed intensa o molestias genitales? ¿Ha tenido vómitos o dificultad para beber líquidos? ¿Usa otros medicamentos para la diabetes?",
@@ -325,7 +340,7 @@
       "Náuseas, vómitos, diarrea o estreñimiento, especialmente durante la titulación.",
       "Hipoglucemia más probable en combinación con insulina o sulfonilureas."
     ],
-    "renal": "No extrapolar restricciones renales entre presentaciones; vigilar deshidratación y deterioro renal por vómitos/diarrea persistentes. Verificar folleto ISP específico.",
+    "renal": "La semaglutida inyectable habitualmente no necesita ajuste de dosis solo por disminución de la función renal, según su ficha estadounidense. La precaución principal en la dispensación es reconocer náuseas, vómitos o diarrea persistentes que dificultan la hidratación: pueden empeorar la función renal. Si hay muy poca orina, mareos importantes o imposibilidad de beber, solicitar evaluación profesional. Confirmar el folleto de la presentación chilena.",
     "interacciones": [
       "Insulina y sulfonilureas: aumento del riesgo de hipoglucemia; cualquier ajuste corresponde al equipo tratante.",
       "Retraso del vaciamiento gástrico: revisar fármacos orales concomitantes según ficha específica.",
@@ -358,6 +373,10 @@
       },
       {
         "nombre": "Folleto ISP aportado Ozempic (B-2775/19); datos de conservación y posología cotejados en PDF local. Vigencia regulatoria actual pendiente de verificación."
+      },
+      {
+        "nombre": "DailyMed/FDA (EE. UU.) · Ozempic inyectable, ficha consultada 2026; función renal y deshidratación (no acredita registro chileno)",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=42bdd912-2393-44c4-b7e0-47672ca28991"
       }
     ],
     "revision": "2026-10-12 · ampliación semaglutida con folletos ISP aportados y evidencia primaria; auditoría final pendiente",
@@ -831,9 +850,11 @@
     "estado": "Ficha ampliada · revisión documental y regulatoria pendiente",
     "descripcion": "Favorece la eliminación urinaria de glucosa al inhibir SGLT2 en el riñón.",
     "seguridad": [
-      "Reconocer signos de deshidratación y posibles infecciones genitales.",
-      "Reconocer síntomas de cetoacidosis incluso sin hiperglucemia marcada.",
-      "Considerar situaciones de enfermedad aguda y cirugía con orientación del equipo tratante."
+      "Deshidratación o presión baja: preguntar por sed intensa, mareos al levantarse, vómitos o diarrea; más precaución si usa diuréticos (p. ej., furosemida) o presenta enfermedad renal.",
+      "Molestias genitales o urinarias: picazón, flujo anormal o ardor al orinar requieren consulta. Fiebre con compromiso general o dolor intenso en región genital/perineal requiere evaluación urgente.",
+      "Posible cetoacidosis: vómitos persistentes, dolor abdominal, respiración anormal o somnolencia ameritan urgencias aunque la glicemia no esté muy elevada.",
+      "Antes de cirugía, ayuno prolongado o durante enfermedad con poca ingesta: consultar oportunamente las instrucciones individualizadas del equipo tratante; no modificar el medicamento por cuenta propia.",
+      "Con insulina o sulfonilureas, reforzar signos de hipoglicemia y revisar episodios con el QF."
     ],
     "dispensacion": "Confirmar pauta prescrita: una vez al día, con o sin alimentos. Reforzar síntomas de alarma, higiene y consultas oportunas; no indicar cambios autónomos de dosis ni suspensión.",
     "posicionamiento": "Ayuda a reducir la glicemia al favorecer la eliminación de glucosa por la orina. También ha demostrado beneficios en determinadas personas con insuficiencia cardíaca o enfermedad renal, por lo que puede utilizarse por objetivos adicionales al control glicémico. La elección debe considerar la indicación autorizada y la evaluación del equipo tratante.",
@@ -841,7 +862,7 @@
     "reacciones": [
       "Puede aumentar la frecuencia urinaria y favorecer infecciones genitales por hongos. Consulte si presenta picazón, irritación, flujo anormal o molestias al orinar. La pérdida de líquidos puede provocar sed o mareos; los eventos graves son infrecuentes, pero deben reconocerse."
     ],
-    "renal": "La eficacia hipoglucemiante disminuye con filtración renal reducida. La decisión de inicio y continuidad depende de la indicación; verificar información vigente.",
+    "renal": "La dapagliflozina elimina glucosa por la orina; si disminuye la función renal, su efecto para bajar la glicemia se reduce. Aun así, puede ofrecer beneficios cardíacos o renales en personas con indicaciones específicas. El QF debe diferenciar el motivo de tratamiento y revisar la TFGe y la ficha del producto antes de interpretar límites renales. No recomendar cambios o suspensión automática por una cifra aislada; considerar el riesgo de deshidratación.",
     "interacciones": [
       "Diuréticos (p. ej., furosemida o hidroclorotiazida): la combinación puede aumentar el riesgo de deshidratación, mareos y presión arterial baja; evaluar individualmente.",
       "Insulina o sulfonilureas: Puede aumentar el riesgo de hipoglucemia; la modificación de dosis corresponde al equipo tratante.",
@@ -863,6 +884,11 @@
         "nivel": "Consulta",
         "titulo": "Infección genital o urinaria",
         "detalle": "Consultar si presenta picazón genital, secreción anormal, dolor o ardor al orinar; urgencias ante fiebre con compromiso general o dolor perineal intenso."
+      },
+      {
+        "nivel": "Precaución",
+        "titulo": "Pérdida de líquidos y función renal",
+        "detalle": "Mareos al ponerse de pie, sed intensa, vómitos o diarrea justifican revisar hidratación y tratamiento con el QF, especialmente en adultos mayores, personas con enfermedad renal o quienes reciben diuréticos como furosemida. Ante poca orina o deterioro importante, solicitar evaluación médica."
       }
     ],
     "fuentes": [
@@ -885,6 +911,14 @@
       {
         "nombre": "DAPA-CKD — publicación original",
         "url": "https://doi.org/10.1056/NEJMoa2024816"
+      },
+      {
+        "nombre": "DailyMed/FDA (EE. UU.) · Farxiga, ficha revisada 09/2026 (referencia regulatoria internacional; no acredita vigencia chilena)",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ef9e9c8c-5460-4193-952a-0c249dd071bd"
+      },
+      {
+        "nombre": "ADA · Enfermedad renal y riesgo cardiovascular en DM2, Standards of Care 2026, sección 11",
+        "url": "https://doi.org/10.2337/dc26-S011"
       }
     ],
     "revision": "2026-10-10",
@@ -976,7 +1010,7 @@
       "fundamento": "El bloqueo del cotransportador SGLT2 reduce la reabsorción tubular de glucosa y sodio. Su efecto glucémico depende de la filtración de glucosa; las indicaciones cardiorrenales requieren una valoración independiente del efecto sobre HbA1c.",
       "interacciones_especificas": "Diuréticos: vigilar síntomas de depleción de volumen. Insulina o sulfonilureas: riesgo adicional de hipoglucemia.",
       "evidencia_y_limitaciones": "Interpretar DECLARE–TIMI 58 y ensayos cardiorrenales en sus respectivas poblaciones; no confundir reducción de hospitalización por insuficiencia cardíaca con reducción demostrada de todos los eventos cardiovasculares.\nSeguridad y seguimiento: vigilar función renal, volemia y síntomas de cetoacidosis; considerar mayor riesgo de hipotensión con diuréticos. Consideraciones para la dispensación: explicar higiene y síntomas genitourinarios, reconocer enfermedad aguda y procedimientos; los criterios de inicio/continuidad varían según indicación de DM2, insuficiencia cardíaca o enfermedad renal.",
-      "detalle_regulatorio": "Verificar dosis, contraindicaciones, almacenamiento, condiciones de inicio y ajuste con el folleto ISP vigente de la presentación específica; los antecedentes de esta ficha no sustituyen dicha verificación."
+      "detalle_regulatorio": "Verificar dosis, contraindicaciones, almacenamiento, condiciones de inicio y ajuste con el folleto ISP vigente de la presentación específica; los antecedentes de esta ficha no sustituyen dicha verificación. Referencia internacional: en la ficha estadounidense de FARXIGA (2026) no se recomienda dapagliflozina para mejorar el control glicémico con TFGe <45 mL/min/1,73 m²; para indicaciones cardiorrenales existen criterios diferentes, incluidos los relativos al inicio y continuidad. No extrapolar estos umbrales a todas las indicaciones ni atribuirles carácter regulatorio chileno; comprobar el folleto ISP de la presentación y el motivo de prescripción."
     },
     "guia_meson": {
       "preguntas": "¿Es primera vez que lo toma? ¿Ha notado mareos, sed intensa o molestias genitales? ¿Ha tenido vómitos o dificultad para beber líquidos? ¿Usa otros medicamentos para la diabetes?",
@@ -992,10 +1026,11 @@
     "estado": "Ficha ampliada · revisión documental y regulatoria pendiente",
     "descripcion": "Favorece la eliminación urinaria de glucosa al inhibir SGLT2 en el riñón.",
     "seguridad": [
-      "Reconocer signos de deshidratación y posibles infecciones genitales.",
-      "Reconocer síntomas de cetoacidosis incluso sin hiperglucemia marcada.",
-      "Considerar situaciones de enfermedad aguda y cirugía con orientación del equipo tratante.",
-      "Reforzar el cuidado de los pies y solicitar evaluación ante heridas, úlceras, dolor nuevo o signos de infección; contextualizar la señal de amputaciones observada en estudios de canagliflozina."
+      "Pérdida de líquidos o hipotensión: preguntar por sed intensa, mareos al levantarse, vómitos o diarrea, especialmente si hay enfermedad renal o diuréticos (p. ej., furosemida).",
+      "Síntomas genitales o urinarios: picazón, secreción anormal, ardor al orinar o fiebre justifican consulta; dolor intenso o inflamación perineal con fiebre requiere atención urgente.",
+      "Posible cetoacidosis: dolor abdominal, vómitos persistentes, respiración anormal o somnolencia requieren urgencias aunque la glicemia no sea muy alta.",
+      "Ayuno prolongado, cirugía o enfermedad con poca ingesta: consultar al equipo tratante sobre las instrucciones individuales; no modificar el tratamiento por iniciativa propia.",
+      "Cuidado de pies: comprobar heridas, úlceras, dolor nuevo o infección y solicitar evaluación. La señal de amputaciones observada con canagliflozina no debe extrapolarse como riesgo idéntico a todos los iSGLT2."
     ],
     "dispensacion": "Confirmar pauta prescrita: una vez al día, preferentemente antes de la primera comida del día. Reforzar síntomas de alarma, higiene y consultas oportunas; no indicar cambios autónomos de dosis ni suspensión.",
     "posicionamiento": "Se utiliza en la DM2 para ayudar a disminuir la glicemia mediante la eliminación de glucosa por la orina. En ciertos grupos de pacientes también ha demostrado beneficios cardiovasculares y renales. Su elección exige considerar precauciones individuales, especialmente antecedentes de lesiones o problemas circulatorios en los pies, y corresponde al equipo tratante.",
@@ -1025,6 +1060,11 @@
         "nivel": "Consulta",
         "titulo": "Infección genital o urinaria",
         "detalle": "Consultar si presenta picazón genital, secreción anormal, dolor o ardor al orinar; urgencias ante fiebre con compromiso general o dolor perineal intenso."
+      },
+      {
+        "nivel": "Precaución",
+        "titulo": "Pérdida de líquidos y función renal",
+        "detalle": "Mareos al ponerse de pie, sed intensa, vómitos o diarrea justifican revisar hidratación y tratamiento con el QF, especialmente en adultos mayores, personas con enfermedad renal o quienes reciben diuréticos como furosemida. Ante poca orina o deterioro importante, solicitar evaluación médica."
       }
     ],
     "fuentes": [
@@ -1490,6 +1530,7 @@
     "descripcion": "Medicamento oral que ayuda a controlar la glucosa en personas con diabetes tipo 2 al prolongar la acción de hormonas intestinales.",
     "seguridad": [
       "Dolor abdominal intenso y persistente, que puede extenderse hacia la espalda, con o sin náuseas o vómitos: solicitar evaluación médica urgente por posible pancreatitis.",
+      "Insuficiencia cardíaca: si aparece falta de aire nueva o progresiva, hinchazón de tobillos o aumento rápido de peso, solicitar evaluación médica pronta, sobre todo si ya existe enfermedad cardíaca o renal. Advertencia específica de saxagliptina: no atribuirla automáticamente a todas las gliptinas.",
       "El riesgo de hipoglucemia puede aumentar al asociarse con insulina o sulfonilureas.",
       "Ante dificultad respiratoria, hinchazón facial o ampollas cutáneas, solicitar evaluación."
     ],
@@ -1522,6 +1563,11 @@
         "nivel": "Urgencia",
         "titulo": "Hipersensibilidad grave",
         "detalle": "Edema facial o dificultad respiratoria."
+      },
+      {
+        "nivel": "Evaluación médica pronta",
+        "titulo": "Posible insuficiencia cardíaca",
+        "detalle": "Falta de aire nueva o progresiva, dificultad para respirar acostado, hinchazón de piernas o aumento rápido de peso: solicitar evaluación, especialmente en personas con enfermedad cardíaca o renal. No suspender por cuenta propia."
       }
     ],
     "fuentes": [
@@ -1539,6 +1585,10 @@
       {
         "nombre": "DailyMed/FDA, Saxagliptin tablets, interacciones CYP3A4/5, ficha estadounidense (referencia complementaria, octubre 2026)",
         "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=f3ea58bb-0002-4a5d-9213-7e9066e3dc9c&type=display"
+      },
+      {
+        "nombre": "DailyMed/FDA (EE. UU.) · Saxagliptina, ficha revisada 10/2026; sección 5.2 insuficiencia cardíaca (referencia internacional)",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f3ea58bb-0002-4a5d-9213-7e9066e3dc9c"
       }
     ],
     "revision": "2026-11-03 · homologación estructural ADME iDPP-4; verificación farmacocinética cuantitativa y regulatoria pendiente",
@@ -1600,7 +1650,7 @@
       "farmacocinetica_y_seleccion": "Absorción: Se absorbe tras administración oral; comprobar en ficha técnica los parámetros de Tmax y las diferencias por formulación.\nDistribución: Los parámetros de distribución se mantienen pendientes de contraste con monografía del producto.\nMetabolismo: Es metabolizada por CYP3A4/5 a un metabolito farmacológicamente activo; los inhibidores potentes de esta vía pueden aumentar su exposición.\nExcreción y eliminación: Se elimina por vías renal y no renal; la insuficiencia renal puede requerir una pauta diferente. No extrapolar reglas de combinaciones fijas con metformina.",
       "fundamento": "Inhibición de la dipeptidil peptidasa-4 (DPP-4), enzima que degrada las incretinas endógenas GLP-1 y GIP. La mayor disponibilidad de incretinas activas favorece la secreción de insulina dependiente de glucosa y reduce la secreción inapropiada de glucagón. El efecto sobre HbA1c y la elección del fármaco dependen del contexto clínico.",
       "interacciones_especificas": "Los inhibidores potentes de CYP3A4/5, como claritromicina e itraconazol sistémicos, pueden elevar la exposición a saxagliptina. Con insulina o sulfonilureas aumenta el riesgo de hipoglucemia. Cotejar la formulación y la ficha autorizada antes de recomendar cualquier ajuste.",
-      "evidencia_y_limitaciones": "La señal de hospitalización por insuficiencia cardíaca descrita para saxagliptina debe valorarse en la selección y seguimiento, sin asumir que todo paciente que la recibe está incorrectamente tratado. Seguimiento: verificar función renal y tolerancia según molécula; vigilar síntomas compatibles con pancreatitis, hipersensibilidad o penfigoide ampolloso, cuando corresponda. La hipoglucemia adquiere relevancia con insulina o sulfonilureas.",
+      "evidencia_y_limitaciones": "La señal de hospitalización por insuficiencia cardíaca descrita para saxagliptina debe valorarse en la selección y seguimiento, sin asumir que todo paciente que la recibe está incorrectamente tratado. Seguimiento: verificar función renal y tolerancia según molécula; vigilar síntomas compatibles con pancreatitis, hipersensibilidad o penfigoide ampolloso, cuando corresponda. La hipoglucemia adquiere relevancia con insulina o sulfonilureas. Seguridad cardiovascular: en SAVOR-TIMI 53 se observó mayor hospitalización por insuficiencia cardíaca con saxagliptina (3,5 % versus 2,8 % con placebo; HR 1,27, IC 95 % 1,07–1,51). FDA incorpora la advertencia de insuficiencia cardíaca para saxagliptina; requiere evaluación del riesgo individual y no debe extrapolarse a todos los iDPP-4 como efecto idéntico.",
       "detalle_regulatorio": "La saxagliptina requiere revisión de dosis según función renal y uso de inhibidores potentes de CYP3A4/5. Si se dispensa saxagliptina/metformina XR, aplicar además las restricciones renales de metformina y de la presentación fija. Dosis exacta pendiente de cotejo con folleto ISP. Consideraciones para dispensación: comprobar principio activo, formulación, pauta prescrita y presencia de combinaciones fijas; no modificar dosis desde el mesón. Los valores farmacocinéticos cuantitativos pendientes de contraste no se incorporan."
     }
   },
@@ -1626,7 +1676,7 @@
       "Náuseas, vómitos, diarrea o estreñimiento, especialmente durante la titulación.",
       "Hipoglucemia más probable en combinación con insulina o sulfonilureas."
     ],
-    "renal": "No extrapolar restricciones renales entre presentaciones; vigilar deshidratación y deterioro renal por vómitos/diarrea persistentes. Verificar folleto ISP específico.",
+    "renal": "En la ficha estadounidense de semaglutida oral no se requiere ajuste de dosis únicamente por deterioro renal. No obstante, los vómitos o la diarrea persistentes pueden producir deshidratación y afectar los riñones, especialmente al iniciar o intensificar el tratamiento. Solicitar evaluación si no logra mantener líquidos o presenta poca orina o mareos importantes; verificar la presentación y el folleto local, sin extrapolar pautas de la formulación inyectable.",
     "interacciones": [
       "Insulina y sulfonilureas: aumento del riesgo de hipoglucemia; cualquier ajuste corresponde al equipo tratante.",
       "Retraso del vaciamiento gástrico: revisar fármacos orales concomitantes según ficha específica.",
@@ -1664,6 +1714,10 @@
       {
         "nombre": "ISP Chile, recomendaciones generales de almacenamiento y adquisición de medicamentos",
         "url": "https://www.ispch.gob.cl/noticia/isp-entrega-recomendaciones-sobre-el-correcto-almacenamiento-y-adquisicion-de-los-medicamentos/"
+      },
+      {
+        "nombre": "DailyMed/FDA (EE. UU.) · Rybelsus (semaglutida oral), ficha revisada 01/2026; advertencias renales, no acredita registro chileno",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=27f15fac-7d98-4114-a2ec-92494a91da98"
       }
     ],
     "revision": "2026-10-12 · ampliación semaglutida con folletos ISP aportados y evidencia primaria; auditoría final pendiente",
@@ -1772,7 +1826,7 @@
       "Náuseas, vómitos, diarrea o estreñimiento, especialmente durante la titulación.",
       "Hipoglucemia más probable en combinación con insulina o sulfonilureas."
     ],
-    "renal": "No extrapolar restricciones renales entre presentaciones; vigilar deshidratación y deterioro renal por vómitos/diarrea persistentes. Verificar folleto ISP específico.",
+    "renal": "La dulaglutida no suele requerir ajuste de dosis solamente por insuficiencia renal, según la ficha estadounidense; aun así, se recomienda especial precaución en enfermedad renal avanzada. Vómitos o diarrea intensos pueden causar deshidratación y empeorar la función renal. En personas con enfermedad renal, poca orina o dificultad para beber, solicitar evaluación. Confirmar la información del folleto ISP de la presentación dispensada.",
     "interacciones": [
       "Insulina y sulfonilureas: aumento del riesgo de hipoglucemia; cualquier ajuste corresponde al equipo tratante.",
       "Retraso del vaciamiento gástrico: revisar fármacos orales concomitantes según ficha específica.",
@@ -1822,6 +1876,10 @@
       {
         "nombre": "REWIND · análisis renal exploratorio, Lancet 2019",
         "url": "https://pubmed.ncbi.nlm.nih.gov/31189509/"
+      },
+      {
+        "nombre": "DailyMed/FDA (EE. UU.) · Trulicity, sección 8.6 función renal (referencia internacional; contrastar con folleto ISP)",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=af4e38a6-ad3f-480c-ae82-5ac6c7735b99"
       }
     ],
     "revision": "2026-10-12 · ampliación documental según folleto ISP B-2605/16 (2016), REWIND y AWARD-11",
