@@ -1,5 +1,5 @@
 /* FarmaDM2: caché de recursos propios. Red primero, respaldo offline. */
-const CACHE = 'farmadm2-6-5-consolidacion-20261107';
+const CACHE = 'farmadm2-6-6-presentaciones-relacionadas-20261107';
 const CACHE_PREFIX = 'farmadm2-';
 const ASSETS = ['./', './index.html', './style.css', './app.js', './medicamentos.json', './marcas_isp.json', './manifest.webmanifest', './icon.svg'];
 const assetUrls = new Set(ASSETS.map(path => new URL(path, self.registration.scope).href));

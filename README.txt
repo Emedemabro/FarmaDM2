@@ -1,3 +1,12 @@
+FarmaDM2 6.6 — PROTOTIPO ACADÉMICO (entrega técnica, 07-11-2026)
+Base: FarmaDM2 6.5. El catálogo principal contiene 28 fichas: 17 medicamentos no insulínicos para DM2 y 11 insulinas.
+Wegovy y Saxenda se consultan como presentaciones relacionadas de semaglutida y liraglutida en sus fichas principales. Siguen apareciendo al buscarlos por nombre, pero no cuentan como fichas terapéuticas de DM2.
+El contenido íntegro de ambas fichas de la versión 6.5 se conserva en documentacion/respaldo_integral_wegovy_saxenda_hasta_6.5.json. Es un archivo documental histórico, no una fuente vigente ni material mostrado por la interfaz.
+Se añadió referencia ISP (modificación 2025) a Rybelsus 7 mg sin modificar su pauta de administración. Saxagliptina: se documentó para el QF la discrepancia de contraindicación exigida por Res. Ex. ISP 4740; el ajuste clínico sigue pendiente de cotejo con folleto actualizado específico y revisión profesional, y NO se usa como prohibición automática de dispensación.
+La plataforma no diagnostica, prescribe ni ajusta tratamientos. El estado de distribución de marcas y el producto comercial concreto deben confirmarse en fuentes oficiales. Evaluación clínica profesional pendiente.
+Mantener como respaldo FarmaDM2 6.5 mientras el autor realiza pruebas web, móvil y offline de 6.6.
+Historial anterior preservado:
+
 FarmaDM2 6.5 — PROTOTIPO ACADÉMICO (entrega técnica, 07-11-2026)
 Propósito: herramienta educativa de consulta farmacoterapéutica para apoyar la dispensación en farmacia. No diagnostica, prescribe ni ajusta dosis; validación clínica profesional pendiente.
 Base: FarmaDM2 6.4, revisada por el autor con pruebas de funcionamiento satisfactorias (alcance específico informado por el autor).

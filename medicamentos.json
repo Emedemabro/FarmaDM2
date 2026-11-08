@@ -456,7 +456,26 @@
       "preguntas": "¿Es primera vez que utiliza esta presentación? ¿Le mostraron cómo administrarla? ¿Ha tenido náuseas o vómitos que le dificulten comer o beber? ¿Usa insulina u otro medicamento que pueda bajar la glucosa?",
       "explicacion": "Confirme el día de administración y que conoce la técnica y el dispositivo de su presentación. Las molestias digestivas son frecuentes al inicio; siga la titulación indicada.",
       "alertas": "Dolor abdominal intenso y persistente, especialmente con vómitos, requiere evaluación médica urgente. Vómitos o diarrea que impiden hidratarse requieren consulta. No modificar la dosis por cuenta propia."
-    }
+    },
+    "presentaciones_relacionadas": [
+      {
+        "nombre": "Wegovy",
+        "principio_activo": "Semaglutida",
+        "indicacion": "Presentación indicada en Chile para el control crónico del peso en personas que cumplen criterios específicos; una persona con DM2 puede recibirla por esa indicación, pero no constituye la presentación indicada específicamente para el control glicémico de DM2.",
+        "diferencia": "Comparte principio activo con Ozempic y Rybelsus, pero no debe asumirse equivalencia entre sus indicaciones, pautas y dispositivos. Existen presentaciones de Wegovy con dispositivos distintos.",
+        "meson": "Verificar el nombre, la presentación y el dispositivo efectivamente prescritos. Si la persona utiliza otro producto con semaglutida, advertir la posible duplicidad al QF y aclarar la prescripción; no intercambiar formulaciones ni recomendar cambios de dosis.",
+        "fuentes": [
+          {
+            "nombre": "ISP Chile · Wegovy 0,25 mg/dosis, B-3191/26 (indicación autorizada)",
+            "url": "https://registrosanitario.ispch.gob.cl/Ficha.aspx?RegistroISP=B-3191%2F26"
+          },
+          {
+            "nombre": "ISP Chile · Wegovy 0,5 mg/dosis, B-3024/24 (registro por presentación)",
+            "url": "https://registrosanitario.ispch.gob.cl/Ficha.aspx?RegistroISP=B-3024%2F24"
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "insulina-nph",
@@ -1649,7 +1668,7 @@
       "fundamento": "Inhibición de la dipeptidil peptidasa-4 (DPP-4), enzima que degrada las incretinas endógenas GLP-1 y GIP. La mayor disponibilidad de incretinas activas favorece la secreción de insulina dependiente de glucosa y reduce la secreción inapropiada de glucagón. El efecto sobre HbA1c y la elección del fármaco dependen del contexto clínico.",
       "interacciones_especificas": "Los inhibidores potentes de CYP3A4/5, como claritromicina e itraconazol sistémicos, pueden elevar la exposición a saxagliptina. Con insulina o sulfonilureas aumenta el riesgo de hipoglucemia. Cotejar la formulación y la ficha autorizada antes de recomendar cualquier ajuste.",
       "evidencia_y_limitaciones": "La señal de hospitalización por insuficiencia cardíaca descrita para saxagliptina debe valorarse en la selección y seguimiento, sin asumir que todo paciente que la recibe está incorrectamente tratado. Seguimiento: verificar función renal y tolerancia según molécula; vigilar síntomas compatibles con pancreatitis, hipersensibilidad o penfigoide ampolloso, cuando corresponda. La hipoglucemia adquiere relevancia con insulina o sulfonilureas. Seguridad cardiovascular: SAVOR-TIMI 53 incluyó 16.492 personas con DM2 y enfermedad cardiovascular establecida o factores de riesgo. En el ensayo se observó mayor hospitalización por insuficiencia cardíaca con saxagliptina (3,5 % versus 2,8 % con placebo; HR 1,27, IC 95 % 1,07–1,51). FDA incorpora la advertencia de insuficiencia cardíaca para saxagliptina; requiere evaluación del riesgo individual y no debe extrapolarse a todos los iDPP-4 como efecto idéntico. La Resolución Exenta ISP N.º 4740 (2019, publicada en enero de 2020) exige advertencias en los folletos chilenos y señala que la asociación observada no establece una relación causal; cotejar las contraindicaciones de la presentación autorizada vigente.",
-      "detalle_regulatorio": "La saxagliptina requiere revisión de dosis según función renal y uso de inhibidores potentes de CYP3A4/5. Si se dispensa saxagliptina/metformina XR, aplicar además las restricciones renales de metformina y de la presentación fija. Dosis exacta pendiente de cotejo con folleto ISP. Consideraciones para dispensación: comprobar principio activo, formulación, pauta prescrita y presencia de combinaciones fijas; no modificar dosis desde el mesón. Los valores farmacocinéticos cuantitativos pendientes de contraste no se incorporan."
+      "detalle_regulatorio": "La saxagliptina requiere revisión de dosis según función renal y uso de inhibidores potentes de CYP3A4/5. Si se dispensa saxagliptina/metformina XR, aplicar además las restricciones renales de metformina y de la presentación fija. Dosis exacta pendiente de cotejo con folleto ISP. Consideraciones para dispensación: comprobar principio activo, formulación, pauta prescrita y presencia de combinaciones fijas; no modificar dosis desde el mesón. Los valores farmacocinéticos cuantitativos pendientes de contraste no se incorporan.\nCotejo regulatorio pendiente (Chile): la Resolución Exenta ISP N.º 4740 de 2019, publicada el 16-01-2020, exige incluir en los folletos de saxagliptina una contraindicación vinculada a insuficiencia cardíaca o riesgo de desarrollarla. Antes de trasladar ese alcance a una indicación operativa de esta ficha, se requiere cotejar el folleto profesional autorizado y actualizado de la presentación concreta y revisión profesional. No utilizar este borrador para autorizar o prohibir una dispensación. Fuente: https://www.bcn.cl/leychile/navegar?idNorma=1141258"
     }
   },
   {
@@ -1716,6 +1735,10 @@
       {
         "nombre": "DailyMed/FDA (EE. UU.) · Rybelsus (semaglutida oral), ficha revisada 01/2026; advertencias renales, no acredita registro chileno",
         "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=27f15fac-7d98-4114-a2ec-92494a91da98"
+      },
+      {
+        "nombre": "ISP Chile · Rybelsus 7 mg, B-2944/22, modificación terapéutica autorizada el 21-10-2025 (revisar presentación específica)",
+        "url": "https://www.ispch.gob.cl/folleto/rybelsus-comprimidos-7-mg/"
       }
     ],
     "revision": "2026-10-12 · ampliación semaglutida con folletos ISP aportados y evidencia primaria; auditoría final pendiente | Edición de presentación 6.5: 07-11-2026 (sin validación clínica profesional)",
@@ -2098,233 +2121,22 @@
       "preguntas": "¿Es primera vez que utiliza esta presentación? ¿Le mostraron cómo administrarla? ¿Ha tenido náuseas o vómitos que le dificulten comer o beber? ¿Usa insulina u otro medicamento que pueda bajar la glucosa?",
       "explicacion": "Confirme el día de administración y que conoce la técnica y el dispositivo de su presentación. Las molestias digestivas son frecuentes al inicio; siga la titulación indicada.",
       "alertas": "Dolor abdominal intenso y persistente, especialmente con vómitos, requiere evaluación médica urgente. Vómitos o diarrea que impiden hidratarse requieren consulta. No modificar la dosis por cuenta propia."
-    }
-  },
-  {
-    "id": "semaglutida-peso",
-    "nombre": "Semaglutida (Wegovy) — control de peso",
-    "familia": "Agonista receptor GLP-1",
-    "via": "Subcutánea semanal",
-    "estado": "Ficha ampliada · revisión documental y regulatoria pendiente",
-    "descripcion": "Presentación de semaglutida con indicación de control crónico del peso según folleto ISP aportado; no intercambiar con Ozempic.",
-    "seguridad": [
-      "Verificar antecedentes de pancreatitis y síntomas abdominales persistentes.",
-      "Vigilar deshidratación por efectos gastrointestinales.",
-      "Insulina o sulfonilurea concomitante: mayor riesgo de hipoglucemia.",
-      "Indicación autorizada en folleto aportado: control crónico del peso; no sustituye a Ozempic o Rybelsus."
-    ],
-    "dispensacion": "Verificar presentación, indicación de receta, titulación, técnica de administración y tolerancia; no modificar dosis sin prescriptor.",
-    "marcas": [],
-    "posicionamiento": "Esta presentación de semaglutida se utiliza para el manejo del peso en personas que cumplen los criterios clínicos correspondientes, junto con medidas de alimentación y actividad física. Aunque comparte principio activo con Ozempic, no debe confundirse con la presentación destinada al control glicémico de la DM2 ni sustituirse automáticamente.",
-    "mecanismo": "Imita la acción de una hormona intestinal (GLP-1): ayuda a liberar insulina cuando la glucosa está elevada, reduce una señal que aumenta la producción de glucosa por el hígado y puede favorecer la sensación de saciedad.",
-    "reacciones": [
-      "Náuseas, vómitos, diarrea o estreñimiento, especialmente durante la titulación.",
-      "Hipoglucemia más probable en combinación con insulina o sulfonilureas."
-    ],
-    "renal": "No extrapolar restricciones renales entre presentaciones; vigilar deshidratación y deterioro renal por vómitos/diarrea persistentes. Verificar folleto ISP específico.",
-    "interacciones": [
-      "Insulina y sulfonilureas: aumento del riesgo de hipoglucemia; cualquier ajuste corresponde al equipo tratante.",
-      "Retraso del vaciamiento gástrico: revisar fármacos orales concomitantes según ficha específica.",
-      "No combinar con otro agonista GLP-1; revisar duplicidad de principio activo entre marcas."
-    ],
-    "alertas": [
-      {
-        "nivel": "Evaluación inmediata",
-        "titulo": "Sospecha de pancreatitis",
-        "detalle": "Dolor abdominal intenso y persistente, con o sin vómitos: evaluación médica urgente."
-      },
-      {
-        "nivel": "Evaluación médica",
-        "titulo": "Deshidratación",
-        "detalle": "Vómitos/diarrea persistentes, poca orina, mareos: evaluación."
-      },
-      {
-        "nivel": "Urgencia",
-        "titulo": "Reacción alérgica grave",
-        "detalle": "Dificultad respiratoria o hinchazón de cara/lengua: urgencia."
-      }
-    ],
-    "fuentes": [
-      {
-        "nombre": "ISP Chile · Wegovy · registro B-2997/23; folleto aportado: WEGOVY ISP(1).pdf (verificar actualización vigente)"
-      },
-      {
-        "nombre": "Folleto ISP aportado Wegovy (B-2997/23); datos de conservación y posología cotejados en PDF local. Vigencia regulatoria actual pendiente de verificación."
-      },
-      {
-        "nombre": "ISP Chile · Wegovy 1,7 mg/0,75 mL, folleto profesional B-2998/23, publicado en 2024 (dosis olvidada y precauciones; verificar versión y dispositivo de la presentación dispensada)",
-        "url": "https://www.ispch.gob.cl/wp-content/uploads/2024/07/B-2998.pdf"
-      }
-    ],
-    "revision": "2026-10-12 · ampliación semaglutida con folletos ISP aportados y evidencia primaria; auditoría final pendiente | Edición de presentación 6.5: 07-11-2026 (sin validación clínica profesional)",
-    "validacion": "Material educativo de apoyo al mesón; no sustituye folleto vigente ni juicio clínico. | Reorganización editorial v38: información clínica ampliada diferenciada; verificación regulatoria individual pendiente.",
-    "dispensacion_rapida": {
-      "primera": {
-        "consejo": "Wegovy se administra por vía subcutánea una vez a la semana, con o sin comidas, según la pauta prescrita. Identificar el dispositivo y la concentración entregados; corresponde al control de peso y no debe intercambiarse automáticamente con Ozempic.",
-        "pregunta": "¿Es primera dispensación? ¿Reconoce la pauta indicada en su receta y utiliza insulina o sulfonilureas?",
-        "efectos": "Explicar síntomas gastrointestinales y signos de pancreatitis o deshidratación.",
-        "almacenamiento": "Comprobar conservación exacta en el folleto de la presentación entregada; no congelar inyectables.",
-        "accion": "Confirmar presentación, indicación y dispositivo; enseñar técnica según fabricante."
-      },
-      "habitual": {
-        "consejo": "Ante una dosis olvidada, consultar las instrucciones del folleto de la presentación y el plan indicado. Si se han omitido varias dosis consecutivas, solicitar evaluación del equipo tratante antes de reiniciar; no improvisar cambios de dosis.",
-        "pregunta": "¿Ha tenido vómitos persistentes, hipoglucemias, dificultades de administración o cambios de tratamiento?",
-        "efectos": "Revisar tolerancia, hidratación y signos de alarma.",
-        "almacenamiento": "Verificar conservación y fecha de vencimiento tras apertura según producto.",
-        "accion": "Revisar la continuidad de la pauta prescrita, las dificultades de administración y la posible duplicidad de tratamientos GLP-1; no indicar cambios de dosis desde el mesón."
-      }
     },
-    "consejos_practicos": [
+    "presentaciones_relacionadas": [
       {
-        "tipo": "Administración",
-        "titulo": "Cómo utilizar",
-        "texto": "Administrar por vía subcutánea semanal, con o sin comidas; enseñar dispositivo correspondiente."
-      },
-      {
-        "tipo": "Dosis olvidada",
-        "titulo": "Qué hacer",
-        "texto": "Si se olvida una dosis, administrarla lo antes posible dentro de los 5 días siguientes; si transcurren más de 5 días, omitirla y continuar el día habitual. Si se omiten varias dosis, consultar al equipo tratante antes de reiniciar, sin modificar la pauta por cuenta propia. Verificar el folleto de la presentación dispensada."
-      },
-      {
-        "tipo": "Seguridad",
-        "titulo": "Alertas de dispensación",
-        "texto": "Verificar antecedentes de pancreatitis y síntomas abdominales persistentes. / Vigilar deshidratación por efectos gastrointestinales. / Insulina o sulfonilurea concomitante: mayor riesgo de hipoglucemia. / Indicación autorizada en folleto aportado: control crónico del peso; no sustituye a Ozempic o Rybelsus."
-      },
-      {
-        "tipo": "Trazabilidad",
-        "titulo": "Alcance documental",
-        "texto": "Dosis y conservación se basan en el folleto ISP aportado; estudios internacionales se presentan como evidencia, no como ampliación automática de la indicación chilena."
+        "nombre": "Saxenda",
+        "principio_activo": "Liraglutida",
+        "indicacion": "Presentación indicada en Chile para control del peso en personas que cumplen criterios específicos. La DM2 puede ser una comorbilidad asociada al exceso de peso, pero Saxenda no debe presentarse como la formulación indicada específicamente para el control glicémico de DM2.",
+        "diferencia": "Comparte principio activo con Victoza, pero las indicaciones y las pautas son diferentes. No se deben intercambiar productos o dispositivos por iniciativa propia.",
+        "meson": "Identificar la presentación prescrita y verificar la técnica con el folleto correspondiente. Consultar al QF si la persona refiere usar al mismo tiempo otro producto con liraglutida o tiene dudas sobre la pauta.",
+        "fuentes": [
+          {
+            "nombre": "ISP Chile · Saxenda 6 mg/mL, B-2921/22 (indicación autorizada)",
+            "url": "https://registrosanitario.ispch.gob.cl/Ficha.aspx?RegistroISP=B-2921%2F22"
+          }
+        ]
       }
-    ],
-    "evidencia_clinica": [
-      {
-        "estudio": "STEP 2 (2021)",
-        "poblacion": "Personas con sobrepeso u obesidad y DM2",
-        "hallazgo": "Ensayo aleatorizado de semaglutida 2,4 mg semanal para control del peso; no equivale a pauta de Ozempic para DM2.",
-        "interpretacion": "Evidencia en control ponderal; comprobar criterios y resultados exactos antes de citar cifras.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=STEP+2+semaglutide+2.4+diabetes+Lancet+2021"
-      },
-      {
-        "estudio": "SELECT (2023)",
-        "poblacion": "Sobrepeso u obesidad y enfermedad cardiovascular establecida, sin diabetes al ingreso",
-        "hallazgo": "Ensayo cardiovascular con semaglutida 2,4 mg en personas sin DM2; no debe presentarse como ensayo de tratamiento de DM2.",
-        "interpretacion": "Contexto complementario de obesidad, no justifica atribuir indicación glicémica.",
-        "url": "https://doi.org/10.1056/NEJMoa2307563"
-      }
-    ],
-    "ampliada_qf": {
-      "titulo_foco": "Semaglutida para manejo de peso: indicación diferenciada",
-      "farmacocinetica_y_seleccion": "Absorción: Semaglutida subcutánea de exposición prolongada, con administración semanal según formulación autorizada. Distribución: Elevada unión a albúmina. Metabolismo: Proteólisis y beta-oxidación. Excreción y eliminación: Metabolitos eliminados por orina y heces; semivida aproximada de una semana. La ficha de Wegovy corresponde a control de peso y no debe confundirse con la indicación de Ozempic para DM2.",
-      "fundamento": "Comparte agonismo GLP-1 con las presentaciones para DM2, pero la evaluación clínica y las dosis de mantenimiento dependen de la indicación y producto autorizados.",
-      "interacciones_especificas": "Revisar medicamentos que causan hipoglucemia si existe DM2 concomitante; no combinar de forma automática productos con el mismo principio activo.",
-      "evidencia_y_limitaciones": "Los ensayos STEP de control de peso no deben presentarse como equivalentes a SUSTAIN o PIONEER para DM2.\nSeguridad y seguimiento: efectos gastrointestinales, hidratación, evolución nutricional y síntomas de alarma. Consideraciones para la dispensación: identificar explícitamente Wegovy como formulación para control de peso; no atribuirle automáticamente la indicación de DM2 ni sustituirla por Ozempic.",
-      "detalle_regulatorio": "Verificar dosis, contraindicaciones, almacenamiento, condiciones de inicio y ajuste con el folleto ISP vigente de la presentación específica; los antecedentes de esta ficha no sustituyen dicha verificación.\nAntecedente documental de la ficha previa (NO pauta de dispensación ni confirmación de vigencia): Administrar por vía subcutánea semanal, con o sin comidas; enseñar dispositivo correspondiente. Folleto ISP aportado: 0,25 mg semanas 1–4; 0,5 mg semanas 5–8; 1 mg semanas 9–12; 1,7 mg semanas 13–16; mantenimiento 2,4 mg semanal. Indicación: control de peso, NO pauta de Ozempic para DM2. Verificar siempre el folleto chileno actualizado de la presentación y la prescripción antes de interpretar dosis o titulación."
-    },
-    "guia_meson": {
-      "preguntas": "¿Es primera vez que utiliza esta presentación? ¿Le mostraron cómo administrarla? ¿Ha tenido náuseas o vómitos que le dificulten comer o beber? ¿Usa insulina u otro medicamento que pueda bajar la glucosa?",
-      "explicacion": "Confirme el día de administración y que conoce la técnica y el dispositivo de su presentación. Las molestias digestivas son frecuentes al inicio; siga la titulación indicada. Esta presentación se utiliza para control de peso; no debe confundirse con la formulación destinada a DM2.",
-      "alertas": "Dolor abdominal intenso y persistente, especialmente con vómitos, requiere evaluación médica urgente. Vómitos o diarrea que impiden hidratarse requieren consulta. No modificar la dosis por cuenta propia."
-    }
-  },
-  {
-    "id": "liraglutida-peso",
-    "nombre": "Liraglutida (Saxenda) — control de peso",
-    "familia": "Agonista receptor GLP-1",
-    "via": "Subcutánea diaria",
-    "estado": "Ficha ampliada · revisión documental y regulatoria pendiente",
-    "descripcion": "Presentación de liraglutida para control de peso según folleto ISP aportado; no extrapolar pauta a DM2.",
-    "seguridad": [
-      "Verificar antecedentes de pancreatitis y síntomas abdominales persistentes.",
-      "Vigilar deshidratación por efectos gastrointestinales.",
-      "Insulina o sulfonilurea concomitante: mayor riesgo de hipoglucemia.",
-      "No asociar con otro agonista GLP-1.",
-      "Evaluar respuesta ponderal según criterios del folleto del producto."
-    ],
-    "dispensacion": "Verificar presentación, indicación de receta, titulación, técnica de administración y tolerancia; no modificar dosis sin prescriptor.",
-    "marcas": [],
-    "posicionamiento": "Esta presentación de liraglutida se utiliza para el manejo del peso en personas que cumplen los criterios clínicos correspondientes, junto con medidas de alimentación y actividad física. Aunque comparte principio activo con Victoza, no debe confundirse con la presentación destinada al control glicémico de la DM2 ni sustituirse automáticamente.",
-    "mecanismo": "Imita la acción de una hormona intestinal (GLP-1): ayuda a liberar insulina cuando la glucosa está elevada, reduce una señal que aumenta la producción de glucosa por el hígado y puede favorecer la sensación de saciedad.",
-    "reacciones": [
-      "Náuseas, vómitos, diarrea o estreñimiento, especialmente durante la titulación.",
-      "Hipoglucemia más probable en combinación con insulina o sulfonilureas."
-    ],
-    "renal": "No extrapolar restricciones renales entre presentaciones; vigilar deshidratación y deterioro renal por vómitos/diarrea persistentes. Verificar folleto ISP específico.",
-    "interacciones": [
-      "Insulina y sulfonilureas: aumento del riesgo de hipoglucemia; cualquier ajuste corresponde al equipo tratante.",
-      "Retraso del vaciamiento gástrico: revisar fármacos orales concomitantes según ficha específica.",
-      "No combinar con otro agonista GLP-1; revisar duplicidad de principio activo entre marcas."
-    ],
-    "alertas": [
-      {
-        "nivel": "Evaluación inmediata",
-        "titulo": "Sospecha de pancreatitis",
-        "detalle": "Dolor abdominal intenso y persistente, con o sin vómitos: evaluación médica urgente."
-      },
-      {
-        "nivel": "Evaluación médica",
-        "titulo": "Deshidratación",
-        "detalle": "Vómitos/diarrea persistentes, poca orina, mareos: evaluación."
-      },
-      {
-        "nivel": "Urgencia",
-        "titulo": "Reacción alérgica grave",
-        "detalle": "Dificultad respiratoria o hinchazón de cara/lengua: urgencia."
-      }
-    ],
-    "fuentes": [
-      {
-        "nombre": "ISP Chile · Saxenda · registro B-2626/16; folleto aportado: SAXENDA ISP(1).pdf (verificar actualización vigente)"
-      }
-    ],
-    "revision": "2026-10-11 · cotejo documental ISP y literatura | Edición de presentación 6.5: 07-11-2026 (sin validación clínica profesional)",
-    "validacion": "Material educativo de apoyo al mesón; no sustituye folleto vigente ni juicio clínico. | Reorganización editorial v38: información clínica ampliada diferenciada; verificación regulatoria individual pendiente.",
-    "dispensacion_rapida": {
-      "primera": {
-        "consejo": "Saxenda se administra por vía subcutánea diariamente en abdomen, muslo o brazo, independientemente de las comidas. Confirmar la pauta prescrita y el uso correcto del dispositivo. Corresponde al control de peso; no utilizar por analogía la pauta de Victoza.",
-        "pregunta": "¿Es primera dispensación? ¿Reconoce la pauta indicada en su receta y utiliza insulina o sulfonilureas?",
-        "efectos": "Explicar síntomas gastrointestinales y signos de pancreatitis o deshidratación.",
-        "almacenamiento": "Comprobar conservación exacta en el folleto de la presentación entregada; no congelar inyectables.",
-        "accion": "Confirmar presentación, indicación y dispositivo; enseñar técnica según fabricante."
-      },
-      "habitual": {
-        "consejo": "Folleto ISP: si transcurrieron menos de 12 h desde hora habitual, administrar; si faltan menos de 12 h para siguiente dosis, omitir; no duplicar.",
-        "pregunta": "¿Ha tenido vómitos persistentes, hipoglucemias, dificultades de administración o cambios de tratamiento?",
-        "efectos": "Revisar tolerancia, hidratación y signos de alarma.",
-        "almacenamiento": "Verificar conservación y fecha de vencimiento tras apertura según producto.",
-        "accion": "Revisar la continuidad de la pauta prescrita, las dificultades de administración y la posible duplicidad de tratamientos GLP-1; no indicar cambios de dosis desde el mesón."
-      }
-    },
-    "consejos_practicos": [
-      {
-        "tipo": "Administración",
-        "titulo": "Cómo utilizar",
-        "texto": "Administración subcutánea diaria en abdomen, muslo o brazo, independientemente de comidas."
-      },
-      {
-        "tipo": "Dosis olvidada",
-        "titulo": "Qué hacer",
-        "texto": "Folleto ISP: si transcurrieron menos de 12 h desde hora habitual, administrar; si faltan menos de 12 h para siguiente dosis, omitir; no duplicar."
-      },
-      {
-        "tipo": "Seguridad",
-        "titulo": "Alertas de dispensación",
-        "texto": "Verificar antecedentes de pancreatitis y síntomas abdominales persistentes. / Vigilar deshidratación por efectos gastrointestinales. / Insulina o sulfonilurea concomitante: mayor riesgo de hipoglucemia. / No asociar con otro agonista GLP-1. / Evaluar respuesta ponderal según criterios del folleto del producto."
-      }
-    ],
-    "evidencia_clinica": [],
-    "ampliada_qf": {
-      "titulo_foco": "Liraglutida para manejo de peso: indicación diferenciada",
-      "farmacocinetica_y_seleccion": "Absorción: Absorción subcutánea lenta; formulación de administración diaria. Distribución: Unión elevada a albúmina. Metabolismo: Catabolismo endógeno, sin una vía CYP principal. Excreción y eliminación: Eliminación de metabolitos por diversas vías; semivida cercana a 13 horas. Saxenda posee indicación y esquema de titulación distintos de Victoza: no intercambiar pautas.",
-      "fundamento": "Agonista GLP-1 de administración diaria; los efectos sobre saciedad y apetito participan en el control de peso, además de sus acciones metabólicas.",
-      "interacciones_especificas": "Revisar coexistencia de otros agonistas GLP-1 y tratamientos hipoglucemiantes; no indicar cambios autónomos.",
-      "evidencia_y_limitaciones": "Los ensayos de manejo de peso no sustituyen la evidencia específica de resultados clínicos en DM2.\nSeguridad y seguimiento: tolerancia gastrointestinal, hidratación y estado nutricional. Consideraciones para la dispensación: verificar dispositivo y pauta de Saxenda, orientada al control de peso; no aplicar la titulación de Victoza.",
-      "detalle_regulatorio": "Verificar dosis, contraindicaciones, almacenamiento, condiciones de inicio y ajuste con el folleto ISP vigente de la presentación específica; los antecedentes de esta ficha no sustituyen dicha verificación.\nAntecedente documental de la ficha previa (NO pauta de dispensación ni confirmación de vigencia): Administración subcutánea diaria en abdomen, muslo o brazo, independientemente de comidas. Folleto ISP aportado: iniciar 0,6 mg/día, aumentar 0,6 mg a intervalos de al menos una semana hasta 3 mg/día para control de peso. NO es pauta de liraglutida para DM2. Verificar siempre el folleto chileno actualizado de la presentación y la prescripción antes de interpretar dosis o titulación."
-    },
-    "guia_meson": {
-      "preguntas": "¿Es primera vez que utiliza esta presentación? ¿Le mostraron cómo administrarla? ¿Ha tenido náuseas o vómitos que le dificulten comer o beber? ¿Usa insulina u otro medicamento que pueda bajar la glucosa?",
-      "explicacion": "Confirme el día de administración y que conoce la técnica y el dispositivo de su presentación. Las molestias digestivas son frecuentes al inicio; siga la titulación indicada. Esta presentación se utiliza para control de peso; no debe confundirse con la formulación destinada a DM2.",
-      "alertas": "Dolor abdominal intenso y persistente, especialmente con vómitos, requiere evaluación médica urgente. Vómitos o diarrea que impiden hidratarse requieren consulta. No modificar la dosis por cuenta propia."
-    }
+    ]
   },
   {
     "familia": "Sulfonilurea",
