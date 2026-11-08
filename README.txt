@@ -1,3 +1,12 @@
+FarmaDM2 6.5 — PROTOTIPO ACADÉMICO (entrega técnica, 07-11-2026)
+Propósito: herramienta educativa de consulta farmacoterapéutica para apoyar la dispensación en farmacia. No diagnostica, prescribe ni ajusta dosis; validación clínica profesional pendiente.
+Base: FarmaDM2 6.4, revisada por el autor con pruebas de funcionamiento satisfactorias (alcance específico informado por el autor).
+Novedades 6.5: se retiraron seis tarjetas de posología de la vista rápida (datos históricos conservados en nivel QF), se armonizó saxagliptina sin siglas del ensayo en vista clínica, se unificaron las tarjetas de dosis olvidada de Wegovy y se añadieron fuentes ISP verificables.
+Registros: «Registro_FarmaDM2_6.5_2026-11-07.md» entregado por separado. Mantener referencias y advertencias de vigencia por presentación; 95 filas preliminares de marcas_isp.json siguen «Por confirmar».
+Pruebas pendientes: publicación real, actualización de caché en dispositivos de usuario y funcionamiento offline; revisión clínica profesional de las fichas.
+El historial de cambios anterior se conserva a continuación.
+
+------ HISTORIAL TÉCNICO PREVIO ------
 FarmaDM2 v2.0 — versión de auditoría documental preliminar.
 Mantiene navegación v1.9.5; agrega referencias regulatorias chilenas en metformina y matriz auditable auditoria_metformina_v20.csv. No incorpora catálogo comercial ni datos de stock. No hay validación clínica ni verificación actual de registros ISP. Servir mediante Live Server o servidor HTTP local.
 
