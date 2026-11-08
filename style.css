@@ -84,3 +84,10 @@
 
 /* 6.4: aviso breve permanente en la página, no flotante */
 .notice .scope-review{display:block;color:#6b5a3b;font-size:12px;margin-top:5px}
+
+/* 6.6.1: comparación accesible sin desplazar la información principal */
+.related-presentation{margin:12px 0 15px;border-color:#cbdedc}
+.related-presentation summary{background:#f0f8f5;color:#16383b}
+.related-presentation summary small{margin-left:0;color:#5a7773;opacity:1}
+.related-presentation .clinical-extra-content a{overflow-wrap:anywhere}
+.related-presentation{scroll-margin-top:18px}
