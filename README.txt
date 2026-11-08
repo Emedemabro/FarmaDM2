@@ -1,3 +1,9 @@
+FarmaDM2 6.7 — Módulo Actualización farmacoterapéutica (2026-11-08)
+Cuatro cápsulas temáticas, tres casos y tres antecedentes chilenos con fecha y fuentes.
+Se conserva el bloque anterior en documentacion/educacion_anterior_6_6_1.txt.
+Las 28 fichas principales, 95 registros preliminares de marcas y otros módulos se mantienen sin cambios.
+Pruebas controladas en Chromium con datos locales, sin errores JavaScript, en móvil y escritorio. Pruebas de publicación, actualización efectiva del caché, offline real y revisión clínica profesional pendientes.
+
 FarmaDM2 6.6 — PROTOTIPO ACADÉMICO (entrega técnica, 07-11-2026)
 Base: FarmaDM2 6.5. El catálogo principal contiene 28 fichas: 17 medicamentos no insulínicos para DM2 y 11 insulinas.
 Wegovy y Saxenda se consultan como presentaciones relacionadas de semaglutida y liraglutida en sus fichas principales. Siguen apareciendo al buscarlos por nombre, pero no cuentan como fichas terapéuticas de DM2.

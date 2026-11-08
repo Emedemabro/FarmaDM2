@@ -1,0 +1,49 @@
+/* Módulo educativo 6.7: clases aisladas para preservar los estilos existentes */
+.edu67{--edu67-accent:#147578;--edu67-ink:#20363e;--edu67-line:#d6e4e3;--edu67-soft:#f2f8f7;font:inherit;color:var(--edu67-ink);max-width:100%;line-height:1.55}
+.edu67 *{box-sizing:border-box}
+.edu67-intro{background:linear-gradient(120deg,#eff8f5,#f6fbfc);border:1px solid var(--edu67-line);border-radius:16px;padding:20px;margin-bottom:14px}
+.edu67-intro h2{margin:.3rem 0 .5rem;font-size:1.45rem;line-height:1.25;color:#184951}
+.edu67-intro p{margin:0 0 10px;max-width:67ch}
+.edu67-small{font-size:.83rem;color:#56686c}
+.edu67-kicker{display:block;font-size:.74rem;letter-spacing:.035em;font-weight:750;text-transform:uppercase;color:#396f71}
+.edu67-tabs{display:flex;gap:7px;margin:12px 0 16px;flex-wrap:wrap}
+.edu67-tabs button,.edu67-btn{font:inherit;font-weight:650;cursor:pointer;border:1px solid #bed7d4;border-radius:10px;padding:10px 13px;background:#fff;color:#21585c}
+.edu67-tabs button[aria-pressed=true],.edu67-btn{background:var(--edu67-accent);color:#fff;border-color:var(--edu67-accent)}
+.edu67 :focus-visible{outline:3px solid #ee9f31;outline-offset:3px}
+.edu67 [hidden]{display:none!important}
+.edu67-lead{font-size:.95rem;color:#465c60;margin:0 0 12px}
+.edu67-item{border:1px solid var(--edu67-line);border-radius:12px;background:white;margin:0 0 10px;overflow:hidden}
+.edu67-item>summary{display:block;cursor:pointer;padding:15px 16px;background:#fbfdfd;position:relative;padding-right:45px}
+.edu67-item>summary::after{content:'+';font-weight:700;color:var(--edu67-accent);font-size:1.4rem;position:absolute;right:17px;top:17px}
+.edu67-item[open]>summary::after{content:'–'}
+.edu67-item>summary strong{display:block;color:#193d41;margin:3px 0}
+.edu67-sub{display:block;color:#5c6f70;font-size:.88rem}
+.edu67-inner{border-top:1px solid var(--edu67-line);padding:16px}
+.edu67-inner h4,.edu67-update h4{font-size:1.02rem;color:#214e52;margin:17px 0 7px}
+.edu67-inner h5{font-size:.92rem;color:#214e52;margin:13px 0 5px}
+.edu67-inner p,.edu67-update p{margin:6px 0 12px}
+.edu67-goal{background:var(--edu67-soft);border-left:3px solid var(--edu67-accent);padding:10px 12px;border-radius:5px}
+.edu67-scenario{background:#f5f8fb;border-radius:10px;padding:10px 14px;margin:16px 0}
+.edu67-scenario h4{margin:3px 0 6px}
+.edu67-within{border-left:3px solid #3c9f9e;background:#f6faf8;border-radius:5px;padding:10px 12px;margin:12px 0}
+.edu67-within>summary{font-weight:700;color:#1b5960;cursor:pointer}
+.edu67-within>div{padding-top:8px}
+.edu67-activity{padding:13px;border:1px solid #c8dcda;border-radius:10px;margin:17px 0}
+.edu67-activity h4{margin:0 0 8px}
+.edu67-activity fieldset{border:none;padding:0;margin:9px 0 11px;min-width:0}
+.edu67-choice{display:flex;gap:10px;align-items:flex-start;padding:9px 8px;border-radius:7px;cursor:pointer}
+.edu67-choice:has(input:checked){background:#edf7f3}
+.edu67-choice input{margin-top:5px;accent-color:var(--edu67-accent)}
+.edu67-feedback{margin-top:10px;font-size:.93rem;padding:0;min-height:0}
+.edu67-feedback:not(:empty){padding:10px;border-radius:8px}
+.edu67-ok{background:#e6f4ec;color:#185f36}.edu67-review{background:#fff4e6;color:#7c4e11}.edu67-neutral{background:#eaf2f8;color:#3c6077}
+.edu67-key{border-top:1px solid var(--edu67-line);padding-top:14px;font-size:.95rem}
+.edu67-sources{border-top:1px dashed #d5e1e2;margin-top:12px;padding-top:10px}
+.edu67-sources summary{font-size:.88rem;color:#275e66;cursor:pointer;font-weight:650}
+.edu67-sources ul{padding-left:20px}.edu67-sources li{margin:9px 0;overflow-wrap:anywhere}.edu67 a{color:#156f77;text-decoration:underline}
+.edu67-update{border:1px solid var(--edu67-line);border-radius:11px;padding:18px;margin:0 0 14px;background:#fff}
+.edu67-update h3{font-size:1.14rem;color:#204a50;margin:.3rem 0}
+.edu67-caution{background:#f9f5eb;border-left:3px solid #be9a51;padding:10px 12px;border-radius:5px}
+.edu67-footer{color:#66757b;font-size:.82rem;border-top:1px solid var(--edu67-line);padding:17px 0;margin:20px 0}
+.edu67-sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+@media(max-width:600px){.edu67-intro{padding:15px}.edu67-inner{padding:13px}.edu67-tabs button{flex:1 1 30%;padding:10px 8px;font-size:.87rem}.edu67-choice{padding:10px 5px}}
