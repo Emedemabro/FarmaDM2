@@ -387,7 +387,7 @@
     "validacion": "Material educativo de apoyo al mesón; no sustituye folleto vigente ni juicio clínico. | Reorganización editorial v38: información clínica ampliada diferenciada; verificación regulatoria individual pendiente.",
     "dispensacion_rapida": {
       "primera": {
-        "consejo": "Inyectar vía subcutánea en abdomen, muslo o brazo una vez por semana, con o sin comidas. No usar vía IV ni IM. Folleto ISP aportado: 0,25 mg semanal por 4 semanas (inicio, no mantenimiento); luego 0,5 mg semanal; después de al menos 4 semanas a 0,5 mg, considerar 1 mg semanal según prescripción. El folleto aportado no recomienda superar 1 mg/semana; verificar versiones posteriores.",
+        "consejo": "Inyectar por vía subcutánea una vez por semana en abdomen, muslo o brazo, con o sin alimentos, según la presentación y la pauta prescritas. Confirmar el dispositivo, el día semanal y la dosis indicada. No utilizar por vía intravenosa ni intramuscular; no confundir con Wegovy.",
         "pregunta": "¿Es primera dispensación? ¿Conoce la pauta de escalamiento y utiliza insulina o sulfonilureas?",
         "efectos": "Explicar síntomas gastrointestinales y signos de pancreatitis o deshidratación.",
         "almacenamiento": "Folleto ISP aportado, sección 6.3: antes del primer uso refrigerar entre 2–8 °C; después del primer uso, hasta 6 semanas por debajo de 30 °C o refrigerado (2–8 °C). No congelar; mantener tapa y retirar aguja después de cada inyección.",
@@ -455,7 +455,7 @@
       "fundamento": "Agonista del receptor GLP-1 con acción prolongada; potencia la secreción de insulina dependiente de glucosa, reduce el glucagón inapropiado y modula vaciamiento gástrico y saciedad. La exposición sostenida permite administración semanal.",
       "interacciones_especificas": "Insulina o sulfonilureas: hipoglucemia más probable. El retraso del vaciamiento gástrico puede influir en la absorción de algunos fármacos orales; evaluar casos específicos, sin recomendar separación horaria universal.",
       "evidencia_y_limitaciones": "SUSTAIN-6 estudió resultados cardiovasculares en una población de alto riesgo. No trasladar automáticamente datos de presentaciones para obesidad a la indicación DM2.\nSeguridad y seguimiento: náuseas, vómitos, diarrea, deshidratación y síntomas abdominales persistentes; revisar riesgo de hipoglucemia con insulina o sulfonilureas. Consideraciones para la dispensación: identificar dispositivo, dosis prescrita y día semanal; no confundir Ozempic con Wegovy.",
-      "detalle_regulatorio": "Verificar dosis, contraindicaciones, almacenamiento, condiciones de inicio y ajuste con el folleto ISP vigente de la presentación específica; los antecedentes de esta ficha no sustituyen dicha verificación. Nota técnica de revisión 07-11-2026: Según folleto profesional ISP Ozempic B-2775/19, versión publicada en 2021, no se requiere ajuste de dosis por insuficiencia renal leve, moderada o grave; la experiencia en insuficiencia severa es limitada y ese folleto no recomienda uso en enfermedad renal terminal. No generalizar sin comprobar presentación o actualizaciones del ISP. Fuente: https://www.ispch.gob.cl/wp-content/uploads/2021/08/B-2775.pdf"
+      "detalle_regulatorio": "Verificar dosis, contraindicaciones, almacenamiento, condiciones de inicio y ajuste con el folleto ISP vigente de la presentación específica; los antecedentes de esta ficha no sustituyen dicha verificación. Nota técnica de revisión 07-11-2026: Según folleto profesional ISP Ozempic B-2775/19, versión publicada en 2021, no se requiere ajuste de dosis por insuficiencia renal leve, moderada o grave; la experiencia en insuficiencia severa es limitada y ese folleto no recomienda uso en enfermedad renal terminal. No generalizar sin comprobar presentación o actualizaciones del ISP. Fuente: https://www.ispch.gob.cl/wp-content/uploads/2021/08/B-2775.pdf\nAntecedente documental de la ficha previa (NO pauta de dispensación ni confirmación de vigencia): Inyectar vía subcutánea en abdomen, muslo o brazo una vez por semana, con o sin comidas. No usar vía IV ni IM. Folleto ISP aportado: 0,25 mg semanal por 4 semanas (inicio, no mantenimiento); luego 0,5 mg semanal; después de al menos 4 semanas a 0,5 mg, considerar 1 mg semanal según prescripción. El folleto aportado no recomienda superar 1 mg/semana; verificar versiones posteriores. Verificar siempre el folleto chileno actualizado de la presentación y la prescripción antes de interpretar dosis o titulación."
     },
     "guia_meson": {
       "preguntas": "¿Es primera vez que utiliza esta presentación? ¿Le mostraron cómo administrarla? ¿Ha tenido náuseas o vómitos que le dificulten comer o beber? ¿Usa insulina u otro medicamento que pueda bajar la glucosa?",
@@ -1564,7 +1564,7 @@
       {
         "nivel": "Evaluación médica pronta",
         "titulo": "Insuficiencia cardíaca",
-        "detalle": "Disnea nueva o progresiva, edema de extremidades o aumento rápido de peso: derivación."
+        "detalle": "Falta de aire nueva o progresiva, dificultad para respirar al acostarse, hinchazón de piernas o aumento rápido de peso: solicitar evaluación médica, especialmente si existen antecedentes cardíacos o renales. No suspender el tratamiento por cuenta propia."
       },
       {
         "nivel": "Evaluación inmediata",
@@ -1575,11 +1575,6 @@
         "nivel": "Urgencia",
         "titulo": "Hipersensibilidad grave",
         "detalle": "Edema facial o dificultad respiratoria."
-      },
-      {
-        "nivel": "Evaluación médica pronta",
-        "titulo": "Posible insuficiencia cardíaca",
-        "detalle": "Falta de aire nueva o progresiva, dificultad para respirar acostado, hinchazón de piernas o aumento rápido de peso: solicitar evaluación, especialmente en personas con enfermedad cardíaca o renal. No suspender por cuenta propia."
       }
     ],
     "fuentes": [
@@ -1736,7 +1731,7 @@
     "validacion": "Material educativo de apoyo al mesón; no sustituye folleto vigente ni juicio clínico. | Reorganización editorial v38: información clínica ampliada diferenciada; verificación regulatoria individual pendiente.",
     "dispensacion_rapida": {
       "primera": {
-        "consejo": "Tomar una vez al día en ayunas, con hasta 120 mL de agua; tragar entero, sin partir/triturar/masticar. Esperar al menos 30 minutos antes de comer, beber o tomar otros medicamentos. Folleto ISP aportado: 3 mg una vez al día durante un mes (inicio); luego 7 mg diarios; después de al menos un mes a 7 mg puede aumentarse a 14 mg diarios según prescripción. No utilizar dos comprimidos de 7 mg para reemplazar 14 mg.",
+        "consejo": "Tomar una vez al día en ayunas, con hasta 120 mL de agua. Tragar el comprimido entero, sin partirlo, triturarlo ni masticarlo. Esperar al menos 30 minutos antes de comer, beber o tomar otros medicamentos. Verificar que la concentración coincida con la receta y no reemplazarla combinando comprimidos por cuenta propia.",
         "pregunta": "¿Es primera dispensación? ¿Conoce la pauta de escalamiento y utiliza insulina o sulfonilureas?",
         "efectos": "Explicar síntomas gastrointestinales y signos de pancreatitis o deshidratación.",
         "almacenamiento": "Conservar en el blíster original, a temperatura no superior a 30 °C y protegido de la humedad y la luz, según el folleto documentado. Además, evitar fuentes de calor y lugares húmedos; cotejar la presentación dispensada.",
@@ -1809,7 +1804,7 @@
       "fundamento": "La semaglutida es un péptido agonista GLP-1. Su formulación oral incorpora un promotor de absorción gástrica (SNAC); la biodisponibilidad es baja y depende de condiciones estrictas de administración.",
       "interacciones_especificas": "Levotiroxina: se ha observado aumento de exposición a tiroxina con semaglutida oral; considerar seguimiento clínico y analítico según situación. Insulina o sulfonilureas: riesgo de hipoglucemia.",
       "evidencia_y_limitaciones": "Los ensayos PIONEER corresponden a semaglutida oral. No extrapolar de manera directa equivalencias de dosis ni desenlaces desde semaglutida inyectable.\nSeguridad y seguimiento: efectos gastrointestinales, deshidratación y posible interacción de absorción con medicamentos orales. Consideraciones para la dispensación: explicar cuidadosamente las instrucciones de ayuno, cantidad de agua y espera antes de comidas y otros medicamentos, según folleto vigente; no usar la pauta de la semaglutida subcutánea.",
-      "detalle_regulatorio": "Verificar dosis, contraindicaciones, almacenamiento, condiciones de inicio y ajuste con el folleto ISP vigente de la presentación específica; los antecedentes de esta ficha no sustituyen dicha verificación."
+      "detalle_regulatorio": "Verificar dosis, contraindicaciones, almacenamiento, condiciones de inicio y ajuste con el folleto ISP vigente de la presentación específica; los antecedentes de esta ficha no sustituyen dicha verificación.\nAntecedente documental de la ficha previa (NO pauta de dispensación ni confirmación de vigencia): Tomar una vez al día en ayunas, con hasta 120 mL de agua; tragar entero, sin partir/triturar/masticar. Esperar al menos 30 minutos antes de comer, beber o tomar otros medicamentos. Folleto ISP aportado: 3 mg una vez al día durante un mes (inicio); luego 7 mg diarios; después de al menos un mes a 7 mg puede aumentarse a 14 mg diarios según prescripción. No utilizar dos comprimidos de 7 mg para reemplazar 14 mg. Verificar siempre el folleto chileno actualizado de la presentación y la prescripción antes de interpretar dosis o titulación."
     },
     "guia_meson": {
       "preguntas": "¿Es primera vez que utiliza esta presentación? ¿Le mostraron cómo administrarla? ¿Ha tenido náuseas o vómitos que le dificulten comer o beber? ¿Usa insulina u otro medicamento que pueda bajar la glucosa?",
@@ -1898,7 +1893,7 @@
     "validacion": "Material educativo de apoyo al mesón; no sustituye folleto vigente ni juicio clínico. | Reorganización editorial v38: información clínica ampliada diferenciada; verificación regulatoria individual pendiente.",
     "dispensacion_rapida": {
       "primera": {
-        "consejo": "Según folleto ISP 2016: 0,75 mg una vez por semana en monoterapia; 1,5 mg una vez por semana en combinación. No se describe en este folleto un escalamiento universal 0,75→1,5 mg. Administrar por vía subcutánea en abdomen, muslo o brazo, con o sin alimentos; confirmar receta y presentación.",
+        "consejo": "Administrar por vía subcutánea una vez por semana en abdomen, muslo o brazo, con o sin alimentos, según la pauta prescrita. Confirmar la presentación, el dispositivo y la técnica; no asumir que todas las plumas son intercambiables.",
         "pregunta": "¿Es primera dispensación? ¿Conoce la pauta de escalamiento y utiliza insulina o sulfonilureas?",
         "efectos": "Explicar síntomas gastrointestinales y signos de pancreatitis o deshidratación.",
         "almacenamiento": "Refrigerar a 2–8 °C, no congelar y proteger de la luz. Según folleto ISP 2016, puede permanecer fuera de refrigeración hasta 14 días a temperatura ≤30 °C, protegido de luz y calor. Dispositivo de un solo uso.",
@@ -1973,7 +1968,7 @@
       "fundamento": "Agonista GLP-1 de acción prolongada unido a una estructura tipo Fc que prolonga su permanencia sistémica. Favorece insulina dependiente de glucosa, reduce glucagón y enlentece vaciamiento gástrico.",
       "interacciones_especificas": "Insulina y sulfonilureas: posible aumento de hipoglucemia. El vaciamiento gástrico puede afectar la absorción de ciertos fármacos orales; valorar según medicamento.",
       "evidencia_y_limitaciones": "REWIND incluyó una proporción importante de pacientes sin evento cardiovascular previo; interpretar resultados según desenlaces y población del ensayo.\nSeguridad y seguimiento: efectos gastrointestinales, deshidratación y riesgo de hipoglucemia en combinación con secretagogos o insulina. Consideraciones para la dispensación: comprobar la pluma de dosis prescrita y la técnica de uso semanal; no asumir intercambiabilidad entre dispositivos.",
-      "detalle_regulatorio": "Verificar dosis, contraindicaciones, almacenamiento, condiciones de inicio y ajuste con el folleto ISP vigente de la presentación específica; los antecedentes de esta ficha no sustituyen dicha verificación. El folleto ISP consultado durante la elaboración de esta ficha corresponde a 2016; su vigencia y eventuales modificaciones regulatorias requieren verificación documental final."
+      "detalle_regulatorio": "Verificar dosis, contraindicaciones, almacenamiento, condiciones de inicio y ajuste con el folleto ISP vigente de la presentación específica; los antecedentes de esta ficha no sustituyen dicha verificación. El folleto ISP consultado durante la elaboración de esta ficha corresponde a 2016; su vigencia y eventuales modificaciones regulatorias requieren verificación documental final.\nAntecedente documental de la ficha previa (NO pauta de dispensación ni confirmación de vigencia): Según folleto ISP 2016: 0,75 mg una vez por semana en monoterapia; 1,5 mg una vez por semana en combinación. No se describe en este folleto un escalamiento universal 0,75→1,5 mg. Administrar por vía subcutánea en abdomen, muslo o brazo, con o sin alimentos; confirmar receta y presentación. Verificar siempre el folleto chileno actualizado de la presentación y la prescripción antes de interpretar dosis o titulación."
     },
     "guia_meson": {
       "preguntas": "¿Es primera vez que utiliza esta presentación? ¿Le mostraron cómo administrarla? ¿Ha tenido náuseas o vómitos que le dificulten comer o beber? ¿Usa insulina u otro medicamento que pueda bajar la glucosa?",
@@ -2055,7 +2050,7 @@
     "validacion": "Ficha documental no validada clínicamente. Discrepancia por resolver: el folleto 2021 y la indicación visible en ficha pública del registro pueden diferir respecto de población pediátrica; evitar afirmar indicación pediátrica sin cotejo íntegro. Estado de distribución sujeto a cambios. | Reorganización editorial v38: información clínica ampliada diferenciada; verificación regulatoria individual pendiente.",
     "dispensacion_rapida": {
       "primera": {
-        "consejo": "Victoza: inyectar por vía subcutánea una vez al día, a cualquier hora, con o sin comidas. Dosis inicial 0,6 mg/día; tras al menos una semana 1,2 mg/día; si precisa, tras al menos otra semana 1,8 mg/día. Dosis máxima 1,8 mg/día según folleto ISP aportado. No utilizar pauta Saxenda.",
+        "consejo": "Victoza se administra por vía subcutánea una vez al día, a cualquier hora, con o sin comidas, según la receta. Verificar el dispositivo, la dosis prescrita y la técnica. No confundir la pauta ni la presentación con Saxenda, destinada al control de peso.",
         "pregunta": "¿Es primera dispensación de Victoza? ¿Le enseñaron el dispositivo? ¿Utiliza insulina o sulfonilureas?",
         "efectos": "Explicar síntomas gastrointestinales y signos de pancreatitis o deshidratación.",
         "almacenamiento": "Antes del uso: refrigerar 2–8 °C, no congelar. Después del primer uso: 1 mes bajo 30 °C o refrigerado 2–8 °C; conservar con tapa, sin aguja puesta (folleto ISP 2017).",
@@ -2121,7 +2116,7 @@
       "fundamento": "Análogo de GLP-1 acilado con unión a albúmina y resistencia relativa a degradación, lo que permite administración subcutánea diaria. Sus acciones son glucosa-dependientes sobre insulina y glucagón.",
       "interacciones_especificas": "Insulina o sulfonilureas: riesgo adicional de hipoglucemia. La intolerancia digestiva persistente puede ocasionar deshidratación.",
       "evidencia_y_limitaciones": "LEADER evaluó desenlaces cardiovasculares con liraglutida en personas con DM2 de alto riesgo; no extrapolar su efecto cuantitativo a todos los agonistas GLP-1.\nSeguridad y seguimiento: tolerancia gastrointestinal, hidratación y síntomas de alarma abdominal; riesgo de hipoglucemia con insulina o sulfonilureas. Consideraciones para la dispensación: comprobar pauta diaria y dispositivo Victoza, sin confundir con Saxenda.",
-      "detalle_regulatorio": "Verificar dosis, contraindicaciones, almacenamiento, condiciones de inicio y ajuste con el folleto ISP vigente de la presentación específica; los antecedentes de esta ficha no sustituyen dicha verificación."
+      "detalle_regulatorio": "Verificar dosis, contraindicaciones, almacenamiento, condiciones de inicio y ajuste con el folleto ISP vigente de la presentación específica; los antecedentes de esta ficha no sustituyen dicha verificación.\nAntecedente documental de la ficha previa (NO pauta de dispensación ni confirmación de vigencia): Victoza: inyectar por vía subcutánea una vez al día, a cualquier hora, con o sin comidas. Dosis inicial 0,6 mg/día; tras al menos una semana 1,2 mg/día; si precisa, tras al menos otra semana 1,8 mg/día. Dosis máxima 1,8 mg/día según folleto ISP aportado. No utilizar pauta Saxenda. Verificar siempre el folleto chileno actualizado de la presentación y la prescripción antes de interpretar dosis o titulación."
     },
     "guia_meson": {
       "preguntas": "¿Es primera vez que utiliza esta presentación? ¿Le mostraron cómo administrarla? ¿Ha tenido náuseas o vómitos que le dificulten comer o beber? ¿Usa insulina u otro medicamento que pueda bajar la glucosa?",
@@ -2185,14 +2180,14 @@
     "validacion": "Material educativo de apoyo al mesón; no sustituye folleto vigente ni juicio clínico. | Reorganización editorial v38: información clínica ampliada diferenciada; verificación regulatoria individual pendiente.",
     "dispensacion_rapida": {
       "primera": {
-        "consejo": "Administrar por vía subcutánea semanal, con o sin comidas; enseñar dispositivo correspondiente. Folleto ISP aportado: 0,25 mg semanas 1–4; 0,5 mg semanas 5–8; 1 mg semanas 9–12; 1,7 mg semanas 13–16; mantenimiento 2,4 mg semanal. Indicación: control de peso, NO pauta de Ozempic para DM2.",
+        "consejo": "Wegovy se administra por vía subcutánea una vez a la semana, con o sin comidas, según la pauta prescrita. Identificar el dispositivo y la concentración entregados; corresponde al control de peso y no debe intercambiarse automáticamente con Ozempic.",
         "pregunta": "¿Es primera dispensación? ¿Conoce la pauta de escalamiento y utiliza insulina o sulfonilureas?",
         "efectos": "Explicar síntomas gastrointestinales y signos de pancreatitis o deshidratación.",
         "almacenamiento": "Comprobar conservación exacta en el folleto de la presentación entregada; no congelar inyectables.",
         "accion": "Confirmar presentación, indicación y dispositivo; enseñar técnica según fabricante."
       },
       "habitual": {
-        "consejo": "Folleto ISP aportado: administrar la dosis omitida dentro de 5 días; si pasaron más de 5 días, omitir y continuar calendario. Si se omiten varias dosis, considerar evaluación para reiniciar con dosis menor.",
+        "consejo": "Ante una dosis olvidada, consultar las instrucciones del folleto de la presentación y el plan indicado. Si se han omitido varias dosis consecutivas, solicitar evaluación del equipo tratante antes de reiniciar; no improvisar cambios de dosis.",
         "pregunta": "¿Ha tenido vómitos persistentes, hipoglucemias, dificultades de administración o cambios de tratamiento?",
         "efectos": "Revisar tolerancia, hidratación y signos de alarma.",
         "almacenamiento": "Verificar conservación y fecha de vencimiento tras apertura según producto.",
@@ -2253,7 +2248,7 @@
       "fundamento": "Comparte agonismo GLP-1 con las presentaciones para DM2, pero la evaluación clínica y las dosis de mantenimiento dependen de la indicación y producto autorizados.",
       "interacciones_especificas": "Revisar medicamentos que causan hipoglucemia si existe DM2 concomitante; no combinar de forma automática productos con el mismo principio activo.",
       "evidencia_y_limitaciones": "Los ensayos STEP de control de peso no deben presentarse como equivalentes a SUSTAIN o PIONEER para DM2.\nSeguridad y seguimiento: efectos gastrointestinales, hidratación, evolución nutricional y síntomas de alarma. Consideraciones para la dispensación: identificar explícitamente Wegovy como formulación para control de peso; no atribuirle automáticamente la indicación de DM2 ni sustituirla por Ozempic.",
-      "detalle_regulatorio": "Verificar dosis, contraindicaciones, almacenamiento, condiciones de inicio y ajuste con el folleto ISP vigente de la presentación específica; los antecedentes de esta ficha no sustituyen dicha verificación."
+      "detalle_regulatorio": "Verificar dosis, contraindicaciones, almacenamiento, condiciones de inicio y ajuste con el folleto ISP vigente de la presentación específica; los antecedentes de esta ficha no sustituyen dicha verificación.\nAntecedente documental de la ficha previa (NO pauta de dispensación ni confirmación de vigencia): Administrar por vía subcutánea semanal, con o sin comidas; enseñar dispositivo correspondiente. Folleto ISP aportado: 0,25 mg semanas 1–4; 0,5 mg semanas 5–8; 1 mg semanas 9–12; 1,7 mg semanas 13–16; mantenimiento 2,4 mg semanal. Indicación: control de peso, NO pauta de Ozempic para DM2. Verificar siempre el folleto chileno actualizado de la presentación y la prescripción antes de interpretar dosis o titulación."
     },
     "guia_meson": {
       "preguntas": "¿Es primera vez que utiliza esta presentación? ¿Le mostraron cómo administrarla? ¿Ha tenido náuseas o vómitos que le dificulten comer o beber? ¿Usa insulina u otro medicamento que pueda bajar la glucosa?",
@@ -2315,7 +2310,7 @@
     "validacion": "Material educativo de apoyo al mesón; no sustituye folleto vigente ni juicio clínico. | Reorganización editorial v38: información clínica ampliada diferenciada; verificación regulatoria individual pendiente.",
     "dispensacion_rapida": {
       "primera": {
-        "consejo": "Administración subcutánea diaria en abdomen, muslo o brazo, independientemente de comidas. Folleto ISP aportado: iniciar 0,6 mg/día, aumentar 0,6 mg a intervalos de al menos una semana hasta 3 mg/día para control de peso. NO es pauta de liraglutida para DM2.",
+        "consejo": "Saxenda se administra por vía subcutánea diariamente en abdomen, muslo o brazo, independientemente de las comidas. Confirmar la pauta prescrita y el uso correcto del dispositivo. Corresponde al control de peso; no utilizar por analogía la pauta de Victoza.",
         "pregunta": "¿Es primera dispensación? ¿Conoce la pauta de escalamiento y utiliza insulina o sulfonilureas?",
         "efectos": "Explicar síntomas gastrointestinales y signos de pancreatitis o deshidratación.",
         "almacenamiento": "Comprobar conservación exacta en el folleto de la presentación entregada; no congelar inyectables.",
@@ -2358,7 +2353,7 @@
       "fundamento": "Agonista GLP-1 de administración diaria; los efectos sobre saciedad y apetito participan en el control de peso, además de sus acciones metabólicas.",
       "interacciones_especificas": "Revisar coexistencia de otros agonistas GLP-1 y tratamientos hipoglucemiantes; no indicar cambios autónomos.",
       "evidencia_y_limitaciones": "Los ensayos de manejo de peso no sustituyen la evidencia específica de resultados clínicos en DM2.\nSeguridad y seguimiento: tolerancia gastrointestinal, hidratación y estado nutricional. Consideraciones para la dispensación: verificar dispositivo y pauta de Saxenda, orientada al control de peso; no aplicar la titulación de Victoza.",
-      "detalle_regulatorio": "Verificar dosis, contraindicaciones, almacenamiento, condiciones de inicio y ajuste con el folleto ISP vigente de la presentación específica; los antecedentes de esta ficha no sustituyen dicha verificación."
+      "detalle_regulatorio": "Verificar dosis, contraindicaciones, almacenamiento, condiciones de inicio y ajuste con el folleto ISP vigente de la presentación específica; los antecedentes de esta ficha no sustituyen dicha verificación.\nAntecedente documental de la ficha previa (NO pauta de dispensación ni confirmación de vigencia): Administración subcutánea diaria en abdomen, muslo o brazo, independientemente de comidas. Folleto ISP aportado: iniciar 0,6 mg/día, aumentar 0,6 mg a intervalos de al menos una semana hasta 3 mg/día para control de peso. NO es pauta de liraglutida para DM2. Verificar siempre el folleto chileno actualizado de la presentación y la prescripción antes de interpretar dosis o titulación."
     },
     "guia_meson": {
       "preguntas": "¿Es primera vez que utiliza esta presentación? ¿Le mostraron cómo administrarla? ¿Ha tenido náuseas o vómitos que le dificulten comer o beber? ¿Usa insulina u otro medicamento que pueda bajar la glucosa?",

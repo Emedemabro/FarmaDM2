@@ -81,3 +81,6 @@
 .clinical-extra-content h4{margin:14px 0 5px}
 
 .insulin-reading p{margin:0 0 .85rem;line-height:1.6}.insulin-scope{padding:.85rem 1rem;margin:1rem 0;border:1px solid #a9b9c6;border-radius:10px;line-height:1.55}
+
+/* 6.4: aviso breve permanente en la página, no flotante */
+.notice .scope-review{display:block;color:#6b5a3b;font-size:12px;margin-top:5px}
