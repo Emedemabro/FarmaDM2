@@ -1,7 +1,7 @@
 /* FarmaDM2: caché de recursos propios. Red primero, respaldo offline. */
-const CACHE = 'farmadm2-6-7-educacion-asincronica-20261108';
+const CACHE = 'farmadm2-6-71-contenido-20261109';
 const CACHE_PREFIX = 'farmadm2-';
-const ASSETS = ['./', './index.html', './style.css', './app.js', './medicamentos.json', './marcas_isp.json', './manifest.webmanifest', './icon.svg','./educacion_67.js','./educacion_67.css'];
+const ASSETS = ['./', './index.html', './style.css', './app.js', './medicamentos.json', './marcas_isp.json', './manifest.webmanifest', './icon.svg', './educacion_67.js', './educacion_67.css'];
 const assetUrls = new Set(ASSETS.map(path => new URL(path, self.registration.scope).href));
 
 self.addEventListener('install', event => {

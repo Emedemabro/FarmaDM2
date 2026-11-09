@@ -1,8 +1,18 @@
-FarmaDM2 6.7 — Módulo Actualización farmacoterapéutica (2026-11-08)
-Cuatro cápsulas temáticas, tres casos y tres antecedentes chilenos con fecha y fuentes.
-Se conserva el bloque anterior en documentacion/educacion_anterior_6_6_1.txt.
-Las 28 fichas principales, 95 registros preliminares de marcas y otros módulos se mantienen sin cambios.
-Pruebas controladas en Chromium con datos locales, sin errores JavaScript, en móvil y escritorio. Pruebas de publicación, actualización efectiva del caché, offline real y revisión clínica profesional pendientes.
+FarmaDM2 6.71 — revisión de seguridad con enfoque de mesón, 09-11-2026.
+Base: FarmaDM2 6.7 (42 archivos), sin cambio de arquitectura o funciones.
+10 fichas: señales de alarma abdominal y orientación a urgencias expresadas en lenguaje condicional.
+Saxagliptina: Res. Ex. ISP 4740 explicitada en profundización; SAVOR-TIMI 53 pancreatitis contextualizada.
+Tirzepatida: retiro de imperativos de suspensión desde mesón; decisión clínica en profundización.
+Rybelsus: corregida mención secundaria inapropiada a dispositivo inyectable.
+Degludec no modificado. No se añadieron contraindicaciones de CMT/NEM2 ni equivalencias entre folletos.
+Caché renovado para permitir actualización de versión offline.
+Consultar documentacion/Cambios_y_pruebas_FarmaDM2_6.71.md y CONTINUIDAD_FarmaDM2_6.71.md.
+Cotejo clínico integral y pruebas en dispositivo/publicación real pendientes.
+
+FarmaDM2 6.7 — integración educativa, 08-11-2026.
+Consultar documentacion/Informe_FarmaDM2_6.7.md para cambios, pruebas y pendientes.
+Base 6.6.1 preservada; 28 fichas intactas. Servir mediante HTTPS o localhost.
+Validación clínica profesional pendiente.
 
 FarmaDM2 6.6 — PROTOTIPO ACADÉMICO (entrega técnica, 07-11-2026)
 Base: FarmaDM2 6.5. El catálogo principal contiene 28 fichas: 17 medicamentos no insulínicos para DM2 y 11 insulinas.

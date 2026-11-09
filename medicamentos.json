@@ -327,7 +327,7 @@
     "estado": "Ficha ampliada · revisión documental y regulatoria pendiente",
     "descripcion": "Semaglutida subcutánea para control glicémico de DM2 según folleto ISP Ozempic.",
     "seguridad": [
-      "Verificar antecedentes de pancreatitis y síntomas abdominales persistentes.",
+      "Si presenta dolor abdominal intenso y persistente, que puede extenderse hacia la espalda y acompañarse de náuseas o vómitos, acuda de inmediato a urgencias e informe qué medicamento utiliza. Estos síntomas podrían indicar pancreatitis y requieren evaluación médica.",
       "Vigilar deshidratación por efectos gastrointestinales.",
       "Insulina o sulfonilurea concomitante: mayor riesgo de hipoglucemia.",
       "En antecedentes de retinopatía diabética, considerar vigilancia por riesgo de empeoramiento transitorio con reducción rápida de HbA1c."
@@ -349,8 +349,8 @@
     "alertas": [
       {
         "nivel": "Evaluación inmediata",
-        "titulo": "Sospecha de pancreatitis",
-        "detalle": "Dolor abdominal intenso y persistente, con o sin vómitos: evaluación médica urgente."
+        "titulo": "Dolor abdominal intenso y persistente",
+        "detalle": "Si presenta dolor abdominal intenso y persistente, que puede extenderse hacia la espalda y acompañarse de náuseas o vómitos, acuda de inmediato a urgencias e informe qué medicamento utiliza. Estos síntomas podrían indicar pancreatitis y requieren evaluación médica."
       },
       {
         "nivel": "Evaluación médica",
@@ -389,7 +389,7 @@
       "primera": {
         "consejo": "Inyectar por vía subcutánea una vez por semana en abdomen, muslo o brazo, con o sin alimentos, según la presentación y la pauta prescritas. Confirmar el dispositivo, el día semanal y la dosis indicada. No utilizar por vía intravenosa ni intramuscular; no confundir con Wegovy.",
         "pregunta": "¿Es primera dispensación? ¿Reconoce la pauta indicada en su receta y utiliza insulina o sulfonilureas?",
-        "efectos": "Explicar síntomas gastrointestinales y signos de pancreatitis o deshidratación.",
+        "efectos": "Explicar las molestias gastrointestinales y la hidratación. Ante dolor abdominal intenso y persistente, con posible irradiación a la espalda o vómitos, acudir de inmediato a urgencias; podría ser una señal de pancreatitis.",
         "almacenamiento": "Folleto ISP aportado, sección 6.3: antes del primer uso refrigerar entre 2–8 °C; después del primer uso, hasta 6 semanas por debajo de 30 °C o refrigerado (2–8 °C). No congelar; mantener tapa y retirar aguja después de cada inyección.",
         "accion": "Confirmar presentación, indicación y dispositivo; enseñar técnica según fabricante."
       },
@@ -415,7 +415,7 @@
       {
         "tipo": "Seguridad",
         "titulo": "Alertas de dispensación",
-        "texto": "Verificar antecedentes de pancreatitis y síntomas abdominales persistentes. / Vigilar deshidratación por efectos gastrointestinales. / Insulina o sulfonilurea concomitante: mayor riesgo de hipoglucemia. / En antecedentes de retinopatía diabética, considerar vigilancia por riesgo de empeoramiento transitorio con reducción rápida de HbA1c."
+        "texto": "Ante dolor abdominal intenso y persistente, a veces hacia la espalda o con náuseas o vómitos, acudir de inmediato a urgencias e informar el medicamento utilizado. Podría ser una señal de pancreatitis. / Vigilar deshidratación por efectos gastrointestinales. / Insulina o sulfonilurea concomitante: mayor riesgo de hipoglucemia. / En antecedentes de retinopatía diabética, considerar vigilancia por riesgo de empeoramiento transitorio con reducción rápida de HbA1c."
       },
       {
         "tipo": "Trazabilidad",
@@ -455,7 +455,7 @@
     "guia_meson": {
       "preguntas": "¿Es primera vez que utiliza esta presentación? ¿Le mostraron cómo administrarla? ¿Ha tenido náuseas o vómitos que le dificulten comer o beber? ¿Usa insulina u otro medicamento que pueda bajar la glucosa?",
       "explicacion": "Confirme el día de administración y que conoce la técnica y el dispositivo de su presentación. Las molestias digestivas son frecuentes al inicio; siga la titulación indicada.",
-      "alertas": "Dolor abdominal intenso y persistente, especialmente con vómitos, requiere evaluación médica urgente. Vómitos o diarrea que impiden hidratarse requieren consulta. No modificar la dosis por cuenta propia."
+      "alertas": "Ante dolor abdominal intenso y persistente, a veces hacia la espalda o con náuseas o vómitos, acudir de inmediato a urgencias e informar el medicamento utilizado. Podría ser una señal de pancreatitis. Vómitos o diarrea que impiden hidratarse requieren consulta. No modificar la dosis por cuenta propia."
     },
     "presentaciones_relacionadas": [
       {
@@ -582,12 +582,12 @@
     "estado": "Ficha ampliada · revisión documental y regulatoria pendiente",
     "descripcion": "Agonista dual de receptores GIP y GLP-1 utilizado en adultos con diabetes mellitus tipo 2; administración subcutánea semanal.",
     "seguridad": [
-      "Pancreatitis aguda: reconocer dolor abdominal intenso persistente y derivar.",
+      "Si presenta dolor abdominal intenso y persistente, que puede extenderse hacia la espalda y acompañarse de náuseas o vómitos, acuda de inmediato a urgencias e informe qué medicamento utiliza. Estos síntomas podrían indicar pancreatitis y requieren evaluación médica.",
       "Malnutrición: advertencia ISP 2026; vigilar ingesta insuficiente y pérdida de peso excesiva.",
       "Hipoglucemia con insulina o sulfonilureas; deshidratación por vómitos/diarrea.",
       "Confirmar instrucciones específicas para vial o KwikPen y anticoncepción oral."
     ],
-    "dispensacion": "Confirmar pauta semanal, concentración, tipo de dispositivo y comprensión de su uso. Preguntar por insulina o sulfonilureas, anticonceptivos orales y síntomas gastrointestinales persistentes. Explicar señales de pancreatitis y malnutrición.",
+    "dispensacion": "Confirmar pauta semanal, concentración, tipo de dispositivo y comprensión de su uso. Preguntar por insulina o sulfonilureas, anticonceptivos orales y síntomas gastrointestinales persistentes. Explicar cuándo buscar atención médica por dolor abdominal intenso y persistente o signos de malnutrición.",
     "marcas": [],
     "mecanismo": "Activa receptores GIP y GLP-1: favorece la secreción de insulina dependiente de glucosa, modula el glucagón, retrasa el vaciamiento gástrico y contribuye a regular apetito y saciedad.",
     "posicionamiento": "La tirzepatida ayuda a reducir la glicemia en adultos con DM2 y puede favorecer una reducción importante del peso. Puede considerarse cuando se necesita mejorar el control de la diabetes, teniendo en cuenta la tolerancia, otros medicamentos y las condiciones de salud de cada persona.",
@@ -606,7 +606,7 @@
     "dispensacion_rapida": {
       "primera": {
         "consejo": "Se aplica por vía subcutánea una vez a la semana. Confirmar el día de aplicación, la dosis prescrita y cómo usar el dispositivo específico antes de la primera administración.",
-        "pregunta": "¿Le enseñaron a utilizar el dispositivo? ¿Usa insulina, glimepirida, gliclazida o anticonceptivos orales? ¿Ha tenido pancreatitis?",
+        "pregunta": "¿Le enseñaron a utilizar el dispositivo? ¿Usa insulina, glimepirida, gliclazida o anticonceptivos orales?",
         "efectos": "Puede provocar náuseas, diarrea, vómitos o menor apetito. Mantener hidratación y alimentación equilibrada; consultar si los síntomas impiden comer o beber.",
         "almacenamiento": "Confirmar presentación: el vial de uso único y KwikPen multidosis tienen instrucciones de conservación y uso diferentes. Revisar el folleto correspondiente.",
         "accion": "Comprobar concentración, dispositivo, pauta semanal y comprensión de la técnica. Si utiliza anticonceptivos orales, consultar al QF sobre método adicional durante inicio y escalamiento."
@@ -622,8 +622,8 @@
     "alertas": [
       {
         "nivel": "Evaluación urgente",
-        "titulo": "Sospecha de pancreatitis",
-        "detalle": "Dolor abdominal intenso y persistente, con o sin vómitos y posible irradiación a espalda. Suspender ante sospecha y derivar."
+        "titulo": "Dolor abdominal intenso y persistente",
+        "detalle": "Si presenta dolor abdominal intenso y persistente, que puede extenderse hacia la espalda y acompañarse de náuseas o vómitos, acuda de inmediato a urgencias e informe qué medicamento utiliza. Estos síntomas podrían indicar pancreatitis y requieren evaluación médica."
       },
       {
         "nivel": "Evaluación médica",
@@ -697,7 +697,7 @@
     "guia_meson": {
       "preguntas": "¿Sabe utilizar su dispositivo y qué día le corresponde la inyección? ¿Usa insulina o sulfonilureas? ¿Ha presentado dolor abdominal fuerte, vómitos persistentes, pérdida de peso muy rápida o dificultades para alimentarse? ¿Usa anticonceptivos orales?",
       "explicacion": "Es una inyección semanal que ayuda a reducir la glucosa y puede favorecer una pérdida importante de peso. Durante el tratamiento debe mantener alimentación equilibrada, hidratación y la pauta indicada. Si olvida una dosis, puede recuperarla dentro de 4 días; después, debe omitirla.",
-      "alertas": "1. Pancreatitis: dolor abdominal intenso y persistente, a veces hacia la espalda, con o sin vómitos: evaluación médica urgente; no administrar nuevas dosis mientras se investiga la sospecha.\n2. Malnutrición: pérdida de peso excesivamente rápida, fatiga extrema, debilidad o caída inusual del cabello: consultar al equipo tratante.\n3. Hipoglucemia: mayor riesgo al combinar con insulina o sulfonilureas.\n4. Deshidratación: vómitos o diarrea persistentes, especialmente si no logra beber líquidos: valoración médica.\n5. Reacción alérgica grave: hinchazón de cara o lengua o dificultad respiratoria: urgencia."
+      "alertas": "1. Dolor abdominal intenso y persistente: acudir de inmediato a urgencias e informar qué medicamento utiliza, especialmente si el dolor se extiende hacia la espalda o se acompaña de náuseas o vómitos; podría ser una señal de pancreatitis.\n2. Malnutrición: pérdida de peso excesivamente rápida, fatiga extrema, debilidad o caída inusual del cabello: consultar al equipo tratante.\n3. Hipoglucemia: mayor riesgo al combinar con insulina o sulfonilureas.\n4. Deshidratación: vómitos o diarrea persistentes, especialmente si no logra beber líquidos: valoración médica.\n5. Reacción alérgica grave: hinchazón de cara o lengua o dificultad respiratoria: urgencia."
     },
     "ampliada_qf": {
       "titulo_foco": "Agonismo dual GIP/GLP-1, seguridad nutricional y diferencias entre dispositivos",
@@ -705,7 +705,7 @@
       "farmacocinetica_y_seleccion": "Absorción: Absorción subcutánea lenta, compatible con administración semanal. Distribución: Unión a albúmina mediada por su cadena lateral lipídica. Metabolismo: Proteólisis de la cadena peptídica, beta-oxidación de la cadena lateral y procesos de hidrólisis. Excreción y eliminación: Metabolitos eliminados por orina y heces; semivida aproximada de cinco días. Distinguir vial monodosis y KwikPen multidosis en la dispensación.",
       "interacciones_especificas": "Insulina o sulfonilureas: mayor riesgo de hipoglucemia y posible necesidad de reevaluar dosis por prescriptor. El retraso del vaciamiento gástrico puede modificar absorción de fármacos orales; los folletos ISP recomiendan método anticonceptivo no oral o barrera adicional durante 4 semanas tras el inicio y tras cada aumento de dosis cuando se usan anticonceptivos hormonales orales. Evaluar medicamentos orales de margen terapéutico estrecho.",
       "evidencia_y_limitaciones": "Los ensayos SURPASS documentan reducciones importantes de HbA1c y peso; SURPASS-2 comparó tirzepatida con semaglutida 1 mg semanal, no con todas sus dosis o indicaciones. NICE TA924 analiza una población y criterios de financiación del NHS que no constituyen criterios regulatorios chilenos. La nota ISP de septiembre de 2026 advierte sobre malnutrición, incluidas deficiencias nutricionales y pérdida ponderal acelerada.\nSeguridad y seguimiento: efectos gastrointestinales, deshidratación, estado nutricional y síntomas de alarma; riesgo de hipoglucemia con insulina o sulfonilureas. Consideraciones para la dispensación: diferenciar presentación vial y KwikPen; verificar la precaución sobre anticonceptivos orales tras inicio o aumento de dosis conforme a ficha técnica aplicable.",
-      "detalle_regulatorio": "Folletos ISP: vial F-28426/24 y KwikPen F-29345/25 (presentaciones específicas). En pancreatitis sospechada, suspender y evaluar; si se confirma, no reiniciar según folleto. Vigilar síntomas de deshidratación, colecistopatía y tolerancia gastrointestinal. ISP, nota de farmacovigilancia 01-09-2026: evaluar estado nutricional antes y durante el tratamiento y considerar suspensión por profesional ante malnutrición grave o persistente. Nota técnica de revisión 07-11-2026: Folleto ISP Mounjaro vial F-28425/24: no requiere ajuste de dosis por deterioro renal, incluida enfermedad renal terminal, basado en farmacocinética; la experiencia con deterioro grave/terminal es limitada y se requiere precaución. Los efectos gastrointestinales pueden producir deshidratación y deterioro renal. La recomendación debe verificarse por producto y dispositivo. Fuente: https://www.ispch.gob.cl/wp-content/uploads/2026/03/MOUNJARO-SOLUCION-INYECTABLE-10-mg-05-mL-F-28425-24.pdf"
+      "detalle_regulatorio": "Folletos ISP: vial F-28426/24 y KwikPen F-29345/25 (presentaciones específicas). Según los folletos ISP citados para las presentaciones revisadas, ante sospecha de pancreatitis corresponde interrumpir tirzepatida y realizar evaluación médica; si se confirma, no reiniciar. La conducta terapéutica debe definirse en atención clínica y cotejarse con el folleto de la presentación específica. Vigilar síntomas de deshidratación, colecistopatía y tolerancia gastrointestinal. ISP, nota de farmacovigilancia 01-09-2026: evaluar estado nutricional antes y durante el tratamiento y considerar suspensión por profesional ante malnutrición grave o persistente. Nota técnica de revisión 07-11-2026: Folleto ISP Mounjaro vial F-28425/24: no requiere ajuste de dosis por deterioro renal, incluida enfermedad renal terminal, basado en farmacocinética; la experiencia con deterioro grave/terminal es limitada y se requiere precaución. Los efectos gastrointestinales pueden producir deshidratación y deterioro renal. La recomendación debe verificarse por producto y dispositivo. Fuente: https://www.ispch.gob.cl/wp-content/uploads/2026/03/MOUNJARO-SOLUCION-INYECTABLE-10-mg-05-mL-F-28425-24.pdf"
     },
     "consejos_practicos": []
   },
@@ -717,7 +717,7 @@
     "estado": "Revisión editorial DPP-4 v40 · verificación farmacoterapéutica final pendiente",
     "descripcion": "Medicamento oral que ayuda a controlar la glucosa en personas con diabetes tipo 2 al prolongar la acción de hormonas intestinales.",
     "seguridad": [
-      "Dolor abdominal intenso y persistente, que puede extenderse hacia la espalda, con o sin náuseas o vómitos: solicitar evaluación médica urgente por posible pancreatitis.",
+      "Si presenta dolor abdominal intenso y persistente, que puede extenderse hacia la espalda y acompañarse de náuseas o vómitos, acuda de inmediato a urgencias e informe qué medicamento utiliza. Estos síntomas podrían indicar pancreatitis y requieren evaluación médica.",
       "El riesgo de hipoglucemia puede aumentar al asociarse con insulina o sulfonilureas.",
       "Ante dificultad respiratoria, hinchazón facial o ampollas cutáneas, solicitar evaluación."
     ],
@@ -747,8 +747,8 @@
       },
       {
         "nivel": "Evaluación médica pronta",
-        "titulo": "Posible pancreatitis",
-        "detalle": "Dolor abdominal intenso y persistente, con o sin vómitos, especialmente si se irradia hacia la espalda: evaluación médica inmediata."
+        "titulo": "Dolor abdominal intenso y persistente",
+        "detalle": "Si presenta dolor abdominal intenso y persistente, que puede extenderse hacia la espalda y acompañarse de náuseas o vómitos, acuda de inmediato a urgencias e informe qué medicamento utiliza. Estos síntomas podrían indicar pancreatitis y requieren evaluación médica."
       },
       {
         "nivel": "Evaluación profesional",
@@ -807,14 +807,14 @@
       "primera": {
         "consejo": "Puede tomarse con o sin alimentos, siguiendo la pauta prescrita. Si utiliza insulina o sulfonilureas, conviene reconocer los síntomas de glucosa baja.",
         "pregunta": "¿Es la primera vez que lo utiliza? ¿Sabe cuándo tomarlo y qué hacer si olvida una dosis?",
-        "efectos": "Dolor abdominal intenso y persistente, que puede extenderse hacia la espalda, con o sin náuseas o vómitos: solicitar evaluación médica urgente por posible pancreatitis.",
+        "efectos": "Si presenta dolor abdominal intenso y persistente, que puede extenderse hacia la espalda y acompañarse de náuseas o vómitos, acuda de inmediato a urgencias e informe qué medicamento utiliza. Estos síntomas podrían indicar pancreatitis y requieren evaluación médica.",
         "almacenamiento": "Mantener en su envase original, en lugar seco y protegido de la luz solar directa y fuentes de calor; evitar el baño y otros lugares húmedos. Respetar siempre la temperatura y las condiciones particulares indicadas en el envase y folleto de la presentación dispensada.",
         "accion": "Confirmar medicamento, presentación y pauta. Explicar las recomendaciones principales y consultar al químico farmacéutico si aparece una discrepancia concreta o un síntoma de alarma."
       },
       "habitual": {
         "consejo": "Mantenga la pauta indicada; si olvida una dosis, no duplique la siguiente. Consulte si aparecen molestias importantes o persistentes.",
         "pregunta": "¿Ha podido seguir la pauta indicada? ¿Ha olvidado alguna dosis o notado molestias? ¿Utiliza otros medicamentos para la diabetes?",
-        "efectos": "Dolor abdominal intenso y persistente, que puede extenderse hacia la espalda, con o sin náuseas o vómitos: solicitar evaluación médica urgente por posible pancreatitis.",
+        "efectos": "Si presenta dolor abdominal intenso y persistente, que puede extenderse hacia la espalda y acompañarse de náuseas o vómitos, acuda de inmediato a urgencias e informe qué medicamento utiliza. Estos síntomas podrían indicar pancreatitis y requieren evaluación médica.",
         "almacenamiento": "Mantener en su envase original, en lugar seco y protegido de la luz solar directa y fuentes de calor; evitar el baño y otros lugares húmedos. Respetar siempre la temperatura y las condiciones particulares indicadas en el envase y folleto de la presentación dispensada.",
         "accion": "Reforzar la continuidad del tratamiento y revisar dificultades prácticas. Solicitar apoyo profesional solo ante dudas o hallazgos relevantes."
       }
@@ -828,7 +828,7 @@
       {
         "tipo": "Seguridad",
         "titulo": "Cuándo consultar",
-        "texto": "Dolor abdominal intenso y persistente, que puede extenderse hacia la espalda, con o sin náuseas o vómitos: solicitar evaluación médica urgente por posible pancreatitis."
+        "texto": "Ante dolor abdominal intenso y persistente, a veces hacia la espalda o con náuseas o vómitos, acudir de inmediato a urgencias e informar el medicamento utilizado. Podría ser una señal de pancreatitis."
       },
       {
         "tipo": "Seguimiento",
@@ -853,7 +853,7 @@
     "guia_meson": {
       "preguntas": "¿Es la primera vez que lo utiliza? ¿Tiene clara la pauta? ¿Ha olvidado tomas o presentado molestias? ¿Utiliza insulina o medicamentos como glimepirida o gliclazida?",
       "explicacion": "Ayuda a controlar la glucosa prolongando la acción de hormonas intestinales. Tome el medicamento según la indicación recibida; no duplique una dosis olvidada.",
-      "alertas": "1. Posible pancreatitis: Dolor abdominal intenso y persistente, que puede extenderse hacia la espalda, con o sin náuseas o vómitos: solicitar evaluación médica urgente por posible pancreatitis.\n2. Alergia grave: hinchazón de cara o lengua o dificultad respiratoria; acudir a urgencias.\n3. Ampollas cutáneas o dolor articular intenso: consultar al equipo de salud."
+      "alertas": "1. Dolor abdominal intenso y persistente: acudir de inmediato a urgencias e informar qué medicamento utiliza, especialmente si el dolor se extiende hacia la espalda o se acompaña de náuseas o vómitos; podría ser una señal de pancreatitis.\n2. Alergia grave: hinchazón de cara o lengua o dificultad respiratoria; acudir a urgencias.\n3. Ampollas cutáneas o dolor articular intenso: consultar al equipo de salud."
     },
     "ampliada_qf": {
       "titulo_foco": "Eliminación renal y ajuste individualizado",
@@ -1214,7 +1214,7 @@
     "estado": "Revisión editorial DPP-4 v40 · verificación farmacoterapéutica final pendiente",
     "descripcion": "Medicamento oral que ayuda a controlar la glucosa en personas con diabetes tipo 2 al prolongar la acción de hormonas intestinales.",
     "seguridad": [
-      "Dolor abdominal intenso y persistente, que puede extenderse hacia la espalda, con o sin náuseas o vómitos: solicitar evaluación médica urgente por posible pancreatitis.",
+      "Si presenta dolor abdominal intenso y persistente, que puede extenderse hacia la espalda y acompañarse de náuseas o vómitos, acuda de inmediato a urgencias e informe qué medicamento utiliza. Estos síntomas podrían indicar pancreatitis y requieren evaluación médica.",
       "El riesgo de hipoglucemia puede aumentar al asociarse con insulina o sulfonilureas.",
       "Ante dificultad respiratoria, hinchazón facial o ampollas cutáneas, solicitar evaluación."
     ],
@@ -1244,8 +1244,8 @@
       },
       {
         "nivel": "Evaluación inmediata",
-        "titulo": "Pancreatitis",
-        "detalle": "Dolor abdominal intenso y persistente, especialmente irradiado a espalda."
+        "titulo": "Dolor abdominal intenso y persistente",
+        "detalle": "Si presenta dolor abdominal intenso y persistente, que puede extenderse hacia la espalda y acompañarse de náuseas o vómitos, acuda de inmediato a urgencias e informe qué medicamento utiliza. Estos síntomas podrían indicar pancreatitis y requieren evaluación médica."
       }
     ],
     "fuentes": [
@@ -1273,14 +1273,14 @@
       "primera": {
         "consejo": "Puede administrarse con o sin alimentos. Mantenga la pauta indicada y consulte si aparecen molestias persistentes, especialmente dolor abdominal o síntomas compatibles con alteración hepática.",
         "pregunta": "¿Es la primera vez que lo utiliza? ¿Sabe cuándo tomarlo y qué hacer si olvida una dosis?",
-        "efectos": "Dolor abdominal intenso y persistente, que puede extenderse hacia la espalda, con o sin náuseas o vómitos: solicitar evaluación médica urgente por posible pancreatitis.",
+        "efectos": "Si presenta dolor abdominal intenso y persistente, que puede extenderse hacia la espalda y acompañarse de náuseas o vómitos, acuda de inmediato a urgencias e informe qué medicamento utiliza. Estos síntomas podrían indicar pancreatitis y requieren evaluación médica.",
         "almacenamiento": "Mantener en su envase original, en lugar seco y protegido de la luz solar directa y fuentes de calor; evitar el baño y otros lugares húmedos. Respetar siempre la temperatura y las condiciones particulares indicadas en el envase y folleto de la presentación dispensada.",
         "accion": "Confirmar medicamento, presentación y pauta. Explicar las recomendaciones principales y consultar al químico farmacéutico si aparece una discrepancia concreta o un síntoma de alarma."
       },
       "habitual": {
         "consejo": "Mantenga la pauta indicada; si olvida una dosis, no duplique la siguiente. Consulte si aparecen molestias importantes o persistentes.",
         "pregunta": "¿Ha podido seguir la pauta indicada? ¿Ha olvidado alguna dosis o notado molestias? ¿Utiliza otros medicamentos para la diabetes?",
-        "efectos": "Dolor abdominal intenso y persistente, que puede extenderse hacia la espalda, con o sin náuseas o vómitos: solicitar evaluación médica urgente por posible pancreatitis.",
+        "efectos": "Si presenta dolor abdominal intenso y persistente, que puede extenderse hacia la espalda y acompañarse de náuseas o vómitos, acuda de inmediato a urgencias e informe qué medicamento utiliza. Estos síntomas podrían indicar pancreatitis y requieren evaluación médica.",
         "almacenamiento": "Mantener en su envase original, en lugar seco y protegido de la luz solar directa y fuentes de calor; evitar el baño y otros lugares húmedos. Respetar siempre la temperatura y las condiciones particulares indicadas en el envase y folleto de la presentación dispensada.",
         "accion": "Reforzar la continuidad del tratamiento y revisar dificultades prácticas. Solicitar apoyo profesional solo ante dudas o hallazgos relevantes."
       }
@@ -1294,7 +1294,7 @@
       {
         "tipo": "Seguridad",
         "titulo": "Cuándo consultar",
-        "texto": "Dolor abdominal intenso y persistente, que puede extenderse hacia la espalda, con o sin náuseas o vómitos: solicitar evaluación médica urgente por posible pancreatitis."
+        "texto": "Ante dolor abdominal intenso y persistente, a veces hacia la espalda o con náuseas o vómitos, acudir de inmediato a urgencias e informar el medicamento utilizado. Podría ser una señal de pancreatitis."
       },
       {
         "tipo": "Seguimiento",
@@ -1311,7 +1311,7 @@
     "guia_meson": {
       "preguntas": "¿Es la primera vez que lo utiliza? ¿Tiene clara la pauta? ¿Ha olvidado tomas o presentado molestias? ¿Utiliza insulina o medicamentos como glimepirida o gliclazida?",
       "explicacion": "Ayuda a controlar la glucosa prolongando la acción de hormonas intestinales. Tome el medicamento según la indicación recibida; no duplique una dosis olvidada.",
-      "alertas": "1. Posible pancreatitis: Dolor abdominal intenso y persistente, que puede extenderse hacia la espalda, con o sin náuseas o vómitos: solicitar evaluación médica urgente por posible pancreatitis.\n2. Alergia grave: hinchazón de cara o lengua o dificultad respiratoria; acudir a urgencias.\n3. Ampollas cutáneas o dolor articular intenso: consultar al equipo de salud.\n4. Piel u ojos amarillos u orina oscura: evaluación médica."
+      "alertas": "1. Dolor abdominal intenso y persistente: acudir de inmediato a urgencias e informar qué medicamento utiliza, especialmente si el dolor se extiende hacia la espalda o se acompaña de náuseas o vómitos; podría ser una señal de pancreatitis.\n2. Alergia grave: hinchazón de cara o lengua o dificultad respiratoria; acudir a urgencias.\n3. Ampollas cutáneas o dolor articular intenso: consultar al equipo de salud.\n4. Piel u ojos amarillos u orina oscura: evaluación médica."
     },
     "ampliada_qf": {
       "titulo_foco": "Metabolismo, función hepática y renal",
@@ -1330,7 +1330,7 @@
     "estado": "Revisión editorial DPP-4 v40 · verificación farmacoterapéutica final pendiente",
     "descripcion": "Medicamento oral que ayuda a controlar la glucosa en personas con diabetes tipo 2 al prolongar la acción de hormonas intestinales.",
     "seguridad": [
-      "Dolor abdominal intenso y persistente, que puede extenderse hacia la espalda, con o sin náuseas o vómitos: solicitar evaluación médica urgente por posible pancreatitis.",
+      "Si presenta dolor abdominal intenso y persistente, que puede extenderse hacia la espalda y acompañarse de náuseas o vómitos, acuda de inmediato a urgencias e informe qué medicamento utiliza. Estos síntomas podrían indicar pancreatitis y requieren evaluación médica.",
       "El riesgo de hipoglucemia puede aumentar al asociarse con insulina o sulfonilureas.",
       "Ante dificultad respiratoria, hinchazón facial o ampollas cutáneas, solicitar evaluación."
     ],
@@ -1356,8 +1356,8 @@
       },
       {
         "nivel": "Evaluación inmediata",
-        "titulo": "Pancreatitis",
-        "detalle": "Dolor abdominal severo y persistente."
+        "titulo": "Dolor abdominal intenso y persistente",
+        "detalle": "Si presenta dolor abdominal intenso y persistente, que puede extenderse hacia la espalda y acompañarse de náuseas o vómitos, acuda de inmediato a urgencias e informe qué medicamento utiliza. Estos síntomas podrían indicar pancreatitis y requieren evaluación médica."
       },
       {
         "nivel": "Evaluación pronta",
@@ -1380,14 +1380,14 @@
       "primera": {
         "consejo": "Mantenga la toma diaria según su receta. No duplique dosis olvidadas y consulte si presenta dolor abdominal intenso o síntomas de alergia.",
         "pregunta": "¿Es la primera vez que lo utiliza? ¿Sabe cuándo tomarlo y qué hacer si olvida una dosis?",
-        "efectos": "Dolor abdominal intenso y persistente, que puede extenderse hacia la espalda, con o sin náuseas o vómitos: solicitar evaluación médica urgente por posible pancreatitis.",
+        "efectos": "Si presenta dolor abdominal intenso y persistente, que puede extenderse hacia la espalda y acompañarse de náuseas o vómitos, acuda de inmediato a urgencias e informe qué medicamento utiliza. Estos síntomas podrían indicar pancreatitis y requieren evaluación médica.",
         "almacenamiento": "Mantener en su envase original, en lugar seco y protegido de la luz solar directa y fuentes de calor; evitar el baño y otros lugares húmedos. Respetar siempre la temperatura y las condiciones particulares indicadas en el envase y folleto de la presentación dispensada.",
         "accion": "Confirmar medicamento, presentación y pauta. Explicar las recomendaciones principales y consultar al químico farmacéutico si aparece una discrepancia concreta o un síntoma de alarma."
       },
       "habitual": {
         "consejo": "Mantenga la pauta indicada; si olvida una dosis, no duplique la siguiente. Consulte si aparecen molestias importantes o persistentes.",
         "pregunta": "¿Ha podido seguir la pauta indicada? ¿Ha olvidado alguna dosis o notado molestias? ¿Utiliza otros medicamentos para la diabetes?",
-        "efectos": "Dolor abdominal intenso y persistente, que puede extenderse hacia la espalda, con o sin náuseas o vómitos: solicitar evaluación médica urgente por posible pancreatitis.",
+        "efectos": "Si presenta dolor abdominal intenso y persistente, que puede extenderse hacia la espalda y acompañarse de náuseas o vómitos, acuda de inmediato a urgencias e informe qué medicamento utiliza. Estos síntomas podrían indicar pancreatitis y requieren evaluación médica.",
         "almacenamiento": "Mantener en su envase original, en lugar seco y protegido de la luz solar directa y fuentes de calor; evitar el baño y otros lugares húmedos. Respetar siempre la temperatura y las condiciones particulares indicadas en el envase y folleto de la presentación dispensada.",
         "accion": "Reforzar la continuidad del tratamiento y revisar dificultades prácticas. Solicitar apoyo profesional solo ante dudas o hallazgos relevantes."
       }
@@ -1401,7 +1401,7 @@
       {
         "tipo": "Seguridad",
         "titulo": "Cuándo consultar",
-        "texto": "Dolor abdominal intenso y persistente, que puede extenderse hacia la espalda, con o sin náuseas o vómitos: solicitar evaluación médica urgente por posible pancreatitis."
+        "texto": "Ante dolor abdominal intenso y persistente, a veces hacia la espalda o con náuseas o vómitos, acudir de inmediato a urgencias e informar el medicamento utilizado. Podría ser una señal de pancreatitis."
       },
       {
         "tipo": "Seguimiento",
@@ -1426,7 +1426,7 @@
     "guia_meson": {
       "preguntas": "¿Es la primera vez que lo utiliza? ¿Tiene clara la pauta? ¿Ha olvidado tomas o presentado molestias? ¿Utiliza insulina o medicamentos como glimepirida o gliclazida?",
       "explicacion": "Ayuda a controlar la glucosa prolongando la acción de hormonas intestinales. Tome el medicamento según la indicación recibida; no duplique una dosis olvidada.",
-      "alertas": "1. Posible pancreatitis: Dolor abdominal intenso y persistente, que puede extenderse hacia la espalda, con o sin náuseas o vómitos: solicitar evaluación médica urgente por posible pancreatitis.\n2. Alergia grave: hinchazón de cara o lengua o dificultad respiratoria; acudir a urgencias.\n3. Ampollas cutáneas o dolor articular intenso: consultar al equipo de salud."
+      "alertas": "1. Dolor abdominal intenso y persistente: acudir de inmediato a urgencias e informar qué medicamento utiliza, especialmente si el dolor se extiende hacia la espalda o se acompaña de náuseas o vómitos; podría ser una señal de pancreatitis.\n2. Alergia grave: hinchazón de cara o lengua o dificultad respiratoria; acudir a urgencias.\n3. Ampollas cutáneas o dolor articular intenso: consultar al equipo de salud."
     },
     "ampliada_qf": {
       "titulo_foco": "Metabolismo e interacciones específicas",
@@ -1445,7 +1445,7 @@
     "estado": "Revisión editorial DPP-4 v40 · verificación farmacoterapéutica final pendiente",
     "descripcion": "Medicamento oral que ayuda a controlar la glucosa en personas con diabetes tipo 2 al prolongar la acción de hormonas intestinales.",
     "seguridad": [
-      "Dolor abdominal intenso y persistente, que puede extenderse hacia la espalda, con o sin náuseas o vómitos: solicitar evaluación médica urgente por posible pancreatitis.",
+      "Si presenta dolor abdominal intenso y persistente, que puede extenderse hacia la espalda y acompañarse de náuseas o vómitos, acuda de inmediato a urgencias e informe qué medicamento utiliza. Estos síntomas podrían indicar pancreatitis y requieren evaluación médica.",
       "El riesgo de hipoglucemia puede aumentar al asociarse con insulina o sulfonilureas.",
       "Ante dificultad respiratoria, hinchazón facial o ampollas cutáneas, solicitar evaluación."
     ],
@@ -1465,8 +1465,8 @@
     "alertas": [
       {
         "nivel": "Evaluación inmediata",
-        "titulo": "Pancreatitis",
-        "detalle": "Dolor abdominal intenso y persistente."
+        "titulo": "Dolor abdominal intenso y persistente",
+        "detalle": "Si presenta dolor abdominal intenso y persistente, que puede extenderse hacia la espalda y acompañarse de náuseas o vómitos, acuda de inmediato a urgencias e informe qué medicamento utiliza. Estos síntomas podrían indicar pancreatitis y requieren evaluación médica."
       },
       {
         "nivel": "Evaluación pronta",
@@ -1498,14 +1498,14 @@
       "primera": {
         "consejo": "Puede tomarse con o sin alimentos. Si también utiliza insulina o sulfonilureas, esté atento a síntomas de hipoglucemia.",
         "pregunta": "¿Es la primera vez que lo utiliza? ¿Sabe cuándo tomarlo y qué hacer si olvida una dosis?",
-        "efectos": "Dolor abdominal intenso y persistente, que puede extenderse hacia la espalda, con o sin náuseas o vómitos: solicitar evaluación médica urgente por posible pancreatitis.",
+        "efectos": "Si presenta dolor abdominal intenso y persistente, que puede extenderse hacia la espalda y acompañarse de náuseas o vómitos, acuda de inmediato a urgencias e informe qué medicamento utiliza. Estos síntomas podrían indicar pancreatitis y requieren evaluación médica.",
         "almacenamiento": "Mantener en su envase original, en lugar seco y protegido de la luz solar directa y fuentes de calor; evitar el baño y otros lugares húmedos. Respetar siempre la temperatura y las condiciones particulares indicadas en el envase y folleto de la presentación dispensada.",
         "accion": "Confirmar medicamento, presentación y pauta. Explicar las recomendaciones principales y consultar al químico farmacéutico si aparece una discrepancia concreta o un síntoma de alarma."
       },
       "habitual": {
         "consejo": "Mantenga la pauta indicada; si olvida una dosis, no duplique la siguiente. Consulte si aparecen molestias importantes o persistentes.",
         "pregunta": "¿Ha podido seguir la pauta indicada? ¿Ha olvidado alguna dosis o notado molestias? ¿Utiliza otros medicamentos para la diabetes?",
-        "efectos": "Dolor abdominal intenso y persistente, que puede extenderse hacia la espalda, con o sin náuseas o vómitos: solicitar evaluación médica urgente por posible pancreatitis.",
+        "efectos": "Si presenta dolor abdominal intenso y persistente, que puede extenderse hacia la espalda y acompañarse de náuseas o vómitos, acuda de inmediato a urgencias e informe qué medicamento utiliza. Estos síntomas podrían indicar pancreatitis y requieren evaluación médica.",
         "almacenamiento": "Mantener en su envase original, en lugar seco y protegido de la luz solar directa y fuentes de calor; evitar el baño y otros lugares húmedos. Respetar siempre la temperatura y las condiciones particulares indicadas en el envase y folleto de la presentación dispensada.",
         "accion": "Reforzar la continuidad del tratamiento y revisar dificultades prácticas. Solicitar apoyo profesional solo ante dudas o hallazgos relevantes."
       }
@@ -1519,7 +1519,7 @@
       {
         "tipo": "Seguridad",
         "titulo": "Cuándo consultar",
-        "texto": "Dolor abdominal intenso y persistente, que puede extenderse hacia la espalda, con o sin náuseas o vómitos: solicitar evaluación médica urgente por posible pancreatitis."
+        "texto": "Ante dolor abdominal intenso y persistente, a veces hacia la espalda o con náuseas o vómitos, acudir de inmediato a urgencias e informar el medicamento utilizado. Podría ser una señal de pancreatitis."
       },
       {
         "tipo": "Seguimiento",
@@ -1536,7 +1536,7 @@
     "guia_meson": {
       "preguntas": "¿Es la primera vez que lo utiliza? ¿Tiene clara la pauta? ¿Ha olvidado tomas o presentado molestias? ¿Utiliza insulina o medicamentos como glimepirida o gliclazida?",
       "explicacion": "Ayuda a controlar la glucosa prolongando la acción de hormonas intestinales. Tome el medicamento según la indicación recibida; no duplique una dosis olvidada.",
-      "alertas": "1. Posible pancreatitis: Dolor abdominal intenso y persistente, que puede extenderse hacia la espalda, con o sin náuseas o vómitos: solicitar evaluación médica urgente por posible pancreatitis.\n2. Alergia grave: hinchazón de cara o lengua o dificultad respiratoria; acudir a urgencias.\n3. Ampollas cutáneas o dolor articular intenso: consultar al equipo de salud."
+      "alertas": "1. Dolor abdominal intenso y persistente: acudir de inmediato a urgencias e informar qué medicamento utiliza, especialmente si el dolor se extiende hacia la espalda o se acompaña de náuseas o vómitos; podría ser una señal de pancreatitis.\n2. Alergia grave: hinchazón de cara o lengua o dificultad respiratoria; acudir a urgencias.\n3. Ampollas cutáneas o dolor articular intenso: consultar al equipo de salud."
     },
     "ampliada_qf": {
       "titulo_foco": "Eliminación predominantemente no renal",
@@ -1555,7 +1555,7 @@
     "estado": "Revisión editorial DPP-4 v40 · verificación farmacoterapéutica final pendiente",
     "descripcion": "Medicamento oral que ayuda a controlar la glucosa en personas con diabetes tipo 2 al prolongar la acción de hormonas intestinales.",
     "seguridad": [
-      "Dolor abdominal intenso y persistente, que puede extenderse hacia la espalda, con o sin náuseas o vómitos: solicitar evaluación médica urgente por posible pancreatitis.",
+      "Si presenta dolor abdominal intenso y persistente, que puede extenderse hacia la espalda y acompañarse de náuseas o vómitos, acuda de inmediato a urgencias e informe qué medicamento utiliza. Estos síntomas podrían indicar pancreatitis y requieren evaluación médica.",
       "Insuficiencia cardíaca: si aparece falta de aire nueva o progresiva, hinchazón de tobillos o aumento rápido de peso, solicitar evaluación médica pronta, sobre todo si ya existe enfermedad cardíaca o renal. Advertencia específica de saxagliptina: no atribuirla automáticamente a todas las gliptinas.",
       "El riesgo de hipoglucemia puede aumentar al asociarse con insulina o sulfonilureas.",
       "Ante dificultad respiratoria, hinchazón facial o ampollas cutáneas, solicitar evaluación."
@@ -1582,8 +1582,8 @@
       },
       {
         "nivel": "Evaluación inmediata",
-        "titulo": "Pancreatitis",
-        "detalle": "Dolor abdominal intenso y persistente."
+        "titulo": "Dolor abdominal intenso y persistente",
+        "detalle": "Si presenta dolor abdominal intenso y persistente, que puede extenderse hacia la espalda y acompañarse de náuseas o vómitos, acuda de inmediato a urgencias e informe qué medicamento utiliza. Estos síntomas podrían indicar pancreatitis y requieren evaluación médica."
       },
       {
         "nivel": "Urgencia",
@@ -1614,6 +1614,10 @@
       {
         "nombre": "ISP de Chile · Resolución Exenta N.º 4740 (2019; publicación 2020): actualización de folletos con saxagliptina e insuficiencia cardíaca",
         "url": "https://www.bcn.cl/leychile/navegar?idNorma=1141258"
+      },
+      {
+        "nombre": "Raz et al. · Pancreatitis adjudicada, SAVOR-TIMI 53, Diabetes Care 2014; DOI: 10.2337/dc13-2546",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24914244/"
       }
     ],
     "revision": "2026-11-03 · homologación estructural ADME iDPP-4; verificación farmacocinética cuantitativa y regulatoria pendiente | Edición de presentación 6.5: 07-11-2026 (sin validación clínica profesional)",
@@ -1622,14 +1626,14 @@
       "primera": {
         "consejo": "Siga la pauta prescrita y confirme si toma saxagliptina sola o combinada con otro principio activo. Consulte si aparecen falta de aire, hinchazón de piernas o aumento rápido de peso.",
         "pregunta": "¿Es la primera vez que lo utiliza? ¿Sabe cuándo tomarlo y qué hacer si olvida una dosis?",
-        "efectos": "Dolor abdominal intenso y persistente, que puede extenderse hacia la espalda, con o sin náuseas o vómitos: solicitar evaluación médica urgente por posible pancreatitis.",
+        "efectos": "Si presenta dolor abdominal intenso y persistente, que puede extenderse hacia la espalda y acompañarse de náuseas o vómitos, acuda de inmediato a urgencias e informe qué medicamento utiliza. Estos síntomas podrían indicar pancreatitis y requieren evaluación médica.",
         "almacenamiento": "Mantener en su envase original, en lugar seco y protegido de la luz solar directa y fuentes de calor; evitar el baño y otros lugares húmedos. Respetar siempre la temperatura y las condiciones particulares indicadas en el envase y folleto de la presentación dispensada.",
         "accion": "Confirmar medicamento, presentación y pauta. Explicar las recomendaciones principales y consultar al químico farmacéutico si aparece una discrepancia concreta o un síntoma de alarma."
       },
       "habitual": {
         "consejo": "Mantenga la pauta indicada; si olvida una dosis, no duplique la siguiente. Consulte si aparecen molestias importantes o persistentes.",
         "pregunta": "¿Ha podido seguir la pauta indicada? ¿Ha olvidado alguna dosis o notado molestias? ¿Utiliza otros medicamentos para la diabetes?",
-        "efectos": "Dolor abdominal intenso y persistente, que puede extenderse hacia la espalda, con o sin náuseas o vómitos: solicitar evaluación médica urgente por posible pancreatitis.",
+        "efectos": "Si presenta dolor abdominal intenso y persistente, que puede extenderse hacia la espalda y acompañarse de náuseas o vómitos, acuda de inmediato a urgencias e informe qué medicamento utiliza. Estos síntomas podrían indicar pancreatitis y requieren evaluación médica.",
         "almacenamiento": "Mantener en su envase original, en lugar seco y protegido de la luz solar directa y fuentes de calor; evitar el baño y otros lugares húmedos. Respetar siempre la temperatura y las condiciones particulares indicadas en el envase y folleto de la presentación dispensada.",
         "accion": "Reforzar la continuidad del tratamiento y revisar dificultades prácticas. Solicitar apoyo profesional solo ante dudas o hallazgos relevantes."
       }
@@ -1643,7 +1647,7 @@
       {
         "tipo": "Seguridad",
         "titulo": "Cuándo consultar",
-        "texto": "Dolor abdominal intenso y persistente, que puede extenderse hacia la espalda, con o sin náuseas o vómitos: solicitar evaluación médica urgente por posible pancreatitis."
+        "texto": "Ante dolor abdominal intenso y persistente, a veces hacia la espalda o con náuseas o vómitos, acudir de inmediato a urgencias e informar el medicamento utilizado. Podría ser una señal de pancreatitis."
       },
       {
         "tipo": "Seguimiento",
@@ -1660,15 +1664,15 @@
     "guia_meson": {
       "preguntas": "¿Es la primera vez que lo utiliza? ¿Tiene clara la pauta? ¿Ha olvidado tomas o presentado molestias? ¿Utiliza insulina o medicamentos como glimepirida o gliclazida?",
       "explicacion": "Ayuda a controlar la glucosa prolongando la acción de hormonas intestinales. Tome el medicamento según la indicación recibida; no duplique una dosis olvidada.",
-      "alertas": "1. Posible pancreatitis: Dolor abdominal intenso y persistente, que puede extenderse hacia la espalda, con o sin náuseas o vómitos: solicitar evaluación médica urgente por posible pancreatitis.\n2. Alergia grave: hinchazón de cara o lengua o dificultad respiratoria; acudir a urgencias.\n3. Ampollas cutáneas o dolor articular intenso: consultar al equipo de salud.\n4. Falta de aire, hinchazón de piernas o aumento rápido de peso: evaluación médica."
+      "alertas": "1. Dolor abdominal intenso y persistente: acudir de inmediato a urgencias e informar qué medicamento utiliza, especialmente si el dolor se extiende hacia la espalda o se acompaña de náuseas o vómitos; podría ser una señal de pancreatitis.\n2. Alergia grave: hinchazón de cara o lengua o dificultad respiratoria; acudir a urgencias.\n3. Ampollas cutáneas o dolor articular intenso: consultar al equipo de salud.\n4. Falta de aire, hinchazón de piernas o aumento rápido de peso: evaluación médica."
     },
     "ampliada_qf": {
       "titulo_foco": "Metabolismo, función renal y seguridad cardiovascular",
       "farmacocinetica_y_seleccion": "Absorción: Se absorbe tras administración oral; comprobar en ficha técnica los parámetros de Tmax y las diferencias por formulación.\nDistribución: Los parámetros de distribución se mantienen pendientes de contraste con monografía del producto.\nMetabolismo: Es metabolizada por CYP3A4/5 a un metabolito farmacológicamente activo; los inhibidores potentes de esta vía pueden aumentar su exposición.\nExcreción y eliminación: Se elimina por vías renal y no renal; la insuficiencia renal puede requerir una pauta diferente. No extrapolar reglas de combinaciones fijas con metformina.",
       "fundamento": "Inhibición de la dipeptidil peptidasa-4 (DPP-4), enzima que degrada las incretinas endógenas GLP-1 y GIP. La mayor disponibilidad de incretinas activas favorece la secreción de insulina dependiente de glucosa y reduce la secreción inapropiada de glucagón. El efecto sobre HbA1c y la elección del fármaco dependen del contexto clínico.",
       "interacciones_especificas": "Los inhibidores potentes de CYP3A4/5, como claritromicina e itraconazol sistémicos, pueden elevar la exposición a saxagliptina. Con insulina o sulfonilureas aumenta el riesgo de hipoglucemia. Cotejar la formulación y la ficha autorizada antes de recomendar cualquier ajuste.",
-      "evidencia_y_limitaciones": "La señal de hospitalización por insuficiencia cardíaca descrita para saxagliptina debe valorarse en la selección y seguimiento, sin asumir que todo paciente que la recibe está incorrectamente tratado. Seguimiento: verificar función renal y tolerancia según molécula; vigilar síntomas compatibles con pancreatitis, hipersensibilidad o penfigoide ampolloso, cuando corresponda. La hipoglucemia adquiere relevancia con insulina o sulfonilureas. Seguridad cardiovascular: SAVOR-TIMI 53 incluyó 16.492 personas con DM2 y enfermedad cardiovascular establecida o factores de riesgo. En el ensayo se observó mayor hospitalización por insuficiencia cardíaca con saxagliptina (3,5 % versus 2,8 % con placebo; HR 1,27, IC 95 % 1,07–1,51). FDA incorpora la advertencia de insuficiencia cardíaca para saxagliptina; requiere evaluación del riesgo individual y no debe extrapolarse a todos los iDPP-4 como efecto idéntico. La Resolución Exenta ISP N.º 4740 (2019, publicada en enero de 2020) exige advertencias en los folletos chilenos y señala que la asociación observada no establece una relación causal; cotejar las contraindicaciones de la presentación autorizada vigente.",
-      "detalle_regulatorio": "La saxagliptina requiere revisión de dosis según función renal y uso de inhibidores potentes de CYP3A4/5. Si se dispensa saxagliptina/metformina XR, aplicar además las restricciones renales de metformina y de la presentación fija. Dosis exacta pendiente de cotejo con folleto ISP. Consideraciones para dispensación: comprobar principio activo, formulación, pauta prescrita y presencia de combinaciones fijas; no modificar dosis desde el mesón. Los valores farmacocinéticos cuantitativos pendientes de contraste no se incorporan.\nCotejo regulatorio pendiente (Chile): la Resolución Exenta ISP N.º 4740 de 2019, publicada el 16-01-2020, exige incluir en los folletos de saxagliptina una contraindicación vinculada a insuficiencia cardíaca o riesgo de desarrollarla. Antes de trasladar ese alcance a una indicación operativa de esta ficha, se requiere cotejar el folleto profesional autorizado y actualizado de la presentación concreta y revisión profesional. No utilizar este borrador para autorizar o prohibir una dispensación. Fuente: https://www.bcn.cl/leychile/navegar?idNorma=1141258"
+      "evidencia_y_limitaciones": "La señal de hospitalización por insuficiencia cardíaca descrita para saxagliptina debe valorarse en la selección y seguimiento, sin asumir que todo paciente que la recibe está incorrectamente tratado. Seguimiento: verificar función renal y tolerancia según molécula; vigilar síntomas compatibles con pancreatitis, hipersensibilidad o penfigoide ampolloso, cuando corresponda. La hipoglucemia adquiere relevancia con insulina o sulfonilureas. Seguridad cardiovascular: SAVOR-TIMI 53 incluyó 16.492 personas con DM2 y enfermedad cardiovascular establecida o factores de riesgo. En el ensayo se observó mayor hospitalización por insuficiencia cardíaca con saxagliptina (3,5 % versus 2,8 % con placebo; HR 1,27, IC 95 % 1,07–1,51). FDA incorpora la advertencia de insuficiencia cardíaca para saxagliptina; requiere evaluación del riesgo individual y no debe extrapolarse a todos los iDPP-4 como efecto idéntico. La Resolución Exenta ISP N.º 4740 (2019, publicada en enero de 2020) exige advertencias en los folletos chilenos y señala que la asociación observada no establece una relación causal; cotejar las contraindicaciones de la presentación autorizada vigente. Pancreatitis adjudicada en SAVOR-TIMI 53 (Raz et al., Diabetes Care 2014): 0,29 % con saxagliptina frente a 0,26 % con placebo (HR 1,13; IC 95 % 0,63–2,06; p = 0,77), sin diferencia estadísticamente significativa. Estos datos no descartan la advertencia ni se extrapolan a otros iDPP-4.",
+      "detalle_regulatorio": "La saxagliptina requiere revisión de dosis según función renal y uso de inhibidores potentes de CYP3A4/5. Si se dispensa saxagliptina/metformina XR, aplicar además las restricciones renales de metformina y de la presentación fija. Dosis exacta pendiente de cotejo con folleto ISP. Consideraciones para dispensación: comprobar principio activo, formulación, pauta prescrita y presencia de combinaciones fijas; no modificar dosis desde el mesón. Los valores farmacocinéticos cuantitativos pendientes de contraste no se incorporan.\nNormativa chilena confirmada: la Resolución Exenta ISP N.º 4740, dictada el 11-12-2019 y publicada el 16-01-2020, exige incorporar en los folletos de saxagliptina la contraindicación para personas con DM2 que presentan insuficiencia cardíaca o riesgo de desarrollarla. Esta disposición debe interpretarse en el contexto de la presentación y sus factores de riesgo, sin convertirla en una regla automática de mesón. Pendiente cotejar el folleto profesional autorizado y actualizado de cada producto y su aplicación profesional individual. La herramienta no autoriza ni prohíbe dispensaciones. Fuente: https://www.bcn.cl/leychile/navegar?idNorma=1141258"
     }
   },
   {
@@ -1679,7 +1683,7 @@
     "estado": "Ficha ampliada · revisión documental y regulatoria pendiente",
     "descripcion": "Semaglutida oral para DM2; instrucciones de absorción estrictas.",
     "seguridad": [
-      "Verificar antecedentes de pancreatitis y síntomas abdominales persistentes.",
+      "Si presenta dolor abdominal intenso y persistente, que puede extenderse hacia la espalda y acompañarse de náuseas o vómitos, acuda de inmediato a urgencias e informe qué medicamento utiliza. Estos síntomas podrían indicar pancreatitis y requieren evaluación médica.",
       "Vigilar deshidratación por efectos gastrointestinales.",
       "Insulina o sulfonilurea concomitante: mayor riesgo de hipoglucemia.",
       "El incumplimiento del ayuno o de los 30 minutos puede reducir la absorción.",
@@ -1703,8 +1707,8 @@
     "alertas": [
       {
         "nivel": "Evaluación inmediata",
-        "titulo": "Sospecha de pancreatitis",
-        "detalle": "Dolor abdominal intenso y persistente, con o sin vómitos: evaluación médica urgente."
+        "titulo": "Dolor abdominal intenso y persistente",
+        "detalle": "Si presenta dolor abdominal intenso y persistente, que puede extenderse hacia la espalda y acompañarse de náuseas o vómitos, acuda de inmediato a urgencias e informe qué medicamento utiliza. Estos síntomas podrían indicar pancreatitis y requieren evaluación médica."
       },
       {
         "nivel": "Evaluación médica",
@@ -1747,9 +1751,9 @@
       "primera": {
         "consejo": "Tomar una vez al día en ayunas, con hasta 120 mL de agua. Tragar el comprimido entero, sin partirlo, triturarlo ni masticarlo. Esperar al menos 30 minutos antes de comer, beber o tomar otros medicamentos. Verificar que la concentración coincida con la receta y no reemplazarla combinando comprimidos por cuenta propia.",
         "pregunta": "¿Es primera dispensación? ¿Reconoce la pauta indicada en su receta y utiliza insulina o sulfonilureas?",
-        "efectos": "Explicar síntomas gastrointestinales y signos de pancreatitis o deshidratación.",
+        "efectos": "Explicar las molestias gastrointestinales y la hidratación. Ante dolor abdominal intenso y persistente, con posible irradiación a la espalda o vómitos, acudir de inmediato a urgencias; podría ser una señal de pancreatitis.",
         "almacenamiento": "Conservar en el blíster original, a temperatura no superior a 30 °C y protegido de la humedad y la luz, según el folleto documentado. Además, evitar fuentes de calor y lugares húmedos; cotejar la presentación dispensada.",
-        "accion": "Confirmar presentación, indicación y dispositivo; enseñar técnica según fabricante."
+        "accion": "Confirmar que la presentación sea Rybelsus en comprimidos y reforzar su administración en ayunas, con hasta 120 mL de agua, esperando al menos 30 minutos antes de comer, beber o tomar otros medicamentos."
       },
       "habitual": {
         "consejo": "Si olvida una dosis, omitirla y tomar la siguiente al día siguiente; no duplicar.",
@@ -1773,7 +1777,7 @@
       {
         "tipo": "Seguridad",
         "titulo": "Alertas de dispensación",
-        "texto": "Verificar antecedentes de pancreatitis y síntomas abdominales persistentes. / Vigilar deshidratación por efectos gastrointestinales. / Insulina o sulfonilurea concomitante: mayor riesgo de hipoglucemia. / El incumplimiento del ayuno o de los 30 minutos puede reducir la absorción. / Precaución ante antecedentes de retinopatía diabética."
+        "texto": "Ante dolor abdominal intenso y persistente, a veces hacia la espalda o con náuseas o vómitos, acudir de inmediato a urgencias e informar el medicamento utilizado. Podría ser una señal de pancreatitis. / Vigilar deshidratación por efectos gastrointestinales. / Insulina o sulfonilurea concomitante: mayor riesgo de hipoglucemia. / El incumplimiento del ayuno o de los 30 minutos puede reducir la absorción. / Precaución ante antecedentes de retinopatía diabética."
       },
       {
         "tipo": "Interacción",
@@ -1818,7 +1822,7 @@
     "guia_meson": {
       "preguntas": "¿Es primera vez que utiliza esta presentación? ¿Le mostraron cómo administrarla? ¿Ha tenido náuseas o vómitos que le dificulten comer o beber? ¿Usa insulina u otro medicamento que pueda bajar la glucosa?",
       "explicacion": "La semaglutida oral requiere tomarse en ayunas con una pequeña cantidad de agua y esperar antes de comer o tomar otros medicamentos. La forma de tomarla es esencial para que funcione.",
-      "alertas": "Dolor abdominal intenso y persistente, especialmente con vómitos, requiere evaluación médica urgente. Vómitos o diarrea que impiden hidratarse requieren consulta. No modificar la dosis por cuenta propia."
+      "alertas": "Ante dolor abdominal intenso y persistente, a veces hacia la espalda o con náuseas o vómitos, acudir de inmediato a urgencias e informar el medicamento utilizado. Podría ser una señal de pancreatitis. Vómitos o diarrea que impiden hidratarse requieren consulta. No modificar la dosis por cuenta propia."
     }
   },
   {
@@ -1829,7 +1833,7 @@
     "estado": "Ficha ampliada · revisión documental y regulatoria pendiente",
     "descripcion": "Agonista GLP-1 de administración subcutánea semanal para DM2; inyector prellenado de una sola dosis. Referencia regulatoria disponible: folleto ISP 2016.",
     "seguridad": [
-      "Verificar antecedentes de pancreatitis y síntomas abdominales persistentes.",
+      "Si presenta dolor abdominal intenso y persistente, que puede extenderse hacia la espalda y acompañarse de náuseas o vómitos, acuda de inmediato a urgencias e informe qué medicamento utiliza. Estos síntomas podrían indicar pancreatitis y requieren evaluación médica.",
       "Vigilar deshidratación por efectos gastrointestinales.",
       "Insulina o sulfonilurea concomitante: mayor riesgo de hipoglucemia.",
       "No extrapolar dosis de formulaciones o dispositivos más recientes a este folleto ISP antiguo."
@@ -1851,8 +1855,8 @@
     "alertas": [
       {
         "nivel": "Evaluación inmediata",
-        "titulo": "Sospecha de pancreatitis",
-        "detalle": "Dolor abdominal intenso y persistente, con o sin vómitos: evaluación médica urgente."
+        "titulo": "Dolor abdominal intenso y persistente",
+        "detalle": "Si presenta dolor abdominal intenso y persistente, que puede extenderse hacia la espalda y acompañarse de náuseas o vómitos, acuda de inmediato a urgencias e informe qué medicamento utiliza. Estos síntomas podrían indicar pancreatitis y requieren evaluación médica."
       },
       {
         "nivel": "Evaluación médica",
@@ -1904,7 +1908,7 @@
       "primera": {
         "consejo": "Administrar por vía subcutánea una vez por semana en abdomen, muslo o brazo, con o sin alimentos, según la pauta prescrita. Confirmar la presentación, el dispositivo y la técnica; no asumir que todas las plumas son intercambiables.",
         "pregunta": "¿Es primera dispensación? ¿Reconoce la pauta indicada en su receta y utiliza insulina o sulfonilureas?",
-        "efectos": "Explicar síntomas gastrointestinales y signos de pancreatitis o deshidratación.",
+        "efectos": "Explicar las molestias gastrointestinales y la hidratación. Ante dolor abdominal intenso y persistente, con posible irradiación a la espalda o vómitos, acudir de inmediato a urgencias; podría ser una señal de pancreatitis.",
         "almacenamiento": "Refrigerar a 2–8 °C, no congelar y proteger de la luz. Según folleto ISP 2016, puede permanecer fuera de refrigeración hasta 14 días a temperatura ≤30 °C, protegido de luz y calor. Dispositivo de un solo uso.",
         "accion": "Confirmar presentación, indicación y dispositivo; enseñar técnica según fabricante."
       },
@@ -1930,7 +1934,7 @@
       {
         "tipo": "Seguridad",
         "titulo": "Alertas de dispensación",
-        "texto": "Verificar antecedentes de pancreatitis y síntomas abdominales persistentes. / Vigilar deshidratación por efectos gastrointestinales. / Insulina o sulfonilurea concomitante: mayor riesgo de hipoglucemia. / No extrapolar dosis de formulaciones o dispositivos más recientes a este folleto ISP antiguo."
+        "texto": "Ante dolor abdominal intenso y persistente, a veces hacia la espalda o con náuseas o vómitos, acudir de inmediato a urgencias e informar el medicamento utilizado. Podría ser una señal de pancreatitis. / Vigilar deshidratación por efectos gastrointestinales. / Insulina o sulfonilurea concomitante: mayor riesgo de hipoglucemia. / No extrapolar dosis de formulaciones o dispositivos más recientes a este folleto ISP antiguo."
       },
       {
         "tipo": "Conservación",
@@ -1977,7 +1981,7 @@
     "guia_meson": {
       "preguntas": "¿Es primera vez que utiliza esta presentación? ¿Le mostraron cómo administrarla? ¿Ha tenido náuseas o vómitos que le dificulten comer o beber? ¿Usa insulina u otro medicamento que pueda bajar la glucosa?",
       "explicacion": "Confirme el día de administración y que conoce la técnica y el dispositivo de su presentación. Las molestias digestivas son frecuentes al inicio; siga la titulación indicada.",
-      "alertas": "Dolor abdominal intenso y persistente, especialmente con vómitos, requiere evaluación médica urgente. Vómitos o diarrea que impiden hidratarse requieren consulta. No modificar la dosis por cuenta propia."
+      "alertas": "Ante dolor abdominal intenso y persistente, a veces hacia la espalda o con náuseas o vómitos, acudir de inmediato a urgencias e informar el medicamento utilizado. Podría ser una señal de pancreatitis. Vómitos o diarrea que impiden hidratarse requieren consulta. No modificar la dosis por cuenta propia."
     }
   },
   {
@@ -1988,7 +1992,7 @@
     "estado": "Ficha ampliada · revisión documental y regulatoria pendiente",
     "descripcion": "Victoza (liraglutida 6 mg/mL, dispositivo prellenado de 3 mL) es un agonista del receptor GLP-1 para control glicémico en DM2. No confundir con Saxenda 3 mg/día, destinado al control del peso. La ficha pública ISP B-2249/22 señala registro vigente con suspensión voluntaria de distribución; verificar disponibilidad.",
     "seguridad": [
-      "Pancreatitis: dolor abdominal intenso persistente, con o sin vómitos; derivación inmediata. Si se confirma pancreatitis, no reiniciar sin evaluación médica.",
+      "Si presenta dolor abdominal intenso y persistente, que puede extenderse hacia la espalda y acompañarse de náuseas o vómitos, acuda de inmediato a urgencias e informe qué medicamento utiliza. Estos síntomas podrían indicar pancreatitis y requieren evaluación médica.",
       "Vómitos/diarrea: riesgo de deshidratación y deterioro renal.",
       "Con insulina o sulfonilureas aumenta el riesgo de hipoglicemia; ajustes únicamente por prescriptor.",
       "No usar para DM1 ni cetoacidosis diabética; no reemplaza insulina.",
@@ -2015,8 +2019,8 @@
     "alertas": [
       {
         "nivel": "Evaluación inmediata",
-        "titulo": "Sospecha de pancreatitis",
-        "detalle": "Dolor abdominal intenso y persistente, con o sin vómitos: evaluación médica urgente."
+        "titulo": "Dolor abdominal intenso y persistente",
+        "detalle": "Si presenta dolor abdominal intenso y persistente, que puede extenderse hacia la espalda y acompañarse de náuseas o vómitos, acuda de inmediato a urgencias e informe qué medicamento utiliza. Estos síntomas podrían indicar pancreatitis y requieren evaluación médica."
       },
       {
         "nivel": "Evaluación médica",
@@ -2056,7 +2060,7 @@
       "primera": {
         "consejo": "Victoza se administra por vía subcutánea una vez al día, a cualquier hora, con o sin comidas, según la receta. Verificar el dispositivo, la dosis prescrita y la técnica. No confundir la pauta ni la presentación con Saxenda, destinada al control de peso.",
         "pregunta": "¿Es primera dispensación de Victoza? ¿Le enseñaron el dispositivo? ¿Utiliza insulina o sulfonilureas?",
-        "efectos": "Explicar síntomas gastrointestinales y signos de pancreatitis o deshidratación.",
+        "efectos": "Explicar las molestias gastrointestinales y la hidratación. Ante dolor abdominal intenso y persistente, con posible irradiación a la espalda o vómitos, acudir de inmediato a urgencias; podría ser una señal de pancreatitis.",
         "almacenamiento": "Antes del uso: refrigerar 2–8 °C, no congelar. Después del primer uso: 1 mes bajo 30 °C o refrigerado 2–8 °C; conservar con tapa, sin aguja puesta (folleto ISP 2017).",
         "accion": "Verificar presentación, dosis prescrita y disponibilidad. Usar aguja nueva en cada aplicación; con cada dispositivo nuevo comprobar flujo. Mantener botón presionado y aguja insertada mientras se cuenta lentamente hasta 6; retirar y desechar aguja."
       },
@@ -2092,7 +2096,7 @@
       {
         "tipo": "Seguridad",
         "titulo": "Signos de alarma",
-        "texto": "Dolor abdominal intenso persistente: sospechar pancreatitis. Vómitos/diarrea persistentes: riesgo de deshidratación. Con insulina o sulfonilurea: vigilar hipoglicemia."
+        "texto": "Ante dolor abdominal intenso y persistente, a veces hacia la espalda o con náuseas o vómitos, acudir de inmediato a urgencias e informar el medicamento utilizado. Podría ser una señal de pancreatitis. Vómitos/diarrea persistentes: riesgo de deshidratación. Con insulina o sulfonilurea: vigilar hipoglicemia."
       },
       {
         "tipo": "Regulación",
@@ -2115,12 +2119,12 @@
       "fundamento": "Análogo de GLP-1 acilado con unión a albúmina y resistencia relativa a degradación, lo que permite administración subcutánea diaria. Sus acciones son glucosa-dependientes sobre insulina y glucagón.",
       "interacciones_especificas": "Insulina o sulfonilureas: riesgo adicional de hipoglucemia. La intolerancia digestiva persistente puede ocasionar deshidratación.",
       "evidencia_y_limitaciones": "LEADER evaluó desenlaces cardiovasculares con liraglutida en personas con DM2 de alto riesgo; no extrapolar su efecto cuantitativo a todos los agonistas GLP-1.\nSeguridad y seguimiento: tolerancia gastrointestinal, hidratación y síntomas de alarma abdominal; riesgo de hipoglucemia con insulina o sulfonilureas. Consideraciones para la dispensación: comprobar pauta diaria y dispositivo Victoza, sin confundir con Saxenda.",
-      "detalle_regulatorio": "Verificar dosis, contraindicaciones, almacenamiento, condiciones de inicio y ajuste con el folleto ISP vigente de la presentación específica; los antecedentes de esta ficha no sustituyen dicha verificación.\nAntecedente documental de la ficha previa (NO pauta de dispensación ni confirmación de vigencia): Victoza: inyectar por vía subcutánea una vez al día, a cualquier hora, con o sin comidas. Dosis inicial 0,6 mg/día; tras al menos una semana 1,2 mg/día; si precisa, tras al menos otra semana 1,8 mg/día. Dosis máxima 1,8 mg/día según folleto ISP aportado. No utilizar pauta Saxenda. Verificar siempre el folleto chileno actualizado de la presentación y la prescripción antes de interpretar dosis o titulación."
+      "detalle_regulatorio": "Verificar dosis, contraindicaciones, almacenamiento, condiciones de inicio y ajuste con el folleto ISP vigente de la presentación específica; los antecedentes de esta ficha no sustituyen dicha verificación. El folleto ISP utilizado como antecedente contempla no reiniciar liraglutida si se confirma una pancreatitis; esta conducta pertenece a la evaluación clínica y debe cotejarse con el folleto vigente.\nAntecedente documental de la ficha previa (NO pauta de dispensación ni confirmación de vigencia): Victoza: inyectar por vía subcutánea una vez al día, a cualquier hora, con o sin comidas. Dosis inicial 0,6 mg/día; tras al menos una semana 1,2 mg/día; si precisa, tras al menos otra semana 1,8 mg/día. Dosis máxima 1,8 mg/día según folleto ISP aportado. No utilizar pauta Saxenda. Verificar siempre el folleto chileno actualizado de la presentación y la prescripción antes de interpretar dosis o titulación."
     },
     "guia_meson": {
       "preguntas": "¿Es primera vez que utiliza esta presentación? ¿Le mostraron cómo administrarla? ¿Ha tenido náuseas o vómitos que le dificulten comer o beber? ¿Usa insulina u otro medicamento que pueda bajar la glucosa?",
       "explicacion": "Confirme el día de administración y que conoce la técnica y el dispositivo de su presentación. Las molestias digestivas son frecuentes al inicio; siga la titulación indicada.",
-      "alertas": "Dolor abdominal intenso y persistente, especialmente con vómitos, requiere evaluación médica urgente. Vómitos o diarrea que impiden hidratarse requieren consulta. No modificar la dosis por cuenta propia."
+      "alertas": "Ante dolor abdominal intenso y persistente, a veces hacia la espalda o con náuseas o vómitos, acudir de inmediato a urgencias e informar el medicamento utilizado. Podría ser una señal de pancreatitis. Vómitos o diarrea que impiden hidratarse requieren consulta. No modificar la dosis por cuenta propia."
     },
     "presentaciones_relacionadas": [
       {
